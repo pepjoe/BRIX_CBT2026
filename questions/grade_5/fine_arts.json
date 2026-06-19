@@ -1,0 +1,272 @@
+[
+  {
+    "question": "What is colour?",
+    "options": [
+      "The sound we hear from objects",
+      "The effect of light on our eyes that helps us see and tell things apart",
+      "The shape of objects around us"
+    ],
+    "answer": "The effect of light on our eyes that helps us see and tell things apart"
+  },
+  {
+    "question": "Without light, what happens to colour?",
+    "options": [
+      "Colours become brighter",
+      "There is no colour - everything looks black",
+      "Only red colour remains"
+    ],
+    "answer": "There is no colour - everything looks black"
+  },
+  {
+    "question": "How many types of colour are listed in your note?",
+    "options": [
+      "3 types - Secondary, Red, Orange",
+      "4 types - Blue, Yellow, Primary",
+      "6 types: Primary, Secondary, Complementary, Tertiary, Harmonious/Analogous, Neutral"
+    ],
+    "answer": "6 types: Primary, Secondary, Complementary, Tertiary, Harmonious/Analogous, Neutral"
+  },
+  {
+    "question": "Primary colours are colours that:",
+    "options": [
+      "Can be made by mixing two other colours",
+      "Cannot be made by mixing other colours",
+      "Are only found at night"
+    ],
+    "answer": "Cannot be made by mixing other colours"
+  },
+  {
+    "question": "Secondary colours are made by:",
+    "options": [
+      "Mixing three primary colours",
+      "Mixing two primary colours in equal amount",
+      "Adding black to any colour"
+    ],
+    "answer": "Mixing two primary colours in equal amount"
+  },
+  {
+    "question": "What do you get when you mix Red + Yellow?",
+    "options": [
+      "Green",
+      "Purple",
+      "Orange"
+    ],
+    "answer": "Orange"
+  },
+  {
+    "question": "Complementary colours are:",
+    "options": [
+      "Three colours that sit next to each other on the colour wheel",
+      "Two colours that are opposite each other on the colour wheel",
+      "Colours made by mixing 1 primary + 1 secondary"
+    ],
+    "answer": "Two colours that are opposite each other on the colour wheel"
+  },
+  {
+    "question": "Tertiary colours are made by mixing:",
+    "options": [
+      "Two primary colours",
+      "One primary colour and one secondary colour next to it",
+      "Two secondary colours"
+    ],
+    "answer": "One primary colour and one secondary colour next to it"
+  },
+  {
+    "question": "Which of these is a tertiary colour?",
+    "options": [
+      "Green",
+      "Magenta",
+      "Yellow"
+    ],
+    "answer": "Magenta"
+  },
+  {
+    "question": "Harmonious/Analogous colours are:",
+    "options": [
+      "Colours that are opposite on the colour wheel",
+      "Three colours that sit next to each other on the colour wheel and match well",
+      "Colours that cannot be mixed"
+    ],
+    "answer": "Three colours that sit next to each other on the colour wheel and match well"
+  },
+  {
+    "question": "Neutral colours are called \"neutral\" because:",
+    "options": [
+      "They are very bright and strong",
+      "They do not appear on the colour wheel and do not show strong feelings",
+      "They can only be used for painting sky"
+    ],
+    "answer": "They do not appear on the colour wheel and do not show strong feelings"
+  },
+  {
+    "question": "Warm colours remind us of:",
+    "options": [
+      "Water, sky, ice, and trees",
+      "Sun, fire and heat",
+      "Forest and leaves only"
+    ],
+    "answer": "Sun, fire and heat"
+  },
+  {
+    "question": "Cool colours are found on which side of the colour wheel?",
+    "options": [
+      "Red-Orange-Yellow side",
+      "Blue-Green side",
+      "Black-White side"
+    ],
+    "answer": "Blue-Green side"
+  },
+  {
+    "question": "Which example is given for Harmonious/Analogous colours?",
+    "options": [
+      "Red, Orange, Yellow",
+      "Blue, Blue-Green, Green",
+      "Black, White, Grey"
+    ],
+    "answer": "Blue, Blue-Green, Green"
+  },
+  {
+    "question": "A tint colour is made by:",
+    "options": [
+      "Adding black to a colour",
+      "Adding white to a colour",
+      "Mixing two primary colours"
+    ],
+    "answer": "Adding white to a colour"
+  },
+  {
+    "question": "A shade colour is made by:",
+    "options": [
+      "Adding white to any colour",
+      "Adding black to any colour",
+      "Adding water to a colour"
+    ],
+    "answer": "Adding black to any colour"
+  },
+  {
+    "question": "Which use of colour helps us know Nigeria is Nigeria?",
+    "options": [
+      "Decoration",
+      "Identification",
+      "Mood"
+    ],
+    "answer": "Identification"
+  },
+  {
+    "question": "In traffic lights, Red colour means:",
+    "options": [
+      "Go",
+      "Ready/Wait",
+      "Stop"
+    ],
+    "answer": "Stop"
+  },
+  {
+    "question": "Red colour is used for?",
+    "options": [
+      "We use it to decorate clothes and houses",
+      "Red is used for danger/love and Blue for calm",
+      "We use it to show water"
+    ],
+    "answer": "Red is used for danger/love and Blue for calm"
+  },
+  {
+    "question": "A pattern is:",
+    "options": [
+      "One single drawing that is never repeated",
+      "A repeated design, shape, colour, or line",
+      "A type of Nigerian food"
+    ],
+    "answer": "A repeated design, shape, colour, or line"
+  },
+  {
+    "question": "A motif is:",
+    "options": [
+      "A single shape or design used in art",
+      "The name of a Nigerian tribe",
+      "A tool for painting"
+    ],
+    "answer": "A single shape or design used in art"
+  },
+  {
+    "question": "Which of these is an example of a pattern?",
+    "options": [
+      "One big circle drawn on paper",
+      "Stripes on a school shirt that repeat",
+      "A single leaf drawn once"
+    ],
+    "answer": "Stripes on a school shirt that repeat"
+  },
+  {
+    "question": "One source of Nigerian motifs is:",
+    "options": [
+      "Mathematics textbook",
+      "Nature like leaves, animals, and rivers",
+      "Mobile phone games"
+    ],
+    "answer": "Nature like leaves, animals, and rivers"
+  },
+  {
+    "question": "Nsibidi and Uli symbols are motifs from:",
+    "options": [
+      "People & Culture/Symbols",
+      "Objects/Things",
+      "Weather"
+    ],
+    "answer": "People & Culture/Symbols"
+  },
+  {
+    "question": "Geometric motifs are made with:",
+    "options": [
+      "Only animal shapes",
+      "Shapes like circle, square, triangle, zigzag",
+      "Only colours"
+    ],
+    "answer": "Shapes like circle, square, triangle, zigzag"
+  },
+  {
+    "question": "A simple natural motif is:",
+    "options": [
+      "A square",
+      "A leaf or fish drawn in simple form",
+      "The number 7"
+    ],
+    "answer": "A leaf or fish drawn in simple form"
+  },
+  {
+    "question": "When motifs are repeated again and again, they form a:",
+    "options": [
+      "Motif",
+      "Pattern",
+      "Line"
+    ],
+    "answer": "Pattern"
+  },
+  {
+    "question": "Which of these can we find motifs on at home?",
+    "options": [
+      "Plate designs and mat weaving",
+      "Only on TV",
+      "In the sky only"
+    ],
+    "answer": "Plate designs and mat weaving"
+  },
+  {
+    "question": "A symbolic motif with meaning is:",
+    "options": [
+      "Zigzag line",
+      "Star, heart, or arrow",
+      "Straight line only"
+    ],
+    "answer": "Star, heart, or arrow"
+  },
+  {
+    "question": "The act of creating skillful things with our hands is:",
+    "options": [
+      "Sweeping",
+      "Craft",
+      "Moulding"
+    ],
+    "answer": "Craft"
+  }
+]

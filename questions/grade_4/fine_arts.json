@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Printing in art is:",
+    "options": [
+      "The process of drawing with pencil",
+      "The process of making impression on a surface",
+      "The process of cutting paper"
+    ],
+    "answer": "The process of making impression on a surface"
+  },
+  {
+    "question": "Which of these can be used as surfaces for printing?",
+    "options": [
+      "Paper, fabric, wall, glass, wood and plastic",
+      "Only air and water",
+      "Only stone"
+    ],
+    "answer": "Paper, fabric, wall, glass, wood and plastic"
+  },
+  {
+    "question": "Thumb print is made by:",
+    "options": [
+      "Using the elbow to make impression",
+      "Using the thumb to make impression on a surface",
+      "Using a brush to paint"
+    ],
+    "answer": "Using the thumb to make impression on a surface"
+  },
+  {
+    "question": "The shape of the thumb will appear on:",
+    "options": [
+      "The white paper or cardboard after printing",
+      "The ink pad on the ground",
+      "Nowhere"
+    ],
+    "answer": "The white paper or cardboard after printing"
+  },
+  {
+    "question": "Leaf print is the process of:",
+    "options": [
+      "Eating leaves",
+      "Using leaves to make impression or mark on paper/cardboard",
+      "Drawing leaves with pencil"
+    ],
+    "answer": "Using leaves to make impression or mark on paper/cardboard"
+  },
+  {
+    "question": "Printing is used for designing:",
+    "options": [
+      "Only numbers",
+      "Pictures and words on art work",
+      "Only music"
+    ],
+    "answer": "Pictures and words on art work"
+  },
+  {
+    "question": "One material needed for thumb and leaf print is:",
+    "options": [
+      "Stone",
+      "Poster colour",
+      "Plastic spoon"
+    ],
+    "answer": "Poster colour"
+  },
+  {
+    "question": "Which of these is NOT a material for thumb/leaf print?",
+    "options": [
+      "Cardboard paper",
+      "Leaf",
+      "Broom"
+    ],
+    "answer": "Broom"
+  },
+  {
+    "question": "The best type of leaves to use for printing are:",
+    "options": [
+      "Dry, old leaves with no veins",
+      "Fresh leaves with good veins",
+      "Burnt leaves"
+    ],
+    "answer": "Fresh leaves with good veins"
+  },
+  {
+    "question": "Leaves used for printing should have:",
+    "options": [
+      "No texture at all",
+      "Good texture",
+      "Only thorns"
+    ],
+    "answer": "Good texture"
+  },
+  {
+    "question": "What should you do last after leaf printing?",
+    "options": [
+      "Colour the leaf with brush",
+      "Flip the leaf on paper",
+      "Remove the leaf and allow the paint work to dry"
+    ],
+    "answer": "Remove the leaf and allow the paint work to dry"
+  },
+  {
+    "question": "Drawing involves using:",
+    "options": [
+      "Water and sponge",
+      "Creating objects using pencil",
+      "Only colours without lines"
+    ],
+    "answer": "Creating objects using pencil"
+  },
+  {
+    "question": "Drawing is done on surfaces such as:",
+    "options": [
+      "Paper, board, wall",
+      "Air and sky only",
+      "Water"
+    ],
+    "answer": "Paper, board, wall"
+  },
+  {
+    "question": "Still life drawing involves drawing of:",
+    "options": [
+      "Plants and flowers",
+      "Man-made objects like chairs, tables, jugs",
+      "Animals in the forest"
+    ],
+    "answer": "Man-made objects like chairs, tables, jugs"
+  },
+  {
+    "question": "Which of these is an example of still life drawing?",
+    "options": [
+      "A flower",
+      "A cup",
+      "A butterfly"
+    ],
+    "answer": "A cup"
+  },
+  {
+    "question": "Nature drawing involves drawing of:",
+    "options": [
+      "Household materials",
+      "Natural objects such as plants, insects, flowers",
+      "Cars and phones"
+    ],
+    "answer": "Natural objects such as plants, insects, flowers"
+  },
+  {
+    "question": "A jug and a spoon are examples of:",
+    "options": [
+      "Nature drawing objects",
+      "Still life drawing objects",
+      "Printing materials"
+    ],
+    "answer": "Still life drawing objects"
+  },
+  {
+    "question": "Landscape drawing involves drawing things around our:",
+    "options": [
+      "House only",
+      "Surroundings such as forests, mountains, oceans, villages",
+      "Classroom"
+    ],
+    "answer": "Surroundings such as forests, mountains, oceans, villages"
+  },
+  {
+    "question": "Which of these is an example of landscape drawing?",
+    "options": [
+      "A cup",
+      "Mountains",
+      "A spoon"
+    ],
+    "answer": "Mountains"
+  },
+  {
+    "question": "Landscape drawing includes:",
+    "options": [
+      "Drawing of man-made objects like chairs",
+      "Drawing of forests, oceans, villages etc",
+      "Drawing of only flowers"
+    ],
+    "answer": "Drawing of forests, oceans, villages etc"
+  },
+  {
+    "question": "A pencil is used to:",
+    "options": [
+      "Cut paper",
+      "Make lines, draw and shading",
+      "Mix paint"
+    ],
+    "answer": "Make lines, draw and shading"
+  },
+  {
+    "question": "What can be used in place of a pencil for drawing?",
+    "options": [
+      "Charcoal",
+      "Stone",
+      "Water"
+    ],
+    "answer": "Charcoal"
+  },
+  {
+    "question": "Charcoal can be used to draw or write on:",
+    "options": [
+      "On water",
+      "Any hard material",
+      "Air"
+    ],
+    "answer": "Any hard material"
+  },
+  {
+    "question": "Colour is used for:",
+    "options": [
+      "Tying thread",
+      "Applying colour in painting, decorating, and designs",
+      "Making glue"
+    ],
+    "answer": "Applying colour in painting, decorating, and designs"
+  },
+  {
+    "question": "Colours can be extracted from:",
+    "options": [
+      "Leaves and roots of plants",
+      "Only plastic bottles",
+      "Metal"
+    ],
+    "answer": "Leaves and roots of plants"
+  },
+  {
+    "question": "Besides leaves and roots, colours can also be extracted from:",
+    "options": [
+      "Flowers and clay soil",
+      "Water only",
+      "Rubber"
+    ],
+    "answer": "Flowers and clay soil"
+  },
+  {
+    "question": "A palette is a material where:",
+    "options": [
+      "We cut paper",
+      "Paints are mixed for painting",
+      "We store books"
+    ],
+    "answer": "Paints are mixed for painting"
+  },
+  {
+    "question": "Crayon is an example of:",
+    "options": [
+      "Colour",
+      "Adhesive",
+      "Thread"
+    ],
+    "answer": "Colour"
+  },
+  {
+    "question": "A pencil is used to:",
+    "options": [
+      "Cut paper",
+      "Make lines, draw and shading",
+      "Mix paint"
+    ],
+    "answer": "Make lines, draw and shading"
+  },
+  {
+    "question": "Charcoal can be used to draw or write on:",
+    "options": [
+      "Only water",
+      "Any hard material",
+      "Air"
+    ],
+    "answer": "Any hard material"
+  }
+]

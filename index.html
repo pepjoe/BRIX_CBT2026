@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Brixtonn Schools CBT</title>
+        <link rel="stylesheet" href="assets/style.css">
+    </head>
+    <body>
+        <header>
+            <h1>BRIXTONN SCHOOLS CBT</h1>
+            <p>Excellence Through Creativity</p>
+            <p>Unit 13, F-Line, Ewet Housing Estate, Uyo</p>
+        </header>
+        <div class="wrap">
+            <div id="candidate" class="card">
+                <h2>Candidate Information</h2>
+                <input id="name" placeholder="Student Name">
+                <input id="reg" placeholder="Registration Number">
+                <select id="class">
+                    <option value="">Select Year</option>
+                </select>
+                <div class="continue-wrap">
+                    <button onclick="continueExam()">Continue</button>
+                </div>
+            </div>
+            <div id="subjects" class="card hidden"></div>
+            <div id="instructions" class="card hidden">
+                <h3>Instructions</h3>
+                <ul>
+                    <li>Read all questions carefully.</li>
+                    <li>Select one answer per question.</li>
+                    <li>Exam auto-submits when time expires.</li>
+                </ul>
+                <button onclick="startExam()">Start Exam</button>
+            </div>
+            <div id="exam" class="card hidden">
+                <div>Time Left: <span id="timer">60:00</span></div>
+                <div id="navigator"></div>
+                <div id="questionArea"></div>
+            </div>
+        </div>
+        <footer>
+            <img src="assets/brixtonn_logo.png" height="40">  
+            <span><b><img src="assets/brixtonn_logo.png" height="40"></b></span>  
+            <span><b><img src="assets/brixtonn_logo.png" height="40"></b></span>
+            <p>© 2026 Brixtonn Schools CBT System. All Rights Reserved.</p>
+        </footer>
+        <script src="assets/app.js"></script>
+    </body>
+    </html>

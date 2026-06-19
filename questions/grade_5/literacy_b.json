@@ -1,0 +1,132 @@
+[
+    {
+        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
+        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
+        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\nWhy is her window wide, mother,\nThe curtain flapping free,\nAnd only a circle on the dusty shelf\nWhere her money-box used to be?\nWhy do you turn your head, mother,\nAnd why do the tear-drops fall?\nAnd why do you crumple that note on the fire\nAnd say it is nothing at all?\nI woke to voices late last night,\nI heard an engine roar,\nWhy do you tell me the things I heard\nWere a dream and nothing more?\nI heard somebody cry, mother,\nIn anger or in pain,\nBut now I ask you why, mother,\nYou say it was a gust of rain.\n \nWhy do you wander about as though\nYou don’t know what to do?\nWhat has happened to Lulu, mother?\nWhat has happened to Lu?",
+        "question": "What has Lulu left behind?",
+        "options": [
+            "an old rag-doll",
+            "a sheet",
+            "a pair of red shoe",
+            "a toy"
+        ],
+        "answer": "an old rag-doll"
+    },
+    {
+        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
+        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
+        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\n...",
+        "question": "How do you think Lulu got out of the house?",
+        "options": [
+            "through the door",
+            "through the stairs",
+            "through the window",
+            "by using an elevator"
+        ],
+        "answer": "through the window"
+    },
+    {
+        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
+        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
+        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n...",
+        "question": "What did Lulu take with her?",
+        "options": [
+            "her doll",
+            "her clothes",
+            "her toys",
+            "her money box"
+        ],
+        "answer": "her money box"
+    },
+    {
+        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
+        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
+        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n...",
+        "question": "How can you tell Lulu’s mother is sad that Lulu has gone?",
+        "options": [
+            "Lulu's mother was crying",
+            "Lulu's mother rejoiced that Lulu left",
+            "Lulu's mother was miserable",
+            "Lulu's mother was singing a lullaby"
+        ],
+        "answer": "Lulu's mother was crying"
+    },
+    {
+        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
+        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
+        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n...",
+        "question": "List two sounds the child heard in the night.",
+        "options": [
+            "The child heard the sounds of car engine and cry",
+            "Dog's bark and the mother's cry",
+            "Sound of the car engine and the dog's bark",
+            "Dog's bark and the owl's hooting"
+        ],
+        "answer": "The child heard the sounds of car engine and cry"
+    },
+    {
+        "instruction": "Read Passage II and answer the question.",
+        "passageTitle": "PASSAGE II: Snow in the Suburbs",
+        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
+        "question": "What nearly brings disaster to the sparrow?",
+        "options": [
+            "The wide-eyed cat",
+            "A mass of snow",
+            "A volley from a gun",
+            "None of these"
+        ],
+        "answer": "A mass of snow"
+    },
+    {
+        "instruction": "Read Passage II and answer the question.",
+        "passageTitle": "PASSAGE II: Snow in the Suburbs",
+        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
+        "question": "What do we know about the cat?",
+        "options": [
+            "It is homeless",
+            "It hunts for sparrows",
+            "It is black and thin",
+            "None of these"
+        ],
+        "answer": "It is black and thin"
+    },
+    {
+        "instruction": "Read Passage II and answer the question.",
+        "passageTitle": "PASSAGE II: Snow in the Suburbs",
+        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
+        "question": "Which word is closest in meaning to silent?",
+        "options": [
+            "mute",
+            "descend",
+            "snow-lump",
+            "twig"
+        ],
+        "answer": "mute"
+    },
+    {
+        "instruction": "Read Passage II and answer the question.",
+        "passageTitle": "PASSAGE II: Snow in the Suburbs",
+        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
+        "question": "Which word is closest in meaning to wandering?",
+        "options": [
+            "overturn",
+            "pavement",
+            "meandering",
+            "branch"
+        ],
+        "answer": "meandering"
+    },
+    {
+        "instruction": "Read Passage II and answer the question.",
+        "passageTitle": "PASSAGE II: Snow in the Suburbs",
+        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
+        "question": "How would you best describe the snowfall?",
+        "options": [
+            "light snow/strong wind",
+            "heavy snow/light wind",
+            "heavy snow/no wind",
+            "light snow/no wind"
+        ],
+        "answer": "heavy snow/no wind"
+    }
+]

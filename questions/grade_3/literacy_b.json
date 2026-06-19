@@ -1,0 +1,668 @@
+{
+  "part_a_comprehension": {
+    "passage_title": "Sophie Meets the BFG",
+    "passage": "The Giant picked up the trembling Sophie with one hand and carried her across the cave and put her on the table. \n    Now he really is going to eat me, Sophie thought. \n    \n    The Giant sat down and stared hard at Sophie. He had truly enormous ears. Each one was as big as the wheel of a truck and he seemed to be able to move them onwards and outwards from his head as he wished.\n    \n    I.. is hungry! the Giant boomed. He grinned, showing massive square teeth. The teeth were very white and square and they sat in his mouth like huge slices of white bread.\n    P.. Please don't eat me, Sophie stammered. The Giant let out a bellow of laughter.\n    \n    Just because I is a Giant, you think I is a man-gobbling cannybull! He shouted. You is about right! Giants is all cannybully and murderful! And they does eat up human beans! We is in Giant Country now! Giants is everywhere around! Out there us has the famous Bonecrunching Giant! Bonecrunching Giant crunches up two wopsey whiffling human beans for supper every night! Noise is earbursting! Noise of crunching bones goes crackety-crack for miles around! \n    Ouch! said Sophie.",
+    "questions": [
+      {
+        "question": "What did the Giant do with Sophie when he picked her up?",
+        "options": [
+          "He threw her outside",
+          "He carried her across the cave and put her on the table",
+          "He hid her under a bed",
+          "He put her in a box"
+        ],
+        "answer": "He carried her across the cave and put her on the table"
+      },
+      {
+        "question": "What part of the Giant's body was described as being as big as the wheel of a truck?",
+        "options": [
+          "His eyes",
+          "His nose",
+          "His ears",
+          "His hands"
+        ],
+        "answer": "His ears"
+      },
+      {
+        "question": "Why did Sophie beg the Giant not to eat her?",
+        "options": [
+          "She wanted to go home",
+          "She was afraid he would eat her",
+          "She was tired",
+          "She was hungry"
+        ],
+        "answer": "She was afraid he would eat her"
+      },
+      {
+        "question": "What did the Giant say Sophie thought he was?",
+        "options": [
+          "A friendly giant",
+          "A teacher",
+          "A man-gobbling cannybull",
+          "A farmer"
+        ],
+        "answer": "A man-gobbling cannybull"
+      },
+      {
+        "question": "According to the Giant, what does the Bonecrunching Giant eat for supper every night?",
+        "options": [
+          "Two wopsey whiffling human beans",
+          "Two giant fish",
+          "Three rabbits",
+          "A large loaf of bread"
+        ],
+        "answer": "Two wopsey whiffling human beans"
+      }
+    ]
+  },
+  "part_b_synonyms": [
+    {
+      "question": "Give one synonym of lodge.",
+      "options": [
+        "hotel",
+        "run",
+        "jump",
+        "laugh"
+      ],
+      "answer": "hotel"
+    },
+    {
+      "question": "Give one synonym of summit.",
+      "options": [
+        "peak",
+        "valley",
+        "plain",
+        "river"
+      ],
+      "answer": "peak"
+    },
+    {
+      "question": "Give one synonym of cautious.",
+      "options": [
+        "careful",
+        "careless",
+        "rude",
+        "quick"
+      ],
+      "answer": "careful"
+    },
+    {
+      "question": "Give one synonym of ear-splitting.",
+      "options": [
+        "silent",
+        "noisy",
+        "calm",
+        "soft"
+      ],
+      "answer": "noisy"
+    },
+    {
+      "question": "Give one synonym of heart-stopping.",
+      "options": [
+        "boring",
+        "terrifying",
+        "simple",
+        "slow"
+      ],
+      "answer": "terrifying"
+    },
+    {
+      "question": "Give one synonym of twitch.",
+      "options": [
+        "jerk",
+        "sleep",
+        "walk",
+        "sit"
+      ],
+      "answer": "jerk"
+    },
+    {
+      "question": "Give one synonym of interrupt.",
+      "options": [
+        "continue",
+        "disturb",
+        "complete",
+        "finish"
+      ],
+      "answer": "disturb"
+    },
+    {
+      "question": "Give one synonym of concave.",
+      "options": [
+        "inward-curving",
+        "outward-curving",
+        "flat",
+        "smooth"
+      ],
+      "answer": "inward-curving"
+    },
+    {
+      "question": "Give one synonym of winding.",
+      "options": [
+        "twisting",
+        "straight",
+        "level",
+        "short"
+      ],
+      "answer": "twisting"
+    },
+    {
+      "question": "Give one synonym of bloodshot.",
+      "options": [
+        "red-eyed",
+        "bright-eyed",
+        "clear-eyed",
+        "dark-eyed"
+      ],
+      "answer": "red-eyed"
+    }
+  ],
+  "part_c_pick_correct_option": [
+    {
+      "question": "Concave means ______.",
+      "options": [
+        "outward-curving",
+        "curving inward",
+        "bulging",
+        "convex"
+      ],
+      "answer": "curving inward"
+    },
+    {
+      "question": "Winding means ______.",
+      "options": [
+        "having many turns",
+        "having few turns",
+        "straight",
+        "direct"
+      ],
+      "answer": "having many turns"
+    },
+    {
+      "question": "Bloodshot means ______.",
+      "options": [
+        "grey eyes",
+        "eyes that are red",
+        "bright-eyed",
+        "normal"
+      ],
+      "answer": "eyes that are red"
+    },
+    {
+      "question": "Flippant means ______.",
+      "options": [
+        "not showing respect",
+        "respectful",
+        "thoughtful",
+        "kind"
+      ],
+      "answer": "not showing respect"
+    },
+    {
+      "question": "To support means to ______ someone.",
+      "options": [
+        "help",
+        "move against",
+        "hinder",
+        "oppose"
+      ],
+      "answer": "help"
+    },
+    {
+      "question": "The police obtained a ______ to search the house.",
+      "options": [
+        "warrant",
+        "ban",
+        "lie",
+        "prohibition"
+      ],
+      "answer": "warrant"
+    },
+    {
+      "question": "The mirror has a ______ surface.",
+      "options": [
+        "flippant",
+        "concave",
+        "leafy",
+        "shaky"
+      ],
+      "answer": "concave"
+    },
+    {
+      "question": "She worked hard to ______ success.",
+      "options": [
+        "lose",
+        "attain",
+        "fight",
+        "miss"
+      ],
+      "answer": "attain"
+    },
+    {
+      "question": "The river's water was ______.",
+      "options": [
+        "haunted",
+        "murky",
+        "straight",
+        "bloodshot"
+      ],
+      "answer": "murky"
+    },
+    {
+      "question": "The horse began to ______ along the path.",
+      "options": [
+        "trot",
+        "swirl",
+        "fly",
+        "crawl"
+      ],
+      "answer": "trot"
+    }
+  ],
+  "part_d_antonyms": [
+    {
+      "question": "Give one antonym of flippant.",
+      "options": [
+        "serious",
+        "rude",
+        "careless",
+        "funny"
+      ],
+      "answer": "serious"
+    },
+    {
+      "question": "Give one antonym of assist.",
+      "options": [
+        "help",
+        "support",
+        "hinder",
+        "guide"
+      ],
+      "answer": "hinder"
+    },
+    {
+      "question": "Give one antonym of attain.",
+      "options": [
+        "achieve",
+        "gain",
+        "reach",
+        "lose"
+      ],
+      "answer": "lose"
+    },
+    {
+      "question": "Give one antonym of haunt.",
+      "options": [
+        "visit",
+        "leave",
+        "frighten",
+        "follow"
+      ],
+      "answer": "leave"
+    },
+    {
+      "question": "Give one antonym of trot.",
+      "options": [
+        "run",
+        "walk",
+        "race",
+        "jump"
+      ],
+      "answer": "walk"
+    },
+    {
+      "question": "Give one antonym of murky.",
+      "options": [
+        "dirty",
+        "dark",
+        "clear",
+        "cloudy"
+      ],
+      "answer": "clear"
+    },
+    {
+      "question": "Give one antonym of gingerly.",
+      "options": [
+        "carefully",
+        "boldly",
+        "slowly",
+        "quietly"
+      ],
+      "answer": "boldly"
+    },
+    {
+      "question": "Give one antonym of encrusted.",
+      "options": [
+        "covered",
+        "coated",
+        "bare",
+        "hard"
+      ],
+      "answer": "bare"
+    },
+    {
+      "question": "Give one antonym of swirl.",
+      "options": [
+        "spin",
+        "circle",
+        "straighten",
+        "turn"
+      ],
+      "answer": "straighten"
+    },
+    {
+      "question": "Give one antonym of heave.",
+      "options": [
+        "lift",
+        "raise",
+        "throw",
+        "lower"
+      ],
+      "answer": "lower"
+    }
+  ],
+  "part_e_word_meanings": [
+    {
+      "question": "To help someone. ______",
+      "options": [
+        "assist",
+        "attain",
+        "murky",
+        "parsley"
+      ],
+      "answer": "assist"
+    },
+    {
+      "question": "To achieve something. ______",
+      "options": [
+        "swirl",
+        "attain",
+        "heave",
+        "gobble"
+      ],
+      "answer": "attain"
+    },
+    {
+      "question": "Dark and unclear. ______",
+      "options": [
+        "flippant",
+        "trot",
+        "murky",
+        "assist"
+      ],
+      "answer": "murky"
+    },
+    {
+      "question": "Not showing seriousness. ______",
+      "options": [
+        "parsley",
+        "attain",
+        "flippant",
+        "heave"
+      ],
+      "answer": "flippant"
+    },
+    {
+      "question": "To move quickly. ______",
+      "options": [
+        "trot",
+        "swirl",
+        "gobble",
+        "assist"
+      ],
+      "answer": "trot"
+    },
+    {
+      "question": "To eat very fast. ______",
+      "options": [
+        "attain",
+        "gobble",
+        "parsley",
+        "murky"
+      ],
+      "answer": "gobble"
+    },
+    {
+      "question": "To move in a circular motion. ______",
+      "options": [
+        "heave",
+        "attain",
+        "swirl",
+        "assist"
+      ],
+      "answer": "swirl"
+    },
+    {
+      "question": "A green herb. ______",
+      "options": [
+        "parsley",
+        "trot",
+        "gobble",
+        "flippant"
+      ],
+      "answer": "parsley"
+    },
+    {
+      "question": "Covered in a hard layer. ______",
+      "options": [
+        "murky",
+        "attain",
+        "encrusted",
+        "swirl"
+      ],
+      "answer": "encrusted"
+    },
+    {
+      "question": "To rise and fall strongly. ______",
+      "options": [
+        "heave",
+        "assist",
+        "parsley",
+        "trot"
+      ],
+      "answer": "heave"
+    }
+  ],
+  "part_f_grammar": [
+    {
+      "question": "In the sentence 'Make sure the pasta is boiling before you add the water.', which two words should change places?",
+      "options": [
+        "pasta and water",
+        "boiling and add",
+        "before and you",
+        "make and sure"
+      ],
+      "answer": "pasta and water"
+    },
+    {
+      "question": "In the sentence 'The police closed off the parade for the street.', which two words should change places?",
+      "options": [
+        "closed and off",
+        "parade and street",
+        "for and the",
+        "police and parade"
+      ],
+      "answer": "parade and street"
+    },
+    {
+      "question": "In the sentence 'He did homework his.', which two words should change places?",
+      "options": [
+        "did and homework",
+        "homework and his",
+        "he and did",
+        "he and his"
+      ],
+      "answer": "homework and his"
+    },
+    {
+      "question": "In the sentence 'Keep your clean room.', which two words should change places?",
+      "options": [
+        "keep and your",
+        "your and clean",
+        "clean and room",
+        "keep and room"
+      ],
+      "answer": "your and clean"
+    },
+    {
+      "question": "In the sentence 'Nick wore different two shoes.', which two words should change places?",
+      "options": [
+        "different and two",
+        "nick and wore",
+        "two and shoes",
+        "wore and shoes"
+      ],
+      "answer": "different and two"
+    },
+    {
+      "question": "B and N are tall. K and Q are short. N and K are fair. B and Q are dark. Who is tall and dark?",
+      "options": [
+        "B",
+        "N",
+        "K",
+        "Q"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "B and N are tall. K and Q are short. N and K are fair. B and Q are dark. Who is short and fair?",
+      "options": [
+        "B",
+        "N",
+        "K",
+        "Q"
+      ],
+      "answer": "K"
+    },
+    {
+      "question": "B and N are tall. K and Q are short. N and K are fair. B and Q are dark. Who is tall and fair?",
+      "options": [
+        "B",
+        "N",
+        "K",
+        "Q"
+      ],
+      "answer": "N"
+    },
+    {
+      "question": "B and N are tall. K and Q are short. N and K are fair. B and Q are dark. Who is short and dark?",
+      "options": [
+        "B",
+        "N",
+        "K",
+        "Q"
+      ],
+      "answer": "Q"
+    },
+    {
+      "question": "The code for READS is 4 6 5 3 2. What is the code for ADD?",
+      "options": [
+        "566",
+        "655",
+        "665",
+        "556"
+      ],
+      "answer": "655"
+    },
+    {
+      "question": "The code for READS is 4 6 5 3 2. What is the code for SAD?",
+      "options": [
+        "256",
+        "266",
+        "265",
+        "652"
+      ],
+      "answer": "256"
+    },
+    {
+      "question": "The code for READS is 4 6 5 3 2. What is the code for SEA?",
+      "options": [
+        "264",
+        "246",
+        "624",
+        "426"
+      ],
+      "answer": "264"
+    },
+    {
+      "question": "The code for READS is 4 6 5 3 2. What is the code for DEAR?",
+      "options": [
+        "6546",
+        "3654",
+        "3465",
+        "6345"
+      ],
+      "answer": "3654"
+    },
+    {
+      "question": "The code for READS is 4 6 5 3 2. What is the code for DARES?",
+      "options": [
+        "65432",
+        "36542",
+        "63542",
+        "36452"
+      ],
+      "answer": "36542"
+    },
+    {
+      "question": "Rearrange TAC to make a meaningful word.",
+      "options": [
+        "CAT",
+        "ACT",
+        "TAC",
+        "CTA"
+      ],
+      "answer": "CAT"
+    },
+    {
+      "question": "Rearrange SHIF to make a meaningful word.",
+      "options": [
+        "FISH",
+        "HISS",
+        "SHIFT",
+        "FIST"
+      ],
+      "answer": "FISH"
+    },
+    {
+      "question": "Rearrange ODG to make a meaningful word.",
+      "options": [
+        "DOG",
+        "GOD",
+        "GOOD",
+        "DO"
+      ],
+      "answer": "DOG"
+    },
+    {
+      "question": "Rearrange TEAM to make a meaningful word.",
+      "options": [
+        "MEAT",
+        "TEAM",
+        "MATE",
+        "TAME"
+      ],
+      "answer": "MEAT"
+    },
+    {
+      "question": "Rearrange SKBRA to make a meaningful word.",
+      "options": [
+        "BARKS",
+        "BRAKS",
+        "BRAKE",
+        "BASKR"
+      ],
+      "answer": "BARKS"
+    },
+    {
+      "question": "Which word comes fourth alphabetically? Cow, car, bee, boar, apple.",
+      "options": [
+        "bee",
+        "boar",
+        "car",
+        "cow"
+      ],
+      "answer": "car"
+    }
+  ]
+}
