@@ -55,7 +55,8 @@ async function startExam(){
      }else if(questions[k] && Array.isArray(questions[k].questions)){
        const section=questions[k];
        section.questions.forEach((q,idx)=>{
-         if(idx===0 && section.passage){
+         if(section.passage){
+           q.instruction = section.instruction || q.instruction || "";
            q.passageTitle=section.passage_title||"";
            q.passage=section.passage;
          }
@@ -82,11 +83,12 @@ function renderQuestion(){
  renderNavigator();
  const q=questions[index];
  let html='';
- if(q.passage){
-   html += `<div style="border:1px solid #ccc;padding:10px;margin-bottom:15px;">
-   <h3>${q.passageTitle||'Comprehension Passage'}</h3>
-   <p style="white-space:pre-wrap;">${q.passage}</p>
-   </div>`;
+ if(q.instruction || q.passage){
+   html += `<div style="border:1px solid #ccc;padding:10px;margin-bottom:15px;background:#f9f9f9;">`;
+   if(q.instruction){ html += `<div style="font-weight:bold;margin-bottom:10px;">${q.instruction}</div>`; }
+   if(q.passageTitle){ html += `<h3>${q.passageTitle}</h3>`; }
+   if(q.passage){ html += `<p style="white-space:pre-wrap;">${q.passage}</p>`; }
+   html += `</div>`;
  }
  html += `<h3>Question ${index+1}</h3><p>${q.question}</p>`;
  q.options.forEach((o,i)=>{
