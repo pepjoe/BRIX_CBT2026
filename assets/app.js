@@ -55,11 +55,9 @@ async function startExam(){
      }else if(questions[k] && Array.isArray(questions[k].questions)){
        const section=questions[k];
        section.questions.forEach((q,idx)=>{
-         if(section.passage){
-           q.instruction = section.instruction || q.instruction || "";
-           q.passageTitle=section.passage_title||"";
-           q.passage=section.passage;
-         }
+         q.instruction = section.instruction || q.instruction || "";
+         q.passageTitle = section.passage_title || section.passageTitle || section.title || q.passageTitle || "";
+         q.passage = section.passage || q.passage || "";
        });
        flat=flat.concat(section.questions);
      }
