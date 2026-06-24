@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which aspect of marketing ensures a price is fair to both farmer and consumer?",
+    "options": [
+      "Distribution",
+      "Pricing",
+      "Promotion",
+      "Planning"
+    ],
+    "answer": "Pricing"
+  },
+  {
+    "question": "What type of packaging is usually used for jam and pickles?",
+    "options": [
+      "Bags",
+      "Jars",
+      "Boxes",
+      "Tetra Paks"
+    ],
+    "answer": "Jars"
+  },
+  {
+    "question": "Which meal is considered the most important of the day?",
+    "options": [
+      "Lunch",
+      "Breakfast",
+      "Dinner",
+      "Afternoon snack"
+    ],
+    "answer": "Breakfast"
+  },
+  {
+    "question": "Proper __________ of farm produce ensures food security.",
+    "options": [
+      "Destruction",
+      "Preservation",
+      "Neglect",
+      "Infection"
+    ],
+    "answer": "Preservation"
+  },
+  {
+    "question": "In an L-shaped kitchen, cabinets are placed along two __________ walls.",
+    "options": [
+      "Opposite",
+      "Parallel",
+      "Perpendicular",
+      "Distant"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "question": "What is the main reason we package processed food?",
+    "options": [
+      "To make it heavy",
+      "To protect it from damage",
+      "To make it expensive",
+      "To change its color"
+    ],
+    "answer": "To protect it from damage"
+  },
+  {
+    "question": "A place where buyers and sellers come together to exchange goods is called a:",
+    "options": [
+      "Kitchen",
+      "Farm",
+      "Market",
+      "Factory"
+    ],
+    "answer": "Market"
+  },
+  {
+    "question": "A \"meal\" is different from a \"snack\" because it is:",
+    "options": [
+      "Smaller",
+      "Large enough to satisfy hunger",
+      "Only eaten at night",
+      "Always cold"
+    ],
+    "answer": "Large enough to satisfy hunger"
+  },
+  {
+    "question": "Healthy eating helps prevent diseases like:",
+    "options": [
+      "Scurvy and Rickets",
+      "Happiness",
+      "Fast running",
+      "Strong eyesight"
+    ],
+    "answer": "Scurvy and Rickets"
+  },
+  {
+    "question": "Which type of market includes supermarkets and grocery stores?",
+    "options": [
+      "Retail markets",
+      "Wholesale markets",
+      "Bulk markets",
+      "International markets"
+    ],
+    "answer": "Retail markets"
+  },
+  {
+    "question": "The movement of goods from the farm to the market involves:",
+    "options": [
+      "Planting",
+      "Harvesting",
+      "Distribution",
+      "Soil preparation"
+    ],
+    "answer": "Distribution"
+  },
+  {
+    "question": "One effect of poor eating habits is:",
+    "options": [
+      "Better sleep",
+      "Weight gain",
+      "Stronger bones",
+      "Increased height"
+    ],
+    "answer": "Weight gain"
+  },
+  {
+    "question": "Which preservation method involves sealing food in airtight containers after heating?",
+    "options": [
+      "Pasteurisation",
+      "Canning and Bottling",
+      "Sun-drying",
+      "Salting"
+    ],
+    "answer": "Canning and Bottling"
+  },
+  {
+    "question": "Packaging that blocks light and air helps to:",
+    "options": [
+      "Extend shelf life",
+      "Change the food's color",
+      "Make the food spill",
+      "Increase the weight"
+    ],
+    "answer": "Extend shelf life"
+  },
+  {
+    "question": "A kitchen layout that features cabinets and appliances along three walls is known as:",
+    "options": [
+      "L-shaped",
+      "Island",
+      "U-shaped",
+      "Galley"
+    ],
+    "answer": "U-shaped"
+  },
+  {
+    "question": "Which packaging material is often used for cereal boxes?",
+    "options": [
+      "Metal",
+      "Cardboard",
+      "Glass",
+      "Foil"
+    ],
+    "answer": "Cardboard"
+  },
+  {
+    "question": "Which method uses smoke and heat from a wood fire to dry food?",
+    "options": [
+      "Salting",
+      "Canning",
+      "Smoking",
+      "Frying"
+    ],
+    "answer": "Smoking"
+  },
+  {
+    "question": "Informing potential buyers about a product's benefits is called:",
+    "options": [
+      "Harvesting",
+      "Production",
+      "Promotion",
+      "Distribution"
+    ],
+    "answer": "Promotion"
+  },
+  {
+    "question": "To stay healthy, one should avoid eating too much:",
+    "options": [
+      "Vegetables",
+      "Water",
+      "Sugar and salt",
+      "Fruit"
+    ],
+    "answer": "Sugar and salt"
+  },
+  {
+    "question": "A refrigerator helps keep food fresh by making germs grow:",
+    "options": [
+      "Very fast",
+      "Very slowly",
+      "Not at all",
+      "Into bacteria"
+    ],
+    "answer": "Very slowly"
+  },
+  {
+    "question": "Food labels provide consumers with:",
+    "options": [
+      "Expiration dates",
+      "The price of the store",
+      "A list of movies",
+      "The owner's home address"
+    ],
+    "answer": "Expiration dates"
+  },
+  {
+    "question": "Which of the following is a benefit of Tetra Paks?",
+    "options": [
+      "It is very heavy",
+      "Excellent protection against spoilage",
+      "Made only of glass",
+      "Very fragile"
+    ],
+    "answer": "Excellent protection against spoilage"
+  },
+  {
+    "question": "Large markets where farmers sell produce to traders in bulk are known as:",
+    "options": [
+      "Retail markets",
+      "Local markets",
+      "Supermarkets",
+      "Wholesale markets"
+    ],
+    "answer": "Wholesale markets"
+  },
+  {
+    "question": "Lunch is typically eaten between:",
+    "options": [
+      "6am and 9am",
+      "1pm and 3pm",
+      "8pm and 10pm",
+      "4am and 6am"
+    ],
+    "answer": "1pm and 3pm"
+  },
+  {
+    "question": "Metal cans are used for preserving:",
+    "options": [
+      "Fruits and soups",
+      "Hot bread",
+      "Fresh water",
+      "Clothing"
+    ],
+    "answer": "Fruits and soups"
+  },
+  {
+    "question": "Sun-drying removes __________ from food to help it stay fresh.",
+    "options": [
+      "Nutrients",
+      "Color",
+      "Water/Moisture",
+      "Salt"
+    ],
+    "answer": "Water/Moisture"
+  },
+  {
+    "question": "An example of a breakfast dish is:",
+    "options": [
+      "Egusi and Eba",
+      "Oats or Cornflakes",
+      "Suya",
+      "Pepper soup"
+    ],
+    "answer": "Oats or Cornflakes"
+  },
+  {
+    "question": "The \"Information\" purpose of packaging helps the consumer know:",
+    "options": [
+      "How to cook the food",
+      "Storage instructions",
+      "Both (a) and (b)",
+      "The history of the company"
+    ],
+    "answer": "Both (a) and (b)"
+  },
+  {
+    "question": "Which kitchen layout is described as long and narrow with appliances on two opposite walls?",
+    "options": [
+      "U-shaped",
+      "Galley",
+      "Basic",
+      "Island"
+    ],
+    "answer": "Galley"
+  },
+  {
+    "question": "The process of heating milk to a specific temperature and cooling it quickly is:",
+    "options": [
+      "Salting",
+      "Smoking",
+      "Pasteurisation",
+      "Frying"
+    ],
+    "answer": "Pasteurisation"
+  }
+]
