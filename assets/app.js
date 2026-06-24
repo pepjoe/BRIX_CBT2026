@@ -4,7 +4,7 @@ const subjects=[
 ["Mathematics","mathematics"],["Literacy A","literacy_a"],["Basic Science","basic_science"],
 ["Social Studies","social_studies"],["ICT","ict"],["Civic Education","civic_education"],
 ["Agriculture","agriculture"],["Home Economics","home_economics"],["CRS","crs"],
-["French","french"],["Business Studies","business_studies"],["Fine Arts","fine_arts"],["Literacy B","literacy_b"],["Vocational Studies","vocational_studies"]
+["French","french"],["Business Studies","business_studies"],["Fine Arts","fine_arts"],["Literacy B","literacy_b"],["Vocational Studies","vocational_studies"],["Physical and Health Education","PHE"]
 ];
 let selectedClass="",selectedSubject="",questions=[],index=0,answers={},examStarted=false;
 

@@ -1,22 +1,408 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "A rectangle is a parallelogram where each interior angle is:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "45°",
+      "90°",
+      "180°",
+      "360°"
     ],
-    "answer": "A"
+    "answer": "90°"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is the formula used to find the area of a triangle?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Side×Side",
+      "Length×Breadth",
+      "½ × base × height",
+      "πr²"
     ],
-    "answer": "B"
+    "answer": "½ × base × height"
+  },
+  {
+    "question": "Find the area of a square with a side of 7 cm.",
+    "options": [
+      "14 cm²",
+      "28 cm²",
+      "49 cm²",
+      "70 cm²"
+    ],
+    "answer": "49 cm²"
+  },
+  {
+    "question": "To calculate the volume of a cylinder, you multiply the area of the cross-section by the:",
+    "options": [
+      "Radius",
+      "Diameter",
+      "Height",
+      "Weight"
+    ],
+    "answer": "Height"
+  },
+  {
+    "question": "Which polygon has 8 sides?",
+    "options": [
+      "Pentagon",
+      "Heptagon",
+      "Octagon",
+      "Triangle"
+    ],
+    "answer": "Octagon"
+  },
+  {
+    "question": "Which ratio is equivalent to 2:3?",
+    "options": [
+      "4:9",
+      "6:9",
+      "3:2",
+      "5:6"
+    ],
+    "answer": "6:9"
+  },
+  {
+    "question": "Find the missing value in the proportion 5:10 = □:2.",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "20"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Calculate the value of 15² - 10².",
+    "options": [
+      "5",
+      "25",
+      "125",
+      "225"
+    ],
+    "answer": "125"
+  },
+  {
+    "question": "Convert 0.75 kg into grams.",
+    "options": [
+      "7.5 g",
+      "75 g",
+      "750 g",
+      "7,500 g"
+    ],
+    "answer": "750 g"
+  },
+  {
+    "question": "Simplify the ratio 24:36 to its lowest terms.",
+    "options": [
+      "12:18",
+      "6:9",
+      "3:4",
+      "2:3"
+    ],
+    "answer": "2:3"
+  },
+  {
+    "question": "Express the ratio 3:6 in its simplest fraction form.",
+    "options": [
+      "1/3",
+      "1/2",
+      "2/3",
+      "1/6"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "What is the square of 0.5?",
+    "options": [
+      "0.25",
+      "2.5",
+      "0.05",
+      "5.0"
+    ],
+    "answer": "0.25"
+  },
+  {
+    "question": "Convert 2.5 kg to grams.",
+    "options": [
+      "250 g",
+      "2,050 g",
+      "2,500 g",
+      "25,000 g"
+    ],
+    "answer": "2,500 g"
+  },
+  {
+    "question": "Express 40% as a ratio in simplest form.",
+    "options": [
+      "4:10",
+      "1:4",
+      "2:3",
+      "2:5"
+    ],
+    "answer": "2:5"
+  },
+  {
+    "question": "How many Liters are in 4,200 ml?",
+    "options": [
+      "42 L",
+      "4.2 L",
+      "0.42 L",
+      "420 L"
+    ],
+    "answer": "4.2 L"
+  },
+  {
+    "question": "Simplify the ratio 80 cm to 4 m.",
+    "options": [
+      "80:4",
+      "20:1",
+      "1:5",
+      "5:1"
+    ],
+    "answer": "1:5"
+  },
+  {
+    "question": "Find the value of x in the proportion 3:x = 9:27.",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is the value of 25²?",
+    "options": [
+      "50",
+      "225",
+      "625",
+      "125"
+    ],
+    "answer": "625"
+  },
+  {
+    "question": "Solve the expression: 10² − 5² + 2².",
+    "options": [
+      "7",
+      "79",
+      "81",
+      "129"
+    ],
+    "answer": "79"
+  },
+  {
+    "question": "What is the ratio of 1/2 to 0.25 in the form a:b?",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:4",
+      "4:1"
+    ],
+    "answer": "2:1"
+  },
+  {
+    "question": "Convert 7,250 g into kilograms (kg).",
+    "options": [
+      "72.5 kg",
+      "7.25 kg",
+      "0.725 kg",
+      "725 kg"
+    ],
+    "answer": "7.25 kg"
+  },
+  {
+    "question": "Convert 5,800 ml to Liters (L).",
+    "options": [
+      "5.8 L",
+      "58 L",
+      "0.58 L",
+      "5,800,000 L"
+    ],
+    "answer": "5.8 L"
+  },
+  {
+    "question": "Calculate the value of (0.3)².",
+    "options": [
+      "0.9",
+      "0.06",
+      "0.09",
+      "3.0"
+    ],
+    "answer": "0.09"
+  },
+  {
+    "question": "In a class of 12 boys and 18 girls, what is the simplified ratio of boys to girls?",
+    "options": [
+      "3:2",
+      "6:9",
+      "2:3",
+      "12:18"
+    ],
+    "answer": "2:3"
+  },
+  {
+    "question": "How many centimeters are in 4 m?",
+    "options": [
+      "40 cm",
+      "400 cm",
+      "4,000 cm",
+      "0.04 cm"
+    ],
+    "answer": "400 cm"
+  },
+  {
+    "question": "What is the square of 24?",
+    "options": [
+      "30",
+      "200",
+      "576",
+      "250"
+    ],
+    "answer": "576"
+  },
+  {
+    "question": "Express the ratio 2:3 as a fraction.",
+    "options": [
+      "3/2",
+      "2/3",
+      "0.6",
+      "5"
+    ],
+    "answer": "2/3"
+  },
+  {
+    "question": "Which of these is equivalent to 1/2?",
+    "options": [
+      "0.5",
+      "0.25",
+      "0.05",
+      "0.12"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Simplify 12:18 to its lowest terms.",
+    "options": [
+      "6:9",
+      "1:2",
+      "2:3",
+      "3:4"
+    ],
+    "answer": "2:3"
+  },
+  {
+    "question": "Express 750 g as a fraction of 1 kg in simplest form.",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "3/5"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "question": "What is the square root of 1.21?",
+    "options": [
+      "1.1",
+      "0.11",
+      "11",
+      "1.2"
+    ],
+    "answer": "1.1"
+  },
+  {
+    "question": "If you decrease 250 kg in the ratio 5:10, what is the new weight?",
+    "options": [
+      "500 kg",
+      "125 kg",
+      "200 kg",
+      "100 kg"
+    ],
+    "answer": "125 kg"
+  },
+  {
+    "question": "Find the value of m in the equation: 5.3 + m = 8.1.",
+    "options": [
+      "3.2",
+      "13.4",
+      "2.8",
+      "3.8"
+    ],
+    "answer": "2.8"
+  },
+  {
+    "question": "Express 15 Liters 75 cl as a single value in centiliters (cl).",
+    "options": [
+      "15,075 cl",
+      "1,575 cl",
+      "150.75 cl",
+      "15,750 cl"
+    ],
+    "answer": "1,575 cl"
+  },
+  {
+    "question": "Based on the pattern S1=1, S2=3, S3=6, S4=10, what is the value of S5?",
+    "options": [
+      "16",
+      "17",
+      "24",
+      "20",
+      "15"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Using the pattern S1=1, S2=3, S3=6, S4=10, find the value of S8.",
+    "options": [
+      "32",
+      "35",
+      "36",
+      "20",
+      "15"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "Calculate the value of S12 - S8 based on the triangular number pattern.",
+    "options": [
+      "36",
+      "66",
+      "55",
+      "42",
+      "28"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "Calculate the value of S15 + S3 based on the triangular number pattern.",
+    "options": [
+      "104",
+      "126",
+      "120",
+      "132",
+      "150"
+    ],
+    "answer": "126"
+  },
+  {
+    "question": "Find the missing number in the statement: 5 × ___ = 80 ÷ 2",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Find the missing number in the statement: 5 × ___ = 100 - 35",
+    "options": [
+      "15",
+      "13",
+      "17",
+      "65",
+      "12"
+    ],
+    "answer": "13"
   }
 ]

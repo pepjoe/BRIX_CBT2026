@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Local musical instruments are played in our ________.",
+    "options": [
+      "locality and villages",
+      "sky and clouds",
+      "space stations"
+    ],
+    "answer": "locality and villages"
+  },
+  {
+    "question": "Which of these materials is NOT used to make local musical instruments?",
+    "options": [
+      "plastic wrappers",
+      "animal skin",
+      "dried gourds"
+    ],
+    "answer": "plastic wrappers"
+  },
+  {
+    "question": "We use local musical instruments during ________.",
+    "options": [
+      "sleeping hours",
+      "festivals and ceremonies",
+      "examination silence"
+    ],
+    "answer": "festivals and ceremonies"
+  },
+  {
+    "question": "The Talking Drum is also locally known as ________.",
+    "options": [
+      "Ogene",
+      "Gangan or Dun-dun",
+      "Kakaki"
+    ],
+    "answer": "Gangan or Dun-dun"
+  },
+  {
+    "question": "To play the Talking Drum, you hold it under your ________.",
+    "options": [
+      "foot",
+      "arm",
+      "head"
+    ],
+    "answer": "arm"
+  },
+  {
+    "question": "What do you use to beat the Talking Drum?",
+    "options": [
+      "a straight iron rod",
+      "a curved stick",
+      "your teeth"
+    ],
+    "answer": "a curved stick"
+  },
+  {
+    "question": "The Shekere is made from a dried ________.",
+    "options": [
+      "gourd",
+      "wood",
+      "metal piece"
+    ],
+    "answer": "gourd"
+  },
+  {
+    "question": "The Shekere is covered with a net of ________.",
+    "options": [
+      "leather",
+      "beads or shells",
+      "wire mesh"
+    ],
+    "answer": "beads or shells"
+  },
+  {
+    "question": "What sound does the Shekere make when shaken?",
+    "options": [
+      "Ding-dong",
+      "Sh-sh-sh",
+      "Puuuu!"
+    ],
+    "answer": "Sh-sh-sh"
+  },
+  {
+    "question": "The Kakaki is a very long metal ________.",
+    "options": [
+      "flute",
+      "trumpet",
+      "drum"
+    ],
+    "answer": "trumpet"
+  },
+  {
+    "question": "How long can a Kakaki trumpet sometimes be?",
+    "options": [
+      "2-3 meters",
+      "50 meters",
+      "1 centimeter"
+    ],
+    "answer": "2-3 meters"
+  },
+  {
+    "question": "To play the Kakaki, you blow air into it with ________.",
+    "options": [
+      "loose cheeks",
+      "tight lips",
+      "wide teeth"
+    ],
+    "answer": "tight lips"
+  },
+  {
+    "question": "The Ogene is a flat piece of metal or a ________.",
+    "options": [
+      "bell without a clapper",
+      "drum with skin",
+      "wooden pipe"
+    ],
+    "answer": "bell without a clapper"
+  },
+  {
+    "question": "What sound does the Ogene make when hit with a stick?",
+    "options": [
+      "Sh-sh-sh",
+      "Ding dong",
+      "Puuuu!"
+    ],
+    "answer": "Ding dong"
+  },
+  {
+    "question": "The Oja is a small flute made of wood or ________.",
+    "options": [
+      "metal sheets",
+      "bamboo",
+      "iron rod"
+    ],
+    "answer": "bamboo"
+  },
+  {
+    "question": "How do you play the Oja flute to produce sound?",
+    "options": [
+      "Hit it with a stick",
+      "Blow air across the top",
+      "Shake it hard"
+    ],
+    "answer": "Blow air across the top"
+  },
+  {
+    "question": "Local musical instruments can be used for ________.",
+    "options": [
+      "communication",
+      "fighting",
+      "sleeping"
+    ],
+    "answer": "communication"
+  },
+  {
+    "question": "One of the rules when playing local instruments is to listen to the ________.",
+    "options": [
+      "noise",
+      "leader",
+      "wind"
+    ],
+    "answer": "leader"
+  },
+  {
+    "question": "You must handle all local musical instruments with ________.",
+    "options": [
+      "carelessness",
+      "care",
+      "anger"
+    ],
+    "answer": "care"
+  },
+  {
+    "question": "A musical symbol placed at the beginning of a staff is called a ________.",
+    "options": [
+      "note",
+      "clef",
+      "line"
+    ],
+    "answer": "clef"
+  },
+  {
+    "question": "A musical staff is made up of 5 lines and ________.",
+    "options": [
+      "4 spaces",
+      "2 spaces",
+      "10 spaces"
+    ],
+    "answer": "4 spaces"
+  },
+  {
+    "question": "Without a clef, the notes on a staff have no ________.",
+    "options": [
+      "color",
+      "name",
+      "size"
+    ],
+    "answer": "name"
+  },
+  {
+    "question": "The clef acts as a ________ that unlocks the pitch of each line and space.",
+    "options": [
+      "lock",
+      "key",
+      "door"
+    ],
+    "answer": "key"
+  },
+  {
+    "question": "The Bass Clef is also known as the ________.",
+    "options": [
+      "G-clef",
+      "F-clef",
+      "C-clef"
+    ],
+    "answer": "F-clef"
+  },
+  {
+    "question": "The two dots of the bass clef symbol surround the ________.",
+    "options": [
+      "first line",
+      "second line",
+      "fourth line"
+    ],
+    "answer": "fourth line"
+  },
+  {
+    "question": "The bass clef is used for ________ instruments.",
+    "options": [
+      "low-pitch",
+      "high-pitch",
+      "squeaky"
+    ],
+    "answer": "low-pitch"
+  },
+  {
+    "question": "When reading lines from bottom to top on a bass staff, the rhyme is ________.",
+    "options": [
+      "Every Good Boy Does Fine",
+      "Good Boys Deserve Favour Always",
+      "All Cows Eat Grass"
+    ],
+    "answer": "Good Boys Deserve Favour Always"
+  },
+  {
+    "question": "The four spaces of the bass staff from bottom to top stand for ________.",
+    "options": [
+      "A - C - E - G",
+      "G - B - D - F",
+      "F - A - C - E"
+    ],
+    "answer": "A - C - E - G"
+  },
+  {
+    "question": "To draw a bass clef, you start by placing a small solid dot on the ________.",
+    "options": [
+      "first line",
+      "third line",
+      "fourth line"
+    ],
+    "answer": "fourth line"
+  },
+  {
+    "question": "The curve of a bass clef looks like an inverted ________.",
+    "options": [
+      "letter S",
+      "comma",
+      "question mark"
+    ],
+    "answer": "comma"
+  },
+  {
+    "question": "The two small dots of the bass clef are placed in the ________.",
+    "options": [
+      "third and fourth spaces",
+      "first and second spaces",
+      "lines themselves"
+    ],
+    "answer": "third and fourth spaces"
+  },
+  {
+    "question": "The didactic song \"Tramp Tramp Tramp\" says \"the boys are ________.\"",
+    "options": [
+      "jumping",
+      "marching",
+      "running"
+    ],
+    "answer": "marching"
+  },
+  {
+    "question": "In the song \"Tramp Tramp Tramp,\" the key signature states \"Doh is ________.\"",
+    "options": [
+      "C",
+      "G",
+      "F"
+    ],
+    "answer": "F"
+  },
+  {
+    "question": "In the song \"Days of the Week,\" the key is ________.",
+    "options": [
+      "F major",
+      "C major",
+      "G major"
+    ],
+    "answer": "C major"
+  },
+  {
+    "question": "\"Days of the Week\" is an example of a ________ song.",
+    "options": [
+      "quiet",
+      "didactic",
+      "sad"
+    ],
+    "answer": "didactic"
+  },
+  {
+    "question": "Didactic songs help us to ________ information through music.",
+    "options": [
+      "forget",
+      "memorize",
+      "ignore"
+    ],
+    "answer": "memorize"
+  },
+  {
+    "question": "Singing makes learning ________.",
+    "options": [
+      "boring",
+      "fun",
+      "difficult"
+    ],
+    "answer": "fun"
+  },
+  {
+    "question": "Simple sol-fa notes help us to develop our music ________.",
+    "options": [
+      "eye",
+      "ear",
+      "nose"
+    ],
+    "answer": "ear"
+  },
+  {
+    "question": "What is the sol-fa note written under the word \"and\" in the Days of the Week song?",
+    "options": [
+      "d (doh)",
+      "s (soh)",
+      "m (mi)"
+    ],
+    "answer": "d (doh)"
+  },
+  {
+    "question": "When playing instruments with others, you must ________ with others.",
+    "options": [
+      "fight",
+      "share",
+      "argue"
+    ],
+    "answer": "share"
+  }
+]

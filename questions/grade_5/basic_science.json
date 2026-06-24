@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Which of the following is defined as a force that can attract (pull) or repel (push away) specific materials?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Gravity",
+      "Friction",
+      "Magnetism",
+      "Electricity"
     ],
-    "answer": "A"
+    "answer": "Magnetism"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Which eye defect results from the lens and ciliary muscles losing elasticity due to age?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Short-sightedness",
+      "Presbyopia",
+      "Astigmatism",
+      "Conjunctivitis"
     ],
-    "answer": "B"
+    "answer": "Presbyopia"
+  },
+  {
+    "question": "Monocots are plants whose seeds contain:",
+    "options": [
+      "Two cotyledons",
+      "Three cotyledons",
+      "Only one cotyledon",
+      "No cotyledons"
+    ],
+    "answer": "Only one cotyledon"
+  },
+  {
+    "question": "Magnetic force is strongest at the:",
+    "options": [
+      "Middle",
+      "Poles",
+      "Sides",
+      "Bottom"
+    ],
+    "answer": "Poles"
+  },
+  {
+    "question": "Which part of the flower encloses the developing seeds?",
+    "options": [
+      "Petals",
+      "Sepals",
+      "Carpels",
+      "Stamens"
+    ],
+    "answer": "Carpels"
+  },
+  {
+    "question": "A bar magnet is shaped like a:",
+    "options": [
+      "U-shape",
+      "Circular block",
+      "Rectangular block",
+      "Tube"
+    ],
+    "answer": "Rectangular block"
+  },
+  {
+    "question": "Long-sightedness happens because the eyeball is too:",
+    "options": [
+      "Long",
+      "Heavy",
+      "Short",
+      "Curved"
+    ],
+    "answer": "Short"
+  },
+  {
+    "question": "Gymnosperms are plants that bear:",
+    "options": [
+      "Flowers",
+      "Cones",
+      "Fruits",
+      "Berries"
+    ],
+    "answer": "Cones"
+  },
+  {
+    "question": "When white light passes through a glass prism and splits into seven colours, it is called:",
+    "options": [
+      "Reflection",
+      "Dispersion",
+      "Speed",
+      "Absorption"
+    ],
+    "answer": "Dispersion"
+  },
+  {
+    "question": "In the acronym ROYGBIV, which represents the colours of white light, what does the letter 'V' stand for?",
+    "options": [
+      "Vivid",
+      "Violet",
+      "Vanished",
+      "Vacuum"
+    ],
+    "answer": "Violet"
+  },
+  {
+    "question": "An iron pin or a paper clip acts as a ________________ magnet when near a magnetic field.",
+    "options": [
+      "Permanent",
+      "Temporary",
+      "Bar",
+      "Horseshoe"
+    ],
+    "answer": "Temporary"
+  },
+  {
+    "question": "Which magnet is described as being circular with a hole in the middle?",
+    "options": [
+      "Cylindrical",
+      "Ring",
+      "Horseshoe",
+      "Bar"
+    ],
+    "answer": "Ring"
+  },
+  {
+    "question": "The bouncing off of light when it hits a smooth, shiny surface like a mirror is called:",
+    "options": [
+      "Refraction",
+      "Dispersion",
+      "Diffraction",
+      "Reflection"
+    ],
+    "answer": "Reflection"
+  },
+  {
+    "question": "What happens when two 'like' poles (e.g., North and North) are brought together?",
+    "options": [
+      "They attract",
+      "They stick",
+      "They repel each other",
+      "They melt"
+    ],
+    "answer": "They repel each other"
+  },
+  {
+    "question": "Angiosperms are known as:",
+    "options": [
+      "Cone plants",
+      "Flowerless plants",
+      "Flowering plants",
+      "Seedless plants"
+    ],
+    "answer": "Flowering plants"
+  },
+  {
+    "question": "What happens to light during refraction?",
+    "options": [
+      "It disappears",
+      "It bounces back",
+      "It bends as it passes through different materials",
+      "It turns into heat"
+    ],
+    "answer": "It bends as it passes through different materials"
+  },
+  {
+    "question": "In a scrapyard, magnets are used in ________________ to sort magnetic material.",
+    "options": [
+      "Telephones",
+      "Cranes",
+      "Motors",
+      "Compasses"
+    ],
+    "answer": "Cranes"
+  },
+  {
+    "question": "In a first-class lever, what is placed between the effort and the load?",
+    "options": [
+      "Pivot (Fulcrum)",
+      "Weight",
+      "Handle",
+      "Rod"
+    ],
+    "answer": "Pivot (Fulcrum)"
+  },
+  {
+    "question": "A freely suspended bar magnet always points toward the:",
+    "options": [
+      "East-West",
+      "North-South",
+      "Up-Down",
+      "Left-Right"
+    ],
+    "answer": "North-South"
+  },
+  {
+    "question": "An example of an Angiosperm is:",
+    "options": [
+      "Pine",
+      "Cedar",
+      "Mango",
+      "Redwood"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which type of magnets remain magnetized even without an external magnetic field?",
+    "options": [
+      "Temporary",
+      "Electromagnets",
+      "Permanent",
+      "Natural"
+    ],
+    "answer": "Permanent"
+  },
+  {
+    "question": "The term 'Gymnosperm' comes from the Greek word 'Gymno' meaning:",
+    "options": [
+      "Seed",
+      "Naked",
+      "Green",
+      "Covered"
+    ],
+    "answer": "Naked"
+  },
+  {
+    "question": "A cylindrical magnet is shaped like a:",
+    "options": [
+      "Rectangle",
+      "Tube or rod",
+      "Circle",
+      "U-shape"
+    ],
+    "answer": "Tube or rod"
+  },
+  {
+    "question": "What is the middle component in a second-class lever?",
+    "options": [
+      "Effort",
+      "Fulcrum",
+      "Load",
+      "Pivot"
+    ],
+    "answer": "Load"
+  },
+  {
+    "question": "Which part of the eye acts as the 'screen' where light is captured and turned into electrical signals?",
+    "options": [
+      "Iris",
+      "Lens",
+      "Retina",
+      "Cornea"
+    ],
+    "answer": "Retina"
+  },
+  {
+    "question": "Which of these is a characteristic of Gymnosperms?",
+    "options": [
+      "They produce flowers",
+      "They are pollinated by wind",
+      "They produce fruits",
+      "They have protected seeds"
+    ],
+    "answer": "They are pollinated by wind"
+  },
+  {
+    "question": "Magnets are used in which device to convert electrical energy into sound?",
+    "options": [
+      "TV screens",
+      "Refrigerators",
+      "Speakers",
+      "Cranes"
+    ],
+    "answer": "Speakers"
+  },
+  {
+    "question": "A magnet is a substance that can attract which type of materials?",
+    "options": [
+      "Plastic and Wood",
+      "Iron or Steel",
+      "Glass and Rubber",
+      "Paper and Cloth"
+    ],
+    "answer": "Iron or Steel"
+  },
+  {
+    "question": "Night blindness is primarily caused by a deficiency in:",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Iron"
+    ],
+    "answer": "Vitamin A"
+  },
+  {
+    "question": "In Angiosperms, seeds are protected by:",
+    "options": [
+      "Cones",
+      "Fruits or shells",
+      "Leaves",
+      "Roots"
+    ],
+    "answer": "Fruits or shells"
+  },
+  {
+    "question": "A muscle is a special soft tissue in the body that can contract and ________ to produce movement.",
+    "options": [
+      "break",
+      "relax",
+      "disappear",
+      "dissolve"
+    ],
+    "answer": "relax"
+  },
+  {
+    "question": "The muscular system is an organ system that allows us to move, maintain posture, and helps move ________.",
+    "options": [
+      "blood and food",
+      "air and hair",
+      "bones and skin",
+      "teeth and nails"
+    ],
+    "answer": "blood and food"
+  },
+  {
+    "question": "How many main types of muscles are found in the human body?",
+    "options": [
+      "two",
+      "three",
+      "four",
+      "five"
+    ],
+    "answer": "three"
+  },
+  {
+    "question": "Muscles that are attached to our bones and can be controlled consciously are called ________.",
+    "options": [
+      "Skeletal Muscles",
+      "Smooth Muscles",
+      "Cardiac Muscles",
+      "Involuntary Muscles"
+    ],
+    "answer": "Skeletal Muscles"
+  },
+  {
+    "question": "Which of the following is an example of a skeletal muscle found in your arm?",
+    "options": [
+      "Quadriceps",
+      "Biceps",
+      "Intestines",
+      "Heart"
+    ],
+    "answer": "Biceps"
+  },
+  {
+    "question": "Which skeletal muscle is located in your thigh?",
+    "options": [
+      "Biceps",
+      "Stomach",
+      "Quadriceps",
+      "Lungs"
+    ],
+    "answer": "Quadriceps"
+  },
+  {
+    "question": "Where are smooth muscles found inside the human body?",
+    "options": [
+      "Attached directly to our bones",
+      "Inside internal organs like the stomach",
+      "On the outer layer of the skin",
+      "Inside the skeletal joints"
+    ],
+    "answer": "Inside internal organs like the stomach"
+  },
+  {
+    "question": "Smooth muscles are described as involuntary muscles, which means that they ________.",
+    "options": [
+      "work automatically without us thinking about it",
+      "can only move when we want them to",
+      "are strictly used for running and jumping",
+      "are completely under our conscious control"
+    ],
+    "answer": "work automatically without us thinking about it"
+  },
+  {
+    "question": "Which of the following is an example of an organ system that relies on smooth muscles to push food along?",
+    "options": [
+      "The Nervous System",
+      "The Digestive System",
+      "The Skeletal System",
+      "The Respiratory System"
+    ],
+    "answer": "The Digestive System"
+  },
+  {
+    "question": "The central control center structure found inside a muscle fiber cell is called the ________.",
+    "options": [
+      "Tissue",
+      "Nucleus",
+      "Bicep",
+      "Membrane"
+    ],
+    "answer": "Nucleus"
   }
 ]

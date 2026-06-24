@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "The joint found in the neck is the ______ joint.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Ball and socket",
+      "Pivot",
+      "Hinge",
+      "Gliding"
     ],
-    "answer": "A"
+    "answer": "Pivot"
   },
   {
-    "question": "Sample Question 2",
+    "question": "The knee is an example of a ______ joint.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Pivot",
+      "Gliding",
+      "Hinge",
+      "Fixed"
     ],
-    "answer": "B"
+    "answer": "Hinge"
+  },
+  {
+    "question": "A substance with a sour taste is called an ______.",
+    "options": [
+      "Base",
+      "Acid",
+      "Salt",
+      "Metal"
+    ],
+    "answer": "Acid"
+  },
+  {
+    "question": "A substance that turns red litmus paper blue is a ______.",
+    "options": [
+      "Acid",
+      "Water",
+      "Base",
+      "Gas"
+    ],
+    "answer": "Base"
+  },
+  {
+    "question": "The flow of electric charge is called ______.",
+    "options": [
+      "Current",
+      "Magnetism",
+      "Heat",
+      "Light"
+    ],
+    "answer": "Current"
+  },
+  {
+    "question": "Materials that allow electricity to pass through them are called ______.",
+    "options": [
+      "Insulators",
+      "Conductors",
+      "Plastics",
+      "Liquids"
+    ],
+    "answer": "Conductors"
+  },
+  {
+    "question": "Wood is a ______ of electricity.",
+    "options": [
+      "Conductor",
+      "Source",
+      "Generator",
+      "Non-conductor"
+    ],
+    "answer": "Non-conductor"
+  },
+  {
+    "question": "A magnet attracts materials made of ______.",
+    "options": [
+      "Rubber",
+      "Iron",
+      "Wood",
+      "Plastic"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "question": "The two ends of a magnet are called ______.",
+    "options": [
+      "Sides",
+      "Points",
+      "Poles",
+      "Edges"
+    ],
+    "answer": "Poles"
+  },
+  {
+    "question": "In a magnet, ______ poles attract.",
+    "options": [
+      "opposite",
+      "similar",
+      "wire",
+      "bulb"
+    ],
+    "answer": "opposite"
+  },
+  {
+    "question": "The ___ is pressed with the foot to make it go faster.",
+    "options": [
+      "horn",
+      "accelerator",
+      "ignition",
+      "dashboard"
+    ],
+    "answer": "accelerator"
+  },
+  {
+    "question": "It makes a loud warning noise when pressed. It is called the ______.",
+    "options": [
+      "dashboard",
+      "ignition",
+      "accelerator",
+      "horn"
+    ],
+    "answer": "horn"
+  },
+  {
+    "question": "Having a positive opinion about yourself is known as high ______.",
+    "options": [
+      "Body image",
+      "Confidence",
+      "Self-esteem",
+      "Appearance"
+    ],
+    "answer": "Self-esteem"
+  },
+  {
+    "question": "Body image refers to how a person ______ their body.",
+    "options": [
+      "Measures",
+      "Sees",
+      "Changes",
+      "Builds"
+    ],
+    "answer": "Sees"
+  },
+  {
+    "question": "The shoulder is an example of a ______ joint.",
+    "options": [
+      "Ball and socket",
+      "Fixed",
+      "Pivot",
+      "Gliding"
+    ],
+    "answer": "Ball and socket"
+  },
+  {
+    "question": "Lemon juice is an example of an ______.",
+    "options": [
+      "Acid",
+      "Base",
+      "Salt",
+      "Metal"
+    ],
+    "answer": "Acid"
+  },
+  {
+    "question": "Soap solution is an example of a ______.",
+    "options": [
+      "Acid",
+      "Base",
+      "Gas",
+      "Metal"
+    ],
+    "answer": "Base"
+  },
+  {
+    "question": "Copper is a good ______ of electricity.",
+    "options": [
+      "Insulator",
+      "Non-conductor",
+      "Conductor",
+      "Plastic"
+    ],
+    "answer": "Conductor"
+  },
+  {
+    "question": "Magnets have ______ poles.",
+    "options": [
+      "Three",
+      "Four",
+      "Two",
+      "Five"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "People with good self-esteem usually feel ______ about themselves.",
+    "options": [
+      "Sad",
+      "Angry",
+      "Worried",
+      "Confident"
+    ],
+    "answer": "Confident"
+  },
+  {
+    "question": "The elbow is an example of a ______ joint.",
+    "options": [
+      "Pivot",
+      "Hinge",
+      "Ball and socket",
+      "Fixed"
+    ],
+    "answer": "Hinge"
+  },
+  {
+    "question": "The wrist contains ______ joints.",
+    "options": [
+      "hinge",
+      "pivot",
+      "gliding",
+      "fixed"
+    ],
+    "answer": "gliding"
+  },
+  {
+    "question": "A fixed joint allows ______ movement.",
+    "options": [
+      "free",
+      "little",
+      "no",
+      "rapid"
+    ],
+    "answer": "no"
+  },
+  {
+    "question": "Vinegar is an example of an ______.",
+    "options": [
+      "acid",
+      "base",
+      "metal",
+      "salt"
+    ],
+    "answer": "acid"
+  },
+  {
+    "question": "Acids turn blue litmus paper ______.",
+    "options": [
+      "green",
+      "yellow",
+      "red",
+      "black"
+    ],
+    "answer": "red"
+  },
+  {
+    "question": "Bases feel ______ to the touch.",
+    "options": [
+      "rough",
+      "slippery",
+      "hard",
+      "dry"
+    ],
+    "answer": "slippery"
+  },
+  {
+    "question": "Electricity flows through a closed ______.",
+    "options": [
+      "circuit",
+      "container",
+      "machine",
+      "switch"
+    ],
+    "answer": "circuit"
+  },
+  {
+    "question": "A dry cell is a source of electrical ______.",
+    "options": [
+      "heat",
+      "light",
+      "energy",
+      "sound"
+    ],
+    "answer": "energy"
+  },
+  {
+    "question": "The unit used to measure electric current is the ______.",
+    "options": [
+      "ampere",
+      "metre",
+      "gram",
+      "litre"
+    ],
+    "answer": "ampere"
+  },
+  {
+    "question": "Silver is a very good electrical ______.",
+    "options": [
+      "insulator",
+      "conductor",
+      "plastic",
+      "rubber"
+    ],
+    "answer": "conductor"
+  },
+  {
+    "question": "Plastic is a ______ of electricity.",
+    "options": [
+      "source",
+      "generator",
+      "conductor",
+      "non-conductor"
+    ],
+    "answer": "non-conductor"
+  },
+  {
+    "question": "A magnet has a north pole and a ______ pole.",
+    "options": [
+      "east",
+      "west",
+      "south",
+      "upper"
+    ],
+    "answer": "south"
+  },
+  {
+    "question": "Like poles of a magnet ______ each other.",
+    "options": [
+      "attract",
+      "repel",
+      "join",
+      "follow"
+    ],
+    "answer": "repel"
+  },
+  {
+    "question": "Unlike poles of a magnet ______ each other.",
+    "options": [
+      "repel",
+      "attract",
+      "break",
+      "ignore"
+    ],
+    "answer": "attract"
+  },
+  {
+    "question": "A compass contains a small ______.",
+    "options": [
+      "battery",
+      "wire",
+      "magnet",
+      "bulb"
+    ],
+    "answer": "magnet"
+  },
+  {
+    "question": "The rotor is the ______ part of a motor.",
+    "options": [
+      "rotating",
+      "fixed",
+      "outer",
+      "wooden"
+    ],
+    "answer": "rotating"
+  },
+  {
+    "question": "The stator is the ______ part of a motor.",
+    "options": [
+      "moving",
+      "stationary",
+      "turning",
+      "magnetic"
+    ],
+    "answer": "stationary"
+  },
+  {
+    "question": "A positive body image helps a person feel more ______.",
+    "options": [
+      "confident",
+      "afraid",
+      "worried",
+      "angry"
+    ],
+    "answer": "confident"
+  },
+  {
+    "question": "Self-esteem is how much value a person places on ______.",
+    "options": [
+      "others",
+      "money",
+      "themselves",
+      "friends"
+    ],
+    "answer": "themselves"
+  },
+  {
+    "question": "People with healthy self-esteem usually show ______ in their abilities.",
+    "options": [
+      "fear",
+      "confidence",
+      "sadness",
+      "confusion"
+    ],
+    "answer": "confidence"
   }
 ]

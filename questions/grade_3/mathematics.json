@@ -1,22 +1,202 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is 234 × 3?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "702", 
+      "642", 
+      "612", 
+      "732"
     ],
-    "answer": "A"
+    "answer": "702"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is 125 × 4?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "500", 
+      "450", 
+      "480", 
+      "520"
     ],
-    "answer": "B"
+    "answer": "480"
+  },
+  {
+    "question": "What is 312 × 2?",
+    "options": [
+      "624", 
+      "612", 
+      "632", 
+      "642"
+    ],
+    "answer": "612"
+  },
+  {
+    "question": "What is 1.5 × 2?",
+    "options": [
+      "2.5", 
+      "3.0", 
+      "3.5", 
+      "4.0"
+    ],
+    "answer": "3.0"
+  },
+  {
+    "question": "What is 2.3 × 3?",
+    "options": [
+      "6.9", 
+      "6.3", 
+      "6.1", 
+      "7.0"
+    ],
+    "answer": "6.9"
+  },
+  {
+    "question": "What is 11²?",
+    "options": [
+      "121", 
+      "111", 
+      "131", 
+      "141"
+    ],
+    "answer": "121"
+  },
+  {
+    "question": "What is 15²?",
+    "options": [
+      "225", 
+      "215", 
+      "235", 
+      "245"
+    ],
+    "answer": "225"
+  },
+  {
+    "question": "What is √49?",
+    "options": [
+      "6", 
+      "7", 
+      "8", 
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Convert 2000 g to kg.",
+    "options": [
+      "2 kg", 
+      "20 kg", 
+      "200 kg", 
+      "0.2 kg"
+    ],
+    "answer": "2 kg"
+  },
+  {
+    "question": "Convert 3 litres to millilitres.",
+    "options": [
+      "3000 ml", 
+      "300 ml", 
+      "30 ml", 
+      "30000 ml"
+    ],
+    "answer": "3000 ml"
+  },
+  {
+    "question": "Convert 150 cm to metres.",
+    "options": [
+      "1.5 m", 
+      "15 m", 
+      "0.15 m", 
+      "1500 m"
+    ],
+    "answer": "1.5 m"
+  },
+  {
+    "question": "Convert 5 kg to grams.",
+    "options": [
+      "500 g", 
+      "5000 g", 
+      "50 g", 
+      "50000 g"
+    ],
+    "answer": "5000 g"
+  },
+  {
+    "question": "A teacher buys 23 packs of pencils. Each pack has 12 pencils. How many pencils are there altogether?",
+    "options": [
+      "246", 
+      "276", 
+      "286", 
+      "296"
+    ],
+    "answer": "276"
+  },
+  {
+    "question": "A farmer shares 84 oranges equally among 7 children. How many oranges does each child get?",
+    "options": [
+      "11", 
+      "12", 
+      "13", 
+      "14"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "A bag of rice weighs 5 kg. Convert it to grams.",
+    "options": [
+      "500 g", 
+      "5000 g", 
+      "50 g", 
+      "50000 g"
+    ],
+    "answer": "5000 g"
+  },
+  {
+    "question": "A rope is 36 metres long. It is cut into 6 equal parts. How long is each part?",
+    "options": [
+      "5 m", 
+      "6 m", 
+      "7 m", 
+      "8 m"
+    ],
+    "answer": "6 m"
+  },
+  {
+    "question": "A bucket holds 8 litres of water. How many litres will 5 buckets hold altogether?",
+    "options": [
+      "35 litres", 
+      "40 litres", 
+      "45 litres", 
+      "50 litres"
+    ],
+    "answer": "40 litres"
+  },
+  {
+    "question": "The time is 3:15. What time will it be in 2 hours?",
+    "options": [
+      "4:15", 
+      "5:15", 
+      "6:15", 
+      "7:15"
+    ],
+    "answer": "5:15"
+  },
+  {
+    "question": "A shop sells 34 baskets of eggs. Each basket contains 15 eggs. How many eggs are there in all?",
+    "options": [
+      "500", 
+      "510", 
+      "520", 
+      "530"
+    ],
+    "answer": "510"
+  },
+  {
+    "question": "A class has 72 pupils. They are arranged into 8 equal groups. How many pupils are in each group?",
+    "options": [
+      "8", 
+      "9", 
+      "10", 
+      "11"
+    ],
+    "answer": "9"
   }
 ]

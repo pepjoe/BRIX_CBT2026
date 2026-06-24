@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Medicines made from plants are called ______ medicine.",
+    "options": [
+      "modern",
+      "herbal",
+      "chemical",
+      "industrial"
+    ],
+    "answer": "herbal"
+  },
+  {
+    "question": "_____ can be called a herbal medicine.",
+    "options": [
+      "Amatem",
+      "Paracetamol",
+      "Ginger",
+      "Aspirin"
+    ],
+    "answer": "Ginger"
+  },
+  {
+    "question": "Food gives the body energy for daily ______.",
+    "options": [
+      "arguments",
+      "activities",
+      "games",
+      "lessons"
+    ],
+    "answer": "activities"
+  },
+  {
+    "question": "A balanced diet contains all the necessary ______.",
+    "options": [
+      "nutrients",
+      "colours",
+      "flavours",
+      "shapes"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Protein helps in the growth and ______ of body tissues.",
+    "options": [
+      "repair",
+      "destruction",
+      "movement",
+      "storage"
+    ],
+    "answer": "repair"
+  },
+  {
+    "question": "A lack of vitamin C may cause ______.",
+    "options": [
+      "rickets",
+      "scurvy",
+      "goitre",
+      "malaria"
+    ],
+    "answer": "scurvy"
+  },
+  {
+    "question": "Kwashiorkor is caused by a deficiency of ______.",
+    "options": [
+      "fat",
+      "protein",
+      "water",
+      "vitamin C"
+    ],
+    "answer": "protein"
+  },
+  {
+    "question": "In Backstroke you ______ on your back.",
+    "options": [
+      "run",
+      "stroll",
+      "walk",
+      "float"
+    ],
+    "answer": "float"
+  },
+  {
+    "question": "Martial arts are mainly used for self-______.",
+    "options": [
+      "defence",
+      "cooking",
+      "reading",
+      "drawing"
+    ],
+    "answer": "defence"
+  },
+  {
+    "question": "In judo you cannot _____ the opponent's face.",
+    "options": [
+      "write on",
+      "touch",
+      "pour sand on",
+      "bend"
+    ],
+    "answer": "touch"
+  },
+  {
+    "question": "Judo originated from ______.",
+    "options": [
+      "China",
+      "Japan",
+      "India",
+      "Brazil"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "To be a great swimmer spend much time ______.",
+    "options": [
+      "on trees",
+      "reading",
+      "in water",
+      "sleeping"
+    ],
+    "answer": "in water"
+  },
+  {
+    "question": "Swimming helps to strengthen the ______.",
+    "options": [
+      "body",
+      "book",
+      "desk",
+      "house"
+    ],
+    "answer": "body"
+  },
+  {
+    "question": "The front crawl is a popular swimming ______.",
+    "options": [
+      "equipment",
+      "pool",
+      "stroke",
+      "lane"
+    ],
+    "answer": "stroke"
+  },
+  {
+    "question": "In Front Crawl, you propel yourself forward with your ______.",
+    "options": [
+      "nose",
+      "shoulders",
+      "arms",
+      "back"
+    ],
+    "answer": "arms"
+  },
+  {
+    "question": "The butterfly is one of the major swimming ______.",
+    "options": [
+      "strokes",
+      "boats",
+      "races",
+      "divers"
+    ],
+    "answer": "strokes"
+  },
+  {
+    "question": "Vitamins and minerals are known as ______ nutrients.",
+    "options": [
+      "protective",
+      "harmful",
+      "artificial",
+      "waste"
+    ],
+    "answer": "protective"
+  },
+  {
+    "question": "A disease caused by lack of proper nutrients is called a nutritional ______.",
+    "options": [
+      "injury",
+      "deficiency disease",
+      "accident",
+      "infection"
+    ],
+    "answer": "deficiency disease"
+  },
+  {
+    "question": "Learning martial arts promotes self-______.",
+    "options": [
+      "discipline",
+      "confusion",
+      "fear",
+      "weakness"
+    ],
+    "answer": "discipline"
+  },
+  {
+    "question": "Swimming should be done in a safe and ______ environment.",
+    "options": [
+      "dangerous",
+      "crowded",
+      "supervised",
+      "dirty"
+    ],
+    "answer": "supervised"
+  },
+  {
+    "question": "Many herbal medicines are obtained from ______.",
+    "options": [
+      "plants",
+      "stones",
+      "metals",
+      "plastics"
+    ],
+    "answer": "plants"
+  },
+  {
+    "question": "Herbal medicine should be used with proper ______.",
+    "options": [
+      "guidance",
+      "anger",
+      "fear",
+      "carelessness"
+    ],
+    "answer": "guidance"
+  },
+  {
+    "question": "Carbohydrates are the main source of ______ for the body.",
+    "options": [
+      "energy",
+      "water",
+      "blood",
+      "air"
+    ],
+    "answer": "energy"
+  },
+  {
+    "question": "Rice, yam and bread are rich in ______.",
+    "options": [
+      "vitamins",
+      "carbohydrates",
+      "proteins",
+      "minerals"
+    ],
+    "answer": "carbohydrates"
+  },
+  {
+    "question": "Proteins help in the growth and repair of body ______.",
+    "options": [
+      "tissues",
+      "chairs",
+      "buildings",
+      "books"
+    ],
+    "answer": "tissues"
+  },
+  {
+    "question": "Fruits and vegetables are good sources of ______.",
+    "options": [
+      "vitamins",
+      "cement",
+      "plastic",
+      "fuel"
+    ],
+    "answer": "vitamins"
+  },
+  {
+    "question": "A deficiency of Vitamin D may cause ______.",
+    "options": [
+      "rickets",
+      "malaria",
+      "typhoid",
+      "cholera"
+    ],
+    "answer": "rickets"
+  },
+  {
+    "question": "Goitre is caused by a lack of ______.",
+    "options": [
+      "iodine",
+      "calcium",
+      "protein",
+      "iron"
+    ],
+    "answer": "iodine"
+  },
+  {
+    "question": "A balanced diet contains all the essential ______.",
+    "options": [
+      "nutrients",
+      "games",
+      "tools",
+      "machines"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Malnutrition occurs when the body does not get enough ______.",
+    "options": [
+      "nutrients",
+      "money",
+      "books",
+      "clothes"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "In Judo, ______ must bow before stepping onto the mat.",
+    "options": [
+      "boxers",
+      "swimmers",
+      "footballers",
+      "Judokas"
+    ],
+    "answer": "Judokas"
+  },
+  {
+    "question": "Judo teaches self-discipline and ______.",
+    "options": [
+      "respect",
+      "noise",
+      "carelessness",
+      "fear"
+    ],
+    "answer": "respect"
+  },
+  {
+    "question": "In Judo your moves must be ______.",
+    "options": [
+      "complete",
+      "incomplete",
+      "partial",
+      "reduced"
+    ],
+    "answer": "complete"
+  },
+  {
+    "question": "Martial arts can help improve physical ______.",
+    "options": [
+      "fitness",
+      "laziness",
+      "weakness",
+      "confusion"
+    ],
+    "answer": "fitness"
+  },
+  {
+    "question": "Swimming is an important water ______.",
+    "options": [
+      "sport",
+      "dance",
+      "trade",
+      "craft"
+    ],
+    "answer": "sport"
+  },
+  {
+    "question": "The backstroke is performed while lying on the ______.",
+    "options": [
+      "side",
+      "back",
+      "stomach",
+      "head"
+    ],
+    "answer": "back"
+  },
+  {
+    "question": "The butterfly stroke requires strong arm and ______ movements.",
+    "options": [
+      "leg",
+      "ear",
+      "nose",
+      "finger"
+    ],
+    "answer": "leg"
+  },
+  {
+    "question": "Swimming helps to improve heart and lung ______.",
+    "options": [
+      "health",
+      "colour",
+      "weight",
+      "height"
+    ],
+    "answer": "health"
+  },
+  {
+    "question": "A lifeguard helps to ensure ______ around a swimming pool.",
+    "options": [
+      "safety",
+      "noise",
+      "traffic",
+      "competition"
+    ],
+    "answer": "safety"
+  },
+  {
+    "question": "People should always follow pool ______ when swimming.",
+    "options": [
+      "rules",
+      "arguments",
+      "rumours",
+      "excuses"
+    ],
+    "answer": "rules"
+  }
+]

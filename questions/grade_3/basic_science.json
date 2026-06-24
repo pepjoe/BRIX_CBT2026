@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is energy?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A type of food",
+      "Power to do work",
+      "A toy",
+      "A kind of animal"
     ],
-    "answer": "A"
+    "answer": "Power to do work"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Which of these gives us heat and light?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Sand",
+      "Stone",
+      "Sun",
+      "Moon"
     ],
-    "answer": "B"
+    "answer": "Sun"
+  },
+  {
+    "question": "Which source of energy comes from the sun?",
+    "options": [
+      "Water energy",
+      "Solar energy",
+      "Sound energy",
+      "Wind energy"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "question": "What do we use electrical energy for at home?",
+    "options": [
+      "Reading books",
+      "Sleeping",
+      "Lighting bulbs",
+      "Cooking only"
+    ],
+    "answer": "Lighting bulbs"
+  },
+  {
+    "question": "Which of these uses energy to move?",
+    "options": [
+      "Cup",
+      "Car",
+      "Table",
+      "Chair"
+    ],
+    "answer": "Car"
+  },
+  {
+    "question": "Which type of energy helps us see at night?",
+    "options": [
+      "Wind energy",
+      "Food energy",
+      "Light energy",
+      "Water energy"
+    ],
+    "answer": "Light energy"
+  },
+  {
+    "question": "Which of these is a source of electrical energy?",
+    "options": [
+      "Leaf",
+      "Book",
+      "Battery",
+      "Spoon"
+    ],
+    "answer": "Battery"
+  },
+  {
+    "question": "What happens when energy is used wisely?",
+    "options": [
+      "It causes flooding",
+      "It saves resources",
+      "It is wasted",
+      "It stops work"
+    ],
+    "answer": "It saves resources"
+  },
+  {
+    "question": "What is soil?",
+    "options": [
+      "Air around us",
+      "Rocks only",
+      "Loose earth where plants grow",
+      "Water in rivers"
+    ],
+    "answer": "Loose earth where plants grow"
+  },
+  {
+    "question": "Which of these grows in soil?",
+    "options": [
+      "Goat",
+      "Plant",
+      "Bird",
+      "Fish"
+    ],
+    "answer": "Plant"
+  },
+  {
+    "question": "Which type of soil is best for growing crops?",
+    "options": [
+      "Rocky soil",
+      "Sandy soil",
+      "Loamy soil",
+      "Clay soil"
+    ],
+    "answer": "Loamy soil"
+  },
+  {
+    "question": "What colour is clay soil usually?",
+    "options": [
+      "White",
+      "Green",
+      "Red or brown",
+      "Blue"
+    ],
+    "answer": "Red or brown"
+  },
+  {
+    "question": "Which soil type has large particles?",
+    "options": [
+      "Loamy soil",
+      "Sandy soil",
+      "Humus",
+      "Clay soil"
+    ],
+    "answer": "Sandy soil"
+  },
+  {
+    "question": "What do plants get from soil?",
+    "options": [
+      "Fuel",
+      "Toys",
+      "Nutrients and water",
+      "Clothes"
+    ],
+    "answer": "Nutrients and water"
+  },
+  {
+    "question": "Which of these is not a type of soil?",
+    "options": [
+      "Plastic soil",
+      "Sandy soil",
+      "Loamy soil",
+      "Clay soil"
+    ],
+    "answer": "Plastic soil"
+  },
+  {
+    "question": "What is the top layer of the earth called?",
+    "options": [
+      "Rain",
+      "Soil",
+      "Cloud",
+      "Sky"
+    ],
+    "answer": "Soil"
+  },
+  {
+    "question": "Which soil holds the most water?",
+    "options": [
+      "Gravel",
+      "Loamy soil",
+      "Clay soil",
+      "Sandy soil"
+    ],
+    "answer": "Clay soil"
+  },
+  {
+    "question": "What should we do to keep soil fertile?",
+    "options": [
+      "Burn it always",
+      "Add manure",
+      "Throw waste on it",
+      "Remove all plants"
+    ],
+    "answer": "Add manure"
+  },
+  {
+    "question": "Which living thing helps to improve soil?",
+    "options": [
+      "Eagle",
+      "Shark",
+      "Earthworm",
+      "Lion"
+    ],
+    "answer": "Earthworm"
+  },
+  {
+    "question": "Why is soil important?",
+    "options": [
+      "It stops rain",
+      "It helps plants grow",
+      "It makes clouds",
+      "It makes the sun shine"
+    ],
+    "answer": "It helps plants grow"
+  },
+  {
+    "question": "What is a weed?",
+    "options": [
+      "A useful crop",
+      "An unwanted plant",
+      "A farm animal",
+      "A farming tool"
+    ],
+    "answer": "An unwanted plant"
+  },
+  {
+    "question": "Which of these is a weed?",
+    "options": [
+      "Maize",
+      "Rice",
+      "Spear grass",
+      "Yam"
+    ],
+    "answer": "Spear grass"
+  },
+  {
+    "question": "Where do weeds usually grow?",
+    "options": [
+      "Only in rivers",
+      "Only in forests",
+      "In gardens and farms",
+      "Only on roads"
+    ],
+    "answer": "In gardens and farms"
+  },
+  {
+    "question": "Why are weeds harmful to crops?",
+    "options": [
+      "They give crops food",
+      "They help crops grow taller",
+      "They compete for nutrients and water",
+      "They produce fruits"
+    ],
+    "answer": "They compete for nutrients and water"
+  },
+  {
+    "question": "Which tool can be used to remove weeds?",
+    "options": [
+      "Cutlass",
+      "Spoon",
+      "Cup",
+      "Plate"
+    ],
+    "answer": "Cutlass"
+  },
+  {
+    "question": "What is the process of removing weeds called?",
+    "options": [
+      "Harvesting",
+      "Watering",
+      "Weeding",
+      "Planting"
+    ],
+    "answer": "Weeding"
+  },
+  {
+    "question": "Weeds compete with crops for ______.",
+    "options": [
+      "Water, sunlight and nutrients",
+      "Books and pens",
+      "Clothes and shoes",
+      "Tables and chairs"
+    ],
+    "answer": "Water, sunlight and nutrients"
+  },
+  {
+    "question": "Which of these helps to control weeds?",
+    "options": [
+      "Planting more weeds",
+      "Regular weeding",
+      "Ignoring the farm",
+      "Overcrowding crops"
+    ],
+    "answer": "Regular weeding"
+  },
+  {
+    "question": "What can weeds do to farm crops?",
+    "options": [
+      "Increase crop yield always",
+      "Reduce crop growth",
+      "Turn into animals",
+      "Produce more rain"
+    ],
+    "answer": "Reduce crop growth"
+  },
+  {
+    "question": "When should weeds be removed from a farm?",
+    "options": [
+      "At the right time",
+      "Never",
+      "After harvest only",
+      "During rainfall only"
+    ],
+    "answer": "At the right time"
+  },
+  {
+    "question": "What is the first step in growing crops?",
+    "options": [
+      "Harvesting",
+      "Planting",
+      "Preparing the land",
+      "Selling crops"
+    ],
+    "answer": "Preparing the land"
+  },
+  {
+    "question": "What do farmers do before planting seeds?",
+    "options": [
+      "Weed the farm",
+      "Prepare the soil",
+      "Eat seeds",
+      "Cut crops"
+    ],
+    "answer": "Prepare the soil"
+  },
+  {
+    "question": "What is used to make the soil soft for planting?",
+    "options": [
+      "Hoe",
+      "Spoon",
+      "Knife",
+      "Basket"
+    ],
+    "answer": "Hoe"
+  },
+  {
+    "question": "What do we call placing seeds in the soil?",
+    "options": [
+      "Harvesting",
+      "Planting",
+      "Cooking",
+      "Weeding"
+    ],
+    "answer": "Planting"
+  },
+  {
+    "question": "What helps seeds to grow after planting?",
+    "options": [
+      "Sunlight and water",
+      "Stones and sand",
+      "Plastic and metal",
+      "Fire and smoke"
+    ],
+    "answer": "Sunlight and water"
+  },
+  {
+    "question": "What do young plants need to grow well?",
+    "options": [
+      "Air, water, and sunlight",
+      "Noise and dust",
+      "Sugar and salt",
+      "Books and toys"
+    ],
+    "answer": "Air, water, and sunlight"
+  },
+  {
+    "question": "What is removing weeds from a farm called?",
+    "options": [
+      "Harvesting",
+      "Weeding",
+      "Cooking",
+      "Fishing"
+    ],
+    "answer": "Weeding"
+  },
+  {
+    "question": "Why do farmers water their crops?",
+    "options": [
+      "To dry crops",
+      "To help plants grow",
+      "To kill plants",
+      "To store seeds"
+    ],
+    "answer": "To help plants grow"
+  },
+  {
+    "question": "What helps crops to grow better in the soil?",
+    "options": [
+      "Fertilizer",
+      "Plastic",
+      "Oil",
+      "Paper"
+    ],
+    "answer": "Fertilizer"
+  },
+  {
+    "question": "When do farmers harvest crops?",
+    "options": [
+      "When crops are ripe",
+      "When seeds are bought",
+      "When soil is dry",
+      "When rain starts"
+    ],
+    "answer": "When crops are ripe"
   }
 ]

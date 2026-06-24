@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Which mineral is needed to keep our bones and teeth strong?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Oil",
+      "Water"
+    ],
+    "answer": "Calcium"
+  },
+  {
+    "question": "A race where contestants must leap over barriers is called:",
+    "options": [
+      "Sprinting",
+      "Hurdles",
+      "Marathon",
+      "Relay"
+    ],
+    "answer": "Hurdles"
+  },
+  {
+    "question": "How many cardinal points do we have in total?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "In Table Tennis, a game is now played to how many points?",
+    "options": [
+      "21",
+      "15",
+      "11",
+      "5"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "In long distance races, the most important thing for the race is:",
+    "options": [
+      "Speed",
+      "Endurance",
+      "New shoes",
+      "Weight"
+    ],
+    "answer": "Endurance"
+  },
+  {
+    "question": "At 10-10 in Table Tennis, the game is called:",
+    "options": [
+      "Draw",
+      "Deuce",
+      "Tie",
+      "Overtime"
+    ],
+    "answer": "Deuce"
+  },
+  {
+    "question": "Which piece of hockey equipment is worn on the head?",
+    "options": [
+      "Gloves",
+      "Shoulder pad",
+      "Helmet",
+      "Stick"
+    ],
+    "answer": "Helmet"
+  },
+  {
+    "question": "What is the leg called that goes over the hurdle first?",
+    "options": [
+      "Back leg",
+      "Trail leg",
+      "Lead leg",
+      "Fast leg"
+    ],
+    "answer": "Lead leg"
+  },
+  {
+    "question": "Which nutrient is known as \"Body Building Food\"?",
+    "options": [
+      "Fats",
+      "Protein",
+      "Carbohydrates",
+      "Sugar"
+    ],
+    "answer": "Protein"
+  },
+  {
+    "question": "If you are facing North, which direction is behind you?",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "North"
+    ],
+    "answer": "South"
+  },
+  {
+    "question": "To pass a runner on the straights, you should position yourself beside their:",
+    "options": [
+      "Leg",
+      "Shoulder",
+      "Foot",
+      "Head"
+    ],
+    "answer": "Shoulder"
+  },
+  {
+    "question": "The sun always sets in the:",
+    "options": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ],
+    "answer": "West"
+  },
+  {
+    "question": "Which lane should a long distance runner try to enter immediately?",
+    "options": [
+      "Outside lane",
+      "Middle lane",
+      "Inside lane",
+      "Lane 8"
+    ],
+    "answer": "Inside lane"
+  },
+  {
+    "question": "Direction is a line leading to a place or a ______________",
+    "options": [
+      "Point",
+      "Circle",
+      "Square",
+      "Curve"
+    ],
+    "answer": "Point"
+  },
+  {
+    "question": "A player loses a point in Table Tennis if they touch the table with their:",
+    "options": [
+      "Free hand",
+      "Bat",
+      "Shoe",
+      "Eyes"
+    ],
+    "answer": "Free hand"
+  },
+  {
+    "question": "Which vitamin helps us to see clearly with our eyes?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "answer": "Vitamin A"
+  },
+  {
+    "question": "Lack of enough food or the right nutrients leads to:",
+    "options": [
+      "Growth",
+      "Health",
+      "Deficiency diseases",
+      "Wealth"
+    ],
+    "answer": "Deficiency diseases"
+  },
+  {
+    "question": "In doubles Table Tennis, the service must go:",
+    "options": [
+      "Straight",
+      "Diagonally",
+      "High",
+      "Softly"
+    ],
+    "answer": "Diagonally"
+  },
+  {
+    "question": "Food provides ________________ substances called nutrients.",
+    "options": [
+      "Harmful",
+      "Essential",
+      "Heavy",
+      "Hard"
+    ],
+    "answer": "Essential"
+  },
+  {
+    "question": "A diet that contains all the necessary nutrients in the right amount is a:",
+    "options": [
+      "Small diet",
+      "Balanced diet",
+      "Heavy diet",
+      "Poor diet"
+    ],
+    "answer": "Balanced diet"
+  },
+  {
+    "question": "Which direction is to the right of North?",
+    "options": [
+      "West",
+      "East",
+      "South",
+      "South-West"
+    ],
+    "answer": "East"
+  },
+  {
+    "question": "What nutrient helps to transport oxygen throughout the body?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Fat",
+      "Sugar"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "question": "A \"Power Play\" happens when a player is sent to the:",
+    "options": [
+      "Goal post",
+      "Locker room",
+      "Penalty box",
+      "Sideline"
+    ],
+    "answer": "Penalty box"
+  },
+  {
+    "question": "The cardinal points are used to find ________________ on a map.",
+    "options": [
+      "Distance",
+      "Location",
+      "Color",
+      "Size"
+    ],
+    "answer": "Location"
+  },
+  {
+    "question": "Which skill helps a runner save energy for the end of a long race?",
+    "options": [
+      "Pacing",
+      "Shouting",
+      "Sleeping",
+      "Jumping"
+    ],
+    "answer": "Pacing"
+  },
+  {
+    "question": "At the start of a long race, you should accelerate down the:",
+    "options": [
+      "Grass",
+      "Straight",
+      "Corner",
+      "Middle"
+    ],
+    "answer": "Straight"
+  },
+  {
+    "question": "In Table Tennis, what is it called when a serve touches the net but still lands correctly?",
+    "options": [
+      "Foul",
+      "Let",
+      "Point",
+      "Out"
+    ],
+    "answer": "Let"
+  },
+  {
+    "question": "Which of these is a source of Carbohydrate?",
+    "options": [
+      "Meat",
+      "Fish",
+      "Yam",
+      "Egg"
+    ],
+    "answer": "Yam"
+  },
+  {
+    "question": "Long distance races include the 800m, 1500m and the:",
+    "options": [
+      "50m",
+      "Marathon",
+      "100m",
+      "High jump"
+    ],
+    "answer": "Marathon"
+  },
+  {
+    "question": "To avoid serious injury before a race, you must always:",
+    "options": [
+      "Sleep",
+      "Eat",
+      "Stretch",
+      "Shout"
+    ],
+    "answer": "Stretch"
+  },
+  {
+    "question": "Which intermediate direction lies exactly between North and East?",
+    "options": [
+      "North-West",
+      "South-East",
+      "North-East",
+      "South-West"
+    ],
+    "answer": "North-East"
+  },
+  {
+    "question": "What is the name of the flat board tool used to hold the net tightly across a Table Tennis table?",
+    "options": [
+      "Racket",
+      "Clamp / Post",
+      "Paddle",
+      "Handle"
+    ],
+    "answer": "Clamp / Post"
+  },
+  {
+    "question": "In hockey, players use a curved ______________ to hit and control the ball.",
+    "options": [
+      "Bat",
+      "Club",
+      "Stick",
+      "Racket"
+    ],
+    "answer": "Stick"
+  },
+  {
+    "question": "Which nutrient provides the body with its main and fastest source of energy?",
+    "options": [
+      "Vitamins",
+      "Minerals",
+      "Water",
+      "Carbohydrates"
+    ],
+    "answer": "Carbohydrates"
+  },
+  {
+    "question": "A deficiency disease caused by a severe lack of Vitamin C in a person's diet is called ________.",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Malaria"
+    ],
+    "answer": "Scurvy"
+  },
+  {
+    "question": "What part of your foot should you primarily land on during a long-distance run to maintain good form?",
+    "options": [
+      "Heel",
+      "Toes only",
+      "Midfoot / Sole",
+      "Side of the foot"
+    ],
+    "answer": "Midfoot / Sole"
+  },
+  {
+    "question": "In Table Tennis, how many consecutive services does a player get before the serve switches to the opponent?",
+    "options": [
+      "Five serves",
+      "Two serves",
+      "One serve",
+      "Four serves"
+    ],
+    "answer": "Two serves"
+  },
+  {
+    "question": "Which of the following is an example of a healthy source of dietary Protein?",
+    "options": [
+      "Cassava",
+      "Butter",
+      "Fish",
+      "White Rice"
+    ],
+    "answer": "Fish"
+  },
+  {
+    "question": "The leg that clears the hurdle last and is tucked inward is known as the ________.",
+    "options": [
+      "Lead leg",
+      "Trail leg",
+      "Front leg",
+      "High leg"
+    ],
+    "answer": "Trail leg"
+  },
+  {
+    "question": "The four main directions on a compass are collectively known as the ________ points.",
+    "options": [
+      "Secondary",
+      "Cardinal",
+      "Ordinal",
+      "Intermediate"
+    ],
+    "answer": "Cardinal"
+  }
+]

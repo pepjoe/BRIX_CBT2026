@@ -1,22 +1,397 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "The volume of a cube with side 4 cm is:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "16 cm³", 
+      "32 cm³", 
+      "64 cm³", 
+      "48 cm³"
     ],
-    "answer": "A"
+    "answer": "64 cm³"
   },
   {
-    "question": "Sample Question 2",
+    "question": "A cuboid measures 5 cm × 4 cm × 3 cm. Its volume is:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "12 cm³", 
+      "20 cm³", 
+      "60 cm³", 
+      "120 cm³"
     ],
-    "answer": "B"
+    "answer": "60 cm³"
+  },
+  {
+    "question": "The formula for the volume of a cuboid is:",
+    "options": [
+      "Length × Breadth × Height",
+      "Length + Breadth + Height",
+      "Length × Breadth",
+      "2(l + b)"
+    ],
+    "answer": "Length × Breadth × Height"
+  },
+  {
+    "question": "A cube has side 2 cm. Its volume is:",
+    "options": [
+      "4 cm³", 
+      "6 cm³", 
+      "8 cm³", 
+      "12 cm³"
+    ],
+    "answer": "8 cm³"
+  },
+  {
+    "question": "The area of a circle is measured in:",
+    "options": [
+      "cm", 
+      "cm²", 
+      "cm³", 
+      "kg"
+    ],
+    "answer": "cm²"
+  },
+  {
+    "question": "The distance around a circle is called:",
+    "options": [
+      "Radius", 
+      "Diameter", 
+      "Circumference", 
+      "Chord"
+    ],
+    "answer": "Circumference"
+  },
+  {
+    "question": "Half of a circle's diameter is:",
+    "options": [
+      "Radius", 
+      "Circumference", 
+      "Area", 
+      "Arc"
+    ],
+    "answer": "Radius"
+  },
+  {
+    "question": "If the radius of a circle is 7 cm, the diameter is:",
+    "options": [
+      "7 cm", 
+      "14 cm", 
+      "21 cm", 
+      "28 cm"
+    ],
+    "answer": "14 cm"
+  },
+  {
+    "question": "π is approximately:",
+    "options": [
+      "2.14", 
+      "3.14", 
+      "4.13", 
+      "5.14"
+    ],
+    "answer": "3.14"
+  },
+  {
+    "question": "Circumference of a circle =",
+    "options": [
+      "πr²", 
+      "2πr", 
+      "l × b × h", 
+      "s³"
+    ],
+    "answer": "2πr"
+  },
+  {
+    "question": "Area of a circle =",
+    "options": [
+      "2πr", 
+      "πd", 
+      "πr²", 
+      "r²"
+    ],
+    "answer": "πr²"
+  },
+  {
+    "question": "A circle with radius 3 cm has area:",
+    "options": [
+      "28.26 cm²", 
+      "18.84 cm²", 
+      "9.42 cm²", 
+      "6 cm²"
+    ],
+    "answer": "28.26 cm²"
+  },
+  {
+    "question": "The volume of a solid tells us:",
+    "options": [
+      "Its weight",
+      "The space it occupies",
+      "Its height",
+      "Its colour"
+    ],
+    "answer": "The space it occupies"
+  },
+  {
+    "question": "A cube has:",
+    "options": [
+      "4 faces", 
+      "5 faces", 
+      "6 faces", 
+      "8 faces"
+    ],
+    "answer": "6 faces"
+  },
+  {
+    "question": "The standard unit of mass is:",
+    "options": [
+      "Litre", 
+      "Kilogram", 
+      "Metre", 
+      "Second"
+    ],
+    "answer": "Kilogram"
+  },
+  {
+    "question": "The symbol for kilogram is:",
+    "options": [
+      "km", 
+      "kg", 
+      "gm", 
+      "kl"
+    ],
+    "answer": "kg"
+  },
+  {
+    "question": "1 kilogram equals:",
+    "options": [
+      "100 g", 
+      "1,000 g", 
+      "10 g", 
+      "100,000 g"
+    ],
+    "answer": "1,000 g"
+  },
+  {
+    "question": "The instrument used to measure mass is:",
+    "options": [
+      "Thermometer", 
+      "Balance", 
+      "Clock", 
+      "Ruler"
+    ],
+    "answer": "Balance"
+  },
+  {
+    "question": "Which is heavier?",
+    "options": [
+      "500 g", 
+      "1 kg", 
+      "250 g", 
+      "750 g"
+    ],
+    "answer": "1 kg"
+  },
+  {
+    "question": "Half of 1 kg is:",
+    "options": [
+      "50 g", 
+      "500 g", 
+      "5 g", 
+      "5,000 g"
+    ],
+    "answer": "500 g"
+  },
+  {
+    "question": "Which unit is smaller?",
+    "options": [
+      "kg", 
+      "g", 
+      "tonne", 
+      "ton"
+    ],
+    "answer": "g"
+  },
+  {
+    "question": "3,000 g equals:",
+    "options": [
+      "3 kg", 
+      "30 kg", 
+      "300 kg", 
+      "0.3 kg"
+    ],
+    "answer": "3 kg"
+  },
+  {
+    "question": "A bag of rice may weigh:",
+    "options": [
+      "25 kg", 
+      "25 g", 
+      "2 g", 
+      "5 g"
+    ],
+    "answer": "25 kg"
+  },
+  {
+    "question": "750 g is:",
+    "options": [
+      "Less than 1 kg",
+      "Equal to 1 kg",
+      "More than 1 kg",
+      "None"
+    ],
+    "answer": "Less than 1 kg"
+  },
+  {
+    "question": "Which of these is measured in kilograms?",
+    "options": ["Pencil", "School bag", "Distance", "Water"],
+    "answer": "School bag"
+  },
+  {
+    "question": "5 kg equals:",
+    "options": [
+      "500 g", 
+      "5,000 g", 
+      "50 g", 
+      "500,000 g"
+    ],
+    "answer": "5,000 g"
+  },
+  {
+    "question": "Which is the lightest?",
+    "options": [
+      "1 kg", 
+      "900 g", 
+      "800 g", 
+      "700 g"
+    ],
+    "answer": "700 g"
+  },
+  {
+    "question": "Simple interest is the:",
+    "options": [
+      "Money borrowed",
+      "Extra money paid on borrowed money",
+      "Amount saved",
+      "Cost price"
+    ],
+    "answer": "Extra money paid on borrowed money"
+  },
+  {
+    "question": "The original money borrowed is called:",
+    "options": [
+      "Interest", 
+      "Amount", 
+      "Principal", 
+      "Profit"
+    ],
+    "answer": "Principal"
+  },
+  {
+    "question": "The formula for simple interest is:",
+    "options": [
+      "P × R × T ÷ 100",
+      "P + R + T",
+      "P × R",
+      "P ÷ T"
+    ],
+    "answer": "P × R × T ÷ 100"
+  },
+  {
+    "question": "What does \"P\" stand for?",
+    "options": [
+      "Profit", 
+      "Principal", 
+      "Price", 
+      "Payment"
+    ],
+    "answer": "Principal"
+  },
+  {
+    "question": "What does \"R\" stand for?",
+    "options": [
+      "Ratio", 
+      "Rate", 
+      "Result", 
+      "Rent"
+    ],
+    "answer": "Rate"
+  },
+  {
+    "question": "What does \"T\" stand for?",
+    "options": [
+      "Total", 
+      "Time", 
+      "Table", 
+      "Tenure"
+    ],
+    "answer": "Time"
+  },
+  {
+    "question": "Find the simple interest on ₦100 for 1 year at 10%.",
+    "options": [
+      "₦5", 
+      "₦10", 
+      "₦15", 
+      "₦20"
+    ],
+    "answer": "₦10"
+  },
+  {
+    "question": "SI on ₦200 at 5% for 1 year is:",
+    "options": [
+      "₦5", 
+      "₦10", 
+      "₦15", 
+      "₦20"
+    ],
+    "answer": "₦10"
+  },
+  {
+    "question": "SI on ₦500 at 4% for 1 year is:",
+    "options": [
+      "₦20", 
+      "₦25", 
+      "₦30", 
+      "₦40"
+    ],
+    "answer": "₦20"
+  },
+  {
+    "question": "Principal = ₦400, Rate = 5%, Time = 1 year. SI =",
+    "options": [
+      "₦10", 
+      "₦20", 
+      "₦30", 
+      "₦40"
+    ],
+    "answer": "₦20"
+  },
+  {
+    "question": "The amount equals:",
+    "options": [
+      "Principal − Interest",
+      "Principal + Interest",
+      "Interest only",
+      "Rate + Time"
+    ],
+    "answer": "Principal + Interest"
+  },
+  {
+    "question": "₦100 borrowed at 20% for 1 year gives interest of:",
+    "options": [
+      "₦10", 
+      "₦15", 
+      "₦20", 
+      "₦25"
+    ],
+    "answer": "₦20"
+  },
+  {
+    "question": "SI on ₦500 at 10% for 2 years =",
+    "options": [
+      "₦50", 
+      "₦100", 
+      "₦150", 
+      "₦200"
+    ],
+    "answer": "₦100"
   }
 ]

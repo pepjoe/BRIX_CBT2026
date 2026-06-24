@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Local musical instruments are classified into how many major families?",
+    "options": [
+        "Two", 
+        "Three", 
+        "Four"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "Instruments that produce sound by means of a membrane or skin are called what?",
+    "options": [
+        "Membranophones", 
+        "Chordophones", 
+        "Aerophones"
+    ],
+    "answer": "Membranophones"
+  },
+  {
+    "question": "Which of the following is an Efik/Ibibio name for a drum?",
+    "options": [
+        "Iba", 
+        "Ibid", 
+        "Igbin"
+    ],
+    "answer": "Ibid"
+  },
+  {
+    "question": "What is the Yoruba name for a drum mentioned in the notes?",
+    "options": [
+        "Igbin", 
+        "Iba", 
+        "Ibid"
+    ],
+    "answer": "Igbin"
+  },
+  {
+    "question": "The Talking drum is an example of a double-headed drum called what in Yoruba?",
+    "options": [
+        "Udu", 
+        "Dundun", 
+        "Asasa"
+    ],
+    "answer": "Dundun"
+  },
+  {
+    "question": "What name is generally given to musical instruments that produce sound by means of strings?",
+    "options": [
+        "Chordophone", 
+        "Idiophone", 
+        "Aerophone"
+    ],
+    "answer": "Chordophone"
+  },
+  {
+    "question": "Which of these is an example of a chordophone used by the Igbo people?",
+    "options": [
+        "Une", 
+        "Anana", 
+        "Dundun"
+    ],
+    "answer": "Une"
+  },
+  {
+    "question": "Anana is a string instrument used by which cultural group?",
+    "options": [
+        "Yoruba", 
+        "Igbo", 
+        "Efik/Ibibio"
+    ],
+    "answer": "Efik/Ibibio"
+  },
+  {
+    "question": "A \"one-string fiddle\" belongs to which family of musical instruments?",
+    "options": [
+        "Membranophone", 
+        "Chordophone", 
+        "Aerophone"
+    ],
+    "answer": "Chordophone"
+  },
+  {
+    "question": "What family of instruments produces sound when air is blown into them?",
+    "options": [
+        "Aerophone", 
+        "Idiophone", 
+        "Chordophone"
+    ],
+    "answer": "Aerophone"
+  },
+  {
+    "question": "Which instrument is a classic example of a double reed aerophone?",
+    "options": [
+        "Oja", 
+        "Lare", 
+        "Double Reed Reed"
+    ],
+    "answer": "Double Reed Reed"
+  },
+  {
+    "question": "The flute is known as what in the Igbo language?",
+    "options": [
+        "Lare", 
+        "Oja", 
+        "Abang"
+    ],
+    "answer": "Oja"
+  },
+  {
+    "question": "The Yoruba name for a flute is what?",
+    "options": [
+        "Lare", 
+        "Oja", 
+        "Ibit"
+    ],
+    "answer": "Lare"
+  },
+  {
+    "question": "Instruments that produce sound from their own body material when struck or shaken are called what?",
+    "options": [
+        "Membranophones", 
+        "Aerophones", 
+        "Idiophones"
+    ],
+    "answer": "Idiophones"
+  },
+  {
+    "question": "The Twin Gong is an example of a struck idiophone known as what in Efik/Ibibio?",
+    "options": [
+        "Akalcanq", 
+        "Abang", 
+        "Nsak"
+    ],
+    "answer": "Akalcanq"
+  },
+  {
+    "question": "What is the Igbo name for a Pot drum?",
+    "options": [
+        "Udu", 
+        "Nsak", 
+        "Ntunq"
+    ],
+    "answer": "Udu"
+  },
+  {
+    "question": "The Efik/Ibibio name for a Pot drum is what?",
+    "options": [
+        "Abang", 
+        "Udu", 
+        "Sekere"
+    ],
+    "answer": "Abang"
+  },
+  {
+    "question": "A Shekere is a type of shaken idiophone. What is its Efik/Ibibio name?",
+    "options": [
+        "Ichaka", 
+        "Nsak", 
+        "Sekere"
+    ],
+    "answer": "Nsak"
+  },
+  {
+    "question": "What is the Igbo name for a Shekere or ground rattle?",
+    "options": [
+        "Ichaka", 
+        "Sekere", 
+        "Nsak"
+    ],
+    "answer": "Ichaka"
+  },
+  {
+    "question": "The Yoruba name for a ground rattle or shaker is what?",
+    "options": [
+        "Nsak", 
+        "Sekere", 
+        "Ichaka"
+    ],
+    "answer": "Sekere"
+  },
+  {
+    "question": "A rattle is called \"Ntunq\" in Efik/Ibibio. What is it called in Igbo?",
+    "options": [
+        "Ichaka", 
+        "Oyo", 
+        "Sukpili"
+    ],
+    "answer": "Sukpili"
+  },
+  {
+    "question": "Music is built from a set of core building blocks known as what?",
+    "options": [
+        "Instruments", 
+        "Elements of music", 
+        "Ingredients"
+    ],
+    "answer": "Elements of music"
+  },
+  {
+    "question": "Which element is defined as a sequence of notes played one after another that forms a tune?",
+    "options": [
+        "Melody", 
+        "Harmony", 
+        "Rhythm"
+    ],
+    "answer": "Melody"
+  },
+  {
+    "question": "Which element has key aspects like contour (shape), range, and intervals?",
+    "options": [
+        "Rhythm", 
+        "Melody", 
+        "Dynamics"
+    ],
+    "answer": "Melody"
+  },
+  {
+    "question": "What is the element where notes are sounded together to support the melody?",
+    "options": [
+        "Harmony", 
+        "Melody", 
+        "Form"
+    ],
+    "answer": "Harmony"
+  },
+  {
+    "question": "Harmony is often described as the \"__________ dimension of music.\"",
+    "options": [
+        "Horizontal", 
+        "Vertical", 
+        "Diagonal"
+    ],
+    "answer": "Vertical"
+  },
+  {
+    "question": "Which element of music creates tension, release, and emotional color?",
+    "options": [
+        "Rhythm", 
+        "Melody", 
+        "Harmony"
+    ],
+    "answer": "Harmony"
+  },
+  {
+    "question": "The placement of sound in time is known as what?",
+    "options": [
+        "Texture", 
+        "Rhythm", 
+        "Tempo"
+    ],
+    "answer": "Rhythm"
+  },
+  {
+    "question": "Which of the following is NOT a key aspect of rhythm?",
+    "options": [
+        "Beat", 
+        "Tempo", 
+        "Contour"
+    ],
+    "answer": "Contour"
+  },
+  {
+    "question": "What role does rhythm play in a piece of music?",
+    "options": [
+      "It drives movement and gives a groove",
+      "It supports the melody",
+      "It makes music soft"
+    ],
+    "answer": "It drives movement and gives a groove"
+  },
+  {
+    "question": "How many layers of sound you hear and how they relate is called what?",
+    "options": [
+        "Timbre", 
+        "Form", 
+        "Texture"
+    ],
+    "answer": "Texture"
+  },
+  {
+    "question": "What texture features a single melodic line with no accompaniment?",
+    "options": [
+        "Monophonic", 
+        "Homophonic", 
+        "Polyphonic"
+    ],
+    "answer": "Monophonic"
+  },
+  {
+    "question": "A singer singing alone with no instruments is an example of which texture?",
+    "options": [
+        "Polyphonic", 
+        "Homophonic", 
+        "Monophonic"
+    ],
+    "answer": "Monophonic"
+  },
+  {
+    "question": "A melody supported by chordal accompaniment (like a singer with a guitar) is called what?",
+    "options": [
+        "Monophonic", 
+        "Homophonic", 
+        "Polyphonic"
+    ],
+    "answer": "Homophonic"
+  },
+  {
+    "question": "What texture consists of two or more independent melodies playing at once?",
+    "options": [
+        "Monophonic", 
+        "Homophonic", 
+        "Polyphonic"
+    ],
+    "answer": "Polyphonic"
+  },
+  {
+    "question": "A Bach fugue is a classic example of which texture?",
+    "options": [
+        "Monophonic", 
+        "Homophonic", 
+        "Polyphonic"
+    ],
+    "answer": "Polyphonic"
+  },
+  {
+    "question": "The unique quality or \"color\" of a sound that lets you tell a trumpet from a violin is called what?",
+    "options": [
+        "Timbre", 
+        "Dynamics", 
+        "Texture"
+    ],
+    "answer": "Timbre"
+  },
+  {
+    "question": "The overall blueprint or layout of a piece of music is called its what?",
+    "options": [
+        "Form/Structure", 
+        "Harmony", 
+        "Tempo"
+    ],
+    "answer": "Form/Structure"
+  },
+  {
+    "question": "How loud or soft the music is, and how that changes, refers to what?",
+    "options": [
+        "Timbre", 
+        "Dynamics", 
+        "Pitch"
+    ],
+    "answer": "Dynamics"
+  },
+  {
+    "question": "What is the speed of the beat measured in BPM called?",
+    "options": [
+        "Rhythm", 
+        "Form", 
+        "Tempo"
+    ],
+    "answer": "Tempo"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is swimming?",
+    "options": [
+      "Running on land",
+      "Moving through water",
+      "Jumping over water",
+      "Riding a bicycle"
+    ],
+    "answer": "Moving through water"
+  },
+  {
+    "question": "What are swimming strokes?",
+    "options": [
+      "Types of games",
+      "Types of exercises",
+      "Different ways of moving in water",
+      "Types of food"
+    ],
+    "answer": "Different ways of moving in water"
+  },
+  {
+    "question": "Which swimming stroke is the fastest?",
+    "options": [
+      "Breaststroke",
+      "Backstroke",
+      "Butterfly stroke",
+      "Freestyle"
+    ],
+    "answer": "Freestyle"
+  },
+  {
+    "question": "Which swimming stroke is done while lying on the back?",
+    "options": [
+      "Freestyle",
+      "Butterfly stroke",
+      "Backstroke",
+      "Breaststroke"
+    ],
+    "answer": "Backstroke"
+  },
+  {
+    "question": "In which swimming stroke do the legs move like a frog's kick?",
+    "options": [
+      "Breaststroke",
+      "Freestyle",
+      "Backstroke",
+      "Running stroke"
+    ],
+    "answer": "Breaststroke"
+  },
+  {
+    "question": "Which swimming stroke uses both arms moving together over the water?",
+    "options": [
+      "Freestyle",
+      "Breaststroke",
+      "Butterfly stroke",
+      "Backstroke"
+    ],
+    "answer": "Butterfly stroke"
+  },
+  {
+    "question": "Why do people learn swimming strokes?",
+    "options": [
+      "To swim better",
+      "To sleep better",
+      "To write faster",
+      "To draw pictures"
+    ],
+    "answer": "To swim better"
+  },
+  {
+    "question": "Which of these is a swimming safety rule?",
+    "options": [
+      "Swim alone",
+      "Push others into the water",
+      "Follow pool rules",
+      "Run around the pool"
+    ],
+    "answer": "Follow pool rules"
+  },
+  {
+    "question": "How many common swimming strokes were discussed in the lesson?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "Which part of the body is mainly used in swimming?",
+    "options": [
+      "Arms and legs",
+      "Eyes and ears",
+      "Nose and mouth",
+      "Hair and teeth"
+    ],
+    "answer": "Arms and legs"
+  },
+  {
+    "question": "What are pathogens?",
+    "options": [
+      "Harmful germs",
+      "Toys",
+      "Books",
+      "Clothes"
+    ],
+    "answer": "Harmful germs"
+  },
+  {
+    "question": "Pathogens are too small to be seen with the ______.",
+    "options": [
+      "Television",
+      "Naked eye",
+      "Radio",
+      "Fan"
+    ],
+    "answer": "Naked eye"
+  },
+  {
+    "question": "Which of these is a type of pathogen?",
+    "options": [
+      "Bacteria",
+      "Chair",
+      "Table",
+      "Pencil"
+    ],
+    "answer": "Bacteria"
+  },
+  {
+    "question": "Which disease is caused by pathogens?",
+    "options": [
+      "Malaria",
+      "Happiness",
+      "Hunger",
+      "Sleep"
+    ],
+    "answer": "Malaria"
+  },
+  {
+    "question": "Malaria is spread mainly by ______.",
+    "options": [
+      "Mosquitoes",
+      "Cats",
+      "Birds",
+      "Goats"
+    ],
+    "answer": "Mosquitoes"
+  },
+  {
+    "question": "Which of these helps to prevent diseases caused by pathogens?",
+    "options": [
+      "Eating dirty food",
+      "Drinking dirty water",
+      "Washing hands regularly",
+      "Littering the environment"
+    ],
+    "answer": "Washing hands regularly"
+  },
+  {
+    "question": "Which pathogen causes ringworm?",
+    "options": [
+      "Fungi",
+      "Fish",
+      "Bird",
+      "Reptile"
+    ],
+    "answer": "Fungi"
+  },
+  {
+    "question": "Pathogens can spread through ______ water.",
+    "options": [
+      "Clean",
+      "Dirty",
+      "Cold",
+      "Warm"
+    ],
+    "answer": "Dirty"
+  },
+  {
+    "question": "Covering the mouth when coughing helps to ______.",
+    "options": [
+      "Spread diseases",
+      "Spread germs",
+      "Stop the spread of germs",
+      "Make people sick"
+    ],
+    "answer": "Stop the spread of germs"
+  },
+  {
+    "question": "Keeping the environment clean helps to prevent ______.",
+    "options": [
+      "Diseases",
+      "Rainfall",
+      "Sunshine",
+      "Wind"
+    ],
+    "answer": "Diseases"
+  },
+  {
+    "question": "What is a disease?",
+    "options": [
+      "A healthy condition",
+      "A condition that makes a person sick",
+      "A type of food",
+      "A school activity"
+    ],
+    "answer": "A condition that makes a person sick"
+  },
+  {
+    "question": "Which of these diseases is spread by mosquito bites?",
+    "options": [
+      "Malaria",
+      "Measles",
+      "Cough",
+      "Cold"
+    ],
+    "answer": "Malaria"
+  },
+  {
+    "question": "What should we do before eating food?",
+    "options": [
+      "Play games",
+      "Sleep",
+      "Wash our hands",
+      "Run around"
+    ],
+    "answer": "Wash our hands"
+  },
+  {
+    "question": "Which of these can cause diseases?",
+    "options": [
+      "Clean water",
+      "Good food",
+      "Germs",
+      "Exercise"
+    ],
+    "answer": "Germs"
+  },
+  {
+    "question": "What should we drink to stay healthy?",
+    "options": [
+      "Dirty water",
+      "Clean water",
+      "Muddy water",
+      "Rainwater from the ground"
+    ],
+    "answer": "Clean water"
+  },
+  {
+    "question": "Which of these is a sign of illness?",
+    "options": [
+      "Fever",
+      "Happiness",
+      "Strength",
+      "Growth"
+    ],
+    "answer": "Fever"
+  },
+  {
+    "question": "Why should we keep our environment clean?",
+    "options": [
+      "To attract insects",
+      "To spread diseases",
+      "To prevent diseases",
+      "To make dirt increase"
+    ],
+    "answer": "To prevent diseases"
+  },
+  {
+    "question": "Which of these helps to prevent diseases?",
+    "options": [
+      "Eating dirty food",
+      "Sleeping under a mosquito net",
+      "Drinking dirty water",
+      "Refusing to bathe"
+    ],
+    "answer": "Sleeping under a mosquito net"
+  },
+  {
+    "question": "Which disease can be caused by drinking dirty water?",
+    "options": [
+      "Cholera",
+      "Malaria",
+      "Measles",
+      "Chickenpox"
+    ],
+    "answer": "Cholera"
+  },
+  {
+    "question": "What should we do when we feel sick?",
+    "options": [
+      "Ignore it",
+      "Play in dirty places",
+      "Tell a parent or visit a health worker",
+      "Stop eating completely"
+    ],
+    "answer": "Tell a parent or visit a health worker"
+  },
+  {
+    "question": "What is a disease?",
+    "options": [
+      "A game",
+      "An illness",
+      "A toy",
+      "A book"
+    ],
+    "answer": "An illness"
+  },
+  {
+    "question": "Diseases can spread from one person to another through ______.",
+    "options": [
+      "Contact",
+      "Sleeping",
+      "Reading",
+      "Playing alone"
+    ],
+    "answer": "Contact"
+  },
+  {
+    "question": "Which of these can spread diseases?",
+    "options": [
+      "Clean water",
+      "Mosquitoes",
+      "Soap",
+      "Toothbrush"
+    ],
+    "answer": "Mosquitoes"
+  },
+  {
+    "question": "Sharing cups with a sick person can ______.",
+    "options": [
+      "Spread disease",
+      "Stop rain",
+      "Make food",
+      "Build houses"
+    ],
+    "answer": "Spread disease"
+  },
+  {
+    "question": "Cholera can spread through ______.",
+    "options": [
+      "Clean air",
+      "Dirty water",
+      "Sunlight",
+      "Exercise"
+    ],
+    "answer": "Dirty water"
+  },
+  {
+    "question": "Which insect spreads malaria?",
+    "options": [
+      "Butterfly",
+      "Housefly",
+      "Mosquito",
+      "Ant"
+    ],
+    "answer": "Mosquito"
+  },
+  {
+    "question": "Washing hands with soap helps to ______.",
+    "options": [
+      "Spread diseases",
+      "Prevent diseases",
+      "Break plates",
+      "Dirty clothes"
+    ],
+    "answer": "Prevent diseases"
+  },
+  {
+    "question": "Covering your mouth when coughing helps to ______.",
+    "options": [
+      "Spread diseases",
+      "Prevent disease spread",
+      "Grow plants",
+      "Wash clothes"
+    ],
+    "answer": "Prevent disease spread"
+  },
+  {
+    "question": "Which of these is a good way to prevent diseases?",
+    "options": [
+      "Keeping the environment dirty",
+      "Sharing towels",
+      "Washing hands regularly",
+      "Drinking dirty water"
+    ],
+    "answer": "Washing hands regularly"
+  },
+  {
+    "question": "Drinking clean water helps to prevent ______.",
+    "options": [
+      "Cholera",
+      "Hunger",
+      "Sleep",
+      "Noise"
+    ],
+    "answer": "Cholera"
+  }
+]

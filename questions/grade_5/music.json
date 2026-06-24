@@ -1,0 +1,360 @@
+[
+  {
+    "question": "What is a large group of musicians playing Western instruments together called?",
+    "options": [
+        "A choir", 
+        "An orchestra", 
+        "A band"
+    ],
+    "answer": "An orchestra"
+  },
+  {
+    "question": "Western orchestral instruments are divided into how many main families?",
+    "options": [
+        "Two", 
+        "Three", 
+        "Four"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "Which family produces sound by drawing a bow across strings or plucking them?",
+    "options": [
+        "Percussion", 
+        "Brass", 
+        "Strings"
+    ],
+    "answer": "Strings"
+  },
+  {
+    "question": "Which of these instruments belongs to the string family?",
+    "options": [
+        "Flute", 
+        "Violin", 
+        "Trumpet"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "question": "What is the largest and lowest-pitched instrument in the string family?",
+    "options": [
+        "Viola", 
+        "Cello", 
+        "Double Bass"
+    ],
+    "answer": "Double Bass"
+  },
+  {
+    "question": "Woodwind instruments produce sound when a musician blows air across a mouthpiece or a thin piece of wood called a ______.",
+    "options": [
+        "string", 
+        "reed", 
+        "valve"
+    ],
+    "answer": "reed"
+  },
+  {
+    "question": "Which of these instruments is a member of the woodwind family?",
+    "options": [
+        "Clarinet", 
+        "Trombone", 
+        "Harp"
+    ],
+    "answer": "Clarinet"
+  },
+  {
+    "question": "Brass family instruments are made of ______.",
+    "options": [
+        "wood", 
+        "plastic", 
+        "shiny metal"
+    ],
+    "answer": "shiny metal"
+  },
+  {
+    "question": "How do brass players produce sound on their instruments?",
+    "options": [
+        "By plucking", 
+        "By buzzing their lips", 
+        "By shaking them"
+    ],
+    "answer": "By buzzing their lips"
+  },
+  {
+    "question": "Which of these is a brass instrument?",
+    "options": [
+        "Oboe", 
+        "Trumpet", 
+        "Violin"
+    ],
+    "answer": "Trumpet"
+  },
+  {
+    "question": "The family of instruments that you hit, shake, scrape, or rattle is called the ______ family.",
+    "options": [
+        "woodwind", 
+        "percussion", 
+        "string"
+    ],
+    "answer": "percussion"
+  },
+  {
+    "question": "What is the primary role of the percussion family in an orchestra?",
+    "options": [
+        "To play the highest melody", 
+        "To keep the rhythm and beat", 
+        "To substitute for strings"
+    ],
+    "answer": "To keep the rhythm and beat"
+  },
+  {
+    "question": "Which instrument belongs to the percussion family?",
+    "options": [
+        "French Horn", 
+        "Bassoon", 
+        "Xylophone"
+    ],
+    "answer": "Xylophone"
+  },
+  {
+    "question": "Which instrument uses a bow to create a sustained vibrating sound?",
+    "options": [
+        "Cello", 
+        "Flute", 
+        "Drums"
+    ],
+    "answer": "Cello"
+  },
+  {
+    "question": "The unique quality of sound that helps us identify a specific instrument is called ______.",
+    "options": [
+        "pitch", 
+        "volume", 
+        "timbre"
+    ],
+    "answer": "timbre"
+  },
+  {
+    "question": "In African music, instruments are classified based on ______.",
+    "options": [
+        "their color", 
+        "how they produce sound", 
+        "their size"
+    ],
+    "answer": "how they produce sound"
+  },
+  {
+    "question": "What are instruments that produce sound through a stretched animal skin called?",
+    "options": [
+        "Idiophones", 
+        "Chordophones", 
+        "Membranophones"
+    ],
+    "answer": "Membranophones"
+  },
+  {
+    "question": "Which of the following is an example of a membranophone?",
+    "options": [
+        "Talking drum", 
+        "Flute", 
+        "Gong"
+    ],
+    "answer": "Talking drum"
+  },
+  {
+    "question": "Instruments whose solid bodies vibrate to make a sound when hit or shaken are called ______.",
+    "options": [
+        "idiophones", 
+        "aerophones", 
+        "chordophones"
+    ],
+    "answer": "idiophones"
+  },
+  {
+    "question": "The local metal gong called \"Agogo\" belongs to which category?",
+    "options": [
+        "Membranophone", 
+        "Idiophone", 
+        "Aerophones"
+    ],
+    "answer": "Idiophone"
+  },
+  {
+    "question": "What is the local name for the beaded gourd shaker used widely in Nigeria?",
+    "options": [
+        "Oja", 
+        "Goje", 
+        "Shekere"
+    ],
+    "answer": "Shekere"
+  },
+  {
+    "question": "Instruments that use vibrating strings to make music are known as ______.",
+    "options": [
+        "aerophones", 
+        "chordophones", 
+        "idiophones"
+    ],
+    "answer": "chordophones"
+  },
+  {
+    "question": "Which of these is a traditional African stringed instrument?",
+    "options": [
+        "Goje", 
+        "Kakaki", 
+        "Djembe"
+    ],
+    "answer": "Goje"
+  },
+  {
+    "question": "The Kora is a traditional African harp that belongs to the ______ family.",
+    "options": [
+        "membranophone", 
+        "chordophone", 
+        "idiophone"
+    ],
+    "answer": "chordophone"
+  },
+  {
+    "question": "Instruments that produce sound by vibrating columns of blown air are called ______.",
+    "options": [
+        "aerophones", 
+        "membranophones", 
+        "idiophones"
+    ],
+    "answer": "aerophones"
+  },
+  {
+    "question": "What is the name of the traditional wooden flute used in southeastern Nigeria?",
+    "options": [
+        "Oja", 
+        "Gangan", 
+        "Balafon"
+    ],
+    "answer": "Oja"
+  },
+  {
+    "question": "The Kakaki is a very long metal horn used predominantly in which region of Nigeria?",
+    "options": [
+        "Eastern", 
+        "Western", 
+        "Northern"
+    ],
+    "answer": "Northern"
+  },
+  {
+    "question": "Which instrument is an African traditional wooden xylophone?",
+    "options": [
+        "Balafon", 
+        "Kalimba", 
+        "Agogo"
+    ],
+    "answer": "Balafon"
+  },
+  {
+    "question": "The hand-held thumb piano that produces clear metallic notes is called a ______.",
+    "options": [
+        "Goje", 
+        "Kalimba", 
+        "Djembe"
+    ],
+    "answer": "Kalimba"
+  },
+  {
+    "question": "Traditional African music instruments are fundamentally linked with ______ life.",
+    "options": [
+        "isolated", 
+        "community", 
+        "electronic"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "What is often called the \"heartbeat\" or pulse of music?",
+    "options": [
+        "Melody", 
+        "Lyrics", 
+        "Rhythm"
+    ],
+    "answer": "Rhythm"
+  },
+  {
+    "question": "Rhythm is a structured pattern of long and short sounds combined with ______.",
+    "options": [
+        "noise", 
+        "silences", 
+        "shouting"
+    ],
+    "answer": "silences"
+  },
+  {
+    "question": "Where are time signatures located in a piece of sheet music?",
+    "options": [
+        "At the very end", 
+        "At the beginning of the staff", 
+        "Underneath the lines"
+    ],
+    "answer": "At the beginning of the staff"
+  },
+  {
+    "question": "What does a time signature look like?",
+    "options": [
+        "Two stacked numbers", 
+        "A letter and a number", 
+        "A wavy line"
+    ],
+    "answer": "Two stacked numbers"
+  },
+  {
+    "question": "What does the top number of a time signature indicate?",
+    "options": [
+        "How loud to play", "How many beats are in each bar", 
+        "How many instruments are needed"
+    ],
+    "answer": "How many beats are in each bar"
+  },
+  {
+    "question": "What does the bottom number of a time signature indicate?",
+    "options": [
+        "The type of note that gets one beat", 
+        "The speed of the song", "The duration of the scale"
+    ],
+    "answer": "The type of note that gets one beat"
+  },
+  {
+    "question": "In a time signature, what type of note does the bottom number \"4\" stand for?",
+    "options": [
+        "Half note", 
+        "Quarter note (crotchet)", 
+        "Whole note"
+    ],
+    "answer": "Quarter note (crotchet)"
+  },
+  {
+    "question": "Which time signature is widely known as \"March Time\"?",
+    "options": [
+        "4/4", 
+        "3/4", 
+        "2/4"
+    ],
+    "answer": "2/4"
+  },
+  {
+    "question": "How do you count beats in a standard 2/4 time signature measure?",
+    "options": [
+        "1-2-3", 
+        "1-2", 
+        "1-2-3-4"
+    ],
+    "answer": "1-2"
+  },
+  {
+    "question": "What is another name for a 4/4 time signature?",
+    "options": [
+        "Triple time", 
+        "Common time", 
+        "Binary time"
+    ],
+    "answer": "Common time"
+  }
+]
