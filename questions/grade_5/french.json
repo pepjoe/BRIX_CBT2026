@@ -1,22 +1,157 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "L'enfant",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Plate", 
+      "The Child", 
+      "Toothbrush", 
+      "Toothache"
     ],
-    "answer": "A"
+    "answer": "The Child"
   },
   {
-    "question": "Sample Question 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
+    "question": "Le bébé",
+    "options": ["Chain", "Chair", "Baby", "Teacup"],
+    "answer": "Baby"
+  },
+  {
+    "question": "Le Enseignant",
+    "options": ["Professor", "Profession", "Career", "Lecturer"],
+    "answer": "Lecturer"
+  },
+  {
+    "question": "L'hiver",
+    "options": ["Winter", "Travel", "Fault", "Doctor"],
+    "answer": "Winter"
+  },
+  {
+    "question": "La fille",
+    "options": ["My Friend", "Pen", "Girl", "Boat"],
+    "answer": "Girl"
+  },
+  {
+    "question": "Mon Ami",
+    "options": ["My Friend", "Friend", "Fishing", "Skimming"],
+    "answer": "My Friend"
+  },
+  {
+    "question": "La famille",
+    "options": ["Destroy", "The Family", "Movie", "Dolphin"],
+    "answer": "The Family"
+  },
+  {
+    "question": "L'époux",
+    "options": ["Parrot", "Professional", "Table", "Husband"],
+    "answer": "Husband"
+  },
+  {
+    "question": "Contre",
+    "options": ["Against", "Waste Bin", "Market", "Blackout"],
+    "answer": "Against"
+  },
+  {
+    "question": "Une Poubelle",
+    "options": ["Shopping", "Waste Bin", "Machine", "Social"],
+    "answer": "Waste Bin"
+  },
+  {
+    "question": "Après",
+    "options": ["After", "Faster", "Sleepy", "Pressing Iron"],
+    "answer": "After"
+  },
+  {
+    "question": "Sans",
+    "options": ["A Broom", "Video", "Picture", "Without"],
+    "answer": "Without"
+  },
+  {
+    "question": "Pour",
+    "options": ["For", "Soft", "Hard", "Soap"],
+    "answer": "For"
+  },
+  {
+    "question": "Un Savon",
+    "options": ["Soap", "Lawyer", "Operator", "Teacher"],
+    "answer": "Soap"
+  },
+  {
+    "question": "Avant",
+    "options": ["Typing", "Before", "Office", "Privacy"],
+    "answer": "Before"
+  },
+  {
+    "question": "Le Seau",
+    "options": ["Bucket", "Refrigerating", "Museum", "Refining"],
+    "answer": "Bucket"
+  },
+  {
+    "question": "Le musée",
+    "options": ["Yes", "No", "Swimming Pool", "Museum"],
+    "answer": "Museum"
+  },
+  {
+    "question": "La Piscine",
+    "options": ["Swimming Pool", "Social Network", "Blogging", "Shopping"],
+    "answer": "Swimming Pool"
+  },
+  {
+    "question": "L'eau de javel",
+    "options": ["Rainbow", "Spring", "Bleach", "Winter"],
+    "answer": "Bleach"
+  },
+  {
+    "question": "La brosse",
+    "options": ["Warm", "Happiness", "Peace", "Brush"],
+    "answer": "Brush"
+  },
+  {
+    "question": "La Pelle",
+    "options": ["Packer", "Igbo Woman", "Japanese Woman", "Japanese Man"],
+    "answer": "Packer"
+  },
+  {
+    "question": "Une japonaise",
+    "options": ["Transportation", "Relaxation", "A Japanese Woman", "The House is Small"],
+    "answer": "A Japanese Woman"
+  },
+  {
+    "question": "L'éponge est jeune",
+    "options": ["The Sponge is Yellow", "Homework", "Stop", "The Cat is Small"],
+    "answer": "The Sponge is Yellow"
+  },
+  {
+    "question": "Je ramasse avec la pelle",
+    "options": ["Diary", "Trip", "She is Chinese", "I Pack with a Packer"],
+    "answer": "I Pack with a Packer"
+  },
+  {
+    "question": "Il fait chaud",
+    "options": ["It's Hot", "Study", "Teacher", "The Ball is Red"],
+    "answer": "It's Hot"
+  },
+  {
+    "question": "La Saison Séché",
+    "options": ["Dry Season", "Keep Records", "I am a Pupil", "Pray for the Nation"],
+    "answer": "Dry Season"
+  },
+  {
+    "question": "Il fait très froid",
+    "options": ["How Old are You?", "It's Very Cold", "I Don't Know", "Please"],
+    "answer": "It's Very Cold"
+  },
+  {
+    "question": "S'il Vous plaît",
+    "options": ["Please", "How Old are You?", "Church", "Market"],
+    "answer": "Please"
+  },
+  {
+    "question": "Où est ton sac ?",
+    "options": ["Where is Your Bag?", "Fights", "Happy Birthday", "Instructs"],
+    "answer": "Where is Your Bag?"
+  },
+  {
+    "question": "J'ai un frère et une sœur",
+    "options": ["Come Home", "I Have a Brother and a Sister", "We are Pupils of Brixtonn School", "Hello"],
+    "answer": "I Have a Brother and a Sister"
   }
 ]

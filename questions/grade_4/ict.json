@@ -1,22 +1,196 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Someone who adapts well can do all of the following except ___________.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Demonstrate Responsibility",
+      "Regulate their emotions",
+      "Persist and Persevere",
+      "Get Infuriated"
     ],
-    "answer": "A"
+    "answer": "Get Infuriated"
   },
   {
-    "question": "Sample Question 2",
+    "question": "One of the following is an example of Digital Skill.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Vlogging",
+      "Trying",
+      "Truancy",
+      "Weeding"
     ],
-    "answer": "B"
+    "answer": "Vlogging"
+  },
+  {
+    "question": "Digital skills will save time and _______________.",
+    "options": [
+      "Food",
+      "Cost",
+      "God",
+      "Injury"
+    ],
+    "answer": "Cost"
+  },
+  {
+    "question": "Social Media is an example of digital skill.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "In order to use digital tools effectively, you need to have _______________.",
+    "options": [
+      "Tools",
+      "Effrontery",
+      "Audacity",
+      "Digital Skills"
+    ],
+    "answer": "Digital Skills"
+  },
+  {
+    "question": "A person who created an original work has the right to ______________ it.",
+    "options": [
+      "Copy write",
+      "Plagiarism",
+      "Copy cat",
+      "Copyright"
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "Posting a mean picture of another person is an act of ________________.",
+    "options": [
+      "Cyber bullying",
+      "Cyber café",
+      "Cyber Truck",
+      "Cyber Montage"
+    ],
+    "answer": "Cyber bullying"
+  },
+  {
+    "question": "It is important never to ______________ to a cyber bully.",
+    "options": [
+      "Pray",
+      "Sing",
+      "Cry",
+      "Respond"
+    ],
+    "answer": "Respond"
+  },
+  {
+    "question": "After reporting to a trusted adult, cyber bullies should be ________________.",
+    "options": [
+      "Insulted",
+      "Blocked",
+      "Face timed",
+      "Treated"
+    ],
+    "answer": "Blocked"
+  },
+  {
+    "question": "Anyone can be bullied on social media.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "When you consume contents, it is very important that you also _________ contents.",
+    "options": [
+      "Create",
+      "Devour",
+      "Eat",
+      "Micturate"
+    ],
+    "answer": "Create"
+  },
+  {
+    "question": "'Cyberbullying' is gotten from _____________ words.",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "A person who is able to interpret the meaning of every content is ____________ literate.",
+    "options": [
+      "School",
+      "Academically",
+      "Content",
+      "Media"
+    ],
+    "answer": "Media"
+  },
+  {
+    "question": "The goal of content creation is to add to the _____________ of other media literates.",
+    "options": [
+      "Betterment",
+      "Long life",
+      "Betterment",
+      "Destruction"
+    ],
+    "answer": "Betterment"
+  },
+  {
+    "question": "When you are able to retrieve and process information, you are ___________ literate.",
+    "options": [
+      "Digitally",
+      "Stone Age",
+      "Somehow",
+      "Socially"
+    ],
+    "answer": "Digitally"
+  },
+  {
+    "question": "Plagiarism is a punishable offence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "HTML tags contain ______________ parts.",
+    "options": [
+      "Five",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "In your HTML document, how many tags can you use?",
+    "options": [
+      "10",
+      "4",
+      "Less than five",
+      "As many as you want"
+    ],
+    "answer": "As many as you want"
+  },
+  {
+    "question": "Which of these encloses a HTML tag?",
+    "options": [
+      "( )",
+      "{ }",
+      "[ ]",
+      "< >"
+    ],
+    "answer": "< >"
+  },
+  {
+    "question": "HTML _______________ creates a list of items in HTML.",
+    "options": [
+      "Line breaks",
+      "Bold",
+      "Lists",
+      "Italics"
+    ],
+    "answer": "Lists"
   }
 ]

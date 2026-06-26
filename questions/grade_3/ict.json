@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "One of the following is NOT a part of system hardware.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Internal Hardware",
+      "Output Device",
+      "Storage",
+      "Chasis"
     ],
-    "answer": "A"
+    "answer": "Internal Hardware"
   },
   {
-    "question": "Sample Question 2",
+    "question": "The most essential part of the computer that we need for the computer to function effectively is ____________.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Computer Software",
+      "Computer Chasis",
+      "Computer Hardware",
+      "Computer Peripherals"
     ],
-    "answer": "B"
+    "answer": "Computer Hardware"
+  },
+  {
+    "question": "A part of the computer that we can see without opening the computer is ___________.",
+    "options": [
+      "Motherboard",
+      "Memory",
+      "RAM",
+      "Mouse"
+    ],
+    "answer": "Mouse"
+  },
+  {
+    "question": "___________ is the collection of recent happenings around a geographical location.",
+    "options": [
+      "Encyclopedia",
+      "Internet",
+      "Books",
+      "Newspaper"
+    ],
+    "answer": "Newspaper"
+  },
+  {
+    "question": "An interface or hole on a computer that we use to connect another device to the computer is called _______________.",
+    "options": [
+      "Ports",
+      "Pot",
+      "Parts",
+      "Pat"
+    ],
+    "answer": "Ports"
+  },
+  {
+    "question": "There are ________ types of computer hardware.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "The main part of the system unit that houses the primary device that performs operations is called _________.",
+    "options": [
+      "Chairs",
+      "Charis",
+      "Chases",
+      "Chasis"
+    ],
+    "answer": "Chasis"
+  },
+  {
+    "question": "A Word of Mouth is a source of ________________.",
+    "options": [
+      "Motherboard",
+      "Memory",
+      "Data",
+      "Gossiping"
+    ],
+    "answer": "Memory"
+  },
+  {
+    "question": "Video card is an example of _______________ hardware.",
+    "options": [
+      "External",
+      "Extra maternal",
+      "Internal",
+      "Intra Maternal"
+    ],
+    "answer": "Internal"
+  },
+  {
+    "question": "We can use all of the following to send data into the computer except _______________.",
+    "options": [
+      "Microphone",
+      "Mouse",
+      "Keyboard",
+      "Speaker"
+    ],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Information is data that has been ________________.",
+    "options": [
+      "Stored",
+      "Processed",
+      "Deleted",
+      "Copied"
+    ],
+    "answer": "Processed"
+  },
+  {
+    "question": "The meaning derived from data when it is interpreted is called _______________.",
+    "options": [
+      "Data",
+      "Knowledge",
+      "Information",
+      "Input"
+    ],
+    "answer": "Information"
+  },
+  {
+    "question": "Oral information is information represented through _______________.",
+    "options": [
+      "Pictures",
+      "Text",
+      "Sound",
+      "Signals"
+    ],
+    "answer": "Sound"
+  },
+  {
+    "question": "A typical example of oral information is when you _______________.",
+    "options": [
+      "Read a book",
+      "Watch a video",
+      "Say something to another person",
+      "Check a phone"
+    ],
+    "answer": "Say something to another person"
+  },
+  {
+    "question": "Written information is a piece of information that is either typed or _______________.",
+    "options": [
+      "Spoken",
+      "Appeared",
+      "Written",
+      "Recorded"
+    ],
+    "answer": "Written"
+  },
+  {
+    "question": "Data is always a combination of characters, numbers, or __________.",
+    "options": [
+      "Images",
+      "Sounds",
+      "Symbols",
+      "Colours"
+    ],
+    "answer": "Symbols"
+  },
+  {
+    "question": "An encyclopedia that provides knowledge on a wide variety of topics is called a ________ encyclopedia.",
+    "options": [
+      "Subject",
+      "General",
+      "Special",
+      "Technical"
+    ],
+    "answer": "General"
+  },
+  {
+    "question": "Visual information is represented through _______________.",
+    "options": [
+      "Sound",
+      "Pictures",
+      "Text Messages",
+      "Electronic Devices"
+    ],
+    "answer": "Pictures"
+  },
+  {
+    "question": "Data are raw facts collected for the purpose of ____________ or reference.",
+    "options": [
+      "Storage",
+      "Analysis",
+      "Deletion",
+      "Transmission"
+    ],
+    "answer": "Analysis"
+  },
+  {
+    "question": "Quantitative data is divided into __________ and Continuous.",
+    "options": [
+      "Alphabetical",
+      "Discrete",
+      "Symbolic",
+      "Qualitative"
+    ],
+    "answer": "Discrete"
+  },
+  {
+    "question": "Alphabetic data is made up of the letters of the _______ alphabet including spaces.",
+    "options": [
+      "Greek",
+      "Latin",
+      "English",
+      "French"
+    ],
+    "answer": "English"
+  },
+  {
+    "question": "Numeric data is represented using the numbers 0–9 and a ____________.",
+    "options": [
+      "Comma",
+      "Decimal Point",
+      "Slash",
+      "Dash"
+    ],
+    "answer": "Decimal Point"
+  },
+  {
+    "question": "Examples of number systems used for numeric data include decimal, binary, octal, and ____________.",
+    "options": [
+      "Roman",
+      "Hexadecimal",
+      "Prime",
+      "Fractional"
+    ],
+    "answer": "Hexadecimal"
+  },
+  {
+    "question": "Television is a medium of communication with the television using _______ and sounds.",
+    "options": [
+      "Pictures",
+      "Coloured Images",
+      "Data",
+      "Text"
+    ],
+    "answer": "Pictures"
+  },
+  {
+    "question": "An example of a television station mentioned in the notes is ________.",
+    "options": [
+      "BBC",
+      "CNN",
+      "AIT",
+      "Al Jazeera"
+    ],
+    "answer": "AIT"
+  },
+  {
+    "question": "A newspaper is a collection of recent happenings around a ________ location.",
+    "options": [
+      "Political",
+      "Geographical",
+      "Economic",
+      "Cultural"
+    ],
+    "answer": "Geographical"
+  },
+  {
+    "question": "Newspapers are usually published daily or at least ________ a week.",
+    "options": [
+      "Once",
+      "Twice",
+      "Three Times",
+      "Four Times"
+    ],
+    "answer": "Twice"
+  },
+  {
+    "question": "Books are usually written to pass information about a topic and give ________ knowledge about the subject matter.",
+    "options": [
+      "Basic",
+      "Accurate",
+      "General",
+      "Limited"
+    ],
+    "answer": "Accurate"
+  },
+  {
+    "question": "The internet has become a go-to source of information because of the advent of ________.",
+    "options": [
+      "Computers",
+      "Social Media",
+      "Phones",
+      "Radio"
+    ],
+    "answer": "Social Media"
+  },
+  {
+    "question": "Other sources of information include word of mouth and ________.",
+    "options": [
+      "Television",
+      "Books",
+      "Radio",
+      "Newspapers"
+    ],
+    "answer": "Radio"
+  },
+  {
+    "question": "The hardware parts of the computer that we use to store our data on the computer is called ______________.",
+    "options": [
+      "Storage",
+      "Device",
+      "Format",
+      "Difference"
+    ],
+    "answer": "Storage"
+  },
+  {
+    "question": "Information is cost ___________________.",
+    "options": [
+      "Inflicting",
+      "Effective",
+      "Strenuous",
+      "Comparative"
+    ],
+    "answer": "Effective"
+  },
+  {
+    "question": "We can use information to make ________________.",
+    "options": [
+      "Tarred Road",
+      "Storage",
+      "Memory",
+      "Decisions"
+    ],
+    "answer": "Decisions"
+  },
+  {
+    "question": "A bank of information which contains citations of articles in magazines, journals and newspapers is often referred to as __________________.",
+    "options": [
+      "Encyclopedia",
+      "Internet",
+      "Database",
+      "Newspaper"
+    ],
+    "answer": "Database"
+  },
+  {
+    "question": "A piece of information that is gotten from electronic devices like GSM is called ______________ information.",
+    "options": [
+      "Written",
+      "Electronic",
+      "Audio",
+      "Chemical"
+    ],
+    "answer": "Electronic"
+  },
+  {
+    "question": "Today, information is now in our ____________________.",
+    "options": [
+      "Fingertips",
+      "Dream",
+      "Tongue",
+      "Chasis"
+    ],
+    "answer": "Fingertips"
+  },
+  {
+    "question": "One of the following is NOT an output device.",
+    "options": [
+      "Monitor",
+      "Mouse",
+      "Printer",
+      "Speaker"
+    ],
+    "answer": "Mouse"
+  },
+  {
+    "question": "All of the following are internal hardware of the computer except ____________.",
+    "options": [
+      "Motherboard",
+      "Video Card",
+      "Hard Disk",
+      "Mouse"
+    ],
+    "answer": "Mouse"
+  },
+  {
+    "question": "All of the following are included in the system unit except ________________.",
+    "options": [
+      "Chasis",
+      "Internet",
+      "Microprocessor",
+      "Ports"
+    ],
+    "answer": "Internet"
+  },
+  {
+    "question": "We use ports to connect _____________ to a computer.",
+    "options": [
+      "Ports",
+      "Devices",
+      "Computer",
+      "Particles"
+    ],
+    "answer": "Devices"
   }
 ]

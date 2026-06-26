@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Brosse à dent",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Plate",
+      "Computer",
+      "Toothbrush",
+      "Toothache"
     ],
-    "answer": "A"
+    "answer": "Toothbrush"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Tasse",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Chain",
+      "Chair",
+      "Bank",
+      "Teacup"
     ],
-    "answer": "B"
+    "answer": "Teacup"
+  },
+  {
+    "question": "Le Professeur",
+    "options": [
+      "Teacher",
+      "Profession",
+      "Career",
+      "Duty"
+    ],
+    "answer": "Teacher"
+  },
+  {
+    "question": "L'hiver",
+    "options": [
+      "Appreciate",
+      "Travel",
+      "Fault",
+      "Winter"
+    ],
+    "answer": "Winter"
+  },
+  {
+    "question": "Le Médecin",
+    "options": [
+      "My Friend",
+      "Pen",
+      "Notebook",
+      "Doctor"
+    ],
+    "answer": "Doctor"
+  },
+  {
+    "question": "Mon Ami",
+    "options": [
+      "Monkey",
+      "My Friend",
+      "Fishing",
+      "Skimming"
+    ],
+    "answer": "My Friend"
+  },
+  {
+    "question": "Le Singe",
+    "options": [
+      "Destroy",
+      "Interfere",
+      "Movie",
+      "Monkey"
+    ],
+    "answer": "Monkey"
+  },
+  {
+    "question": "Le dauphin",
+    "options": [
+      "Parrot",
+      "Professional",
+      "Table",
+      "Dolphin"
+    ],
+    "answer": "Dolphin"
+  },
+  {
+    "question": "Le Perroquet",
+    "options": [
+      "Parrot",
+      "Waste Bin",
+      "Market",
+      "Blackout"
+    ],
+    "answer": "Parrot"
+  },
+  {
+    "question": "Une Poubelle",
+    "options": [
+      "Shopping",
+      "Discussion",
+      "Washing Machine",
+      "Waste Bin"
+    ],
+    "answer": "Waste Bin"
+  },
+  {
+    "question": "Une machine à laver",
+    "options": [
+      "Tiring",
+      "Faster",
+      "Sleepy",
+      "Washing Machine"
+    ],
+    "answer": "Washing Machine"
+  },
+  {
+    "question": "Un fer à repasser",
+    "options": [
+      "Broom",
+      "Video",
+      "Picture",
+      "Pressing Iron"
+    ],
+    "answer": "Pressing Iron"
+  },
+  {
+    "question": "Un balai",
+    "options": [
+      "Broom",
+      "Soft",
+      "Hard",
+      "Soap"
+    ],
+    "answer": "Broom"
+  },
+  {
+    "question": "Un Savon",
+    "options": [
+      "Soap",
+      "Lawyer",
+      "Operator",
+      "Teacher"
+    ],
+    "answer": "Soap"
+  },
+  {
+    "question": "Le Avocat",
+    "options": [
+      "Typing",
+      "Lawyer",
+      "Office",
+      "Privacy"
+    ],
+    "answer": "Lawyer"
+  },
+  {
+    "question": "Le bureau",
+    "options": [
+      "Office",
+      "Refrigerating",
+      "Museum",
+      "Refining"
+    ],
+    "answer": "Office"
+  },
+  {
+    "question": "Le musée",
+    "options": [
+      "Yes",
+      "No",
+      "Swimming Pool",
+      "Museum"
+    ],
+    "answer": "Museum"
+  },
+  {
+    "question": "La Piscine",
+    "options": [
+      "Swimming Pool",
+      "Social Network",
+      "Blogging",
+      "Shopping"
+    ],
+    "answer": "Swimming Pool"
+  },
+  {
+    "question": "Le Foret",
+    "options": [
+      "Forest",
+      "Spring",
+      "Aided",
+      "Winter"
+    ],
+    "answer": "Forest"
+  },
+  {
+    "question": "Le Printemps",
+    "options": [
+      "Warm",
+      "Spring",
+      "Peace",
+      "It is Hot"
+    ],
+    "answer": "Spring"
+  },
+  {
+    "question": "Il fait chaud",
+    "options": [
+      "It is Hot",
+      "Igbo Woman",
+      "Japanese Woman",
+      "Japanese Man"
+    ],
+    "answer": "It is Hot"
+  },
+  {
+    "question": "Une japonaise",
+    "options": [
+      "Transportation",
+      "Relaxation",
+      "Japanese Woman",
+      "The House is Small"
+    ],
+    "answer": "Japanese Woman"
+  },
+  {
+    "question": "La maison est grande",
+    "options": [
+      "The House is Big",
+      "Homework",
+      "Stop",
+      "The Cat is Small"
+    ],
+    "answer": "The House is Big"
+  },
+  {
+    "question": "Le Chat est Petit",
+    "options": [
+      "Diary",
+      "Trip",
+      "The Cat is Small",
+      "Social Media"
+    ],
+    "answer": "The Cat is Small"
+  },
+  {
+    "question": "Elle est Chinoise",
+    "options": [
+      "She is Chinese",
+      "Study",
+      "Teacher",
+      "The Ball is Red"
+    ],
+    "answer": "She is Chinese"
+  },
+  {
+    "question": "La Ballon est rouge",
+    "options": [
+      "The Ball is Red",
+      "Keep Records",
+      "I am a Pupil",
+      "Pray for the Nation"
+    ],
+    "answer": "The Ball is Red"
+  },
+  {
+    "question": "Je suis un élève",
+    "options": [
+      "How Old Are You?",
+      "Picking",
+      "I am a Pupil",
+      "Please"
+    ],
+    "answer": "I am a Pupil"
+  },
+  {
+    "question": "Quel âge as-tu ?",
+    "options": [
+      "House",
+      "How Old Are You?",
+      "Church",
+      "Market"
+    ],
+    "answer": "How Old Are You?"
+  },
+  {
+    "question": "Joyeux Anniversaire",
+    "options": [
+      "Interfaces",
+      "Fights",
+      "Happy Birthday",
+      "Instructs"
+    ],
+    "answer": "Happy Birthday"
+  },
+  {
+    "question": "Nous sommes les élèves de Brixtonn",
+    "options": [
+      "Come Home",
+      "Communication",
+      "We are Pupils of Brixtonn School",
+      "Hello"
+    ],
+    "answer": "We are Pupils of Brixtonn School"
   }
 ]

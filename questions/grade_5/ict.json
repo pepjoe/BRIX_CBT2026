@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Anyone whose job involves working with computers and technology is a ________________.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Computer Teacher",
+      "Computer Professional",
+      "Computer Technician",
+      "Computer Engineer"
     ],
-    "answer": "A"
+    "answer": "Computer Professional"
   },
   {
-    "question": "Sample Question 2",
+    "question": "A site that is contrary to the conventional or acceptable morality is a/an ________ site.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Expensive",
+      "Illicit",
+      "Precise",
+      "Didactic"
     ],
-    "answer": "B"
+    "answer": "Illicit"
+  },
+  {
+    "question": "A journey of a person through work, learning and other areas of life is often called ______________.",
+    "options": [
+      "Work",
+      "Profession",
+      "Career",
+      "Duty"
+    ],
+    "answer": "Career"
+  },
+  {
+    "question": "Illegal money transfer is an example of computer ________________.",
+    "options": [
+      "Abuse",
+      "Appreciation",
+      "Fault",
+      "Devastation"
+    ],
+    "answer": "Abuse"
+  },
+  {
+    "question": "One of the following is not an example of a computer professional ________________.",
+    "options": [
+      "Website Bully",
+      "Website Designer",
+      "Graphic Designer",
+      "Cyber Security Expert"
+    ],
+    "answer": "Website Bully"
+  },
+  {
+    "question": "None of the following is an example of fraud except __________________.",
+    "options": [
+      "Digital Skill",
+      "YouTube",
+      "Fishing",
+      "Skimming"
+    ],
+    "answer": "Skimming"
+  },
+  {
+    "question": "Computer virus has the capacity to ________________ itself.",
+    "options": [
+      "Destroy",
+      "Interfere",
+      "Reproduce",
+      "Eat"
+    ],
+    "answer": "Reproduce"
+  },
+  {
+    "question": "A person who repairs damaged computers is called ____.",
+    "options": [
+      "Computer Teacher",
+      "Computer Professional",
+      "Computer Technician",
+      "Software Engineer"
+    ],
+    "answer": "Computer Technician"
+  },
+  {
+    "question": "_____________________ are sites that we use to share news and ideas around a particular topic.",
+    "options": [
+      "Hacking",
+      "Shopping",
+      "Phishing",
+      "Discussion Forum"
+    ],
+    "answer": "Discussion Forum"
+  },
+  {
+    "question": "Sites like Temu, Jumia, and Amazon are called ________________ Networks.",
+    "options": [
+      "Social Shopping",
+      "Discussion",
+      "Microblogging",
+      "Social"
+    ],
+    "answer": "Social Shopping"
+  },
+  {
+    "question": "Computer makes our lives easier and our jobs __________________.",
+    "options": [
+      "Tiring",
+      "Faster",
+      "Sleepy",
+      "Endangering"
+    ],
+    "answer": "Faster"
+  },
+  {
+    "question": "In order to facilitate access to illicit sites, people hide behind the mask of ____________ creation.",
+    "options": [
+      "Content",
+      "Video",
+      "Picture",
+      "Comedy"
+    ],
+    "answer": "Content"
+  },
+  {
+    "question": "In our days, social media misuse has become _________________.",
+    "options": [
+      "Impossible",
+      "Prevalent",
+      "Hard",
+      "Unfeasible"
+    ],
+    "answer": "Prevalent"
+  },
+  {
+    "question": "What kind of computer professional is Mr. Felix in Brixtonn School?",
+    "options": [
+      "Computer Engineer",
+      "Computer Programmer",
+      "Computer Operator",
+      "Computer Teacher"
+    ],
+    "answer": "Computer Teacher"
+  },
+  {
+    "question": "One of the ways that people misuse the computer is _______________.",
+    "options": [
+      "Typing",
+      "Meditation",
+      "Hacking",
+      "Privacy"
+    ],
+    "answer": "Hacking"
+  },
+  {
+    "question": "Exploitation is the method we use in ______________ natural resources.",
+    "options": [
+      "Translating",
+      "Refrigerating",
+      "Teleporting",
+      "Refining"
+    ],
+    "answer": "Refining"
+  },
+  {
+    "question": "There are different types of social media.",
+    "options": [
+      "Yes",
+      "No",
+      "God Forbid",
+      "Somehow"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Facebook falls under the type of social media called ________________.",
+    "options": [
+      "Social Media",
+      "Social Network",
+      "Micro-blogging",
+      "Shopping Site"
+    ],
+    "answer": "Social Network"
+  },
+  {
+    "question": "Computers have ______________ exploration and exploitation of natural resources.",
+    "options": [
+      "Stopped",
+      "Hindered",
+      "Aided",
+      "Confused"
+    ],
+    "answer": "Aided"
+  },
+  {
+    "question": "The main goal of computer virus is to cause _______________ to the computer.",
+    "options": [
+      "Harm",
+      "Happiness",
+      "Peace",
+      "Fame"
+    ],
+    "answer": "Harm"
+  },
+  {
+    "question": "An example of a social shopping network is ______________________________.",
+    "options": [
+      "Facebook",
+      "Temu",
+      "Spotify",
+      "Google"
+    ],
+    "answer": "Temu"
+  },
+  {
+    "question": "One area of our lives that the computer has influenced greatly is ________________.",
+    "options": [
+      "Transportation",
+      "Relaxation",
+      "Communication",
+      "Introduction"
+    ],
+    "answer": "Communication"
+  },
+  {
+    "question": "________________ sites allow users to post short written contents such as links, product descriptions, or services.",
+    "options": [
+      "Micro-blogging",
+      "Social Network",
+      "Social Shopping Network",
+      "Discussion Forum"
+    ],
+    "answer": "Micro-blogging"
+  },
+  {
+    "question": "An avenue that we use to stay in touch with families and friends is called __________.",
+    "options": [
+      "Diary",
+      "Trip",
+      "Adventure",
+      "Social Media"
+    ],
+    "answer": "Social Media"
+  },
+  {
+    "question": "Anyone whose job involves working with computers and technology is a computer ____________.",
+    "options": [
+      "Professional",
+      "Traitor",
+      "Teacher",
+      "Content Creator"
+    ],
+    "answer": "Professional"
+  },
+  {
+    "question": "In education, we can use the computer to do one of the following _______________.",
+    "options": [
+      "Search the Farm",
+      "Keep Records",
+      "Administer Drugs",
+      "Pray for the Nation"
+    ],
+    "answer": "Keep Records"
+  },
+  {
+    "question": "Having unauthorized access to another person's personal computer is called _________.",
+    "options": [
+      "Phishing",
+      "Hacking",
+      "Snacking",
+      "Thuggery"
+    ],
+    "answer": "Hacking"
+  },
+  {
+    "question": "Nairaland is a typical example of a discussion _____________________.",
+    "options": [
+      "House",
+      "Centre",
+      "Church",
+      "Forum"
+    ],
+    "answer": "Forum"
+  },
+  {
+    "question": "In the past, computers operated alone, but today computers _____________ with our day-to-day lives.",
+    "options": [
+      "Interfaces",
+      "Fights",
+      "Rebels",
+      "Instructs"
+    ],
+    "answer": "Interfaces"
+  },
+  {
+    "question": "One of the following is not a way that computers influence us _______________.",
+    "options": [
+      "Consensus",
+      "Communication",
+      "Collaboration",
+      "Exploitation"
+    ],
+    "answer": "Consensus"
+  },
+  {
+    "question": "A person who performs micro-blogging is called a ______________________.",
+    "options": [
+      "Micro Biologist",
+      "Blogger",
+      "Hacker",
+      "Cyber Security"
+    ],
+    "answer": "Blogger"
+  },
+  {
+    "question": "The computer is used to invent ____________ which makes work faster on the farm.",
+    "options": [
+      "Large Grass",
+      "Large Beer",
+      "Large Machines",
+      "Large People"
+    ],
+    "answer": "Large Machines"
+  },
+  {
+    "question": "The way people make use of the computer inappropriately is called _______________.",
+    "options": [
+      "Computer Aides",
+      "Computer Addson",
+      "Computer Abuse",
+      "Computer Network"
+    ],
+    "answer": "Computer Abuse"
+  },
+  {
+    "question": "There are software programs which facilitate monitoring, controlling, and general management of the farm.",
+    "options": [
+      "Yes",
+      "No",
+      "God Forbid",
+      "Software"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "A computer professional who enters data into the computer for processing is __________________.",
+    "options": [
+      "Data Analyst",
+      "Computer Operator",
+      "Computer Teacher",
+      "Computer Engineer"
+    ],
+    "answer": "Computer Operator"
+  },
+  {
+    "question": "Doors that open on their own accord are called __________________ doors.",
+    "options": [
+      "Magic",
+      "Systematic",
+      "Security",
+      "Computerised"
+    ],
+    "answer": "Computerised"
+  },
+  {
+    "question": "A person who uses the computer to create pictures and designs is called a ______________.",
+    "options": [
+      "Data Analyst",
+      "Computer Teacher",
+      "Website Developer",
+      "Graphic Designer"
+    ],
+    "answer": "Graphic Designer"
+  },
+  {
+    "question": "The smart TV gives us access to multiple _________.",
+    "options": [
+      "Channels",
+      "Problems",
+      "Decoders",
+      "Temptation"
+    ],
+    "answer": "Channels"
+  },
+  {
+    "question": "________________ aids the sharing of information, ideas, and interests through the use of a network.",
+    "options": [
+      "Social Meet",
+      "Social Media",
+      "Social Shopping",
+      "Social Space"
+    ],
+    "answer": "Social Media"
+  },
+  {
+    "question": "One of the following is not a computer professional _______________.",
+    "options": [
+      "Computer Teacher",
+      "Computer Analyst",
+      "Software Developer",
+      "Computer Trainee"
+    ],
+    "answer": "Computer Trainee"
   }
 ]
