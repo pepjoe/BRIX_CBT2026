@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "The use of modern machines and tools is known as technological ______.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "advancement",
+      "movement",
+      "transport",
+      "communication"
     ],
-    "answer": "A"
+    "answer": "advancement"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Nigeria earns a large part of its foreign exchange from ______ oil.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "palm",
+      "crude",
+      "groundnut",
+      "cocoa"
     ],
-    "answer": "B"
+    "answer": "crude"
+  },
+  {
+    "question": "The Trans-Atlantic Trade took place across the ______ Ocean.",
+    "options": [
+      "Indian",
+      "Pacific",
+      "Atlantic",
+      "Arctic"
+    ],
+    "answer": "Atlantic"
+  },
+  {
+    "question": "The Trans-Saharan Trade Route crossed the ______ Desert.",
+    "options": [
+      "Kalahari",
+      "Namib",
+      "Gobi",
+      "Sahara"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Buying and selling through the internet is an example of trade in ______ times.",
+    "options": [
+      "ancient",
+      "traditional",
+      "modern",
+      "local"
+    ],
+    "answer": "modern"
+  },
+  {
+    "question": "The process of making goods is called ______.",
+    "options": [
+      "distribution",
+      "production",
+      "consumption",
+      "transportation"
+    ],
+    "answer": "production"
+  },
+  {
+    "question": "The Asante Kingdom was located in present-day ______.",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Togo",
+      "Benin"
+    ],
+    "answer": "Ghana"
+  },
+  {
+    "question": "The study of the roles of males and females in society is called ______ studies.",
+    "options": [
+      "economic",
+      "social",
+      "gender",
+      "political"
+    ],
+    "answer": "gender"
+  },
+  {
+    "question": "Water supplied to homes for public use is called ______ water supply.",
+    "options": [
+      "national",
+      "village",
+      "private",
+      "seasonal"
+    ],
+    "answer": "national"
+  },
+  {
+    "question": "A population census is carried out to count the number of ______ in a country.",
+    "options": [
+      "animals",
+      "visitors",
+      "people",
+      "workers"
+    ],
+    "answer": "people"
+  },
+  {
+    "question": "Puberty is a stage of ______ development.",
+    "options": [
+      "economic",
+      "physical",
+      "political",
+      "cultural"
+    ],
+    "answer": "physical"
+  },
+  {
+    "question": "A person legally recognized as belonging to a country is called a ______.",
+    "options": [
+      "tourist",
+      "citizen",
+      "visitor",
+      "migrant"
+    ],
+    "answer": "citizen"
+  },
+  {
+    "question": "A foreigner may become a citizen through ______.",
+    "options": [
+      "migration",
+      "registration",
+      "naturalization",
+      "education"
+    ],
+    "answer": "naturalization"
+  },
+  {
+    "question": "Technological advancement helps to improve ______.",
+    "options": [
+      "productivity",
+      "confusion",
+      "pollution",
+      "waste"
+    ],
+    "answer": "productivity"
+  },
+  {
+    "question": "The Nigerian economy consists of activities that produce goods and ______.",
+    "options": [
+      "services",
+      "arguments",
+      "stories",
+      "traditions"
+    ],
+    "answer": "services"
+  },
+  {
+    "question": "Camels were important means of transportation in the Trans-______ Trade.",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Saharan",
+      "Pacific"
+    ],
+    "answer": "Saharan"
+  },
+  {
+    "question": "The exchange of goods and services is known as ______.",
+    "options": [
+      "trade",
+      "migration",
+      "housing",
+      "tourism"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "______ was the first ruler of the Asante Kingdom.",
+    "options": [
+      "Osei Bonsu",
+      "Opoku Ware",
+      "Okomfo Anokye",
+      "Osei Tutu"
+    ],
+    "answer": "Osei Tutu"
+  },
+  {
+    "question": "The Asante people were well known for trading in ______.",
+    "options": [
+      "gold",
+      "coal",
+      "rubber",
+      "salt"
+    ],
+    "answer": "gold"
+  },
+  {
+    "question": "Respecting the laws of a country is a duty of every ______.",
+    "options": [
+      "foreigner",
+      "tourist",
+      "citizen",
+      "trader"
+    ],
+    "answer": "citizen"
+  },
+  {
+    "question": "Computers and mobile phones are products of technological ______.",
+    "options": [
+      "advancement",
+      "farming",
+      "transport",
+      "migration"
+    ],
+    "answer": "advancement"
+  },
+  {
+    "question": "Technology helps people to communicate more ______.",
+    "options": [
+      "slowly",
+      "quickly",
+      "poorly",
+      "rarely"
+    ],
+    "answer": "quickly"
+  },
+  {
+    "question": "Agriculture is an important sector of the Nigerian ______.",
+    "options": [
+      "school",
+      "economy",
+      "village",
+      "religion"
+    ],
+    "answer": "economy"
+  },
+  {
+    "question": "The Nigerian currency is called the ______.",
+    "options": [
+      "Dollar",
+      "Cedi",
+      "Naira",
+      "Pound"
+    ],
+    "answer": "Naira"
+  },
+  {
+    "question": "The Trans-Atlantic Trade involved Europe, Africa and the ______.",
+    "options": [
+      "Americas",
+      "Asia",
+      "Australia",
+      "Antarctica"
+    ],
+    "answer": "Americas"
+  },
+  {
+    "question": "Many Africans were transported as ______ during the Trans-Atlantic Trade.",
+    "options": [
+      "teachers",
+      "slaves",
+      "tourists",
+      "farmers"
+    ],
+    "answer": "slaves"
+  },
+  {
+    "question": "The Trans-Saharan Trade connected West Africa with North ______.",
+    "options": [
+      "America",
+      "Europe",
+      "Africa",
+      "Asia"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "question": "Salt and gold were major items traded along the Trans-Saharan ______.",
+    "options": [
+      "forest",
+      "route",
+      "river",
+      "market"
+    ],
+    "answer": "route"
+  },
+  {
+    "question": "Modern trade can be carried out through the ______.",
+    "options": [
+      "internet",
+      "desert",
+      "forest",
+      "mountain"
+    ],
+    "answer": "internet"
+  },
+  {
+    "question": "People who buy and sell goods are called ______.",
+    "options": [
+      "traders",
+      "drivers",
+      "teachers",
+      "builders"
+    ],
+    "answer": "traders"
+  },
+  {
+    "question": "Production involves creating goods and ______.",
+    "options": [
+      "services",
+      "arguments",
+      "houses",
+      "roads"
+    ],
+    "answer": "services"
+  },
+  {
+    "question": "Factories are places where goods are ______.",
+    "options": [
+      "destroyed",
+      "manufactured",
+      "hidden",
+      "imported"
+    ],
+    "answer": "manufactured"
+  },
+  {
+    "question": "The Asante Kingdom became wealthy through trade in ______.",
+    "options": [
+      "gold",
+      "oil",
+      "coal",
+      "cement"
+    ],
+    "answer": "gold"
+  },
+  {
+    "question": "The ______ seized Asante's wealth.",
+    "options": [
+      "Spanish",
+      "Togolese",
+      "French",
+      "British"
+    ],
+    "answer": "British"
+  },
+  {
+    "question": "Gender studies teaches respect for both males and ______.",
+    "options": [
+      "children",
+      "females",
+      "leaders",
+      "workers"
+    ],
+    "answer": "females"
+  },
+  {
+    "question": "National water supply provides clean water for ______ use.",
+    "options": [
+      "private",
+      "public",
+      "commercial",
+      "foreign"
+    ],
+    "answer": "public"
+  },
+  {
+    "question": "Population refers to the number of ______ living in an area.",
+    "options": [
+      "animals",
+      "visitors",
+      "people",
+      "cars"
+    ],
+    "answer": "people"
+  },
+  {
+    "question": "Housing provides ______ for people.",
+    "options": [
+      "shelter",
+      "food",
+      "clothing",
+      "medicine"
+    ],
+    "answer": "shelter"
+  },
+  {
+    "question": "Puberty is a stage of physical ______.",
+    "options": [
+      "development",
+      "migration",
+      "transportation",
+      "production"
+    ],
+    "answer": "development"
+  },
+  {
+    "question": "Citizenship gives a person certain rights and ______.",
+    "options": [
+      "duties",
+      "vehicles",
+      "buildings",
+      "markets"
+    ],
+    "answer": "duties"
   }
 ]

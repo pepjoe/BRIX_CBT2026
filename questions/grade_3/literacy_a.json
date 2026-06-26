@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "In the sentence 'I have a toy.', which word is the determiner?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "I",
+      "have",
+      "a",
+      "toy"
     ],
-    "answer": "A"
+    "answer": "a"
   },
   {
-    "question": "Sample Question 2",
+    "question": "In the sentence 'She ate an apple.', which word is the determiner?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "She",
+      "ate",
+      "an",
+      "apple"
     ],
-    "answer": "B"
+    "answer": "an"
+  },
+  {
+    "question": "In the sentence 'The food is hot.', which word is the determiner?",
+    "options": [
+      "The",
+      "food",
+      "is",
+      "hot"
+    ],
+    "answer": "The"
+  },
+  {
+    "question": "In the sentence 'My dress is lovely.', which word is the determiner?",
+    "options": [
+      "My",
+      "dress",
+      "is",
+      "lovely"
+    ],
+    "answer": "My"
+  },
+  {
+    "question": "In the sentence 'We saw some birds.', which word is the determiner?",
+    "options": [
+      "We",
+      "saw",
+      "some",
+      "birds"
+    ],
+    "answer": "some"
+  },
+  {
+    "question": "Choose a correct sentence with 'this'.",
+    "options": [
+      "This is my bag.",
+      "These is my bag.",
+      "This are my bag.",
+      "Those is my bag."
+    ],
+    "answer": "This is my bag."
+  },
+  {
+    "question": "Choose a correct sentence with 'that'.",
+    "options": [
+      "That is a tree.",
+      "Those is a tree.",
+      "That are a tree.",
+      "These is a tree."
+    ],
+    "answer": "That is a tree."
+  },
+  {
+    "question": "Choose a correct sentence with 'these'.",
+    "options": [
+      "These are books.",
+      "This are books.",
+      "These is books.",
+      "Those is books."
+    ],
+    "answer": "These are books."
+  },
+  {
+    "question": "Choose a correct sentence with 'those'.",
+    "options": [
+      "Those are birds.",
+      "That are birds.",
+      "Those is birds.",
+      "This are birds."
+    ],
+    "answer": "Those are birds."
+  },
+  {
+    "question": "Choose a correct sentence with 'many'.",
+    "options": [
+      "Many pupils came.",
+      "Many pupil came.",
+      "Many is pupil.",
+      "Many are pupil."
+    ],
+    "answer": "Many pupils came."
+  },
+  {
+    "question": "I bought (a / an) orange.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "some"
+    ],
+    "answer": "an"
+  },
+  {
+    "question": "(This / These) book is expensive.",
+    "options": [
+      "This",
+      "These",
+      "Those",
+      "Many"
+    ],
+    "answer": "This"
+  },
+  {
+    "question": "She lost (her / many) shoe.",
+    "options": [
+      "her",
+      "many",
+      "some",
+      "these"
+    ],
+    "answer": "her"
+  },
+  {
+    "question": "We saw (some / this) lions.",
+    "options": [
+      "some",
+      "this",
+      "that",
+      "an"
+    ],
+    "answer": "some"
+  },
+  {
+    "question": "(That / Those) shirts are new.",
+    "options": [
+      "That",
+      "Those",
+      "This",
+      "An"
+    ],
+    "answer": "Those"
+  },
+  {
+    "question": "What is your name? This is a ______ sentence.",
+    "options": [
+      "declarative",
+      "interrogative",
+      "imperative",
+      "exclamatory"
+    ],
+    "answer": "interrogative"
+  },
+  {
+    "question": "Wow! What a beautiful day! This is an ______ sentence.",
+    "options": [
+      "declarative",
+      "interrogative",
+      "exclamatory",
+      "imperative"
+    ],
+    "answer": "exclamatory"
+  },
+  {
+    "question": "Sit down. This is an ______ sentence.",
+    "options": [
+      "declarative",
+      "interrogative",
+      "imperative",
+      "exclamatory"
+    ],
+    "answer": "imperative"
+  },
+  {
+    "question": "The windows were like dark squares. This is a ______ sentence.",
+    "options": [
+      "declarative",
+      "imperative",
+      "interrogative",
+      "exclamatory"
+    ],
+    "answer": "declarative"
+  },
+  {
+    "question": "Where are you going? This is an ______ sentence.",
+    "options": [
+      "imperative",
+      "interrogative",
+      "declarative",
+      "exclamatory"
+    ],
+    "answer": "interrogative"
+  },
+  {
+    "question": "Hurrah! We won! This is an ______ sentence.",
+    "options": [
+      "interrogative",
+      "imperative",
+      "exclamatory",
+      "declarative"
+    ],
+    "answer": "exclamatory"
+  },
+  {
+    "question": "Be quiet. This is an ______ sentence.",
+    "options": [
+      "imperative",
+      "declarative",
+      "interrogative",
+      "exclamatory"
+    ],
+    "answer": "imperative"
+  },
+  {
+    "question": "How are you? This is an ______ sentence.",
+    "options": [
+      "imperative",
+      "interrogative",
+      "declarative",
+      "exclamatory"
+    ],
+    "answer": "interrogative"
+  },
+  {
+    "question": "Shut the door. This is an ______ sentence.",
+    "options": [
+      "imperative",
+      "declarative",
+      "interrogative",
+      "exclamatory"
+    ],
+    "answer": "imperative"
+  },
+  {
+    "question": "I like singing. This is a ______ sentence.",
+    "options": [
+      "interrogative",
+      "imperative",
+      "declarative",
+      "exclamatory"
+    ],
+    "answer": "declarative"
+  },
+  {
+    "question": "Give the antonym of big.",
+    "options": [
+      "small",
+      "huge",
+      "wide",
+      "tall"
+    ],
+    "answer": "small"
+  },
+  {
+    "question": "Give the antonym of open.",
+    "options": [
+      "close",
+      "wide",
+      "far",
+      "shut"
+    ],
+    "answer": "close"
+  },
+  {
+    "question": "Give the antonym of near.",
+    "options": [
+      "beside",
+      "far",
+      "close",
+      "around"
+    ],
+    "answer": "far"
+  },
+  {
+    "question": "Give the antonym of boy.",
+    "options": [
+      "man",
+      "lady",
+      "girl",
+      "baby"
+    ],
+    "answer": "girl"
+  },
+  {
+    "question": "Give the antonym of short.",
+    "options": [
+      "tiny",
+      "long",
+      "tall",
+      "thin"
+    ],
+    "answer": "tall"
+  },
+  {
+    "question": "In a reverse poem, the same lines express ______ different ideas.",
+    "options": [
+      "ten",
+      "two",
+      "six",
+      "four"
+    ],
+    "answer": "two"
+  },
+  {
+    "question": "You can read a reverse poem from ______ to bottom.",
+    "options": [
+      "bottom",
+      "top",
+      "side",
+      "back"
+    ],
+    "answer": "top"
+  },
+  {
+    "question": "You can also read a reverse poem from ______ to top.",
+    "options": [
+      "bottom",
+      "top",
+      "side",
+      "back"
+    ],
+    "answer": "bottom"
+  },
+  {
+    "question": "A ______ can be read from top to bottom and bottom to top.",
+    "options": [
+      "cinquain",
+      "parody",
+      "triplet",
+      "reverse poem"
+    ],
+    "answer": "reverse poem"
+  },
+  {
+    "question": "A ______ tells a story.",
+    "options": [
+      "triplet",
+      "couplet",
+      "cinquain",
+      "narrative poem"
+    ],
+    "answer": "narrative poem"
+  },
+  {
+    "question": "A narrative poem has a ______.",
+    "options": [
+      "front",
+      "back",
+      "side",
+      "beginning"
+    ],
+    "answer": "beginning"
+  },
+  {
+    "question": "In the narrative poem you have been taught there are ______ characters.",
+    "options": [
+      "three",
+      "four",
+      "six",
+      "two"
+    ],
+    "answer": "two"
+  },
+  {
+    "question": "In the narrative poem you have been taught there is an ______.",
+    "options": [
+      "end",
+      "side",
+      "up",
+      "down"
+    ],
+    "answer": "end"
+  },
+  {
+    "question": "What happened at the end of the poem? The boy's ______ was found.",
+    "options": [
+      "ball",
+      "kite",
+      "box",
+      "shoe"
+    ],
+    "answer": "kite"
+  },
+  {
+    "question": "Jake went out to fly his ______.",
+    "options": [
+      "ball",
+      "kite",
+      "box",
+      "shoe"
+    ],
+    "answer": "kite"
   }
 ]

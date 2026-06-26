@@ -1,22 +1,362 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "The massive outcrop of granite rocks found in Abeokuta, Ogun State is:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Zuma Rock",
+      "Olumo Rock",
+      "Agbele Rock"
     ],
-    "answer": "A"
+    "answer": "Olumo Rock"
   },
   {
-    "question": "Sample Question 2",
+    "question": "A deliberate act that puts a child under the age of 18 at physical, emotional, or social risk is called:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Discipline",
+      "Child abuse",
+      "Education"
     ],
-    "answer": "B"
+    "answer": "Child abuse"
+  },
+  {
+    "question": "Nigeria’s main export to the rest of the world is:",
+    "options": [
+      "Cocoa",
+      "Crude oil",
+      "Leather goods"
+    ],
+    "answer": "Crude oil"
+  },
+  {
+    "question": "The Atlantic Ocean is the ________ largest ocean in the world.",
+    "options": [
+      "First",
+      "Second",
+      "Third"
+    ],
+    "answer": "Second"
+  },
+  {
+    "question": "What occurs when a person’s skills are not fully utilized or they work in a job that pays very little?",
+    "options": [
+      "Full employment",
+      "Under-employment",
+      "Wealth"
+    ],
+    "answer": "Under-employment"
+  },
+  {
+    "question": "The ______ is the head of the home.",
+    "options": [
+      "Child",
+      "Husband",
+      "Servant"
+    ],
+    "answer": "Husband"
+  },
+  {
+    "question": "Common examples of child labour include begging on the streets and:",
+    "options": [
+      "Doing homework",
+      "Playing football",
+      "Street hawking"
+    ],
+    "answer": "Street hawking"
+  },
+  {
+    "question": "A primary cause of group conflict is the lack of free and:",
+    "options": [
+      "Secret elections",
+      "Fair elections",
+      "Expensive elections"
+    ],
+    "answer": "Fair elections"
+  },
+  {
+    "question": "One way to live together peacefully is:",
+    "options": [
+      "Disregard for authority",
+      "Respect for individual differences",
+      "Ignoring diverse ideas"
+    ],
+    "answer": "Respect for individual differences"
+  },
+  {
+    "question": "Which of these is a major effect of child marriage on a young girl?",
+    "options": [
+      "Early graduation",
+      "High infant mortality",
+      "Better career"
+    ],
+    "answer": "High infant mortality"
+  },
+  {
+    "question": "A state whereby an adult has no job and receives no income is defined as:",
+    "options": [
+      "Employment",
+      "Unemployment",
+      "Retirement"
+    ],
+    "answer": "Unemployment"
+  },
+  {
+    "question": "One solution to gender discrimination is to ensure ________ opportunities for both men and women.",
+    "options": [
+      "Limited",
+      "Equal",
+      "Different"
+    ],
+    "answer": "Equal"
+  },
+  {
+    "question": "Which form of child abuse involves forcing children to fight in wars?",
+    "options": [
+      "Child marriage",
+      "Child labour",
+      "Child soldiers"
+    ],
+    "answer": "Child soldiers"
+  },
+  {
+    "question": "Goods and services that a country sells to other nations are called:",
+    "options": [
+      "Imports",
+      "Exports",
+      "Gifts"
+    ],
+    "answer": "Exports"
+  },
+  {
+    "question": "The water in the ocean tastes:",
+    "options": [
+      "Sweet",
+      "Sour",
+      "Salty"
+    ],
+    "answer": "Salty"
+  },
+  {
+    "question": "Conflict is natural because individuals have different views, opinions, and:",
+    "options": [
+      "Interests",
+      "Names",
+      "Heights"
+    ],
+    "answer": "Interests"
+  },
+  {
+    "question": "When farmers in Southern Nigeria sell yams to people in Northern Nigeria, they are practicing:",
+    "options": [
+      "International trade",
+      "Local trade",
+      "Exporting"
+    ],
+    "answer": "Local trade"
+  },
+  {
+    "question": "Banks and institutions can help reduce unemployment by providing ________________ to citizens.",
+    "options": [
+      "Free food",
+      "Loans to start businesses",
+      "Loud music"
+    ],
+    "answer": "Loans to start businesses"
+  },
+  {
+    "question": "The exchange of goods and services between people or countries is known as:",
+    "options": [
+      "Farming",
+      "Trade",
+      "Banking"
+    ],
+    "answer": "Trade"
+  },
+  {
+    "question": "What is the name given to trade that occurs between different countries?",
+    "options": [
+      "Local trade",
+      "International trade",
+      "Neighborhood trade"
+    ],
+    "answer": "International trade"
+  },
+  {
+    "question": "To prevent child abuse, governments must pass laws that make:",
+    "options": [
+      "Schooling illegal",
+      "Child labour and child marriage illegal",
+      "Playing illegal"
+    ],
+    "answer": "Child labour and child marriage illegal"
+  },
+  {
+    "question": "Historical monuments, zoos, and art galleries are examples of ________ attractions.",
+    "options": [
+      "Natural",
+      "Ancient",
+      "Man-made"
+    ],
+    "answer": "Man-made"
+  },
+  {
+    "question": "How many oceans are there in the world?",
+    "options": [
+      "Three",
+      "Five",
+      "Seven"
+    ],
+    "answer": "Five"
+  },
+  {
+    "question": "The central cause of the formal marriage of any person under the age of 18 is often:",
+    "options": [
+      "Wealth",
+      "Poverty and cultural beliefs",
+      "Good health"
+    ],
+    "answer": "Poverty and cultural beliefs"
+  },
+  {
+    "question": "Which of these is a common cause of unemployment?",
+    "options": [
+      "Small population",
+      "High skill levels",
+      "Economic recession and instability"
+    ],
+    "answer": "Economic recession and instability"
+  },
+  {
+    "question": "A long-term effect of joblessness is a loss of:",
+    "options": [
+      "Weight",
+      "Self-esteem",
+      "Friends"
+    ],
+    "answer": "Self-esteem"
+  },
+  {
+    "question": "One solution to unemployment is for the government to provide affordable training in:",
+    "options": [
+      "Video games",
+      "Computer literacy",
+      "Sleeping"
+    ],
+    "answer": "Computer literacy"
+  },
+  {
+    "question": "Goods bought by a country from other nations, such as electronics and refined petrol, are:",
+    "options": [
+      "Exports",
+      "Imports",
+      "Local products"
+    ],
+    "answer": "Imports"
+  },
+  {
+    "question": "Promoting and buying 'Made in Nigeria' goods helps to:",
+    "options": [
+      "Weaken the economy",
+      "Strengthen the economy",
+      "Increase imports"
+    ],
+    "answer": "Strengthen the economy"
+  },
+  {
+    "question": "The warm and cold springs that meet in a beautiful landscape are found at:",
+    "options": [
+      "Olumo Rock",
+      "Ikogosi",
+      "Yankari"
+    ],
+    "answer": "Ikogosi"
+  },
+  {
+    "question": "Illegal substances that can change our mood and make us act strangely are called ________.",
+    "options": [
+      "Prescription Medicines",
+      "Illicit Drugs",
+      "Herbal Teas"
+    ],
+    "answer": "Illicit Drugs"
+  },
+  {
+    "question": "Which of the following is an example of an illicit drug?",
+    "options": [
+      "Cocaine and marijuana",
+      "Paracetamol and vitamins",
+      "Water and juice"
+    ],
+    "answer": "Cocaine and marijuana"
+  },
+  {
+    "question": "The overuse of or unhealthy dependence on additive drugs is defined as ________.",
+    "options": [
+      "Drug Abuse",
+      "Drug Education",
+      "Drug Safety"
+    ],
+    "answer": "Drug Abuse"
+  },
+  {
+    "question": "When people are addicted to drugs, they often do desperate things to get them, such as ________.",
+    "options": [
+      "studying harder",
+      "stealing from family and friends",
+      "sleeping early"
+    ],
+    "answer": "stealing from family and friends"
+  },
+  {
+    "question": "A sudden, unusual change in ________ and behaviour is a clear sign of drug addiction.",
+    "options": [
+      "height",
+      "mood",
+      "clothing size"
+    ],
+    "answer": "mood"
+  },
+  {
+    "question": "A noticeable decline or drop in ________ is a school-related sign of drug addiction.",
+    "options": [
+      "school work and academic performance",
+      "physical height",
+      "artistic skills"
+    ],
+    "answer": "school work and academic performance"
+  },
+  {
+    "question": "An addicted individual might frequently borrow money or resort to stealing in order to ________.",
+    "options": [
+      "buy food",
+      "buy drugs",
+      "pay school fees"
+    ],
+    "answer": "buy drugs"
+  },
+  {
+    "question": "Drug addiction can cause a person to neglect their personal appearance and ________.",
+    "options": [
+      "hygiene",
+      "intelligence",
+      "vocabulary"
+    ],
+    "answer": "hygiene"
+  },
+  {
+    "question": "What should children all over the world always say to drugs?",
+    "options": [
+      "SAY YES",
+      "SAY NO",
+      "SAY MAYBE"
+    ],
+    "answer": "SAY NO"
+  },
+  {
+    "question": "By leading the way to a drug-free Nigeria, a child sets a good example to all ________.",
+    "options": [
+      "children",
+      "animals",
+      "teachers"
+    ],
+    "answer": "children"
   }
 ]

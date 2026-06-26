@@ -1,22 +1,442 @@
 [
   {
-    "question": "Sample Question 1",
+    "section": "grammar",
+    "question": "Give the feminine gender of the noun: Nephews",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "nuclear",
+      "niece",
+      "girl",
+      "aunt"
     ],
-    "answer": "A"
+    "answer": "niece"
   },
   {
-    "question": "Sample Question 2",
+    "section": "grammar",
+    "question": "Give the feminine gender of the noun: Widower",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "widow",
+      "window",
+      "wife",
+      "husband"
     ],
-    "answer": "B"
+    "answer": "widow"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the feminine gender of the noun: Marquis",
+    "options": [
+      "mannequin",
+      "marchioness",
+      "Mirinda",
+      "lady"
+    ],
+    "answer": "marchioness"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the feminine gender of the noun: Scout",
+    "options": [
+      "girls’ guide",
+      "brownie",
+      "karate",
+      "man-o-war"
+    ],
+    "answer": "girls’ guide"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the feminine gender of the noun: Boar",
+    "options": [
+      "gander",
+      "goose",
+      "cow",
+      "sow"
+    ],
+    "answer": "sow"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the palindrome: n __ __ n",
+    "options": [
+      "neen",
+      "noon",
+      "nine",
+      "nini"
+    ],
+    "answer": "noon"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the palindrome: p __ __ p",
+    "options": [
+      "peep",
+      "pip",
+      "pimp",
+      "prep"
+    ],
+    "answer": "peep"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the palindrome: s __ g __ s",
+    "options": [
+      "sangs",
+      "snags",
+      "sagas",
+      "sinus"
+    ],
+    "answer": "sagas"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the palindrome: l __ v __ l",
+    "options": [
+      "level",
+      "livel",
+      "livus",
+      "level"
+    ],
+    "answer": "level"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the palindrome: m __ r d r __ m",
+    "options": [
+      "murdrum",
+      "murdram",
+      "merdreum",
+      "merdeum"
+    ],
+    "answer": "murdrum"
+  },
+  {
+    "section": "grammar",
+    "question": "Interpret the idiom: To rain cats and dog",
+    "options": [
+      "To rain heavily",
+      "To rain scarcely",
+      "To rain daily",
+      "To rain occasionally"
+    ],
+    "answer": "To rain heavily"
+  },
+  {
+    "section": "grammar",
+    "question": "Interpret the idiom: To put the cart before the horse",
+    "options": [
+      "To allow the cart to go before the horse",
+      "To arrange things chronologically",
+      "To arrange things unwisely",
+      "To arrange things suddenly"
+    ],
+    "answer": "To arrange things chronologically"
+  },
+  {
+    "section": "grammar",
+    "question": "Interpret the idiom: To smell a rat",
+    "options": [
+      "To perceive dead rat’s smell",
+      "To perceive a foul smell",
+      "To suspect that something is wrong; be suspicious",
+      "To work hard to catch a dead rat"
+    ],
+    "answer": "To suspect that something is wrong; be suspicious"
+  },
+  {
+    "section": "grammar",
+    "question": "Interpret the idiom: To hit the nail on the head",
+    "options": [
+      "To be sober",
+      "To be injured by a nail on the head",
+      "To go straight to the matter of the nail",
+      "To be completely accurate or correct about something"
+    ],
+    "answer": "To be completely accurate or correct about something"
+  },
+  {
+    "section": "grammar",
+    "question": "Interpret the idiom: To play with fire",
+    "options": [
+      "To play always",
+      "To engage in reckless or dangerous behaviour that is highly likely to result in severe consequences.",
+      "To strike some matches",
+      "To walk on fire"
+    ],
+    "answer": "To engage in reckless or dangerous behaviour that is highly likely to result in severe consequences."
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Quiz",
+    "options": [
+      "quizs",
+      "quizzes",
+      "quizes",
+      "quazes"
+    ],
+    "answer": "quizzes"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Puppy",
+    "options": [
+      "puppys",
+      "puppyes",
+      "puppies",
+      "puppyes"
+    ],
+    "answer": "puppies"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Proof",
+    "options": [
+      "proofs",
+      "proves",
+      "profs",
+      "prooves"
+    ],
+    "answer": "proofs"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Plateau",
+    "options": [
+      "plateaux",
+      "plateiux",
+      "plantains",
+      "plains"
+    ],
+    "answer": "plateaux"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Albino",
+    "options": [
+      "albinoes",
+      "albini",
+      "albinos",
+      "albinis"
+    ],
+    "answer": "albinos"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Reindeer",
+    "options": [
+      "reindeers",
+      "reindeer",
+      "reindrum",
+      "reindrums"
+    ],
+    "answer": "reindeer"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Aide-de-camp",
+    "options": [
+      "aides-de-camp",
+      "aides-de-camps",
+      "aide-de-camps",
+      "aide-de-camp"
+    ],
+    "answer": "aides-de-camp"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Furniture",
+    "options": [
+      "furniture",
+      "furnitures",
+      "furnitured",
+      "furnituris"
+    ],
+    "answer": "furniture"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Canopy",
+    "options": [
+      "canopys",
+      "canopies",
+      "canopil",
+      "canopiis"
+    ],
+    "answer": "canopies"
+  },
+  {
+    "section": "grammar",
+    "question": "Give the plural of Major-general",
+    "options": [
+      "major-generals",
+      "majors-generals",
+      "majors-general",
+      "major-general"
+    ],
+    "answer": "major-generals"
+  },
+  {
+    "section": "grammar",
+    "question": "Rice and stew __________ delicious.",
+    "options": [
+      "is",
+      "are",
+      "has",
+      "had"
+    ],
+    "answer": "is"
+  },
+  {
+    "section": "grammar",
+    "question": "Chief Foley and his wife __________ travelled.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "section": "grammar",
+    "question": "The minister, with his wife __________ coming to visit us.",
+    "options": [
+      "is",
+      "are",
+      "has",
+      "have"
+    ],
+    "answer": "is"
+  },
+  {
+    "section": "grammar",
+    "question": "Everybody ___________ bought a bag.",
+    "options": [
+      "has",
+      "have",
+      "was",
+      "were"
+    ],
+    "answer": "has"
+  },
+  {
+    "section": "grammar",
+    "question": "These books ___________ mine.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "had"
+    ],
+    "answer": "are"
+  },
+  {
+    "section": "grammar",
+    "question": "She always ___________ at eight O’clock.",
+    "options": [
+      "sleep",
+      "sleeps",
+      "slept",
+      "slepts"
+    ],
+    "answer": "sleeps"
+  },
+  {
+    "section": "grammar",
+    "question": "All of them _________ gone to the stadium.",
+    "options": [
+      "have",
+      "has",
+      "were",
+      "was"
+    ],
+    "answer": "have"
+  },
+  {
+    "section": "grammar",
+    "question": "__________ any of you have a pencil?",
+    "options": [
+      "do",
+      "does",
+      "has",
+      "have"
+    ],
+    "answer": "do"
+  },
+  {
+    "section": "grammar",
+    "question": "All the girls, but Tolu _____________ in Lagos.",
+    "options": [
+      "live",
+      "lives",
+      "lived",
+      "living"
+    ],
+    "answer": "live"
+  },
+  {
+    "section": "grammar",
+    "question": "Everybody ______________ his trousers ___________ dirty.",
+    "options": [
+      "thinks, is",
+      "think, are",
+      "thought, were",
+      "taught, are"
+    ],
+    "answer": "thinks, is"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: Absence makes the heart ___________.",
+    "options": [
+      "weak",
+      "grow fonder",
+      "merry",
+      "joyous"
+    ],
+    "answer": "grow fonder"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: Coming events ____________.",
+    "options": [
+      "cast their shadows",
+      "look well",
+      "bring crisis",
+      "move well"
+    ],
+    "answer": "cast their shadows"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: A great cry and __________.",
+    "options": [
+      "little wood",
+      "little wool",
+      "little fire",
+      "little mercer"
+    ],
+    "answer": "little wool"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: A burnt child dreads ____________.",
+    "options": [
+      "the fire",
+      "the injury",
+      "the gas",
+      "the snake"
+    ],
+    "answer": "the fire"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: Beggars cannot be ________.",
+    "options": [
+      "Optionals",
+      "Choosers",
+      "Complainants",
+      "Police men"
+    ],
+    "answer": "Choosers"
   }
 ]

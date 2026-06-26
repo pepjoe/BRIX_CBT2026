@@ -1,22 +1,772 @@
 [
   {
-    "question": "Sample Question 1",
+    "section": "grammar",
+    "question": "She can swim very well, _______?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "can she",
+      "can't she",
+      "isn't she",
+      "doesn't she"
     ],
-    "answer": "A"
+    "answer": "can't she"
   },
   {
-    "question": "Sample Question 2",
+    "section": "grammar",
+    "question": "Bisi didn't travel to Abuja, _______?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "did she",
+      "didn't she",
+      "does she",
+      "was she"
     ],
-    "answer": "B"
+    "answer": "did she"
+  },
+  {
+    "section": "grammar",
+    "question": "We seldom quarrel, _______?",
+    "options": [
+      "don't we",
+      "are we",
+      "do we",
+      "quarrel we"
+    ],
+    "answer": "do we"
+  },
+  {
+    "section": "grammar",
+    "question": "Gabriel loves his wife, _______?",
+    "options": [
+      "don't he",
+      "doesn't he",
+      "is he",
+      "loves he"
+    ],
+    "answer": "doesn't he"
+  },
+  {
+    "section": "grammar",
+    "question": "Yinka and Tobi got married last month, _______?",
+    "options": [
+      "don't they",
+      "hadn't they",
+      "didn't Yinka and Tobi",
+      "didn't they"
+    ],
+    "answer": "didn't they"
+  },
+  {
+    "section": "grammar",
+    "question": "Michael has gone to church, _______?",
+    "options": [
+      "hasn't he",
+      "isn't he",
+      "has he",
+      "didn't he"
+    ],
+    "answer": "hasn't he"
+  },
+  {
+    "section": "grammar",
+    "question": "I am your teacher, _______?",
+    "options": [
+      "am not I",
+      "amn't I",
+      "aren't I",
+      "isn't it"
+    ],
+    "answer": "aren't I"
+  },
+  {
+    "section": "grammar",
+    "question": "Bala and Paul are not related, _______?",
+    "options": [
+      "are they",
+      "aren't they",
+      "do they",
+      "are Paul and Bala"
+    ],
+    "answer": "are they"
+  },
+  {
+    "section": "grammar",
+    "question": "You are not my student, _______?",
+    "options": [
+      "aren't you",
+      "are you",
+      "were you",
+      "won't you"
+    ],
+    "answer": "are you"
+  },
+  {
+    "section": "grammar",
+    "question": "Open the window, _______?",
+    "options": [
+      "do you",
+      "don't you",
+      "should you",
+      "will you"
+    ],
+    "answer": "will you"
+  },
+  {
+    "section": "grammar",
+    "question": "Choose the correct passive voice version of: 'The boy kicked the ball.'",
+    "options": [
+      "The ball is kicked by the boy.",
+      "The ball was kicked by the boy.",
+      "The boy was kicked by the ball.",
+      "The ball had been kicked by the boy."
+    ],
+    "answer": "The ball was kicked by the boy."
+  },
+  {
+    "section": "grammar",
+    "question": "Change to reported speech: 'I am going to the park,' said Tobi.",
+    "options": [
+      "Tobi said that he is going to the park.",
+      "Tobi said that I was going to the park.",
+      "Tobi said that he was going to the park.",
+      "Tobi said he goes to the park."
+    ],
+    "answer": "Tobi said that he was going to the park."
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: 'Don't put all your eggs in one ________.'",
+    "options": [
+      "Basket",
+      "Carton",
+      "Bucket",
+      "Bowl"
+    ],
+    "answer": "Basket"
+  },
+  {
+    "section": "grammar",
+    "question": "Which is the correct passive form of: 'Sarah broke the vase.'?",
+    "options": [
+      "The vase is broken by Sarah.",
+      "The vase was broke by Sarah.",
+      "The vase was broken by Sarah.",
+      "The vase had broke by Sarah."
+    ],
+    "answer": "The vase was broken by Sarah."
+  },
+  {
+    "section": "grammar",
+    "question": "What is the meaning of: 'Birds of a feather flock together.'?",
+    "options": [
+      "Birds enjoy flying in large groups.",
+      "People who are similar often spend time together.",
+      "It is important to look like your friends.",
+      "Similar people always argue with each other."
+    ],
+    "answer": "People who are similar often spend time together."
+  },
+  {
+    "section": "grammar",
+    "question": "Change to reported speech: 'We want to play football,' the children said.",
+    "options": [
+      "The children said that they want to play football.",
+      "The children said that we wanted to play football.",
+      "The children said that they wanted to play football.",
+      "The children said they will play football."
+    ],
+    "answer": "The children said that they wanted to play football."
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: 'When in Rome, do as the ________ do.'",
+    "options": [
+      "People",
+      "Romans",
+      "Leaders",
+      "Soldiers"
+    ],
+    "answer": "Romans"
+  },
+  {
+    "section": "grammar",
+    "question": "Change to passive voice: 'Farmers grow wheat in this field.'",
+    "options": [
+      "Wheat was grown in this field by farmers.",
+      "Wheat is grown in this field by farmers.",
+      "Wheat is growed in this field by farmers.",
+      "Farmers are grown by wheat."
+    ],
+    "answer": "Wheat is grown in this field by farmers."
+  },
+  {
+    "section": "grammar",
+    "question": "Change to reported speech: 'I have finished my homework,' she said.",
+    "options": [
+      "She said that she has finished her homework.",
+      "She said that she finished her homework.",
+      "She said that she had finished her homework.",
+      "She said I had finished my homework."
+    ],
+    "answer": "She said that she had finished her homework."
+  },
+  {
+    "section": "grammar",
+    "question": "What is the meaning of: 'Actions speak louder than words.'?",
+    "options": [
+      "You should always shout to be heard.",
+      "What you do is more important and believable than what you say.",
+      "Talking is more effective than doing.",
+      "Words are the most powerful tools we have."
+    ],
+    "answer": "What you do is more important and believable than what you say."
+  },
+  {
+    "section": "grammar",
+    "question": "Change to passive voice: 'The gardener waters the plants every morning.'",
+    "options": [
+      "The plants are watered by the gardener every morning.",
+      "The plants was watered by the gardener every morning.",
+      "The plants were watered by the gardener every morning.",
+      "The gardener is watered by the plants."
+    ],
+    "answer": "The plants are watered by the gardener every morning."
+  },
+  {
+    "section": "grammar",
+    "question": "Change to reported speech: 'The pizza is cold,' complained Ben.",
+    "options": [
+      "Ben complained that the pizza is cold.",
+      "Ben complained that the pizza was cold.",
+      "Ben complained that the pizza has been cold.",
+      "Ben complained the pizza being cold."
+    ],
+    "answer": "Ben complained that the pizza was cold."
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: 'You can’t judge a book by its ________.'",
+    "options": [
+      "Title",
+      "Pages",
+      "Cover",
+      "Price"
+    ],
+    "answer": "Cover"
+  },
+  {
+    "section": "grammar",
+    "question": "Change to passive voice: 'The mechanic fixed the car.'",
+    "options": [
+      "The car is fixed by the mechanic.",
+      "The car was fixed by the mechanic.",
+      "The car has been fixed by the mechanic.",
+      "The mechanic was fixed by the car."
+    ],
+    "answer": "The car was fixed by the mechanic."
+  },
+  {
+    "section": "grammar",
+    "question": "What is the meaning of: 'A stitch in time saves nine.'?",
+    "options": [
+      "Sewing is a useful hobby to learn.",
+      "It is better to deal with a problem immediately than wait.",
+      "You should always count your stitches.",
+      "Time moves faster when you are busy."
+    ],
+    "answer": "It is better to deal with a problem immediately than wait."
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'James is my son.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Declarative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Ibadan is the largest city in West Africa.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Declarative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Leave her alone.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Answer my question.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Is your mother at home?'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Interrogative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Oh, what a prize!'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Exclamatory"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Are you a stranger here?'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Interrogative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'I am an English teacher.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Declarative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Don't open the door.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'The sun rises in the east every morning.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Declarative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Can we go to the park after lunch?'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Interrogative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Turn off the lights when you leave.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'Clean your room before you go outside.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "section": "grammar",
+    "question": "Identify the function of this sentence: 'I can't believe we finally won the game!'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "answer": "Exclamatory"
+  },
+  {
+    "section": "grammar",
+    "question": "Complete the proverb: 'Empty vessels make the ________ noise.'",
+    "options": [
+      "Quietest",
+      "Most",
+      "Least",
+      "Smallest"
+    ],
+    "answer": "Most"
+  },
+  {
+    "section": "poetry",
+    "question": "What is the specific syllable structure of a Haiku?",
+    "options": [
+      "7-5-7",
+      "5-7-5",
+      "5-5-5",
+      "3-5-3"
+    ],
+    "answer": "5-7-5"
+  },
+  {
+    "section": "poetry",
+    "question": "Which type of poetry traditionally focuses on nature and the seasons?",
+    "options": [
+      "Senryu",
+      "Elegy",
+      "Haiku",
+      "Narrative"
+    ],
+    "answer": "Haiku"
+  },
+  {
+    "section": "poetry",
+    "question": "A Senryu is similar in structure to a Haiku but focuses on:",
+    "options": [
+      "Landscapes",
+      "Human nature and everyday life",
+      "Death and mourning",
+      "Mythical creatures"
+    ],
+    "answer": "Human nature and everyday life"
+  },
+  {
+    "section": "poetry",
+    "question": "What is the primary purpose of an Elegy?",
+    "options": [
+      "To tell a funny story",
+      "To describe a beautiful garden",
+      "To mourn and praise someone who has died",
+      "To explain the rules of a sport"
+    ],
+    "answer": "To mourn and praise someone who has died"
+  },
+  {
+    "section": "poetry",
+    "question": "How many lines does a standard Haiku or Senryu contain?",
+    "options": [
+      "Four",
+      "Two",
+      "Three",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "section": "poetry",
+    "question": "The tone of an Elegy is usually described as:",
+    "options": [
+      "Humorous and light",
+      "Sad, mournful, and reflective",
+      "Angry and loud",
+      "Fast-paced and exciting"
+    ],
+    "answer": "Sad, mournful, and reflective"
+  },
+  {
+    "section": "poetry",
+    "question": "If a line of poetry reads: 'The sun shines bright ev-ery day', how many syllables does it contain?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "section": "poetry",
+    "question": "Which type of poetry originated from Japanese tradition?",
+    "options": [
+      "Only Haiku",
+      "Only Senryu",
+      "Both Haiku and Senryu",
+      "Neither Haiku nor Senryu"
+    ],
+    "answer": "Both Haiku and Senryu"
+  },
+  {
+    "section": "poetry",
+    "question": "Which rhyme scheme involves the first and third lines rhyming, and the second and fourth lines rhyming?",
+    "options": [
+      "AABB",
+      "ABBA",
+      "ABAB",
+      "AAAA"
+    ],
+    "answer": "ABAB"
+  },
+  {
+    "section": "poetry",
+    "question": "Modern elegies that do not follow a specific rhyme pattern are written in:",
+    "options": [
+      "Ancient Verse",
+      "Free Verse",
+      "Syllabic Verse",
+      "Rhyming Couplet"
+    ],
+    "answer": "Free Verse"
+  },
+  {
+    "section": "poetry",
+    "question": "While a Haiku focuses on nature, which poem is more likely to focus on human emotions or funny situations?",
+    "options": [
+      "Dirge",
+      "Senryu",
+      "Narrative",
+      "Limericks"
+    ],
+    "answer": "Senryu"
+  },
+  {
+    "section": "poetry",
+    "question": "Besides praising a person who is gone, what is the other main purpose of an Elegy?",
+    "options": [
+      "To celebrate",
+      "To mourn",
+      "To entertain",
+      "To instruct"
+    ],
+    "answer": "To mourn"
+  },
+  {
+    "section": "poetry",
+    "question": "How many syllables must the first line of a Haiku contain?",
+    "options": [
+      "Seven",
+      "Three",
+      "Five",
+      "Ten"
+    ],
+    "answer": "Five"
+  },
+  {
+    "section": "poetry",
+    "question": "What is unique about a poem written in 'Free Verse'?",
+    "options": [
+      "It has no words",
+      "It does not follow a traditional rhyme scheme",
+      "It must be about animals",
+      "It only has one line"
+    ],
+    "answer": "It does not follow a traditional rhyme scheme"
+  },
+  {
+    "section": "poetry",
+    "question": "What is the term for a four-line section or stanza of a poem?",
+    "options": [
+      "Couplet",
+      "Triplet",
+      "Elegiac stanza",
+      "Haiku"
+    ],
+    "answer": "Elegiac stanza"
+  },
+  {
+    "section": "poetry",
+    "question": "Unlike an elegy, a Dirge is usually described as being shorter and more like a:",
+    "options": [
+      "Story or novel",
+      "Song or a chant",
+      "Joke or riddle",
+      "Letter or diary"
+    ],
+    "answer": "Song or a chant"
+  },
+  {
+    "section": "poetry",
+    "question": "What are the two main themes of a Dirge?",
+    "options": [
+      "Nature and Seasons",
+      "Loss/Grief and Memory",
+      "Humour and Everyday life",
+      "Bravery and War"
+    ],
+    "answer": "Loss/Grief and Memory"
+  },
+  {
+    "section": "poetry",
+    "question": "A dirge is a type of poem or song written to show respect to whom?",
+    "options": [
+      "A person celebrating a birthday",
+      "Someone who has passed away",
+      "A famous world leader",
+      "A fictional character"
+    ],
+    "answer": "Someone who has passed away"
+  },
+  {
+    "section": "poetry",
+    "question": "What is a couplet in poetry?",
+    "options": [
+      "A stanza with three lines that rhyme",
+      "Two consecutive lines of poetry that usually rhyme",
+      "A poem that does not use any rhyme or rhythm",
+      "A long poem telling a story about a hero"
+    ],
+    "answer": "Two consecutive lines of poetry that usually rhyme"
+  },
+  {
+    "section": "poetry",
+    "question": "What type of poem or song tells a story?",
+    "options": [
+      "Haiku",
+      "Ballad",
+      "Acrostic",
+      "Sonnet"
+    ],
+    "answer": "Ballad"
+  },
+  {
+    "section": "poetry",
+    "question": "The word 'Pastoral' comes from the Latin word pastor, which means:",
+    "options": [
+      "Teacher",
+      "Farmer",
+      "Shepherd",
+      "Doctor"
+    ],
+    "answer": "Shepherd"
+  },
+  {
+    "section": "poetry",
+    "question": "Originally, ballads were passed down:",
+    "options": [
+      "By email",
+      "Orally",
+      "In newspapers",
+      "By text"
+    ],
+    "answer": "Orally"
+  },
+  {
+    "section": "poetry",
+    "question": "A short stanza of four lines is known as a:",
+    "options": [
+      "Quatrain",
+      "Couplet",
+      "Paragraph",
+      "Verse"
+    ],
+    "answer": "Quatrain"
+  },
+  {
+    "section": "poetry",
+    "question": "Pastoral poems focus on the beauty of:",
+    "options": [
+      "The city",
+      "Outer space",
+      "The country side",
+      "Schools"
+    ],
+    "answer": "The country side"
+  },
+  {
+    "section": "poetry",
+    "question": "Which of these is a common theme for a ballad?",
+    "options": [
+      "Heroic deeds",
+      "Space travel",
+      "Modern cars",
+      "Robots"
+    ],
+    "answer": "Heroic deeds"
+  },
+  {
+    "section": "poetry",
+    "question": "In Pastoral poetry, nature is seen as superior to:",
+    "options": [
+      "The forest",
+      "The noisy city",
+      "Meadows",
+      "Gardens"
+    ],
+    "answer": "The noisy city"
+  },
+  {
+    "section": "poetry",
+    "question": "Which rhyme scheme is most common for a ballad?",
+    "options": [
+      "AAAA",
+      "ABCB",
+      "ABCD",
+      "AABB"
+    ],
+    "answer": "ABCB"
+  },
+  {
+    "section": "poetry",
+    "question": "Which of these characters would you likely find in a Pastoral poem?",
+    "options": [
+      "An Astronaut",
+      "A Shepherd",
+      "A Robot",
+      "A Pilot"
+    ],
+    "answer": "A Shepherd"
+  },
+  {
+    "section": "poetry",
+    "question": "A ballad has a strong rhythmic beat because it was meant to be:",
+    "options": [
+      "Read silently",
+      "Sung or recited",
+      "Written in code",
+      "Forgotten"
+    ],
+    "answer": "Sung or recited"
+  },
+  {
+    "section": "poetry",
+    "question": "The two main purposes of an Elegy are to praise the person who is gone and to ___________.",
+    "options": [
+      "Mourn",
+      "Forget",
+      "Sing",
+      "Argue"
+    ],
+    "answer": "Mourn"
   }
 ]

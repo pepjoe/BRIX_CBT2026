@@ -1,22 +1,402 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is a trade union?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A group of workers",
+      "A market",
+      "A school",
+      "A church"
     ],
-    "answer": "A"
+    "answer": "A group of workers"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Who can join a trade union?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Farmers only",
+      "Workers",
+      "Children only",
+      "Traders only"
     ],
-    "answer": "B"
+    "answer": "Workers"
+  },
+  {
+    "question": "One duty of a trade union is to _____.",
+    "options": [
+      "Build roads",
+      "Represent workers",
+      "Sell goods",
+      "Make laws"
+    ],
+    "answer": "Represent workers"
+  },
+  {
+    "question": "Trade unions help workers to get better _____.",
+    "options": [
+      "Houses",
+      "Salaries and working conditions",
+      "Cars",
+      "Farms"
+    ],
+    "answer": "Salaries and working conditions"
+  },
+  {
+    "question": "Trade unions speak on behalf of _____.",
+    "options": [
+      "Teachers only",
+      "Workers",
+      "Parents",
+      "Pupils"
+    ],
+    "answer": "Workers"
+  },
+  {
+    "question": "Which of these people can belong to a trade union?",
+    "options": [
+      "A worker",
+      "A baby",
+      "A visitor",
+      "A tourist"
+    ],
+    "answer": "A worker"
+  },
+  {
+    "question": "Trade unions help to protect the _____ of workers.",
+    "options": [
+      "Rights",
+      "Toys",
+      "Clothes",
+      "Books"
+    ],
+    "answer": "Rights"
+  },
+  {
+    "question": "A trade union is formed by a group of _____.",
+    "options": [
+      "Workers",
+      "Drivers only",
+      "Pupils",
+      "Patients"
+    ],
+    "answer": "Workers"
+  },
+  {
+    "question": "Trade unions encourage _____ among workers.",
+    "options": [
+      "Fighting",
+      "Cooperation",
+      "Laziness",
+      "Noise"
+    ],
+    "answer": "Cooperation"
+  },
+  {
+    "question": "Why are trade unions important?",
+    "options": [
+      "They help workers solve problems",
+      "They build houses",
+      "They sell food",
+      "They own schools"
+    ],
+    "answer": "They help workers solve problems"
+  },
+  {
+    "question": "What is a pressure group?",
+    "options": [
+      "A group that influences decisions",
+      "A football team",
+      "A market group",
+      "A classroom"
+    ],
+    "answer": "A group that influences decisions"
+  },
+  {
+    "question": "What do pressure groups do in Nigeria?",
+    "options": [
+      "Sleep all day",
+      "Express their views",
+      "Play games",
+      "Watch television"
+    ],
+    "answer": "Express their views"
+  },
+  {
+    "question": "Which of these is an example of a pressure group?",
+    "options": [
+      "Labour Union",
+      "School Bus",
+      "Hospital Ward",
+      "Library"
+    ],
+    "answer": "Labour Union"
+  },
+  {
+    "question": "Pressure groups help to make the government listen to the _____.",
+    "options": [
+      "Government policies",
+      "Weather conditions",
+      "School uniforms",
+      "Sports matches"
+    ],
+    "answer": "Government policies"
+  },
+  {
+    "question": "Members of a pressure group usually have a common _____.",
+    "options": [
+      "Different interests",
+      "Similar interests",
+      "No interests",
+      "Secret interests"
+    ],
+    "answer": "Similar interests"
+  },
+  {
+    "question": "Which of these is NOT a pressure group?",
+    "options": [
+      "Citizens",
+      "Animals",
+      "Machines",
+      "Buildings"
+    ],
+    "answer": "Citizens"
+  },
+  {
+    "question": "Pressure groups help to protect the interests of their _____.",
+    "options": [
+      "Present complaints",
+      "Build roads",
+      "Print money",
+      "Conduct examinations"
+    ],
+    "answer": "Present complaints"
+  },
+  {
+    "question": "Pressure groups can help bring about _____ changes.",
+    "options": [
+      "Be heard",
+      "Become kings",
+      "Travel abroad",
+      "Own factories"
+    ],
+    "answer": "Be heard"
+  },
+  {
+    "question": "Pressure groups use peaceful methods such as meetings and _____.",
+    "options": [
+      "Listen to people's needs",
+      "Close schools",
+      "Stop farming",
+      "Cancel holidays"
+    ],
+    "answer": "Listen to people's needs"
+  },
+  {
+    "question": "The main aim of a pressure group is to influence _____ decisions.",
+    "options": [
+      "Participation",
+      "Fighting",
+      "Laziness",
+      "Pollution"
+    ],
+    "answer": "Participation"
+  },
+  {
+    "question": "What is a national organization?",
+    "options": [
+      "A group that serves the nation",
+      "A football club",
+      "A family meeting",
+      "A classroom group"
+    ],
+    "answer": "A group that serves the nation"
+  },
+  {
+    "question": "National organizations work for the good of the _____.",
+    "options": [
+      "Village",
+      "Nation",
+      "School",
+      "Street"
+    ],
+    "answer": "Nation"
+  },
+  {
+    "question": "Which of these is a national organization in Nigeria?",
+    "options": [
+      "Nigerian Red Cross Society",
+      "School Prefects' Club",
+      "Drama Club",
+      "Debate Society"
+    ],
+    "answer": "Nigerian Red Cross Society"
+  },
+  {
+    "question": "The Nigerian Red Cross Society helps people during _____.",
+    "options": [
+      "Celebrations",
+      "Disasters and emergencies",
+      "Sports competitions",
+      "Examinations"
+    ],
+    "answer": "Disasters and emergencies"
+  },
+  {
+    "question": "The National Youth Service Corps (NYSC) was created for _____.",
+    "options": [
+      "Farming only",
+      "National unity and service",
+      "Trading",
+      "Entertainment"
+    ],
+    "answer": "National unity and service"
+  },
+  {
+    "question": "The Nigerian Red Cross Society is known for providing _____ assistance.",
+    "options": [
+      "Medical and humanitarian",
+      "Banking",
+      "Construction",
+      "Transportation"
+    ],
+    "answer": "Medical and humanitarian"
+  },
+  {
+    "question": "National organizations help to promote _____ among Nigerians.",
+    "options": [
+      "Division",
+      "Unity",
+      "Quarrels",
+      "Laziness"
+    ],
+    "answer": "Unity"
+  },
+  {
+    "question": "Members of national organizations often engage in _____ service.",
+    "options": [
+      "Community",
+      "Personal",
+      "Private",
+      "Foreign"
+    ],
+    "answer": "Community"
+  },
+  {
+    "question": "Which organization helps to unite graduates from different parts of Nigeria?",
+    "options": [
+      "NYSC",
+      "Football Club",
+      "Reading Club",
+      "Music Band"
+    ],
+    "answer": "NYSC"
+  },
+  {
+    "question": "National organizations contribute to the _____ development of Nigeria.",
+    "options": [
+      "Economic and social",
+      "Personal only",
+      "Family only",
+      "School only"
+    ],
+    "answer": "Economic and social"
+  },
+  {
+    "question": "What is population?",
+    "options": [
+      "The number of people living in a place",
+      "The number of houses in a place",
+      "The number of roads in a place",
+      "The number of cars in a place"
+    ],
+    "answer": "The number of people living in a place"
+  },
+  {
+    "question": "Population growth means _____.",
+    "options": [
+      "A decrease in the number of people",
+      "An increase in the number of people",
+      "Building more houses",
+      "Making new roads"
+    ],
+    "answer": "An increase in the number of people"
+  },
+  {
+    "question": "Which of these can increase a population?",
+    "options": [
+      "Births",
+      "Floods",
+      "Droughts",
+      "Accidents"
+    ],
+    "answer": "Births"
+  },
+  {
+    "question": "A census is used to _____.",
+    "options": [
+      "Build schools",
+      "Count people",
+      "Make laws",
+      "Grow crops"
+    ],
+    "answer": "Count people"
+  },
+  {
+    "question": "Nigeria has a _____ population.",
+    "options": [
+      "Small",
+      "Large",
+      "Empty",
+      "Tiny"
+    ],
+    "answer": "Large"
+  },
+  {
+    "question": "When more babies are born, the population may _____.",
+    "options": [
+      "Decrease",
+      "Remain the same",
+      "Increase",
+      "Disappear"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "question": "Population is usually counted through a _____.",
+    "options": [
+      "Census",
+      "Election",
+      "Competition",
+      "Festival"
+    ],
+    "answer": "Census"
+  },
+  {
+    "question": "Which of these is part of a population?",
+    "options": [
+      "People living in a place",
+      "Cars in a garage",
+      "Books in a library",
+      "Trees in a forest"
+    ],
+    "answer": "People living in a place"
+  },
+  {
+    "question": "Population growth can lead to a greater need for _____.",
+    "options": [
+      "Schools and hospitals",
+      "Toys only",
+      "Games only",
+      "Television only"
+    ],
+    "answer": "Schools and hospitals"
+  },
+  {
+    "question": "Why is it important to know a country's population?",
+    "options": [
+      "To help in planning for people's needs",
+      "To increase rainfall",
+      "To stop farming",
+      "To reduce roads"
+    ],
+    "answer": "To help in planning for people's needs"
   }
 ]
