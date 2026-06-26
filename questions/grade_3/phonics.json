@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "boil",
+      "pot",
+      "front"
+    ],
+    "answer": "boil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "Quaint",
+      "toil",
+      "buoy"
+    ],
+    "answer": "toil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "toy",
+      "roy",
+      "oil"
+    ],
+    "answer": "oil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "toil",
+      "employ",
+      "boy"
+    ],
+    "answer": "toil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "toy",
+      "boil",
+      "cloy"
+    ],
+    "answer": "boil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "loyal",
+      "buoyant",
+      "poise"
+    ],
+    "answer": "poise"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "loise",
+      "joyful",
+      "employer"
+    ],
+    "answer": "loise"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "hey",
+      "soil",
+      "boyish"
+    ],
+    "answer": "soil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "coy",
+      "royal",
+      "recoil"
+    ],
+    "answer": "recoil"
+  },
+  {
+    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "options": [
+      "alloy",
+      "destroy",
+      "ointment"
+    ],
+    "answer": "ointment"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "boy",
+      "foil",
+      "oil"
+    ],
+    "answer": "oil"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "hoist",
+      "soy",
+      "foil"
+    ],
+    "answer": "soy"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "roit",
+      "coil",
+      "ahoy"
+    ],
+    "answer": "ahoy"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "decoy",
+      "toil",
+      "source"
+    ],
+    "answer": "decoy"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "avoid",
+      "voyage",
+      "poise"
+    ],
+    "answer": "voyage"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "dote",
+      "recoil",
+      "loyal"
+    ],
+    "answer": "loyal"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "Roy",
+      "moist",
+      "want"
+    ],
+    "answer": "Roy"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "boil",
+      "alloy",
+      "fry"
+    ],
+    "answer": "alloy"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "lustre",
+      "style",
+      "envoy"
+    ],
+    "answer": "envoy"
+  },
+  {
+    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "options": [
+      "ploy",
+      "lead",
+      "enthrone"
+    ],
+    "answer": "ploy"
+  },
+  {
+    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
+    "options": [
+      "high",
+      "die",
+      "piece"
+    ],
+    "answer": "die"
+  },
+  {
+    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
+    "options": [
+      "dye",
+      "ply",
+      "fie"
+    ],
+    "answer": "fie"
+  },
+  {
+    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
+    "options": [
+      "hie",
+      "sigh",
+      "by"
+    ],
+    "answer": "hie"
+  },
+  {
+    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
+    "options": [
+      "fry",
+      "quiet",
+      "stew"
+    ],
+    "answer": "quiet"
+  },
+  {
+    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
+    "options": [
+      "buy",
+      "oil",
+      "tie"
+    ],
+    "answer": "tie"
+  },
+  {
+    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
+    "options": [
+      "this",
+      "thighs",
+      "bit"
+    ],
+    "answer": "thighs"
+  },
+  {
+    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
+    "options": [
+      "gist",
+      "piss",
+      "ice"
+    ],
+    "answer": "ice"
+  },
+  {
+    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
+    "options": [
+      "him",
+      "sign",
+      "zip"
+    ],
+    "answer": "sign"
+  },
+  {
+    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
+    "options": [
+      "might",
+      "first",
+      "what"
+    ],
+    "answer": "might"
+  },
+  {
+    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
+    "options": [
+      "kill",
+      "tight",
+      "Twitter"
+    ],
+    "answer": "tight"
+  }
+]
