@@ -1,402 +1,391 @@
 [
-  {
-    "question": "Plants that grow where they are not wanted are called ______.",
-    "options": [
-      "flowers",
-      "weeds",
-      "shrubs",
-      "crops"
-    ],
-    "answer": "weeds"
-  },
-  {
-    "question": "Weeds compete with crops for water, sunlight and ______.",
-    "options": [
-      "nutrients",
-      "stones",
-      "sand",
-      "sticks"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "One problem weeds cause to farmers is reduced crop ______.",
-    "options": [
-      "yield",
-      "height",
-      "colour",
-      "price"
-    ],
-    "answer": "yield"
-  },
-  {
-    "question": "Removing weeds by hand is called ______ weeding.",
-    "options": [
-      "manual",
-      "chemical",
-      "mechanical",
-      "electrical"
-    ],
-    "answer": "manual"
-  },
-  {
-    "question": "The use of chemicals to destroy weeds is called ______ control.",
-    "options": [
-      "manual",
-      "biological",
-      "chemical",
-      "natural"
-    ],
-    "answer": "chemical"
-  },
-  {
-    "question": "An insect that damages crops is known as an insect ______.",
-    "options": [
-      "farmer",
-      "pest",
-      "crop",
-      "weed"
-    ],
-    "answer": "pest"
-  },
-  {
-    "question": "Grasshoppers and caterpillars are examples of insect ______.",
-    "options": [
-      "pests",
-      "tools",
-      "fertilizers",
-      "seeds"
-    ],
-    "answer": "pests"
-  },
-  {
-    "question": "Insect pests can damage crops by feeding on their ______.",
-    "options": [
-      "roots",
-      "leaves",
-      "soil",
-      "water"
-    ],
-    "answer": "leaves"
-  },
-  {
-    "question": "A pest attack can reduce the ______ of crops harvested.",
-    "options": [
-      "quantity",
-      "temperature",
-      "shape",
-      "weight"
-    ],
-    "answer": "quantity"
-  },
-  {
-    "question": "A knife is a cooking tool used for ______ food.",
-    "options": [
-      "washing",
-      "cutting",
-      "drying",
-      "serving"
-    ],
-    "answer": "cutting"
-  },
-  {
-    "question": "A wooden spoon is used for ______ food while cooking.",
-    "options": [
-      "stirring",
-      "freezing",
-      "covering",
-      "storing"
-    ],
-    "answer": "stirring"
-  },
-  {
-    "question": "A sieve is used for separating fine particles from ______ ones.",
-    "options": [
-      "larger",
-      "heavier",
-      "smaller",
-      "softer"
-    ],
-    "answer": "larger"
-  },
-  {
-    "question": "Cooking tools should be used according to the manufacturer's ______.",
-    "options": [
-      "instructions",
-      "colour",
-      "size",
-      "shape"
-    ],
-    "answer": "instructions"
-  },
-  {
-    "question": "Sharp cooking tools should be handled with ______.",
-    "options": [
-      "care",
-      "speed",
-      "force",
-      "anger"
-    ],
-    "answer": "care"
-  },
-  {
-    "question": "Cooking equipment should be cleaned after ______.",
-    "options": [
-      "purchase",
-      "display",
-      "use",
-      "repair"
-    ],
-    "answer": "use"
-  },
-  {
-    "question": "Soap is a common ______ agent for cooking tools.",
-    "options": [
-      "cleaning",
-      "painting",
-      "cutting",
-      "repairing"
-    ],
-    "answer": "cleaning"
-  },
-  {
-    "question": "Detergent helps to remove ______ from cooking utensils.",
-    "options": [
-      "grease",
-      "wood",
-      "paper",
-      "sand"
-    ],
-    "answer": "grease"
-  },
-  {
-    "question": "A clean kitchen helps to prevent the spread of ______.",
-    "options": [
-      "diseases",
-      "books",
-      "games",
-      "stories"
-    ],
-    "answer": "diseases"
-  },
-  {
-    "question": "Weeds can provide hiding places for insect ______.",
-    "options": [
-      "pests",
-      "farmers",
-      "animals",
-      "workers"
-    ],
-    "answer": "pests"
-  },
-  {
-    "question": "Proper cleaning of cooking tools helps to maintain good ______.",
-    "options": [
-      "hygiene",
-      "noise",
-      "heat",
-      "decoration"
-    ],
-    "answer": "hygiene"
-  },
-  {
-    "question": "Weeds reduce crop yield by competing for ______.",
-    "options": [
-      "nutrients",
-      "toys",
-      "books",
-      "chairs"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "A weed commonly found on farms is ______ grass.",
-    "options": [
-      "elephant",
-      "lion",
-      "tiger",
-      "rabbit"
-    ],
-    "answer": "elephant"
-  },
-  {
-    "question": "Regular weeding helps crops grow ______.",
-    "options": [
-      "poorly",
-      "well",
-      "slowly",
-      "badly"
-    ],
-    "answer": "well"
-  },
-  {
-    "question": "Using cutlasses and hoes to remove weeds is called ______ control.",
-    "options": [
-      "manual",
-      "chemical",
-      "electrical",
-      "automatic"
-    ],
-    "answer": "manual"
-  },
-  {
-    "question": "Biological weed control involves the use of living ______.",
-    "options": [
-      "organisms",
-      "stones",
-      "machines",
-      "buildings"
-    ],
-    "answer": "organisms"
-  },
-  {
-    "question": "Insect pests can damage crops by eating their ______.",
-    "options": [
-      "leaves",
-      "water",
-      "soil",
-      "air"
-    ],
-    "answer": "leaves"
-  },
-  {
-    "question": "Termites are insect pests that can destroy ______.",
-    "options": [
-      "furniture",
-      "glass",
-      "metal",
-      "rubber"
-    ],
-    "answer": "furniture"
-  },
-  {
-    "question": "Aphids suck ______ from plants.",
-    "options": [
-      "juice",
-      "cement",
-      "oil",
-      "sand"
-    ],
-    "answer": "juice"
-  },
-  {
-    "question": "Farmers use pesticides to control insect ______.",
-    "options": [
-      "pests",
-      "tools",
-      "workers",
-      "fertilizers"
-    ],
-    "answer": "pests"
-  },
-  {
-    "question": "Healthy crops are less likely to be attacked by ______.",
-    "options": [
-      "pests",
-      "teachers",
-      "drivers",
-      "visitors"
-    ],
-    "answer": "pests"
-  },
-  {
-    "question": "A grater is used for ______ food items.",
-    "options": [
-      "grating",
-      "washing",
-      "covering",
-      "storing"
-    ],
-    "answer": "grating"
-  },
-  {
-    "question": "A measuring cup is used to measure ______.",
-    "options": [
-      "ingredients",
-      "clothes",
-      "books",
-      "furniture"
-    ],
-    "answer": "ingredients"
-  },
-  {
-    "question": "A frying pan is mainly used for ______ food.",
-    "options": [
-      "frying",
-      "freezing",
-      "packing",
-      "drying"
-    ],
-    "answer": "frying"
-  },
-  {
-    "question": "Cooking tools should be stored in a ______ place.",
-    "options": [
-      "dirty",
-      "safe",
-      "wet",
-      "crowded"
-    ],
-    "answer": "safe"
-  },
-  {
-    "question": "Broken cooking equipment should be ______ before use.",
-    "options": [
-      "repaired",
-      "hidden",
-      "ignored",
-      "painted"
-    ],
-    "answer": "repaired"
-  },
-  {
-    "question": "A sponge is commonly used for ______ cooking tools.",
-    "options": [
-      "cleaning",
-      "breaking",
-      "buying",
-      "selling"
-    ],
-    "answer": "cleaning"
-  },
-  {
-    "question": "Detergent helps remove dirt and ______.",
-    "options": [
-      "grease",
-      "paper",
-      "wood",
-      "cloth"
-    ],
-    "answer": "grease"
-  },
-  {
-    "question": "Rinsing cooking utensils with clean water removes soap ______.",
-    "options": [
-      "residue",
-      "colour",
-      "paint",
-      "metal"
-    ],
-    "answer": "residue"
-  },
-  {
-    "question": "Proper cleaning of cooking tools helps prevent food ______.",
-    "options": [
-      "poisoning",
-      "transport",
-      "construction",
-      "harvesting"
-    ],
-    "answer": "poisoning"
-  },
-  {
-    "question": "Kitchen hygiene promotes good ______.",
-    "options": [
-      "health",
-      "noise",
-      "traffic",
-      "pollution"
-    ],
-    "answer": "health"
-  }
+    {
+        "question": "What is agriculture?",
+
+        "options": [
+            "The growing of flowers only",
+            "The cultivation of crops and rearing of animals",
+            "The building of houses",
+            "The selling of clothes"
+        ],
+
+        "answer": "The cultivation of crops and rearing of animals"
+    },
+
+    {
+        "question": "Which of these is an importance of agriculture?",
+
+        "options": [
+            "It provides food for people",
+            "It causes hunger",
+            "It destroys all plants",
+            "It prevents people from working"
+        ],
+
+        "answer": "It provides food for people"
+    },
+
+    {
+        "question": "What do farmers grow on their farms?",
+
+        "options": [
+            "Crops",
+            "Plastic",
+            "Glass",
+            "Iron"
+        ],
+
+        "answer": "Crops"
+    },
+
+    {
+        "question": "Which of these is an example of a farm animal?",
+
+        "options": [
+            "Lion",
+            "Tiger",
+            "Goat",
+            "Monkey"
+        ],
+
+        "answer": "Goat"
+    },
+
+    {
+        "question": "What is soil?",
+
+        "options": [
+            "The upper layer of the earth where plants grow",
+            "A type of metal",
+            "A kind of animal",
+            "A man-made building material"
+        ],
+
+        "answer": "The upper layer of the earth where plants grow"
+    },
+
+    {
+        "question": "Which type of soil has very tiny particles and holds much water?",
+
+        "options": [
+            "Sandy soil",
+            "Clay soil",
+            "Loamy soil",
+            "Gravel"
+        ],
+
+        "answer": "Clay soil"
+    },
+
+    {
+        "question": "Which type of soil has large particles and allows water to pass through quickly?",
+
+        "options": [
+            "Clay soil",
+            "Loamy soil",
+            "Sandy soil",
+            "Garden soil"
+        ],
+
+        "answer": "Sandy soil"
+    },
+
+    {
+        "question": "Which type of soil is best for growing most crops?",
+
+        "options": [
+            "Clay soil",
+            "Sandy soil",
+            "Loamy soil",
+            "Stony soil"
+        ],
+
+        "answer": "Loamy soil"
+    },
+
+    {
+        "question": "Why is soil important to plants?",
+
+        "options": [
+            "It provides support and nutrients",
+            "It prevents them from growing",
+            "It stops them from receiving sunlight",
+            "It makes them dry"
+        ],
+
+        "answer": "It provides support and nutrients"
+    },
+
+    {
+        "question": "What is soil fertility?",
+
+        "options": [
+            "The ability of soil to support healthy plant growth",
+            "The ability of soil to produce stones",
+            "The colour of the soil",
+            "The amount of sand in the soil"
+        ],
+
+        "answer": "The ability of soil to support healthy plant growth"
+    },
+
+    {
+        "question": "Which of these can cause a reduction in soil fertility?",
+
+        "options": [
+            "Adding manure",
+            "Planting cover crops",
+            "Soil erosion",
+            "Adding compost"
+        ],
+
+        "answer": "Soil erosion"
+    },
+
+    {
+        "question": "What is soil erosion?",
+
+        "options": [
+            "The removal of the topsoil by water or wind",
+            "The planting of seeds",
+            "The watering of crops",
+            "The adding of manure to soil"
+        ],
+
+        "answer": "The removal of the topsoil by water or wind"
+    },
+
+    {
+        "question": "Which of these can reduce soil fertility?",
+
+        "options": [
+            "Overcropping",
+            "Adding compost",
+            "Using manure",
+            "Planting cover crops"
+        ],
+
+        "answer": "Overcropping"
+    },
+
+    {
+        "question": "What is soil enrichment?",
+
+        "options": [
+            "Making the soil less useful",
+            "Improving the fertility of the soil",
+            "Removing all plants from the soil",
+            "Covering the soil with plastic"
+        ],
+
+        "answer": "Improving the fertility of the soil"
+    },
+
+    {
+        "question": "Which of these materials can be added to soil to improve its fertility?",
+
+        "options": [
+            "Plastic",
+            "Broken glass",
+            "Manure",
+            "Petrol"
+        ],
+
+        "answer": "Manure"
+    },
+
+    {
+        "question": "What is compost?",
+
+        "options": [
+            "Decayed plant and animal materials used to enrich soil",
+            "A type of farm animal",
+            "A farming machine",
+            "A chemical used for cleaning"
+        ],
+
+        "answer": "Decayed plant and animal materials used to enrich soil"
+    },
+
+    {
+        "question": "Which farming practice helps to protect the soil from erosion?",
+
+        "options": [
+            "Removing all vegetation",
+            "Planting cover crops",
+            "Burning the soil",
+            "Leaving the soil bare"
+        ],
+
+        "answer": "Planting cover crops"
+    },
+
+    {
+        "question": "What is the main use of a cutlass on the farm?",
+
+        "options": [
+            "Cutting weeds and small branches",
+            "Measuring rainfall",
+            "Carrying water",
+            "Planting seeds in pots"
+        ],
+
+        "answer": "Cutting weeds and small branches"
+    },
+
+    {
+        "question": "Which farm tool is used for loosening the soil and making ridges?",
+
+        "options": [
+            "Rake",
+            "Hoe",
+            "Watering can",
+            "Wheelbarrow"
+        ],
+
+        "answer": "Hoe"
+    },
+
+    {
+        "question": "Which tool is used for gathering leaves and small rubbish on a farm?",
+
+        "options": [
+            "Rake",
+            "Cutlass",
+            "Spade",
+            "Sprayer"
+        ],
+
+        "answer": "Rake"
+    },
+
+    {
+        "question": "What is the use of a watering can?",
+
+        "options": [
+            "To cut down trees",
+            "To water plants",
+            "To harvest yams",
+            "To carry stones"
+        ],
+
+        "answer": "To water plants"
+    },
+
+    {
+        "question": "Which farm equipment is used to transport heavy loads?",
+
+        "options": [
+            "Hand trowel",
+            "Rake",
+            "Wheelbarrow",
+            "Cutlass"
+        ],
+
+        "answer": "Wheelbarrow"
+    },
+
+    {
+        "question": "How should farm tools be cared for after use?",
+
+        "options": [
+            "Leave them in the rain",
+            "Throw them on the ground",
+            "Clean and store them properly",
+            "Allow them to rust"
+        ],
+
+        "answer": "Clean and store them properly"
+    },
+
+    {
+        "question": "What is Home Economics?",
+
+        "options": [
+            "The study of how to manage the home and family resources",
+            "The study of road construction",
+            "The study of wild animals",
+            "The study of machines only"
+        ],
+
+        "answer": "The study of how to manage the home and family resources"
+    },
+
+    {
+        "question": "Which of these is an area of Home Economics?",
+
+        "options": [
+            "Clothing and textiles",
+            "Mining",
+            "Road construction",
+            "Carpentry only"
+        ],
+
+        "answer": "Clothing and textiles"
+    },
+
+    {
+        "question": "Why is Home Economics important?",
+
+        "options": [
+            "It teaches people how to manage the home",
+            "It encourages waste",
+            "It teaches people to avoid work",
+            "Promotes dirtiness"
+        ],
+
+        "answer": "It teaches people how to manage the home"
+    },
+
+    {
+        "question": "Which of these is a career related to Home Economics?",
+
+        "options": [
+            "Fashion designer",
+            "Pilot",
+            "Soldier",
+            "Car mechanic"
+        ],
+
+        "answer": "Fashion designer"
+    },
+
+    {
+        "question": "What is poultry farming?",
+
+        "options": [
+            "Rearing birds such as chickens",
+            "Growing only vegetables",
+            "Keeping fish in a pond",
+            "Rearing goats only"
+        ],
+
+        "answer": "Rearing birds such as chickens"
+    },
+
+    {
+        "question": "What is fish farming?",
+
+        "options": [
+            "Growing crops in a garden",
+            "Rearing fish in ponds or tanks",
+            "Keeping bees in a hive",
+            "Rearing cattle on a ranch"
+        ],
+
+        "answer": "Rearing fish in ponds or tanks"
+    },
+
+    {
+        "question": "What is beekeeping?",
+
+        "options": [
+            "Rearing goats",
+            "Keeping bees for honey and other products",
+            "Growing maize",
+            "Catching fish in a river"
+        ],
+
+        "answer": "Keeping bees for honey and other products"
+    }
 ]

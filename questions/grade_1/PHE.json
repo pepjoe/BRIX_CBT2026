@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Which of these is a part of the body?",
+        "options": [
+            "Hand",
+            "Chair",
+            "Table"
+        ],
+        "answer": "Hand"
+    },
+    {
+        "question": "What do we use our legs for?",
+        "options": [
+            "Eating",
+            "Walking",
+            "Writing"
+        ],
+        "answer": "Walking"
+    },
+    {
+        "question": "What is body movement?",
+        "options": [
+            "Moving the body from one position to another",
+            "Sleeping",
+            "Eating food"
+        ],
+        "answer": "Moving the body from one position to another"
+    },
+    {
+        "question": "Which of these is a type of body movement?",
+        "options": [
+            "Jumping",
+            "Sleeping",
+            "Eating"
+        ],
+        "answer": "Jumping"
+    },
+    {
+        "question": "Which of these helps us to keep our body clean?",
+        "options": [
+            "Bathing",
+            "Playing in the mud",
+            "Wearing dirty clothes"
+        ],
+        "answer": "Bathing"
+    },
+    {
+        "question": "What is first aid?",
+        "options": [
+            "The first help given to an injured person",
+            "Playing with friends",
+            "Cooking food"
+        ],
+        "answer": "The first help given to an injured person"
+    },
+    {
+        "question": "Who gives first aid?",
+        "options": [
+            "A trained first aider",
+            "A baby",
+            "A toy"
+        ],
+        "answer": "A trained first aider"
+    },
+    {
+        "question": "Which of these is found in a first aid box?",
+        "options": [
+            "Bandage",
+            "Spoon",
+            "Plate"
+        ],
+        "answer": "Bandage"
+    },
+    {
+        "question": "Which of these is important for caring for the body?",
+        "options": [
+            "Eating healthy food",
+            "Wearing dirty clothes",
+            "Avoiding bathing"
+        ],
+        "answer": "Eating healthy food"
+    },
+    {
+        "question": "Why should we take care of our body?",
+        "options": [
+            "To stay healthy",
+            "To become dirty",
+            "To fall sick"
+        ],
+        "answer": "To stay healthy"
+    }
+]

@@ -1,402 +1,202 @@
 [
   {
-    "question": "What is energy?",
+    "question": "Energy is defined as the ability to do ________________.",
     "options": [
-      "A type of food",
-      "Power to do work",
-      "A toy",
-      "A kind of animal"
+      "Work",
+      "Sleep",
+      "Rest",
+      "Nothing"
     ],
-    "answer": "Power to do work"
+    "answer": "Work"
   },
   {
-    "question": "Which of these gives us heat and light?",
+    "question": "The form of energy that helps us to see objects in the dark is ________________ energy.",
     "options": [
-      "Sand",
-      "Stone",
-      "Sun",
-      "Moon"
+      "Sound",
+      "Heat",
+      "Light",
+      "Chemical"
     ],
-    "answer": "Sun"
+    "answer": "Light"
   },
   {
-    "question": "Which source of energy comes from the sun?",
+    "question": "Energy from the sun, fire, and stove used for cooking food is called ________________ energy.",
     "options": [
-      "Water energy",
-      "Solar energy",
-      "Sound energy",
-      "Wind energy"
+      "Light",
+      "Heat",
+      "Mechanical",
+      "Electrical"
     ],
-    "answer": "Solar energy"
+    "answer": "Heat"
   },
   {
-    "question": "What do we use electrical energy for at home?",
+    "question": "Talking and clapping produce ________________ energy.",
     "options": [
-      "Reading books",
-      "Sleeping",
-      "Lighting bulbs",
-      "Cooking only"
+      "Sound",
+      "Chemical",
+      "Electrical",
+      "Heat"
     ],
-    "answer": "Lighting bulbs"
+    "answer": "Sound"
   },
   {
-    "question": "Which of these uses energy to move?",
+    "question": "Energy stored in the bonds of chemical compounds such as batteries, food, and wood is ________________ energy.",
     "options": [
-      "Cup",
-      "Car",
-      "Table",
-      "Chair"
+      "Electrical",
+      "Mechanical",
+      "Chemical",
+      "Light"
     ],
-    "answer": "Car"
+    "answer": "Chemical"
   },
   {
-    "question": "Which type of energy helps us see at night?",
+    "question": "Mechanical energy consists of Kinetic Energy and ________________ Energy.",
     "options": [
-      "Wind energy",
-      "Food energy",
-      "Light energy",
-      "Water energy"
+      "Heat",
+      "Potential",
+      "Light",
+      "Sound"
     ],
-    "answer": "Light energy"
+    "answer": "Potential"
   },
   {
-    "question": "Which of these is a source of electrical energy?",
+    "question": "Energy possessed by an object due to both its motion and position is called ________________ energy.",
     "options": [
-      "Leaf",
-      "Book",
-      "Battery",
-      "Spoon"
+      "Mechanical",
+      "Chemical",
+      "Electrical",
+      "Sound"
     ],
-    "answer": "Battery"
+    "answer": "Mechanical"
   },
   {
-    "question": "What happens when energy is used wisely?",
+    "question": "Energy generated through electricity is known as ________________ energy.",
     "options": [
-      "It causes flooding",
-      "It saves resources",
-      "It is wasted",
-      "It stops work"
+      "Heat",
+      "Electrical",
+      "Light",
+      "Chemical"
     ],
-    "answer": "It saves resources"
+    "answer": "Electrical"
   },
   {
-    "question": "What is soil?",
+    "question": "We obtain energy to run and work from the ________________ we eat.",
     "options": [
-      "Air around us",
-      "Rocks only",
-      "Loose earth where plants grow",
-      "Water in rivers"
+      "Water",
+      "Food",
+      "Air",
+      "Sunlight"
     ],
-    "answer": "Loose earth where plants grow"
+    "answer": "Food"
   },
   {
-    "question": "Which of these grows in soil?",
+    "question": "One of the following is NOT a form of energy ________________.",
     "options": [
-      "Goat",
-      "Plant",
-      "Bird",
-      "Fish"
+      "Light Energy",
+      "Heat Energy",
+      "Sound Energy",
+      "Tiring Energy"
     ],
-    "answer": "Plant"
+    "answer": "Tiring Energy"
   },
   {
-    "question": "Which type of soil is best for growing crops?",
+    "question": "________________ is a physical quantity that tells the duration in which an action takes place.",
     "options": [
-      "Rocky soil",
-      "Sandy soil",
-      "Loamy soil",
-      "Clay soil"
+      "Time",
+      "Energy",
+      "Work",
+      "Speed"
     ],
-    "answer": "Loamy soil"
+    "answer": "Time"
   },
   {
-    "question": "What colour is clay soil usually?",
+    "question": "The S.I unit of time is ________________.",
     "options": [
-      "White",
-      "Green",
-      "Red or brown",
-      "Blue"
+      "Minutes",
+      "Hours",
+      "Seconds",
+      "Days"
     ],
-    "answer": "Red or brown"
+    "answer": "Seconds"
   },
   {
-    "question": "Which soil type has large particles?",
+    "question": "How many seconds make 1 minute?",
     "options": [
-      "Loamy soil",
-      "Sandy soil",
-      "Humus",
-      "Clay soil"
+      "30 seconds",
+      "50 seconds",
+      "60 seconds",
+      "100 seconds"
     ],
-    "answer": "Sandy soil"
+    "answer": "60 seconds"
   },
   {
-    "question": "What do plants get from soil?",
+    "question": "There are ________________ days in a leap year.",
     "options": [
-      "Fuel",
-      "Toys",
-      "Nutrients and water",
-      "Clothes"
+      "360",
+      "365",
+      "366",
+      "364"
     ],
-    "answer": "Nutrients and water"
+    "answer": "366"
   },
   {
-    "question": "Which of these is not a type of soil?",
+    "question": "Which of the following is an ancient instrument for measuring time?",
     "options": [
-      "Plastic soil",
-      "Sandy soil",
-      "Loamy soil",
-      "Clay soil"
+      "Wrist watch",
+      "Sundial",
+      "Wall clock",
+      "Stop watch"
     ],
-    "answer": "Plastic soil"
+    "answer": "Sundial"
   },
   {
-    "question": "What is the top layer of the earth called?",
+    "question": "Which of the following is a modern instrument for measuring time?",
     "options": [
-      "Rain",
-      "Soil",
-      "Cloud",
-      "Sky"
+      "Waterclock",
+      "Cockcrow",
+      "Hour glass",
+      "Wrist watch"
     ],
-    "answer": "Soil"
+    "answer": "Wrist watch"
   },
   {
-    "question": "Which soil holds the most water?",
+    "question": "Time changes across different places on earth are brought about by the ________________ of the earth.",
     "options": [
-      "Gravel",
-      "Loamy soil",
-      "Clay soil",
-      "Sandy soil"
+      "Rotation",
+      "Stopping",
+      "Heat",
+      "Position"
     ],
-    "answer": "Clay soil"
+    "answer": "Rotation"
   },
   {
-    "question": "What should we do to keep soil fertile?",
+    "question": "How many months make 1 year?",
     "options": [
-      "Burn it always",
-      "Add manure",
-      "Throw waste on it",
-      "Remove all plants"
+      "4 months",
+      "7 months",
+      "10 months",
+      "12 months"
     ],
-    "answer": "Add manure"
+    "answer": "12 months"
   },
   {
-    "question": "Which living thing helps to improve soil?",
+    "question": "There are ________________ hours in 1 day.",
     "options": [
-      "Eagle",
-      "Shark",
-      "Earthworm",
-      "Lion"
+      "12 hours",
+      "24 hours",
+      "48 hours",
+      "60 hours"
     ],
-    "answer": "Earthworm"
+    "answer": "24 hours"
   },
   {
-    "question": "Why is soil important?",
+    "question": "Cockcrow and Hour glass are examples of ________________ methods of measuring time.",
     "options": [
-      "It stops rain",
-      "It helps plants grow",
-      "It makes clouds",
-      "It makes the sun shine"
+      "Modern",
+      "Ancient",
+      "Future",
+      "Electronic"
     ],
-    "answer": "It helps plants grow"
-  },
-  {
-    "question": "What is a weed?",
-    "options": [
-      "A useful crop",
-      "An unwanted plant",
-      "A farm animal",
-      "A farming tool"
-    ],
-    "answer": "An unwanted plant"
-  },
-  {
-    "question": "Which of these is a weed?",
-    "options": [
-      "Maize",
-      "Rice",
-      "Spear grass",
-      "Yam"
-    ],
-    "answer": "Spear grass"
-  },
-  {
-    "question": "Where do weeds usually grow?",
-    "options": [
-      "Only in rivers",
-      "Only in forests",
-      "In gardens and farms",
-      "Only on roads"
-    ],
-    "answer": "In gardens and farms"
-  },
-  {
-    "question": "Why are weeds harmful to crops?",
-    "options": [
-      "They give crops food",
-      "They help crops grow taller",
-      "They compete for nutrients and water",
-      "They produce fruits"
-    ],
-    "answer": "They compete for nutrients and water"
-  },
-  {
-    "question": "Which tool can be used to remove weeds?",
-    "options": [
-      "Cutlass",
-      "Spoon",
-      "Cup",
-      "Plate"
-    ],
-    "answer": "Cutlass"
-  },
-  {
-    "question": "What is the process of removing weeds called?",
-    "options": [
-      "Harvesting",
-      "Watering",
-      "Weeding",
-      "Planting"
-    ],
-    "answer": "Weeding"
-  },
-  {
-    "question": "Weeds compete with crops for ______.",
-    "options": [
-      "Water, sunlight and nutrients",
-      "Books and pens",
-      "Clothes and shoes",
-      "Tables and chairs"
-    ],
-    "answer": "Water, sunlight and nutrients"
-  },
-  {
-    "question": "Which of these helps to control weeds?",
-    "options": [
-      "Planting more weeds",
-      "Regular weeding",
-      "Ignoring the farm",
-      "Overcrowding crops"
-    ],
-    "answer": "Regular weeding"
-  },
-  {
-    "question": "What can weeds do to farm crops?",
-    "options": [
-      "Increase crop yield always",
-      "Reduce crop growth",
-      "Turn into animals",
-      "Produce more rain"
-    ],
-    "answer": "Reduce crop growth"
-  },
-  {
-    "question": "When should weeds be removed from a farm?",
-    "options": [
-      "At the right time",
-      "Never",
-      "After harvest only",
-      "During rainfall only"
-    ],
-    "answer": "At the right time"
-  },
-  {
-    "question": "What is the first step in growing crops?",
-    "options": [
-      "Harvesting",
-      "Planting",
-      "Preparing the land",
-      "Selling crops"
-    ],
-    "answer": "Preparing the land"
-  },
-  {
-    "question": "What do farmers do before planting seeds?",
-    "options": [
-      "Weed the farm",
-      "Prepare the soil",
-      "Eat seeds",
-      "Cut crops"
-    ],
-    "answer": "Prepare the soil"
-  },
-  {
-    "question": "What is used to make the soil soft for planting?",
-    "options": [
-      "Hoe",
-      "Spoon",
-      "Knife",
-      "Basket"
-    ],
-    "answer": "Hoe"
-  },
-  {
-    "question": "What do we call placing seeds in the soil?",
-    "options": [
-      "Harvesting",
-      "Planting",
-      "Cooking",
-      "Weeding"
-    ],
-    "answer": "Planting"
-  },
-  {
-    "question": "What helps seeds to grow after planting?",
-    "options": [
-      "Sunlight and water",
-      "Stones and sand",
-      "Plastic and metal",
-      "Fire and smoke"
-    ],
-    "answer": "Sunlight and water"
-  },
-  {
-    "question": "What do young plants need to grow well?",
-    "options": [
-      "Air, water, and sunlight",
-      "Noise and dust",
-      "Sugar and salt",
-      "Books and toys"
-    ],
-    "answer": "Air, water, and sunlight"
-  },
-  {
-    "question": "What is removing weeds from a farm called?",
-    "options": [
-      "Harvesting",
-      "Weeding",
-      "Cooking",
-      "Fishing"
-    ],
-    "answer": "Weeding"
-  },
-  {
-    "question": "Why do farmers water their crops?",
-    "options": [
-      "To dry crops",
-      "To help plants grow",
-      "To kill plants",
-      "To store seeds"
-    ],
-    "answer": "To help plants grow"
-  },
-  {
-    "question": "What helps crops to grow better in the soil?",
-    "options": [
-      "Fertilizer",
-      "Plastic",
-      "Oil",
-      "Paper"
-    ],
-    "answer": "Fertilizer"
-  },
-  {
-    "question": "When do farmers harvest crops?",
-    "options": [
-      "When crops are ripe",
-      "When seeds are bought",
-      "When soil is dry",
-      "When rain starts"
-    ],
-    "answer": "When crops are ripe"
+    "answer": "Ancient"
   }
 ]

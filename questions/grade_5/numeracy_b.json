@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A school library has 45,682 fiction books and 38,947 non-fiction books. How many books does the library have altogether?",
+    "options": ["83,529", "84,629", "84,529", "85,629"],
+    "answer": "84,629"
+  },
+  {
+    "question": "A factory produced 126,400 cartons of juice in January and 98,750 cartons in February. How many more cartons were produced in January than in February?",
+    "options": ["27,650", "27,750", "28,650", "37,650"],
+    "answer": "27,650"
+  },
+  {
+    "question": "A trader had ₦250,000. She spent ₦138,650 on rice and ₦46,890 on oil. How much money had she left?",
+    "options": ["64,460", "64,560", "74,460", "111,350"],
+    "answer": "64,460"
+  },
+  {
+    "question": "In a census, a town recorded 189,430 men, 204,765 women, and 76,905 children. What was the total population of the town?",
+    "options": ["470,100", "471,010", "471,100", "481,100"],
+    "answer": "471,100"
+  },
+  {
+    "question": "A stadium has 62,500 seats. On match day, 47,868 seats were occupied. How many seats were empty?",
+    "options": ["14,632", "14,732", "15,632", "15,732"],
+    "answer": "14,632"
+  },
+  {
+    "question": "2/7 + 3/7 =",
+    "options": ["5/14", "5/7", "6/7", "1/7"],
+    "answer": "5/7"
+  },
+  {
+    "question": "7/10 − 3/10 =",
+    "options": ["1/5", "3/5", "2/5", "4/5"],
+    "answer": "2/5"
+  },
+  {
+    "question": "1/2 + 1/3 =",
+    "options": ["2/5", "1/6", "2/6", "5/6"],
+    "answer": "5/6"
+  },
+  {
+    "question": "3/4 − 1/3 =",
+    "options": ["5/12", "1/2", "2", "5/1"],
+    "answer": "5/12"
+  },
+  {
+    "question": "2/3 + 5/6 =",
+    "options": ["7/9", "1 1/3", "1 1/2", "2/3"],
+    "answer": "1 1/2"
+  },
+  {
+    "question": "1 − 3/8 =",
+    "options": ["3/8", "1/8", "5/8", "1 5/8"],
+    "answer": "5/8"
+  },
+  {
+    "question": "1/2 + 1/4 + 1/8 =",
+    "options": ["3/14", "7/8", "6/8", "3/8"],
+    "answer": "7/8"
+  },
+  {
+    "question": "Tolu ate 2/5 of a cake and Ada ate 1/4 of the same cake. What fraction of the cake did they eat altogether?",
+    "options": ["3/9", "3/20", "13/20", "12/20"],
+    "answer": "13/20"
+  },
+  {
+    "question": "A tank is 5/6 full of water. 1/4 of the tank's capacity of water was used. What fraction of the tank is still filled with water?",
+    "options": ["4/2", "7/12", "2/12", "1/12"],
+    "answer": "7/12"
+  },
+  {
+    "question": "? − 1/6 = 1/2. The missing fraction is",
+    "options": ["1/3", "5/6", "1/6", "2/3"],
+    "answer": "2/3"
+  },
+  {
+    "question": "Add 0.4, 0.04 and 0.004",
+    "options": ["0.408", "0.444", "0.484", "0.84"],
+    "answer": "0.444"
+  },
+  {
+    "question": "Work out 4.76 + 3.285",
+    "options": ["7.945", "8.045", "8.145", "7.845"],
+    "answer": "8.045"
+  },
+  {
+    "question": "Work out 4.76 + 3.285",
+    "options": ["7.945", "8.045", "8.145", "7.845"],
+    "answer": "8.045"
+  },
+  {
+    "question": "What is 8,435 − 2,176?",
+    "options": ["6,159", "6,259", "6,269", "6,359"],
+    "answer": "6,259"
+  },
+  {
+    "question": "A school has 5,000 exercise books. It gives 1,785 books to pupils. How many books are left?",
+    "options": ["3,115", "3,215", "3,225", "3,315"],
+    "answer": "3,215"
+  },
+  {
+    "question": "Which of the following is an open sentence?",
+    "options": ["5 + 3 = 8", "10 - 2 = 8", "x + 4 = 10", "2 * 3 = 6"],
+    "answer": "x + 4 = 10"
+  },
+  {
+    "question": "What is the letter or symbol in an open sentence that represents an unknown number called?",
+    "options": ["Constant", "Variable", "Equation", "Sum"],
+    "answer": "Variable"
+  },
+  {
+    "question": "Which of these is a closed sentence (a statement that is either true or false)?",
+    "options": ["y - 5 = 2", "12 + 7 = 19", "a + 1 = 10", "m / 2 = 4"],
+    "answer": "12 + 7 = 19"
+  },
+  {
+    "question": "In the open sentence \"n + 7 = 15\", what is the value of n that makes the sentence true?",
+    "options": ["7", "8", "15", "22"],
+    "answer": "8"
+  },
+  {
+    "question": "Which of the following is NOT an open sentence?",
+    "options": ["20 / p = 5", "15 + 5 = 20", "z - 3 = 11", "8 + k = 12"],
+    "answer": "15 + 5 = 20"
+  },
+  {
+    "question": "An open sentence becomes a closed sentence when:",
+    "options": ["You add more numbers", "You change the plus sign to a minus sign", "You replace the variable with a specific number", "You remove the equals sign"],
+    "answer": "You replace the variable with a specific number"
+  },
+  {
+    "question": "If the open sentence is \"3 * x = 12\", which value of x makes it false?",
+    "options": ["4", "12 / 3", "2", "4.0"],
+    "answer": "2"
+  },
+  {
+    "question": "Which of these is an open sentence?",
+    "options": ["The sky is blue.", "100 is the largest number.", "p + 10 = 20", "5 * 5 = 25"],
+    "answer": "p + 10 = 20"
+  },
+  {
+    "question": "In the sentence \"18 - m = 10\", what is the variable?",
+    "options": ["18", "-", "=", "m"],
+    "answer": "m"
+  },
+  {
+    "question": "Which value of 'y' makes the open sentence \"y / 4 = 5\" true?",
+    "options": ["1", "9", "20", "25"],
+    "answer": "20"
+  },
+  {
+    "question": "Two numbers are consecutive numbers. Their sum is 25. What are the numbers?",
+    "options": ["10 and 15", "11 and 14", "12 and 13", "13 and 14"],
+    "answer": "12 and 13"
+  },
+  {
+    "question": "What is the value of x if x + 7 = 15?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "What is the value of y if y − 4 = 9?",
+    "options": ["5", "12", "13", "14"],
+    "answer": "13"
+  },
+  {
+    "question": "If 3 × a = 21, what is a?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the value of b if b ÷ 5 = 3?",
+    "options": ["8", "10", "15", "20"],
+    "answer": "15"
+  },
+  {
+    "question": "Which number makes 12 + n = 20 true?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "If 2 × m = 18, what is m?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "question": "What is the value of p if p + 6 = 6?",
+    "options": ["0", "1", "6", "12"],
+    "answer": "0"
+  },
+  {
+    "question": "Which number makes q − 8 = 5 true?",
+    "options": ["3", "11", "13", "15"],
+    "answer": "13"
+  },
+  {
+    "question": "If 4 × r = 28, what is r?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the mean of 4, 6 and 8?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "What is the median of 3, 5 and 7?",
+    "options": ["3", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the mode of 2, 4, 4, 6 and 8?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "question": "What is the mean of 2, 4, 6 and 8?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the median of 1, 3, 5, 7 and 9?",
+    "options": ["3", "4", "5", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the mode of 5, 7, 5, 8, 9 and 5?",
+    "options": ["5", "7", "8", "9"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the mean of 10, 12 and 14?",
+    "options": ["11", "12", "13", "14"],
+    "answer": "12"
+  },
+  {
+    "question": "What is the median of 2, 4, 6 and 8?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the mode of 1, 2, 2, 3, 4 and 4?",
+    "options": ["1", "2 only", "4 only", "2 and 4"],
+    "answer": "2 and 4"
+  },
+  {
+    "question": "What is the mean of 3, 6, 9 and 12?",
+    "options": ["6", "7", "7.5", "8"],
+    "answer": "7.5"
+  },
+  {
+    "question": "What is the median of 4, 6, 8, 10 and 12?",
+    "options": ["6", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "What is the mode of 3, 3, 4, 5, 5, 5 and 6?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "question": "The mean of 5, 7 and 9 is:",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the median of 11, 13 and 15?",
+    "options": ["11", "12", "13", "15"],
+    "answer": "13"
+  },
+  {
+    "question": "What is the mode of 6, 7, 8, 8, 9 and 10?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "A pupil scored 4, 6 and 8 marks. What was the mean score?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "What is the median of 2, 5, 7, 9 and 12?",
+    "options": ["5", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the mode of 10, 12, 12, 14, 15 and 12?",
+    "options": ["10", "12", "14", "15"],
+    "answer": "12"
+  },
+  {
+    "question": "The mean of 4, 6, 8 and one other number is 7. What is the other number?",
+    "options": ["8", "9", "10", "12"],
+    "answer": "10"
+  },
+  {
+    "question": "What is the median of 3, 6, 8 and 11?",
+    "options": ["6", "7", "7.5", "8"],
+    "answer": "7"
+  }
+]

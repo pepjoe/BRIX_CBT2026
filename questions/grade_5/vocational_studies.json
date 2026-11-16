@@ -1,302 +1,152 @@
 [
   {
-    "question": "Which aspect of marketing ensures a price is fair to both farmer and consumer?",
-    "options": [
-      "Distribution",
-      "Pricing",
-      "Promotion",
-      "Planning"
-    ],
-    "answer": "Pricing"
+    "question": "Which of these is a food crop?",
+    "options": ["Maize", "Cotton", "Rubber", "Jute"],
+    "answer": "Maize"
   },
   {
-    "question": "What type of packaging is usually used for jam and pickles?",
-    "options": [
-      "Bags",
-      "Jars",
-      "Boxes",
-      "Tetra Paks"
-    ],
-    "answer": "Jars"
+    "question": "Which crop is a root or tuber?",
+    "options": ["Cassava", "Rice", "Beans", "Millet"],
+    "answer": "Cassava"
   },
   {
-    "question": "Which meal is considered the most important of the day?",
-    "options": [
-      "Lunch",
-      "Breakfast",
-      "Dinner",
-      "Afternoon snack"
-    ],
-    "answer": "Breakfast"
+    "question": "Which crop is commonly used to make gari?",
+    "options": ["Cassava", "Cocoa", "Cotton", "Coffee"],
+    "answer": "Cassava"
   },
   {
-    "question": "Proper __________ of farm produce ensures food security.",
-    "options": [
-      "Destruction",
-      "Preservation",
-      "Neglect",
-      "Infection"
-    ],
-    "answer": "Preservation"
+    "question": "Which of these is a legume?",
+    "options": ["Beans", "Yam", "Rice", "Plantain"],
+    "answer": "Beans"
   },
   {
-    "question": "In an L-shaped kitchen, cabinets are placed along two __________ walls.",
-    "options": [
-      "Opposite",
-      "Parallel",
-      "Perpendicular",
-      "Distant"
-    ],
-    "answer": "Perpendicular"
+    "question": "Which crop is mainly grown for its edible grains?",
+    "options": ["Rice", "Rubber", "Cotton", "Cocoa"],
+    "answer": "Rice"
   },
   {
-    "question": "What is the main reason we package processed food?",
-    "options": [
-      "To make it heavy",
-      "To protect it from damage",
-      "To make it expensive",
-      "To change its color"
-    ],
-    "answer": "To protect it from damage"
+    "question": "A family is a group of people who are related or live together and care for one another. Which person may be a family member?",
+    "options": ["Brother", "Desk", "Road", "Basket"],
+    "answer": "Brother"
   },
   {
-    "question": "A place where buyers and sellers come together to exchange goods is called a:",
-    "options": [
-      "Kitchen",
-      "Farm",
-      "Market",
-      "Factory"
-    ],
-    "answer": "Market"
+    "question": "Your mother’s mother is your ___.",
+    "options": ["Aunt", "Grandmother", "Cousin", "Niece"],
+    "answer": "Grandmother"
   },
   {
-    "question": "A \"meal\" is different from a \"snack\" because it is:",
-    "options": [
-      "Smaller",
-      "Large enough to satisfy hunger",
-      "Only eaten at night",
-      "Always cold"
-    ],
-    "answer": "Large enough to satisfy hunger"
+    "question": "Your father’s brother is your ___.",
+    "options": ["Uncle", "Nephew", "Grandfather", "Cousin"],
+    "answer": "Uncle"
   },
   {
-    "question": "Healthy eating helps prevent diseases like:",
-    "options": [
-      "Scurvy and Rickets",
-      "Happiness",
-      "Fast running",
-      "Strong eyesight"
-    ],
-    "answer": "Scurvy and Rickets"
+    "question": "Your aunt’s child is your ___.",
+    "options": ["Cousin", "Parent", "Grandparent", "Sibling"],
+    "answer": "Cousin"
   },
   {
-    "question": "Which type of market includes supermarkets and grocery stores?",
-    "options": [
-      "Retail markets",
-      "Wholesale markets",
-      "Bulk markets",
-      "International markets"
-    ],
-    "answer": "Retail markets"
+    "question": "Which action helps family members live together happily?",
+    "options": ["Helping one another", "Shouting at one another", "Hiding everyone’s belongings", "Refusing to share"],
+    "answer": "Helping one another"
   },
   {
-    "question": "The movement of goods from the farm to the market involves:",
-    "options": [
-      "Planting",
-      "Harvesting",
-      "Distribution",
-      "Soil preparation"
-    ],
-    "answer": "Distribution"
+    "question": "Which task can a child help with at home?",
+    "options": ["Putting away toys", "Building a highway", "Flying a plane", "Repairing a large bridge"],
+    "answer": "Putting away toys"
   },
   {
-    "question": "One effect of poor eating habits is:",
-    "options": [
-      "Better sleep",
-      "Weight gain",
-      "Stronger bones",
-      "Increased height"
-    ],
-    "answer": "Weight gain"
+    "question": "Parents and caregivers often help children by ___.",
+    "options": ["Caring for them and guiding them", "Leaving them in danger", "Keeping them from learning", "Refusing to provide care"],
+    "answer": "Caring for them and guiding them"
   },
   {
-    "question": "Which preservation method involves sealing food in airtight containers after heating?",
-    "options": [
-      "Pasteurisation",
-      "Canning and Bottling",
-      "Sun-drying",
-      "Salting"
-    ],
-    "answer": "Canning and Bottling"
+    "question": "Which is a respectful way to speak to a family member?",
+    "options": ["Use polite words", "Insult them", "Shout over them", "Ignore them when they speak"],
+    "answer": "Use polite words"
   },
   {
-    "question": "Packaging that blocks light and air helps to:",
-    "options": [
-      "Extend shelf life",
-      "Change the food's color",
-      "Make the food spill",
-      "Increase the weight"
-    ],
-    "answer": "Extend shelf life"
+    "question": "When family members disagree, they should try to ___.",
+    "options": ["Talk calmly and listen", "Break things", "Blame everyone", "Stop helping one another"],
+    "answer": "Talk calmly and listen"
   },
   {
-    "question": "A kitchen layout that features cabinets and appliances along three walls is known as:",
-    "options": [
-      "L-shaped",
-      "Island",
-      "U-shaped",
-      "Galley"
-    ],
-    "answer": "U-shaped"
+    "question": "Why should family members share household responsibilities?",
+    "options": ["To help the home run smoothly", "To make one person do all the work", "To waste time", "To avoid caring for one another"],
+    "answer": "To help the home run smoothly"
   },
   {
-    "question": "Which packaging material is often used for cereal boxes?",
-    "options": [
-      "Metal",
-      "Cardboard",
-      "Glass",
-      "Foil"
-    ],
-    "answer": "Cardboard"
+    "question": "Which crop can be processed to make chocolate?",
+    "options": ["Cocoa", "Cassava", "Millet", "Yam"],
+    "answer": "Cocoa"
   },
   {
-    "question": "Which method uses smoke and heat from a wood fire to dry food?",
-    "options": [
-      "Salting",
-      "Canning",
-      "Smoking",
-      "Frying"
-    ],
-    "answer": "Smoking"
+    "question": "Which crop is commonly eaten as a fruit and can also be cooked?",
+    "options": ["Plantain", "Cotton", "Rubber", "Coffee"],
+    "answer": "Plantain"
   },
   {
-    "question": "Informing potential buyers about a product's benefits is called:",
-    "options": [
-      "Harvesting",
-      "Production",
-      "Promotion",
-      "Distribution"
-    ],
-    "answer": "Promotion"
+    "question": "Which crop can be used to make palm oil?",
+    "options": ["Oil palm", "Maize", "Rice", "Yam"],
+    "answer": "Oil palm"
   },
   {
-    "question": "To stay healthy, one should avoid eating too much:",
-    "options": [
-      "Vegetables",
-      "Water",
-      "Sugar and salt",
-      "Fruit"
-    ],
-    "answer": "Sugar and salt"
+    "question": "What does “pre-planting” mean?",
+    "options": ["Activities done before planting crops", "Activities done after selling crops", "Cooking crops after harvest", "Storing crops for the next meal"],
+    "answer": "Activities done before planting crops"
   },
   {
-    "question": "A refrigerator helps keep food fresh by making germs grow:",
-    "options": [
-      "Very fast",
-      "Very slowly",
-      "Not at all",
-      "Into bacteria"
-    ],
-    "answer": "Very slowly"
+    "question": "Which activity involves removing bushes and unwanted plants from a field?",
+    "options": ["Clearing", "Harvesting", "Threshing", "Storing"],
+    "answer": "Clearing"
   },
   {
-    "question": "Food labels provide consumers with:",
-    "options": [
-      "Expiration dates",
-      "The price of the store",
-      "A list of movies",
-      "The owner's home address"
-    ],
-    "answer": "Expiration dates"
+    "question": "Which tool can be used to loosen soil by hand?",
+    "options": ["Hoe", "Spoon", "Comb", "Plate"],
+    "answer": "Hoe"
   },
   {
-    "question": "Which of the following is a benefit of Tetra Paks?",
-    "options": [
-      "It is very heavy",
-      "Excellent protection against spoilage",
-      "Made only of glass",
-      "Very fragile"
-    ],
-    "answer": "Excellent protection against spoilage"
+    "question": "Why does a farmer loosen the soil before planting?",
+    "options": ["To prepare it for seeds or seedlings", "To prevent crops from growing", "To harvest the crop", "To dry the soil completely"],
+    "answer": "To prepare it for seeds or seedlings"
   },
   {
-    "question": "Large markets where farmers sell produce to traders in bulk are known as:",
-    "options": [
-      "Retail markets",
-      "Local markets",
-      "Supermarkets",
-      "Wholesale markets"
-    ],
-    "answer": "Wholesale markets"
+    "question": "What does harrowing help a farmer do?",
+    "options": ["Break up large soil clods", "Pick ripe fruit", "Store grain", "Sell vegetables"],
+    "answer": "Break up large soil clods"
   },
   {
-    "question": "Lunch is typically eaten between:",
-    "options": [
-      "6am and 9am",
-      "1pm and 3pm",
-      "8pm and 10pm",
-      "4am and 6am"
-    ],
-    "answer": "1pm and 3pm"
+    "question": "Why may a farmer make ridges or mounds?",
+    "options": ["To prepare planting places for some crops", "To store tools", "To dry seeds", "To keep harvested crops"],
+    "answer": "To prepare planting places for some crops"
   },
   {
-    "question": "Metal cans are used for preserving:",
-    "options": [
-      "Fruits and soups",
-      "Hot bread",
-      "Fresh water",
-      "Clothing"
-    ],
-    "answer": "Fruits and soups"
+    "question": "What should a farmer do when selecting seeds for planting?",
+    "options": ["Choose healthy seeds", "Choose only broken seeds", "Mix seeds with rubbish", "Throw all seeds away"],
+    "answer": "Choose healthy seeds"
   },
   {
-    "question": "Sun-drying removes __________ from food to help it stay fresh.",
-    "options": [
-      "Nutrients",
-      "Color",
-      "Water/Moisture",
-      "Salt"
-    ],
-    "answer": "Water/Moisture"
+    "question": "Which material can be added to soil to improve its fertility?",
+    "options": ["Compost", "Plastic", "Broken glass", "Metal scraps"],
+    "answer": "Compost"
   },
   {
-    "question": "An example of a breakfast dish is:",
-    "options": [
-      "Egusi and Eba",
-      "Oats or Cornflakes",
-      "Suya",
-      "Pepper soup"
-    ],
-    "answer": "Oats or Cornflakes"
+    "question": "Why should weeds be removed before planting?",
+    "options": ["They can compete with crops for space and nutrients", "They help crops grow without water", "They turn into farm tools", "They make seeds unnecessary"],
+    "answer": "They can compete with crops for space and nutrients"
   },
   {
-    "question": "The \"Information\" purpose of packaging helps the consumer know:",
-    "options": [
-      "How to cook the food",
-      "Storage instructions",
-      "Both (a) and (b)",
-      "The history of the company"
-    ],
-    "answer": "Both (a) and (b)"
+    "question": "What should a farmer do with stones and rubbish found in a field?",
+    "options": ["Remove them", "Put them in planting holes", "Mix them with seeds", "Leave them on young plants"],
+    "answer": "Remove them"
   },
   {
-    "question": "Which kitchen layout is described as long and narrow with appliances on two opposite walls?",
-    "options": [
-      "U-shaped",
-      "Galley",
-      "Basic",
-      "Island"
-    ],
-    "answer": "Galley"
+    "question": "Which is a pre-planting activity?",
+    "options": ["Preparing the field", "Picking ripe crops", "Selling the harvest", "Drying harvested grains"],
+    "answer": "Preparing the field"
   },
   {
-    "question": "The process of heating milk to a specific temperature and cooling it quickly is:",
-    "options": [
-      "Salting",
-      "Smoking",
-      "Pasteurisation",
-      "Frying"
-    ],
-    "answer": "Pasteurisation"
+    "question": "Which sequence shows a sensible order for planting preparation?",
+    "options": ["Clear the field, prepare the soil, then plant", "Harvest the crop, plant, then clear the field", "Sell the crop, clear the field, then harvest", "Store the crop, harvest, then plant the same crop"],
+    "answer": "Clear the field, prepare the soil, then plant"
   }
 ]

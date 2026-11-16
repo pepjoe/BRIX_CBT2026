@@ -1,8 +1,8 @@
 
 const years=[...Array(10)].map((_,i)=>({label:`Year ${i+1}`,value:`grade_${i+1}`}));
 const subjects=[
-["Mathematics","mathematics"],["Literacy A","literacy_a"],["Basic Science","basic_science"],
-["Social Studies","social_studies"],["ICT","ict"],["Civic Education","civic_education"],
+["Numeracy B","numeracy_b"],["Literacy A","literacy_a"],["Basic Science","basic_science"],
+["Social and Citizenship Education","social_studies"],["ICT","ict"],["Civic Education","civic_education"],
 ["Agriculture","agriculture"],["Home Economics","home_economics"],["CRS","crs"],
 ["French","french"],["PHONICS","phonics"],["Fine Arts","fine_arts"],["Literacy B","literacy_b"],["Vocational Studies","vocational_studies"],["Music","music"],["Physical and Health Education","PHE"]
 ];

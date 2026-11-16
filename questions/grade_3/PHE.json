@@ -1,402 +1,202 @@
 [
   {
-    "question": "What is swimming?",
+    "question": "Athletics is often referred to as the ________________ of all sports.",
     "options": [
-      "Running on land",
-      "Moving through water",
-      "Jumping over water",
-      "Riding a bicycle"
+      "Father",
+      "Mother",
+      "King",
+      "Queen"
     ],
-    "answer": "Moving through water"
+    "answer": "Mother"
   },
   {
-    "question": "What are swimming strokes?",
+    "question": "Athletics is broadly divided into track events and ________________ events.",
     "options": [
-      "Types of games",
-      "Types of exercises",
-      "Different ways of moving in water",
-      "Types of food"
+      "Court",
+      "Field",
+      "Pool",
+      "Ring"
     ],
-    "answer": "Different ways of moving in water"
+    "answer": "Field"
   },
   {
-    "question": "Which swimming stroke is the fastest?",
+    "question": "Sporting events done on the track are known as ________________ events.",
     "options": [
-      "Breaststroke",
-      "Backstroke",
-      "Butterfly stroke",
-      "Freestyle"
+      "Field",
+      "Track",
+      "Water",
+      "Gymnastic"
     ],
-    "answer": "Freestyle"
+    "answer": "Track"
   },
   {
-    "question": "Which swimming stroke is done while lying on the back?",
+    "question": "Which of the following is an example of a sprint race?",
     "options": [
-      "Freestyle",
-      "Butterfly stroke",
-      "Backstroke",
-      "Breaststroke"
+      "100m",
+      "800m",
+      "1500m",
+      "5000m"
     ],
-    "answer": "Backstroke"
+    "answer": "100m"
   },
   {
-    "question": "In which swimming stroke do the legs move like a frog's kick?",
+    "question": "Races such as 800m and 1500m are categorized under ________________ distance races.",
     "options": [
-      "Breaststroke",
-      "Freestyle",
-      "Backstroke",
-      "Running stroke"
+      "Sprint",
+      "Middle",
+      "Long",
+      "Marathon"
     ],
-    "answer": "Breaststroke"
+    "answer": "Middle"
   },
   {
-    "question": "Which swimming stroke uses both arms moving together over the water?",
+    "question": "Which of the following start techniques is used for sprint races?",
     "options": [
-      "Freestyle",
-      "Breaststroke",
-      "Butterfly stroke",
-      "Backstroke"
+      "Standing start",
+      "Crouch start",
+      "Flying start",
+      "Rolling start"
     ],
-    "answer": "Butterfly stroke"
+    "answer": "Crouch start"
   },
   {
-    "question": "Why do people learn swimming strokes?",
+    "question": "Standing start is used for middle distance and ________________ distance races.",
     "options": [
-      "To swim better",
-      "To sleep better",
-      "To write faster",
-      "To draw pictures"
+      "Sprint",
+      "Relay",
+      "Long",
+      "Hurdles"
     ],
-    "answer": "To swim better"
+    "answer": "Long"
   },
   {
-    "question": "Which of these is a swimming safety rule?",
+    "question": "Which of the following is NOT a type of crouch start?",
     "options": [
-      "Swim alone",
-      "Push others into the water",
-      "Follow pool rules",
-      "Run around the pool"
+      "Bunch start",
+      "Medium start",
+      "Elongated start",
+      "Standing start"
     ],
-    "answer": "Follow pool rules"
+    "answer": "Standing start"
   },
   {
-    "question": "How many common swimming strokes were discussed in the lesson?",
+    "question": "Bunch start is also referred to as ________________ start.",
     "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
+      "Bullet",
+      "Rocket",
+      "Flying",
+      "Jump"
     ],
-    "answer": "Four"
+    "answer": "Bullet"
   },
   {
-    "question": "Which part of the body is mainly used in swimming?",
+    "question": "The 4x100m and 4x400m races are examples of ________________ races.",
     "options": [
-      "Arms and legs",
-      "Eyes and ears",
-      "Nose and mouth",
-      "Hair and teeth"
+      "Hurdles",
+      "Relay",
+      "Marathon",
+      "Sprint"
     ],
-    "answer": "Arms and legs"
+    "answer": "Relay"
   },
   {
-    "question": "What are pathogens?",
+    "question": "The basic technique that deals with how an athlete begins a race is called ________________.",
     "options": [
-      "Harmful germs",
-      "Toys",
-      "Books",
-      "Clothes"
+      "Finishing",
+      "Striding",
+      "Take-off / Starting",
+      "Baton exchange"
     ],
-    "answer": "Harmful germs"
+    "answer": "Take-off / Starting"
   },
   {
-    "question": "Pathogens are too small to be seen with the ______.",
+    "question": "During sprinting, athletes must maintain proper arm action, knee lift, striding, and ________________.",
     "options": [
-      "Television",
-      "Naked eye",
-      "Radio",
-      "Fan"
+      "Keeping in lane",
+      "Looking back",
+      "Jumping high",
+      "Stopping midway"
     ],
-    "answer": "Naked eye"
+    "answer": "Keeping in lane"
   },
   {
-    "question": "Which of these is a type of pathogen?",
+    "question": "Baton exchange is a fundamental skill performed exclusively in ________________ races.",
     "options": [
-      "Bacteria",
-      "Chair",
-      "Table",
-      "Pencil"
+      "Hurdles",
+      "Relay",
+      "Marathon",
+      "Sprints"
     ],
-    "answer": "Bacteria"
+    "answer": "Relay"
   },
   {
-    "question": "Which disease is caused by pathogens?",
+    "question": "Which type of baton exchange involves visually looking at the incoming runner?",
     "options": [
-      "Malaria",
-      "Happiness",
-      "Hunger",
-      "Sleep"
+      "Down-sweep / Non-visual",
+      "Up-sweep / Visual",
+      "Blind pass",
+      "Overhead drop"
     ],
-    "answer": "Malaria"
+    "answer": "Up-sweep / Visual"
   },
   {
-    "question": "Malaria is spread mainly by ______.",
+    "question": "The technique used to cross the end line and complete the race is called ________________.",
     "options": [
-      "Mosquitoes",
-      "Cats",
-      "Birds",
-      "Goats"
+      "Starting",
+      "Running",
+      "Finishing",
+      "Striding"
     ],
-    "answer": "Mosquitoes"
+    "answer": "Finishing"
   },
   {
-    "question": "Which of these helps to prevent diseases caused by pathogens?",
+    "question": "Events performed on the field mainly consist of jumping and ________________.",
     "options": [
-      "Eating dirty food",
-      "Drinking dirty water",
-      "Washing hands regularly",
-      "Littering the environment"
+      "Throwing",
+      "Running",
+      "Swimming",
+      "Walking"
     ],
-    "answer": "Washing hands regularly"
+    "answer": "Throwing"
   },
   {
-    "question": "Which pathogen causes ringworm?",
+    "question": "Which of the following is a field jumping event?",
     "options": [
-      "Fungi",
-      "Fish",
-      "Bird",
-      "Reptile"
+      "Shot put",
+      "Pole Vault",
+      "Discus throw",
+      "Javelin throw"
     ],
-    "answer": "Fungi"
+    "answer": "Pole Vault"
   },
   {
-    "question": "Pathogens can spread through ______ water.",
+    "question": "Which of the following is NOT a throwing event in athletics?",
     "options": [
-      "Clean",
-      "Dirty",
-      "Cold",
-      "Warm"
+      "Shot put",
+      "Discus throw",
+      "Triple jump",
+      "Javelin throw"
     ],
-    "answer": "Dirty"
+    "answer": "Triple jump"
   },
   {
-    "question": "Covering the mouth when coughing helps to ______.",
+    "question": "High jump, long jump, and triple jump belong to ________________ events.",
     "options": [
-      "Spread diseases",
-      "Spread germs",
-      "Stop the spread of germs",
-      "Make people sick"
+      "Track",
+      "Field jumping",
+      "Field throwing",
+      "Relay"
     ],
-    "answer": "Stop the spread of germs"
+    "answer": "Field jumping"
   },
   {
-    "question": "Keeping the environment clean helps to prevent ______.",
+    "question": "Throwing a heavy sphere-like object in athletics is called ________________.",
     "options": [
-      "Diseases",
-      "Rainfall",
-      "Sunshine",
-      "Wind"
+      "Discus throw",
+      "Hammer throw",
+      "Shot put",
+      "Javelin throw"
     ],
-    "answer": "Diseases"
-  },
-  {
-    "question": "What is a disease?",
-    "options": [
-      "A healthy condition",
-      "A condition that makes a person sick",
-      "A type of food",
-      "A school activity"
-    ],
-    "answer": "A condition that makes a person sick"
-  },
-  {
-    "question": "Which of these diseases is spread by mosquito bites?",
-    "options": [
-      "Malaria",
-      "Measles",
-      "Cough",
-      "Cold"
-    ],
-    "answer": "Malaria"
-  },
-  {
-    "question": "What should we do before eating food?",
-    "options": [
-      "Play games",
-      "Sleep",
-      "Wash our hands",
-      "Run around"
-    ],
-    "answer": "Wash our hands"
-  },
-  {
-    "question": "Which of these can cause diseases?",
-    "options": [
-      "Clean water",
-      "Good food",
-      "Germs",
-      "Exercise"
-    ],
-    "answer": "Germs"
-  },
-  {
-    "question": "What should we drink to stay healthy?",
-    "options": [
-      "Dirty water",
-      "Clean water",
-      "Muddy water",
-      "Rainwater from the ground"
-    ],
-    "answer": "Clean water"
-  },
-  {
-    "question": "Which of these is a sign of illness?",
-    "options": [
-      "Fever",
-      "Happiness",
-      "Strength",
-      "Growth"
-    ],
-    "answer": "Fever"
-  },
-  {
-    "question": "Why should we keep our environment clean?",
-    "options": [
-      "To attract insects",
-      "To spread diseases",
-      "To prevent diseases",
-      "To make dirt increase"
-    ],
-    "answer": "To prevent diseases"
-  },
-  {
-    "question": "Which of these helps to prevent diseases?",
-    "options": [
-      "Eating dirty food",
-      "Sleeping under a mosquito net",
-      "Drinking dirty water",
-      "Refusing to bathe"
-    ],
-    "answer": "Sleeping under a mosquito net"
-  },
-  {
-    "question": "Which disease can be caused by drinking dirty water?",
-    "options": [
-      "Cholera",
-      "Malaria",
-      "Measles",
-      "Chickenpox"
-    ],
-    "answer": "Cholera"
-  },
-  {
-    "question": "What should we do when we feel sick?",
-    "options": [
-      "Ignore it",
-      "Play in dirty places",
-      "Tell a parent or visit a health worker",
-      "Stop eating completely"
-    ],
-    "answer": "Tell a parent or visit a health worker"
-  },
-  {
-    "question": "What is a disease?",
-    "options": [
-      "A game",
-      "An illness",
-      "A toy",
-      "A book"
-    ],
-    "answer": "An illness"
-  },
-  {
-    "question": "Diseases can spread from one person to another through ______.",
-    "options": [
-      "Contact",
-      "Sleeping",
-      "Reading",
-      "Playing alone"
-    ],
-    "answer": "Contact"
-  },
-  {
-    "question": "Which of these can spread diseases?",
-    "options": [
-      "Clean water",
-      "Mosquitoes",
-      "Soap",
-      "Toothbrush"
-    ],
-    "answer": "Mosquitoes"
-  },
-  {
-    "question": "Sharing cups with a sick person can ______.",
-    "options": [
-      "Spread disease",
-      "Stop rain",
-      "Make food",
-      "Build houses"
-    ],
-    "answer": "Spread disease"
-  },
-  {
-    "question": "Cholera can spread through ______.",
-    "options": [
-      "Clean air",
-      "Dirty water",
-      "Sunlight",
-      "Exercise"
-    ],
-    "answer": "Dirty water"
-  },
-  {
-    "question": "Which insect spreads malaria?",
-    "options": [
-      "Butterfly",
-      "Housefly",
-      "Mosquito",
-      "Ant"
-    ],
-    "answer": "Mosquito"
-  },
-  {
-    "question": "Washing hands with soap helps to ______.",
-    "options": [
-      "Spread diseases",
-      "Prevent diseases",
-      "Break plates",
-      "Dirty clothes"
-    ],
-    "answer": "Prevent diseases"
-  },
-  {
-    "question": "Covering your mouth when coughing helps to ______.",
-    "options": [
-      "Spread diseases",
-      "Prevent disease spread",
-      "Grow plants",
-      "Wash clothes"
-    ],
-    "answer": "Prevent disease spread"
-  },
-  {
-    "question": "Which of these is a good way to prevent diseases?",
-    "options": [
-      "Keeping the environment dirty",
-      "Sharing towels",
-      "Washing hands regularly",
-      "Drinking dirty water"
-    ],
-    "answer": "Washing hands regularly"
-  },
-  {
-    "question": "Drinking clean water helps to prevent ______.",
-    "options": [
-      "Cholera",
-      "Hunger",
-      "Sleep",
-      "Noise"
-    ],
-    "answer": "Cholera"
+    "answer": "Shot put"
   }
 ]

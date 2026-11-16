@@ -1,402 +1,391 @@
 [
-  {
-    "question": "The use of modern machines and tools is known as technological ______.",
-    "options": [
-      "advancement",
-      "movement",
-      "transport",
-      "communication"
-    ],
-    "answer": "advancement"
-  },
-  {
-    "question": "Nigeria earns a large part of its foreign exchange from ______ oil.",
-    "options": [
-      "palm",
-      "crude",
-      "groundnut",
-      "cocoa"
-    ],
-    "answer": "crude"
-  },
-  {
-    "question": "The Trans-Atlantic Trade took place across the ______ Ocean.",
-    "options": [
-      "Indian",
-      "Pacific",
-      "Atlantic",
-      "Arctic"
-    ],
-    "answer": "Atlantic"
-  },
-  {
-    "question": "The Trans-Saharan Trade Route crossed the ______ Desert.",
-    "options": [
-      "Kalahari",
-      "Namib",
-      "Gobi",
-      "Sahara"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "Buying and selling through the internet is an example of trade in ______ times.",
-    "options": [
-      "ancient",
-      "traditional",
-      "modern",
-      "local"
-    ],
-    "answer": "modern"
-  },
-  {
-    "question": "The process of making goods is called ______.",
-    "options": [
-      "distribution",
-      "production",
-      "consumption",
-      "transportation"
-    ],
-    "answer": "production"
-  },
-  {
-    "question": "The Asante Kingdom was located in present-day ______.",
-    "options": [
-      "Nigeria",
-      "Ghana",
-      "Togo",
-      "Benin"
-    ],
-    "answer": "Ghana"
-  },
-  {
-    "question": "The study of the roles of males and females in society is called ______ studies.",
-    "options": [
-      "economic",
-      "social",
-      "gender",
-      "political"
-    ],
-    "answer": "gender"
-  },
-  {
-    "question": "Water supplied to homes for public use is called ______ water supply.",
-    "options": [
-      "national",
-      "village",
-      "private",
-      "seasonal"
-    ],
-    "answer": "national"
-  },
-  {
-    "question": "A population census is carried out to count the number of ______ in a country.",
-    "options": [
-      "animals",
-      "visitors",
-      "people",
-      "workers"
-    ],
-    "answer": "people"
-  },
-  {
-    "question": "Puberty is a stage of ______ development.",
-    "options": [
-      "economic",
-      "physical",
-      "political",
-      "cultural"
-    ],
-    "answer": "physical"
-  },
-  {
-    "question": "A person legally recognized as belonging to a country is called a ______.",
-    "options": [
-      "tourist",
-      "citizen",
-      "visitor",
-      "migrant"
-    ],
-    "answer": "citizen"
-  },
-  {
-    "question": "A foreigner may become a citizen through ______.",
-    "options": [
-      "migration",
-      "registration",
-      "naturalization",
-      "education"
-    ],
-    "answer": "naturalization"
-  },
-  {
-    "question": "Technological advancement helps to improve ______.",
-    "options": [
-      "productivity",
-      "confusion",
-      "pollution",
-      "waste"
-    ],
-    "answer": "productivity"
-  },
-  {
-    "question": "The Nigerian economy consists of activities that produce goods and ______.",
-    "options": [
-      "services",
-      "arguments",
-      "stories",
-      "traditions"
-    ],
-    "answer": "services"
-  },
-  {
-    "question": "Camels were important means of transportation in the Trans-______ Trade.",
-    "options": [
-      "Atlantic",
-      "Indian",
-      "Saharan",
-      "Pacific"
-    ],
-    "answer": "Saharan"
-  },
-  {
-    "question": "The exchange of goods and services is known as ______.",
-    "options": [
-      "trade",
-      "migration",
-      "housing",
-      "tourism"
-    ],
-    "answer": "trade"
-  },
-  {
-    "question": "______ was the first ruler of the Asante Kingdom.",
-    "options": [
-      "Osei Bonsu",
-      "Opoku Ware",
-      "Okomfo Anokye",
-      "Osei Tutu"
-    ],
-    "answer": "Osei Tutu"
-  },
-  {
-    "question": "The Asante people were well known for trading in ______.",
-    "options": [
-      "gold",
-      "coal",
-      "rubber",
-      "salt"
-    ],
-    "answer": "gold"
-  },
-  {
-    "question": "Respecting the laws of a country is a duty of every ______.",
-    "options": [
-      "foreigner",
-      "tourist",
-      "citizen",
-      "trader"
-    ],
-    "answer": "citizen"
-  },
-  {
-    "question": "Computers and mobile phones are products of technological ______.",
-    "options": [
-      "advancement",
-      "farming",
-      "transport",
-      "migration"
-    ],
-    "answer": "advancement"
-  },
-  {
-    "question": "Technology helps people to communicate more ______.",
-    "options": [
-      "slowly",
-      "quickly",
-      "poorly",
-      "rarely"
-    ],
-    "answer": "quickly"
-  },
-  {
-    "question": "Agriculture is an important sector of the Nigerian ______.",
-    "options": [
-      "school",
-      "economy",
-      "village",
-      "religion"
-    ],
-    "answer": "economy"
-  },
-  {
-    "question": "The Nigerian currency is called the ______.",
-    "options": [
-      "Dollar",
-      "Cedi",
-      "Naira",
-      "Pound"
-    ],
-    "answer": "Naira"
-  },
-  {
-    "question": "The Trans-Atlantic Trade involved Europe, Africa and the ______.",
-    "options": [
-      "Americas",
-      "Asia",
-      "Australia",
-      "Antarctica"
-    ],
-    "answer": "Americas"
-  },
-  {
-    "question": "Many Africans were transported as ______ during the Trans-Atlantic Trade.",
-    "options": [
-      "teachers",
-      "slaves",
-      "tourists",
-      "farmers"
-    ],
-    "answer": "slaves"
-  },
-  {
-    "question": "The Trans-Saharan Trade connected West Africa with North ______.",
-    "options": [
-      "America",
-      "Europe",
-      "Africa",
-      "Asia"
-    ],
-    "answer": "Africa"
-  },
-  {
-    "question": "Salt and gold were major items traded along the Trans-Saharan ______.",
-    "options": [
-      "forest",
-      "route",
-      "river",
-      "market"
-    ],
-    "answer": "route"
-  },
-  {
-    "question": "Modern trade can be carried out through the ______.",
-    "options": [
-      "internet",
-      "desert",
-      "forest",
-      "mountain"
-    ],
-    "answer": "internet"
-  },
-  {
-    "question": "People who buy and sell goods are called ______.",
-    "options": [
-      "traders",
-      "drivers",
-      "teachers",
-      "builders"
-    ],
-    "answer": "traders"
-  },
-  {
-    "question": "Production involves creating goods and ______.",
-    "options": [
-      "services",
-      "arguments",
-      "houses",
-      "roads"
-    ],
-    "answer": "services"
-  },
-  {
-    "question": "Factories are places where goods are ______.",
-    "options": [
-      "destroyed",
-      "manufactured",
-      "hidden",
-      "imported"
-    ],
-    "answer": "manufactured"
-  },
-  {
-    "question": "The Asante Kingdom became wealthy through trade in ______.",
-    "options": [
-      "gold",
-      "oil",
-      "coal",
-      "cement"
-    ],
-    "answer": "gold"
-  },
-  {
-    "question": "The ______ seized Asante's wealth.",
-    "options": [
-      "Spanish",
-      "Togolese",
-      "French",
-      "British"
-    ],
-    "answer": "British"
-  },
-  {
-    "question": "Gender studies teaches respect for both males and ______.",
-    "options": [
-      "children",
-      "females",
-      "leaders",
-      "workers"
-    ],
-    "answer": "females"
-  },
-  {
-    "question": "National water supply provides clean water for ______ use.",
-    "options": [
-      "private",
-      "public",
-      "commercial",
-      "foreign"
-    ],
-    "answer": "public"
-  },
-  {
-    "question": "Population refers to the number of ______ living in an area.",
-    "options": [
-      "animals",
-      "visitors",
-      "people",
-      "cars"
-    ],
-    "answer": "people"
-  },
-  {
-    "question": "Housing provides ______ for people.",
-    "options": [
-      "shelter",
-      "food",
-      "clothing",
-      "medicine"
-    ],
-    "answer": "shelter"
-  },
-  {
-    "question": "Puberty is a stage of physical ______.",
-    "options": [
-      "development",
-      "migration",
-      "transportation",
-      "production"
-    ],
-    "answer": "development"
-  },
-  {
-    "question": "Citizenship gives a person certain rights and ______.",
-    "options": [
-      "duties",
-      "vehicles",
-      "buildings",
-      "markets"
-    ],
-    "answer": "duties"
-  }
+    {
+        "question": "What is a family?",
+
+        "options": [
+            "A group of people who live in different countries",
+            "A group of people related by blood marriage or adoption",
+            "A group of strangers",
+            "A group of people in a market"
+        ],
+
+        "answer": "A group of people related by blood marriage or adoption"
+    },
+
+    {
+        "question": "Which of the following is a member of the nuclear family?",
+
+        "options": [
+            "Uncle",
+            "Aunt",
+            "Father",
+            "Cousin"
+        ],
+
+        "answer": "Father"
+    },
+
+    {
+        "question": "What is the smallest unit of society?",
+
+        "options": [
+            "School",
+            "Family",
+            "Community",
+            "Government"
+        ],
+
+        "answer": "Family"
+    },
+
+    {
+        "question": "Which of these is an example of an extended family member?",
+
+        "options": [
+            "Mother",
+            "Father",
+            "Sister",
+            "Grandfather"
+        ],
+
+        "answer": "Grandfather"
+    },
+
+    {
+        "question": "What is one important responsibility of parents in the family?",
+
+        "options": [
+            "To provide care and protection",
+            "To fight with neighbours",
+            "To destroy family property",
+            "To avoid their children"
+        ],
+
+        "answer": "To provide care and protection"
+    },
+
+    {
+        "question": "Which of these is a duty of children in the family?",
+
+        "options": [
+            "Disobeying parents",
+            "Destroying household items",
+            "Helping with simple household chores",
+            "Refusing to respect elders"
+        ],
+
+        "answer": "Helping with simple household chores"
+    },
+
+    {
+        "question": "What do family members show to one another to live peacefully?",
+
+        "options": [
+            "Hatred",
+            "Love and respect",
+            "Jealousy",
+            "Anger"
+        ],
+
+        "answer": "Love and respect"
+    },
+
+    {
+        "question": "What is a community?",
+
+        "options": [
+            "A group of people living in the same area",
+            "A group of people in one family only",
+            "A group of animals in a forest",
+            "A group of people travelling in a bus"
+        ],
+
+        "answer": "A group of people living in the same area"
+    },
+
+    {
+        "question": "Which of these is an example of a community?",
+
+        "options": [
+            "A classroom",
+            "A market basket",
+            "A village",
+            "A school bag"
+        ],
+
+        "answer": "A village"
+    },
+
+    {
+        "question": "Who is a community leader?",
+
+        "options": [
+            "A person who guides and helps the community",
+            "A person who destroys public property",
+            "A person who refuses to obey rules",
+            "A person who causes trouble"
+        ],
+
+        "answer": "A person who guides and helps the community"
+    },
+
+    {
+        "question": "Which of these is a place commonly found in a community?",
+
+        "options": [
+            "Hospital",
+            "Bedroom",
+            "Kitchen",
+            "Wardrobe"
+        ],
+
+        "answer": "Hospital"
+    },
+
+    {
+        "question": "Why do people work together in a community?",
+
+        "options": [
+            "To cause confusion",
+            "To make the community unsafe",
+            "To develop the community",
+            "To prevent progress"
+        ],
+
+        "answer": "To develop the community"
+    },
+
+    {
+        "question": "Which of these is a responsibility of community members?",
+
+        "options": [
+            "Keeping the environment clean",
+            "Destroying public facilities",
+            "Making noise everywhere",
+            "Fighting with neighbours"
+        ],
+
+        "answer": "Keeping the environment clean"
+    },
+
+    {
+        "question": "What is a school community made up of?",
+
+        "options": [
+            "Teachers only",
+            "Pupils only",
+            "Teachers pupils parents and other school workers",
+            "Visitors only"
+        ],
+
+        "answer": "Teachers pupils parents and other school workers"
+    },
+
+    {
+        "question": "Who is usually the head of a school?",
+
+        "options": [
+            "Class captain",
+            "Headteacher",
+            "School driver",
+            "Prefect"
+        ],
+
+        "answer": "Headteacher"
+    },
+
+    {
+        "question": "What is the main duty of a teacher in the school community?",
+
+        "options": [
+            "To teach and guide pupils",
+            "To sell food to pupils",
+            "To repair every road",
+            "To collect market taxes"
+        ],
+
+        "answer": "To teach and guide pupils"
+    },
+
+    {
+        "question": "Which of these is a responsibility of a pupil in the school community?",
+
+        "options": [
+            "Damaging school property",
+            "Bullying other pupils",
+            "Obeying school rules",
+            "Disrespecting teachers"
+        ],
+
+        "answer": "Obeying school rules"
+    },
+
+    {
+        "question": "Why should pupils keep their school environment clean?",
+
+        "options": [
+            "To make it dirty",
+            "To prevent diseases and keep it healthy",
+            "To attract insects",
+            "To damage school property"
+        ],
+
+        "answer": "To prevent diseases and keep it healthy"
+    },
+
+    {
+        "question": "What is government?",
+
+        "options": [
+            "A group of people who make and enforce laws",
+            "A group of people who sell goods",
+            "A group of people who play football",
+            "A group of people who attend parties"
+        ],
+
+        "answer": "A group of people who make and enforce laws"
+    },
+
+    {
+        "question": "Which of these is a level of government in Nigeria?",
+
+        "options": [
+            "Family government",
+            "School government",
+            "Local government",
+            "Market government"
+        ],
+
+        "answer": "Local government"
+    },
+
+    {
+        "question": "How many levels of government are there in Nigeria?",
+
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+
+        "answer": "Three"
+    },
+
+    {
+        "question": "Which level of government is closest to the people at the grassroots?",
+
+        "options": [
+            "Federal government",
+            "State government",
+            "Local government",
+            "Foreign government"
+        ],
+
+        "answer": "Local government"
+    },
+
+    {
+        "question": "Who is the head of a state government in Nigeria?",
+
+        "options": [
+            "President",
+            "Governor",
+            "Chairman",
+            "Traditional ruler"
+        ],
+
+        "answer": "Governor"
+    },
+
+    {
+        "question": "Who is the head of the federal government in Nigeria?",
+
+        "options": [
+            "Governor",
+            "President",
+            "Local government chairman",
+            "School principal"
+        ],
+
+        "answer": "President"
+    },
+
+    {
+        "question": "What are civic values?",
+
+        "options": [
+            "Good behaviours and principles that guide citizens",
+            "Ways of destroying public property",
+            "Rules for playing games only",
+            "Ways of avoiding responsibilities"
+        ],
+
+        "answer": "Good behaviours and principles that guide citizens"
+    },
+
+    {
+        "question": "Which of these is an example of a civic value?",
+
+        "options": [
+            "Dishonesty",
+            "Stealing",
+            "Honesty",
+            "Disobedience"
+        ],
+
+        "answer": "Honesty"
+    },
+
+    {
+        "question": "What does respect mean?",
+
+        "options": [
+            "Treating others politely and properly",
+            "Insulting people",
+            "Fighting with others",
+            "Ignoring everyone"
+        ],
+
+        "answer": "Treating others politely and properly"
+    },
+
+    {
+        "question": "Why is honesty important in society?",
+
+        "options": [
+            "It encourages cheating",
+            "It helps people trust one another",
+            "It causes confusion",
+            "It promotes stealing"
+        ],
+
+        "answer": "It helps people trust one another"
+    },
+
+    {
+        "question": "What should a good citizen do when they see someone breaking the law?",
+
+        "options": [
+            "Encourage the person",
+            "Join the person",
+            "Report the matter to the appropriate authority",
+            "Ignore every law"
+        ],
+
+        "answer": "Report the matter to the appropriate authority"
+    },
+
+    {
+        "question": "Which of these actions shows patriotism?",
+
+        "options": [
+            "Destroying national property",
+            "Speaking badly about everyone",
+            "Respecting the national symbols and serving the country",
+            "Refusing to obey all laws"
+        ],
+
+        "answer": "Respecting the national symbols and serving the country"
+    }
 ]

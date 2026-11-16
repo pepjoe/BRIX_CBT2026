@@ -1,402 +1,391 @@
 [
-  {
-    "question": "The joint found in the neck is the ______ joint.",
-    "options": [
-      "Ball and socket",
-      "Pivot",
-      "Hinge",
-      "Gliding"
-    ],
-    "answer": "Pivot"
-  },
-  {
-    "question": "The knee is an example of a ______ joint.",
-    "options": [
-      "Pivot",
-      "Gliding",
-      "Hinge",
-      "Fixed"
-    ],
-    "answer": "Hinge"
-  },
-  {
-    "question": "A substance with a sour taste is called an ______.",
-    "options": [
-      "Base",
-      "Acid",
-      "Salt",
-      "Metal"
-    ],
-    "answer": "Acid"
-  },
-  {
-    "question": "A substance that turns red litmus paper blue is a ______.",
-    "options": [
-      "Acid",
-      "Water",
-      "Base",
-      "Gas"
-    ],
-    "answer": "Base"
-  },
-  {
-    "question": "The flow of electric charge is called ______.",
-    "options": [
-      "Current",
-      "Magnetism",
-      "Heat",
-      "Light"
-    ],
-    "answer": "Current"
-  },
-  {
-    "question": "Materials that allow electricity to pass through them are called ______.",
-    "options": [
-      "Insulators",
-      "Conductors",
-      "Plastics",
-      "Liquids"
-    ],
-    "answer": "Conductors"
-  },
-  {
-    "question": "Wood is a ______ of electricity.",
-    "options": [
-      "Conductor",
-      "Source",
-      "Generator",
-      "Non-conductor"
-    ],
-    "answer": "Non-conductor"
-  },
-  {
-    "question": "A magnet attracts materials made of ______.",
-    "options": [
-      "Rubber",
-      "Iron",
-      "Wood",
-      "Plastic"
-    ],
-    "answer": "Iron"
-  },
-  {
-    "question": "The two ends of a magnet are called ______.",
-    "options": [
-      "Sides",
-      "Points",
-      "Poles",
-      "Edges"
-    ],
-    "answer": "Poles"
-  },
-  {
-    "question": "In a magnet, ______ poles attract.",
-    "options": [
-      "opposite",
-      "similar",
-      "wire",
-      "bulb"
-    ],
-    "answer": "opposite"
-  },
-  {
-    "question": "The ___ is pressed with the foot to make it go faster.",
-    "options": [
-      "horn",
-      "accelerator",
-      "ignition",
-      "dashboard"
-    ],
-    "answer": "accelerator"
-  },
-  {
-    "question": "It makes a loud warning noise when pressed. It is called the ______.",
-    "options": [
-      "dashboard",
-      "ignition",
-      "accelerator",
-      "horn"
-    ],
-    "answer": "horn"
-  },
-  {
-    "question": "Having a positive opinion about yourself is known as high ______.",
-    "options": [
-      "Body image",
-      "Confidence",
-      "Self-esteem",
-      "Appearance"
-    ],
-    "answer": "Self-esteem"
-  },
-  {
-    "question": "Body image refers to how a person ______ their body.",
-    "options": [
-      "Measures",
-      "Sees",
-      "Changes",
-      "Builds"
-    ],
-    "answer": "Sees"
-  },
-  {
-    "question": "The shoulder is an example of a ______ joint.",
-    "options": [
-      "Ball and socket",
-      "Fixed",
-      "Pivot",
-      "Gliding"
-    ],
-    "answer": "Ball and socket"
-  },
-  {
-    "question": "Lemon juice is an example of an ______.",
-    "options": [
-      "Acid",
-      "Base",
-      "Salt",
-      "Metal"
-    ],
-    "answer": "Acid"
-  },
-  {
-    "question": "Soap solution is an example of a ______.",
-    "options": [
-      "Acid",
-      "Base",
-      "Gas",
-      "Metal"
-    ],
-    "answer": "Base"
-  },
-  {
-    "question": "Copper is a good ______ of electricity.",
-    "options": [
-      "Insulator",
-      "Non-conductor",
-      "Conductor",
-      "Plastic"
-    ],
-    "answer": "Conductor"
-  },
-  {
-    "question": "Magnets have ______ poles.",
-    "options": [
-      "Three",
-      "Four",
-      "Two",
-      "Five"
-    ],
-    "answer": "Two"
-  },
-  {
-    "question": "People with good self-esteem usually feel ______ about themselves.",
-    "options": [
-      "Sad",
-      "Angry",
-      "Worried",
-      "Confident"
-    ],
-    "answer": "Confident"
-  },
-  {
-    "question": "The elbow is an example of a ______ joint.",
-    "options": [
-      "Pivot",
-      "Hinge",
-      "Ball and socket",
-      "Fixed"
-    ],
-    "answer": "Hinge"
-  },
-  {
-    "question": "The wrist contains ______ joints.",
-    "options": [
-      "hinge",
-      "pivot",
-      "gliding",
-      "fixed"
-    ],
-    "answer": "gliding"
-  },
-  {
-    "question": "A fixed joint allows ______ movement.",
-    "options": [
-      "free",
-      "little",
-      "no",
-      "rapid"
-    ],
-    "answer": "no"
-  },
-  {
-    "question": "Vinegar is an example of an ______.",
-    "options": [
-      "acid",
-      "base",
-      "metal",
-      "salt"
-    ],
-    "answer": "acid"
-  },
-  {
-    "question": "Acids turn blue litmus paper ______.",
-    "options": [
-      "green",
-      "yellow",
-      "red",
-      "black"
-    ],
-    "answer": "red"
-  },
-  {
-    "question": "Bases feel ______ to the touch.",
-    "options": [
-      "rough",
-      "slippery",
-      "hard",
-      "dry"
-    ],
-    "answer": "slippery"
-  },
-  {
-    "question": "Electricity flows through a closed ______.",
-    "options": [
-      "circuit",
-      "container",
-      "machine",
-      "switch"
-    ],
-    "answer": "circuit"
-  },
-  {
-    "question": "A dry cell is a source of electrical ______.",
-    "options": [
-      "heat",
-      "light",
-      "energy",
-      "sound"
-    ],
-    "answer": "energy"
-  },
-  {
-    "question": "The unit used to measure electric current is the ______.",
-    "options": [
-      "ampere",
-      "metre",
-      "gram",
-      "litre"
-    ],
-    "answer": "ampere"
-  },
-  {
-    "question": "Silver is a very good electrical ______.",
-    "options": [
-      "insulator",
-      "conductor",
-      "plastic",
-      "rubber"
-    ],
-    "answer": "conductor"
-  },
-  {
-    "question": "Plastic is a ______ of electricity.",
-    "options": [
-      "source",
-      "generator",
-      "conductor",
-      "non-conductor"
-    ],
-    "answer": "non-conductor"
-  },
-  {
-    "question": "A magnet has a north pole and a ______ pole.",
-    "options": [
-      "east",
-      "west",
-      "south",
-      "upper"
-    ],
-    "answer": "south"
-  },
-  {
-    "question": "Like poles of a magnet ______ each other.",
-    "options": [
-      "attract",
-      "repel",
-      "join",
-      "follow"
-    ],
-    "answer": "repel"
-  },
-  {
-    "question": "Unlike poles of a magnet ______ each other.",
-    "options": [
-      "repel",
-      "attract",
-      "break",
-      "ignore"
-    ],
-    "answer": "attract"
-  },
-  {
-    "question": "A compass contains a small ______.",
-    "options": [
-      "battery",
-      "wire",
-      "magnet",
-      "bulb"
-    ],
-    "answer": "magnet"
-  },
-  {
-    "question": "The rotor is the ______ part of a motor.",
-    "options": [
-      "rotating",
-      "fixed",
-      "outer",
-      "wooden"
-    ],
-    "answer": "rotating"
-  },
-  {
-    "question": "The stator is the ______ part of a motor.",
-    "options": [
-      "moving",
-      "stationary",
-      "turning",
-      "magnetic"
-    ],
-    "answer": "stationary"
-  },
-  {
-    "question": "A positive body image helps a person feel more ______.",
-    "options": [
-      "confident",
-      "afraid",
-      "worried",
-      "angry"
-    ],
-    "answer": "confident"
-  },
-  {
-    "question": "Self-esteem is how much value a person places on ______.",
-    "options": [
-      "others",
-      "money",
-      "themselves",
-      "friends"
-    ],
-    "answer": "themselves"
-  },
-  {
-    "question": "People with healthy self-esteem usually show ______ in their abilities.",
-    "options": [
-      "fear",
-      "confidence",
-      "sadness",
-      "confusion"
-    ],
-    "answer": "confidence"
-  }
+    {
+        "question": "Which type of change in nature can be easily reversed back to its original state?",
+
+        "options": [
+            "Permanent change",
+            "Temporary change",
+            "Constant change",
+            "Hard change"
+        ],
+
+        "answer": "Temporary change"
+    },
+
+    {
+        "question": "The regular changing of day into night is an example of a change in what?",
+
+        "options": [
+            "Plants",
+            "Animals",
+            "Nature",
+            "Colours"
+        ],
+
+        "answer": "Nature"
+    },
+
+    {
+        "question": "What type of change occurs when a tiny seed grows into a big tree?",
+
+        "options": [
+            "Temporary change",
+            "Permanent change",
+            "Reversible change",
+            "Quick change"
+        ],
+
+        "answer": "Permanent change"
+    },
+
+    {
+        "question": "When green leaves turn yellow or brown and fall off, it shows a change in what?",
+
+        "options": [
+            "Animals",
+            "Weather instruments",
+            "Plants",
+            "Water"
+        ],
+
+        "answer": "Plants"
+    },
+
+    {
+        "question": "What is the young one of a cow called?",
+
+        "options": [
+            "Puppy",
+            "Calf",
+            "Cub",
+            "Lamb"
+        ],
+
+        "answer": "Calf"
+    },
+
+    {
+        "question": "The complete lifecycle change of a caterpillar turning into a butterfly is known as what?",
+
+        "options": [
+            "Germination",
+            "Metamorphosis",
+            "Evaporation",
+            "Condensation"
+        ],
+
+        "answer": "Metamorphosis"
+    },
+
+    {
+        "question": "What term describes the condition of the atmosphere of a place at a specific time?",
+
+        "options": [
+            "Climate",
+            "Weather",
+            "Temperature",
+            "Season"
+        ],
+
+        "answer": "Weather"
+    },
+
+    {
+        "question": "Which of the following is a major factor that directly affects the daily weather?",
+
+        "options": [
+            "Soil type",
+            "Sunshine",
+            "Plastic",
+            "Moon rocks"
+        ],
+
+        "answer": "Sunshine"
+    },
+
+    {
+        "question": "Which weather instrument is used by scientists to measure rainfall?",
+
+        "options": [
+            "Thermometer",
+            "Wind vane",
+            "Rain gauge",
+            "Barometer"
+        ],
+
+        "answer": "Rain gauge"
+    },
+
+    {
+        "question": "What instrument is used to determine the exact direction of the blowing wind?",
+
+        "options": [
+            "Rain gauge",
+            "Wind vane",
+            "Thermometer",
+            "Anemometer"
+        ],
+
+        "answer": "Wind vane"
+    },
+
+    {
+        "question": "Which instrument is used to measure the temperature of the air?",
+
+        "options": [
+            "Thermometer",
+            "Rain gauge",
+            "Wind vane",
+            "Hygrometer"
+        ],
+
+        "answer": "Thermometer"
+    },
+
+    {
+        "question": "Which of the following is considered a primary colour?",
+
+        "options": [
+            "Green",
+            "Orange",
+            "Blue",
+            "Purple"
+        ],
+
+        "answer": "Blue"
+    },
+
+    {
+        "question": "What new secondary colour do you get when you mix red and yellow together?",
+
+        "options": [
+            "Green",
+            "Orange",
+            "Purple",
+            "Pink"
+        ],
+
+        "answer": "Orange"
+    },
+
+    {
+        "question": "How many distinct colours can be seen in a natural rainbow?",
+
+        "options": [
+            "Five",
+            "Six",
+            "Seven",
+            "Eight"
+        ],
+
+        "answer": "Seven"
+    },
+
+    {
+        "question": "What form does liquid water change into when it is frozen in a refrigerator?",
+
+        "options": [
+            "Steam",
+            "Ice",
+            "Gas",
+            "Rain"
+        ],
+
+        "answer": "Ice"
+    },
+
+    {
+        "question": "What is the process called when liquid water boils and turns into water vapour?",
+
+        "options": [
+            "Condensation",
+            "Freezing",
+            "Evaporation",
+            "Melting"
+        ],
+
+        "answer": "Evaporation"
+    },
+
+    {
+        "question": "Pure, clean drinking water is usually what colour?",
+
+        "options": [
+            "Blue",
+            "White",
+            "Colourless",
+            "Green"
+        ],
+
+        "answer": "Colourless"
+    },
+
+    {
+        "question": "Which season in Nigeria is characterized by heavy rainfall and green vegetation?",
+
+        "options": [
+            "Dry season",
+            "Harmattan season",
+            "Rainy season",
+            "Winter season"
+        ],
+
+        "answer": "Rainy season"
+    },
+
+    {
+        "question": "What defensive change does a chameleon use to blend into its immediate surroundings?",
+
+        "options": [
+            "Shedding skin",
+            "Changing body colour",
+            "Growing fur",
+            "Hibernation"
+        ],
+
+        "answer": "Changing body colour"
+    },
+
+    {
+        "question": "What natural resource do plants absorb from the soil through their roots to survive?",
+
+        "options": [
+            "Sand",
+            "Water",
+            "Grass",
+            "Rocks"
+        ],
+
+        "answer": "Water"
+    },
+
+    {
+        "question": "What name is given to the baby version of a goat?",
+
+        "options": [
+            "Kitten",
+            "Kid",
+            "Eaglet",
+            "Gosling"
+        ],
+
+        "answer": "Kid"
+    },
+
+    {
+        "question": "Which instrument is used by meteorologists to measure the speed of wind?",
+
+        "options": [
+            "Rain gauge",
+            "Thermometer",
+            "Anemometer",
+            "Barometer"
+        ],
+
+        "answer": "Anemometer"
+    },
+
+    {
+        "question": "Which of the following is considered a permanent, irreversible change in nature?",
+
+        "options": [
+            "Melting wax",
+            "Burning wood",
+            "Freezing water",
+            "Moulding clay"
+        ],
+
+        "answer": "Burning wood"
+    },
+
+    {
+        "question": "What primary process do green plants use to manufacture their own food using sunlight?",
+
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Evaporation",
+            "Metamorphosis"
+        ],
+
+        "answer": "Photosynthesis"
+    },
+
+    {
+        "question": "What weather element is measured using an instrument called a barometer?",
+
+        "options": [
+            "Atmospheric pressure",
+            "Wind speed",
+            "Rainfall depth",
+            "Temperature"
+        ],
+
+        "answer": "Atmospheric pressure"
+    },
+
+    {
+        "question": "Which two primary colours must be blended together to create the colour green?",
+
+        "options": [
+            "Red and Yellow",
+            "Blue and Yellow",
+            "Red and Blue",
+            "White and Red"
+        ],
+
+        "answer": "Blue and Yellow"
+    },
+
+    {
+        "question": "What is the young offspring of a sheep called?",
+
+        "options": [
+            "Calf",
+            "Chick",
+            "Lamb",
+            "Piglet"
+        ],
+
+        "answer": "Lamb"
+    },
+
+    {
+        "question": "What stage comes immediately after a plant seed germinates and begins to grow upward?",
+
+        "options": [
+            "Fruit",
+            "Seedling",
+            "Mature tree",
+            "Flower"
+        ],
+
+        "answer": "Seedling"
+    },
+
+    {
+        "question": "What process occurs when water vapour cools down and turns back into liquid water droplets?",
+
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Freezing",
+            "Melting"
+        ],
+
+        "answer": "Condensation"
+    },
+
+    {
+        "question": "What dusty, dry wind blows across Nigeria during the peak of the dry season?",
+
+        "options": [
+            "Monsoon",
+            "Tornado",
+            "Harmattan",
+            "Hurricane"
+        ],
+
+        "answer": "Harmattan"
+    }
 ]

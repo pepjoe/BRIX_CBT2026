@@ -1,402 +1,391 @@
 [
-  {
-    "question": "Which of the following is defined as a force that can attract (pull) or repel (push away) specific materials?",
-    "options": [
-      "Gravity",
-      "Friction",
-      "Magnetism",
-      "Electricity"
-    ],
-    "answer": "Magnetism"
-  },
-  {
-    "question": "Which eye defect results from the lens and ciliary muscles losing elasticity due to age?",
-    "options": [
-      "Short-sightedness",
-      "Presbyopia",
-      "Astigmatism",
-      "Conjunctivitis"
-    ],
-    "answer": "Presbyopia"
-  },
-  {
-    "question": "Monocots are plants whose seeds contain:",
-    "options": [
-      "Two cotyledons",
-      "Three cotyledons",
-      "Only one cotyledon",
-      "No cotyledons"
-    ],
-    "answer": "Only one cotyledon"
-  },
-  {
-    "question": "Magnetic force is strongest at the:",
-    "options": [
-      "Middle",
-      "Poles",
-      "Sides",
-      "Bottom"
-    ],
-    "answer": "Poles"
-  },
-  {
-    "question": "Which part of the flower encloses the developing seeds?",
-    "options": [
-      "Petals",
-      "Sepals",
-      "Carpels",
-      "Stamens"
-    ],
-    "answer": "Carpels"
-  },
-  {
-    "question": "A bar magnet is shaped like a:",
-    "options": [
-      "U-shape",
-      "Circular block",
-      "Rectangular block",
-      "Tube"
-    ],
-    "answer": "Rectangular block"
-  },
-  {
-    "question": "Long-sightedness happens because the eyeball is too:",
-    "options": [
-      "Long",
-      "Heavy",
-      "Short",
-      "Curved"
-    ],
-    "answer": "Short"
-  },
-  {
-    "question": "Gymnosperms are plants that bear:",
-    "options": [
-      "Flowers",
-      "Cones",
-      "Fruits",
-      "Berries"
-    ],
-    "answer": "Cones"
-  },
-  {
-    "question": "When white light passes through a glass prism and splits into seven colours, it is called:",
-    "options": [
-      "Reflection",
-      "Dispersion",
-      "Speed",
-      "Absorption"
-    ],
-    "answer": "Dispersion"
-  },
-  {
-    "question": "In the acronym ROYGBIV, which represents the colours of white light, what does the letter 'V' stand for?",
-    "options": [
-      "Vivid",
-      "Violet",
-      "Vanished",
-      "Vacuum"
-    ],
-    "answer": "Violet"
-  },
-  {
-    "question": "An iron pin or a paper clip acts as a ________________ magnet when near a magnetic field.",
-    "options": [
-      "Permanent",
-      "Temporary",
-      "Bar",
-      "Horseshoe"
-    ],
-    "answer": "Temporary"
-  },
-  {
-    "question": "Which magnet is described as being circular with a hole in the middle?",
-    "options": [
-      "Cylindrical",
-      "Ring",
-      "Horseshoe",
-      "Bar"
-    ],
-    "answer": "Ring"
-  },
-  {
-    "question": "The bouncing off of light when it hits a smooth, shiny surface like a mirror is called:",
-    "options": [
-      "Refraction",
-      "Dispersion",
-      "Diffraction",
-      "Reflection"
-    ],
-    "answer": "Reflection"
-  },
-  {
-    "question": "What happens when two 'like' poles (e.g., North and North) are brought together?",
-    "options": [
-      "They attract",
-      "They stick",
-      "They repel each other",
-      "They melt"
-    ],
-    "answer": "They repel each other"
-  },
-  {
-    "question": "Angiosperms are known as:",
-    "options": [
-      "Cone plants",
-      "Flowerless plants",
-      "Flowering plants",
-      "Seedless plants"
-    ],
-    "answer": "Flowering plants"
-  },
-  {
-    "question": "What happens to light during refraction?",
-    "options": [
-      "It disappears",
-      "It bounces back",
-      "It bends as it passes through different materials",
-      "It turns into heat"
-    ],
-    "answer": "It bends as it passes through different materials"
-  },
-  {
-    "question": "In a scrapyard, magnets are used in ________________ to sort magnetic material.",
-    "options": [
-      "Telephones",
-      "Cranes",
-      "Motors",
-      "Compasses"
-    ],
-    "answer": "Cranes"
-  },
-  {
-    "question": "In a first-class lever, what is placed between the effort and the load?",
-    "options": [
-      "Pivot (Fulcrum)",
-      "Weight",
-      "Handle",
-      "Rod"
-    ],
-    "answer": "Pivot (Fulcrum)"
-  },
-  {
-    "question": "A freely suspended bar magnet always points toward the:",
-    "options": [
-      "East-West",
-      "North-South",
-      "Up-Down",
-      "Left-Right"
-    ],
-    "answer": "North-South"
-  },
-  {
-    "question": "An example of an Angiosperm is:",
-    "options": [
-      "Pine",
-      "Cedar",
-      "Mango",
-      "Redwood"
-    ],
-    "answer": "Mango"
-  },
-  {
-    "question": "Which type of magnets remain magnetized even without an external magnetic field?",
-    "options": [
-      "Temporary",
-      "Electromagnets",
-      "Permanent",
-      "Natural"
-    ],
-    "answer": "Permanent"
-  },
-  {
-    "question": "The term 'Gymnosperm' comes from the Greek word 'Gymno' meaning:",
-    "options": [
-      "Seed",
-      "Naked",
-      "Green",
-      "Covered"
-    ],
-    "answer": "Naked"
-  },
-  {
-    "question": "A cylindrical magnet is shaped like a:",
-    "options": [
-      "Rectangle",
-      "Tube or rod",
-      "Circle",
-      "U-shape"
-    ],
-    "answer": "Tube or rod"
-  },
-  {
-    "question": "What is the middle component in a second-class lever?",
-    "options": [
-      "Effort",
-      "Fulcrum",
-      "Load",
-      "Pivot"
-    ],
-    "answer": "Load"
-  },
-  {
-    "question": "Which part of the eye acts as the 'screen' where light is captured and turned into electrical signals?",
-    "options": [
-      "Iris",
-      "Lens",
-      "Retina",
-      "Cornea"
-    ],
-    "answer": "Retina"
-  },
-  {
-    "question": "Which of these is a characteristic of Gymnosperms?",
-    "options": [
-      "They produce flowers",
-      "They are pollinated by wind",
-      "They produce fruits",
-      "They have protected seeds"
-    ],
-    "answer": "They are pollinated by wind"
-  },
-  {
-    "question": "Magnets are used in which device to convert electrical energy into sound?",
-    "options": [
-      "TV screens",
-      "Refrigerators",
-      "Speakers",
-      "Cranes"
-    ],
-    "answer": "Speakers"
-  },
-  {
-    "question": "A magnet is a substance that can attract which type of materials?",
-    "options": [
-      "Plastic and Wood",
-      "Iron or Steel",
-      "Glass and Rubber",
-      "Paper and Cloth"
-    ],
-    "answer": "Iron or Steel"
-  },
-  {
-    "question": "Night blindness is primarily caused by a deficiency in:",
-    "options": [
-      "Vitamin C",
-      "Vitamin D",
-      "Vitamin A",
-      "Iron"
-    ],
-    "answer": "Vitamin A"
-  },
-  {
-    "question": "In Angiosperms, seeds are protected by:",
-    "options": [
-      "Cones",
-      "Fruits or shells",
-      "Leaves",
-      "Roots"
-    ],
-    "answer": "Fruits or shells"
-  },
-  {
-    "question": "A muscle is a special soft tissue in the body that can contract and ________ to produce movement.",
-    "options": [
-      "break",
-      "relax",
-      "disappear",
-      "dissolve"
-    ],
-    "answer": "relax"
-  },
-  {
-    "question": "The muscular system is an organ system that allows us to move, maintain posture, and helps move ________.",
-    "options": [
-      "blood and food",
-      "air and hair",
-      "bones and skin",
-      "teeth and nails"
-    ],
-    "answer": "blood and food"
-  },
-  {
-    "question": "How many main types of muscles are found in the human body?",
-    "options": [
-      "two",
-      "three",
-      "four",
-      "five"
-    ],
-    "answer": "three"
-  },
-  {
-    "question": "Muscles that are attached to our bones and can be controlled consciously are called ________.",
-    "options": [
-      "Skeletal Muscles",
-      "Smooth Muscles",
-      "Cardiac Muscles",
-      "Involuntary Muscles"
-    ],
-    "answer": "Skeletal Muscles"
-  },
-  {
-    "question": "Which of the following is an example of a skeletal muscle found in your arm?",
-    "options": [
-      "Quadriceps",
-      "Biceps",
-      "Intestines",
-      "Heart"
-    ],
-    "answer": "Biceps"
-  },
-  {
-    "question": "Which skeletal muscle is located in your thigh?",
-    "options": [
-      "Biceps",
-      "Stomach",
-      "Quadriceps",
-      "Lungs"
-    ],
-    "answer": "Quadriceps"
-  },
-  {
-    "question": "Where are smooth muscles found inside the human body?",
-    "options": [
-      "Attached directly to our bones",
-      "Inside internal organs like the stomach",
-      "On the outer layer of the skin",
-      "Inside the skeletal joints"
-    ],
-    "answer": "Inside internal organs like the stomach"
-  },
-  {
-    "question": "Smooth muscles are described as involuntary muscles, which means that they ________.",
-    "options": [
-      "work automatically without us thinking about it",
-      "can only move when we want them to",
-      "are strictly used for running and jumping",
-      "are completely under our conscious control"
-    ],
-    "answer": "work automatically without us thinking about it"
-  },
-  {
-    "question": "Which of the following is an example of an organ system that relies on smooth muscles to push food along?",
-    "options": [
-      "The Nervous System",
-      "The Digestive System",
-      "The Skeletal System",
-      "The Respiratory System"
-    ],
-    "answer": "The Digestive System"
-  },
-  {
-    "question": "The central control center structure found inside a muscle fiber cell is called the ________.",
-    "options": [
-      "Tissue",
-      "Nucleus",
-      "Bicep",
-      "Membrane"
-    ],
-    "answer": "Nucleus"
-  }
+    {
+        "question": "What is erosion?",
+
+        "options": [
+            "The planting of crops",
+            "The wearing away of soil or rock",
+            "The cleaning of water",
+            "The growth of plants"
+        ],
+
+        "answer": "The wearing away of soil or rock"
+    },
+
+    {
+        "question": "Which of these can cause soil erosion?",
+
+        "options": [
+            "Wind",
+            "A book",
+            "A cooking pot",
+            "A chair"
+        ],
+
+        "answer": "Wind"
+    },
+
+    {
+        "question": "How can heavy rain cause erosion?",
+
+        "options": [
+            "It carries soil away",
+            "It turns soil into glass",
+            "It makes soil disappear into the sky",
+            "It changes soil into metal"
+        ],
+
+        "answer": "It carries soil away"
+    },
+
+    {
+        "question": "Which action can help prevent soil erosion?",
+
+        "options": [
+            "Cutting down all the trees",
+            "Planting grass and trees",
+            "Leaving the soil bare",
+            "Digging up plants"
+        ],
+
+        "answer": "Planting grass and trees"
+    },
+
+    {
+        "question": "What is a possible result of soil erosion on farmland?",
+
+        "options": [
+            "The soil may become less fertile",
+            "The soil will become gold",
+            "Crops will grow without water",
+            "The land will become a lake"
+        ],
+
+        "answer": "The soil may become less fertile"
+    },
+
+    {
+        "question": "Which part of a plant helps hold soil in place?",
+
+        "options": [
+            "Flower",
+            "Fruit",
+            "Roots",
+            "Leaves"
+        ],
+
+        "answer": "Roots"
+    },
+
+    {
+        "question": "What is a gully?",
+
+        "options": [
+            "A deep channel cut into the ground by flowing water",
+            "A type of tree",
+            "A pile of clean clothes",
+            "A small garden tool"
+        ],
+
+        "answer": "A deep channel cut into the ground by flowing water"
+    },
+
+    {
+        "question": "Which activity can make erosion worse?",
+
+        "options": [
+            "Planting trees",
+            "Building terraces on slopes",
+            "Removing vegetation from the land",
+            "Growing grass"
+        ],
+
+        "answer": "Removing vegetation from the land"
+    },
+
+    {
+        "question": "Which kind of land is often at greater risk of water erosion?",
+
+        "options": [
+            "A steep, bare slope",
+            "A flat, grassy field",
+            "A forest with many plants",
+            "A garden covered with mulch"
+        ],
+
+        "answer": "A steep, bare slope"
+    },
+
+    {
+        "question": "What can farmers build across a slope to slow down water and reduce erosion?",
+
+        "options": [
+            "Terraces",
+            "Fences made of paper",
+            "Deep holes",
+            "Chimneys"
+        ],
+
+        "answer": "Terraces"
+    },
+
+    {
+        "question": "What is waste?",
+
+        "options": [
+            "Something that is no longer wanted or useful",
+            "A new toy",
+            "A kind of fruit",
+            "A clean river"
+        ],
+
+        "answer": "Something that is no longer wanted or useful"
+    },
+
+    {
+        "question": "Which of these is an example of biodegradable waste?",
+
+        "options": [
+            "Banana peel",
+            "Glass bottle",
+            "Plastic bag",
+            "Metal can"
+        ],
+
+        "answer": "Banana peel"
+    },
+
+    {
+        "question": "Which item can usually be recycled?",
+
+        "options": [
+            "A clean glass bottle",
+            "Leftover soup",
+            "A banana peel",
+            "Garden weeds"
+        ],
+
+        "answer": "A clean glass bottle"
+    },
+
+    {
+        "question": "What does “reuse” mean?",
+
+        "options": [
+            "Use something again",
+            "Throw everything away",
+            "Burn all waste",
+            "Bury rubbish in a river"
+        ],
+
+        "answer": "Use something again"
+    },
+
+    {
+        "question": "Which is the best way to reduce waste?",
+
+        "options": [
+            "Use a reusable water bottle",
+            "Use a new plastic bag every time",
+            "Throw away paper after one use",
+            "Buy more things than you need"
+        ],
+
+        "answer": "Use a reusable water bottle"
+    },
+
+    {
+        "question": "What should you do with rubbish to help keep the environment clean?",
+
+        "options": [
+            "Put it in a proper bin",
+            "Throw it into a stream",
+            "Leave it on the road",
+            "Hide it under a tree"
+        ],
+
+        "answer": "Put it in a proper bin"
+    },
+
+    {
+        "question": "Which kind of waste can be made into compost?",
+
+        "options": [
+            "Fruit and vegetable scraps",
+            "Broken glass",
+            "Plastic toys",
+            "Metal nails"
+        ],
+
+        "answer": "Fruit and vegetable scraps"
+    },
+
+    {
+        "question": "Why should people avoid throwing rubbish into drains?",
+
+        "options": [
+            "It can block the drains and cause flooding",
+            "It makes the drains cleaner",
+            "It helps plants grow",
+            "It turns rubbish into water"
+        ],
+
+        "answer": "It can block the drains and cause flooding"
+    },
+
+    {
+        "question": "Which group shows the three main ways to manage waste using the “3 Rs”?",
+
+        "options": [
+            "Reduce, reuse, recycle",
+            "Read, write, remember",
+            "Run, rest, repeat",
+            "Repair, remove, replace"
+        ],
+
+        "answer": "Reduce, reuse, recycle"
+    },
+
+    {
+        "question": "How can litter on bare land contribute to erosion?",
+
+        "options": [
+            "It can block water from flowing properly and worsen runoff",
+            "It makes the soil grow deeper roots",
+            "It stops all rain from falling",
+            "It turns the soil into rock"
+        ],
+
+        "answer": "It can block water from flowing properly and worsen runoff"
+    },
+
+    {
+        "question": "What does environmental quality describe?",
+
+        "options": [
+            "How clean, safe, and healthy our surroundings are",
+            "How many toys a person owns",
+            "How tall the buildings are",
+            "How much food is in a shop"
+        ],
+
+        "answer": "How clean, safe, and healthy our surroundings are"
+    },
+
+    {
+        "question": "Which action helps keep the air clean?",
+
+        "options": [
+            "Planting trees",
+            "Burning rubbish",
+            "Leaving car engines running unnecessarily",
+            "Burning plastic"
+        ],
+
+        "answer": "Planting trees"
+    },
+
+    {
+        "question": "Which is a source of air pollution?",
+
+        "options": [
+            "Smoke from burning rubbish",
+            "A clean garden",
+            "Fresh rainwater",
+            "A shaded path"
+        ],
+
+        "answer": "Smoke from burning rubbish"
+    },
+
+    {
+        "question": "What is one way to help keep water clean?",
+
+        "options": [
+            "Avoid throwing rubbish into rivers",
+            "Pour oil into drains",
+            "Wash paint into a stream",
+            "Dump waste beside a lake"
+        ],
+
+        "answer": "Avoid throwing rubbish into rivers"
+    },
+
+    {
+        "question": "Which is an example of noise pollution?",
+
+        "options": [
+            "Very loud music near homes",
+            "Birds singing in a tree",
+            "Leaves moving in the wind",
+            "Rain falling gently"
+        ],
+
+        "answer": "Very loud music near homes"
+    },
+
+    {
+        "question": "Why is it important to keep the area around our homes clean?",
+
+        "options": [
+            "It helps reduce germs and pests",
+            "It makes rubbish easier to find",
+            "It attracts more flies",
+            "It blocks walking paths"
+        ],
+
+        "answer": "It helps reduce germs and pests"
+    },
+
+    {
+        "question": "What can happen when rubbish blocks a drain?",
+
+        "options": [
+            "Flooding may occur",
+            "The drain becomes a garden",
+            "The road becomes cleaner",
+            "More clean water is made"
+        ],
+
+        "answer": "Flooding may occur"
+    },
+
+    {
+        "question": "Which action can help protect soil?",
+
+        "options": [
+            "Planting grass and trees",
+            "Pouring harmful chemicals on the ground",
+            "Leaving rubbish everywhere",
+            "Removing all plants"
+        ],
+
+        "answer": "Planting grass and trees"
+    },
+
+    {
+        "question": "What is pollution?",
+
+        "options": [
+            "Harmful substances or activities that make the environment dirty or unsafe",
+            "The growth of a healthy plant",
+            "The cleaning of a classroom",
+            "The planting of a garden"
+        ],
+
+        "answer": "Harmful substances or activities that make the environment dirty or unsafe"
+    },
+
+    {
+        "question": "Which behaviour shows care for the environment?",
+
+        "options": [
+            "Putting rubbish in a proper bin",
+            "Throwing wrappers on the ground",
+            "Pouring dirty water into a stream",
+            "Breaking young trees"
+        ],
+
+        "answer": "Putting rubbish in a proper bin"
+    }
 ]

@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What term describes the approved relationship between a man and a woman as husband and wife?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Dating",
+      "Marriage",
+      "Courtship",
+      "Intermarriage"
     ],
-    "answer": "A"
+    "answer": "Marriage"
   },
   {
-    "question": "Sample Question 2",
+    "question": "From which regions do the external influences on Nigerian family life mainly originate?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Europe, the Middle East, and the USA",
+      "Asia, South America, and Australia",
+      "North Africa and East Africa only",
+      "Antarctica and the Pacific Islands"
     ],
-    "answer": "B"
+    "answer": "Europe, the Middle East, and the USA"
+  },
+  {
+    "question": "What type of marriage is defined as a union between people from different social, racial, ethnic, or religious groups?",
+    "options": [
+      "Intra-ethnic marriage",
+      "Intermarriage",
+      "Monogamous marriage",
+      "Polygamous marriage"
+    ],
+    "answer": "Intermarriage"
+  },
+  {
+    "question": "Which marriage system involves a man marrying only one wife?",
+    "options": [
+      "Polygamy",
+      "Inter-racial marriage",
+      "Monogamy",
+      "Extra-ethnic marriage"
+    ],
+    "answer": "Monogamy"
+  },
+  {
+    "question": "What is a marriage between a man and a woman from the same ethnic group called?",
+    "options": [
+      "Inter-ethnic marriage",
+      "Intra-ethnic marriage",
+      "Inter-racial marriage",
+      "Inter-religious marriage"
+    ],
+    "answer": "Intra-ethnic marriage"
+  },
+  {
+    "question": "How has Western education affected traditional home-based education in Nigeria?",
+    "options": [
+      "Education is completely stopped",
+      "Education shifted to schools under trained teachers",
+      "Parents teach only at night",
+      "Children no longer learn skills"
+    ],
+    "answer": "Education shifted to schools under trained teachers"
+  },
+  {
+    "question": "An Igbo man from Anambra State marrying an Igbo woman from Imo State is an example of what type of marriage?",
+    "options": [
+      "Inter-ethnic marriage",
+      "Inter-religious marriage",
+      "Intra-ethnic marriage",
+      "Inter-racial marriage"
+    ],
+    "answer": "Intra-ethnic marriage"
+  },
+  {
+    "question": "Which religious system in Nigeria preaches and encourages monogamy?",
+    "options": [
+      "African Traditional Religion",
+      "Islam",
+      "Christianity",
+      "Hinduism"
+    ],
+    "answer": "Christianity"
+  },
+  {
+    "question": "What is a marriage between a Yoruba man and a Hausa woman classified as?",
+    "options": [
+      "Intra-ethnic marriage",
+      "Inter-ethnic marriage",
+      "Inter-racial marriage",
+      "Homogeneous marriage"
+    ],
+    "answer": "Inter-ethnic marriage"
+  },
+  {
+    "question": "What major change has occurred in the Nigerian family structure due to foreign influences?",
+    "options": [
+      "Extended families are becoming larger",
+      "Nuclear families are giving way to extended families",
+      "The extended family is giving way to the nuclear family system",
+      "Family structures have been abolished"
+    ],
+    "answer": "The extended family is giving way to the nuclear family system"
+  },
+  {
+    "question": "Which value allows marriage partners to stay together in peace despite differences in culture or religion?",
+    "options": [
+      "Affection",
+      "Tolerance",
+      "Cooperation",
+      "External influence"
+    ],
+    "answer": "Tolerance"
+  },
+  {
+    "question": "What eating habit has largely replaced eating with fingers in many modern Nigerian homes?",
+    "options": [
+      "Eating raw food",
+      "Using cutlery",
+      "Eating only traditional staples",
+      "Eating from a central pot"
+    ],
+    "answer": "Using cutlery"
+  },
+  {
+    "question": "A marriage between a Nigerian citizen and a Ghanaian citizen is an example of what type of marriage?",
+    "options": [
+      "Intra-ethnic marriage",
+      "Inter-racial marriage",
+      "Inter-religious marriage",
+      "Single marriage"
+    ],
+    "answer": "Inter-racial marriage"
+  },
+  {
+    "question": "How many wives is a man permitted to marry under Islamic conditions?",
+    "options": [
+      "Only one",
+      "Up to two",
+      "Up to four",
+      "Unlimited number"
+    ],
+    "answer": "Up to four"
+  },
+  {
+    "question": "What problem may children face when both parents work away from home due to economic necessity?",
+    "options": [
+      "Lack of adequate parental care and affection",
+      "Learning too many indigenous languages",
+      "Over-exposure to traditional meals",
+      "Inability to attend school"
+    ],
+    "answer": "Lack of adequate parental care and affection"
+  },
+  {
+    "question": "What type of marriage involves partners who belong to different religious faiths, such as a Christian and a Muslim?",
+    "options": [
+      "Inter-religious marriage",
+      "Intra-ethnic marriage",
+      "Inter-racial marriage",
+      "Ordinance marriage only"
+    ],
+    "answer": "Inter-religious marriage"
+  },
+  {
+    "question": "Which of the following is an advantage of inter-ethnic marriage?",
+    "options": [
+      "It causes language confusion",
+      "It helps promote national unity",
+      "It makes couples travel long distances",
+      "It restricts relations to one tribe"
+    ],
+    "answer": "It helps promote national unity"
+  },
+  {
+    "question": "What risk do some Nigerian indigenous languages face because parents prefer communicating with children in English?",
+    "options": [
+      "Extinction",
+      "Rapid expansion",
+      "Becoming global languages",
+      "Becoming official court languages"
+    ],
+    "answer": "Extinction"
+  },
+  {
+    "question": "What value represents the ability of marriage partners to understand each other's behaviors very well?",
+    "options": [
+      "Cooperation",
+      "Unity",
+      "Understanding",
+      "Tolerance"
+    ],
+    "answer": "Understanding"
+  },
+  {
+    "question": "Which of these processed foods has replaced traditional staples like yam and plantain in modern Nigerian diets?",
+    "options": [
+      "Cassava flour",
+      "Noodles and cornflakes",
+      "Cocoyam",
+      "Roasted maize"
+    ],
+    "answer": "Noodles and cornflakes"
+  },
+  {
+    "question": "The general term for lifestyles of foreign people that Nigerians imitate and practice is called ________________.",
+    "options": [
+      "Westernization",
+      "External influence",
+      "Globalization",
+      "Migration"
+    ],
+    "answer": "External influence"
+  },
+  {
+    "question": "A marriage between a man and a woman from the same ethnic group is called ________________ marriage.",
+    "options": [
+      "Inter-ethnic",
+      "Intra-ethnic",
+      "Inter-racial",
+      "Inter-religious"
+    ],
+    "answer": "Intra-ethnic"
+  },
+  {
+    "question": "The marriage system that permits a man to marry more than one wife is known as ________________.",
+    "options": [
+      "Monogamy",
+      "Polygamy",
+      "Celibacy",
+      "Endogamy"
+    ],
+    "answer": "Polygamy"
+  },
+  {
+    "question": "The value that enables marriage partners to work together for their common benefit is ________________.",
+    "options": [
+      "Cooperation",
+      "Tolerance",
+      "Affection",
+      "Respect"
+    ],
+    "answer": "Cooperation"
+  },
+  {
+    "question": "The four main ways people marry in Nigeria are traditional, Christian, Muslim, and ________________ marriages.",
+    "options": [
+      "Customary",
+      "Ordinance (Court)",
+      "Secret",
+      "Foreign"
+    ],
+    "answer": "Ordinance (Court)"
+  },
+  {
+    "question": "A healthy boy-girl relationship is defined as a relationship that is free of ________________.",
+    "options": [
+      "Friendship",
+      "Premarital sex",
+      "Mutual study",
+      "Open communication"
+    ],
+    "answer": "Premarital sex"
+  },
+  {
+    "question": "Which of the following is recommended as a practical way to maintain a healthy boy-girl relationship?",
+    "options": [
+      "Going out alone in secret late at night",
+      "Saying 'no' to negative pressure from peers and friends",
+      "Accepting gifts from strangers",
+      "Focusing on having a boyfriend or girlfriend early"
+    ],
+    "answer": "Saying 'no' to negative pressure from peers and friends"
+  },
+  {
+    "question": "Why should girls especially learn to maintain a good dress culture?",
+    "options": [
+      "To follow fashion trends",
+      "To avoid wearing clothes that reveal sensitive parts of their bodies",
+      "To impress strangers",
+      "To stay warm in cold weather"
+    ],
+    "answer": "To avoid wearing clothes that reveal sensitive parts of their bodies"
+  },
+  {
+    "question": "Which of the following is a dangerous consequence of an unhealthy boy-girl relationship?",
+    "options": [
+      "Improved academic performance",
+      "Unwanted pregnancies and STDs like HIV/AIDS",
+      "Strong family support",
+      "Enhanced future career prospects"
+    ],
+    "answer": "Unwanted pregnancies and STDs like HIV/AIDS"
+  },
+  {
+    "question": "Where should pupils ideally read together and hold academic discussions according to relationship guidelines?",
+    "options": [
+      "In a secluded corner",
+      "In a general library and open spaces",
+      "In an empty classroom at midnight",
+      "At a private hotel"
+    ],
+    "answer": "In a general library and open spaces"
   }
 ]

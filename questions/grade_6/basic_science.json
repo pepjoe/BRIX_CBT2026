@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What term describes organisms that have life in them, such as humans, animals, and plants?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Non-living things",
+      "Living things",
+      "Asteroids",
+      "Dwarf planets"
     ],
-    "answer": "A"
+    "answer": "Living things"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What celestial body is at the center of our Solar System, holding other bodies in orbit with its gravity?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "The Moon",
+      "The Earth",
+      "The Sun",
+      "Mars"
     ],
-    "answer": "B"
+    "answer": "The Sun"
+  },
+  {
+    "question": "Which of the following is classified as a non-living thing?",
+    "options": [
+      "Dog",
+      "Stone",
+      "Potted plant",
+      "Bird"
+    ],
+    "answer": "Stone"
+  },
+  {
+    "question": "Which planet is closest to the Sun and is also the smallest planet?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What does the letter 'R' stand for in the acronym MR NIGER D regarding living things?",
+    "options": [
+      "Reproduction and Respiration",
+      "Running",
+      "Reaction",
+      "Resting"
+    ],
+    "answer": "Reproduction and Respiration"
+  },
+  {
+    "question": "Which group of planets consists of Mercury, Venus, Earth, and Mars?",
+    "options": [
+      "Outer planets",
+      "Gas giants",
+      "Inner (terrestrial) planets",
+      "Ice giants"
+    ],
+    "answer": "Inner (terrestrial) planets"
+  },
+  {
+    "question": "Why do astronauts appear to float when they are in an orbiting spacecraft in space?",
+    "options": [
+      "Gravity has completely disappeared in space",
+      "They are continuously falling around the Earth together with the spacecraft",
+      "There is no air at all",
+      "Their suits are filled with helium"
+    ],
+    "answer": "They are continuously falling around the Earth together with the spacecraft"
+  },
+  {
+    "question": "Which planet is famously known as the \"Red Planet\"?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which of the following life processes refers to the removal of waste products from the body?",
+    "options": [
+      "Respiration",
+      "Excretion",
+      "Nutrition",
+      "Irritability"
+    ],
+    "answer": "Excretion"
+  },
+  {
+    "question": "Which planet is the largest planet in our Solar System?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What characteristic distinguishes living things from non-living things regarding food?",
+    "options": [
+      "Living things do not require food",
+      "Non-living things require food and water",
+      "Living things require food and water to grow",
+      "Both require sunlight only"
+    ],
+    "answer": "Living things require food and water to grow"
+  },
+  {
+    "question": "Which planet is known as an ice giant and rotates nearly on its side?",
+    "options": [
+      "Saturn",
+      "Uranus",
+      "Neptune",
+      "Mercury"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "question": "What term describes a living thing's response to changes in its environment, such as heat, cold, or touch?",
+    "options": [
+      "Movement",
+      "Irritability (Sensitivity)",
+      "Respiration",
+      "Growth"
+    ],
+    "answer": "Irritability (Sensitivity)"
+  },
+  {
+    "question": "Which of the following objects are classified as outer planets (gas/ice giants)?",
+    "options": [
+      "Mercury, Venus, Earth, Mars",
+      "Jupiter, Saturn, Uranus, Neptune",
+      "Earth, Jupiter, Saturn, Mars",
+      "Venus, Earth, Neptune, Pluto"
+    ],
+    "answer": "Jupiter, Saturn, Uranus, Neptune"
+  },
+  {
+    "question": "What condition occurs when a person or object in space appears to have little or no weight?",
+    "options": [
+      "Gravity loss",
+      "Weightlessness",
+      "Vacuum state",
+      "Free float"
+    ],
+    "answer": "Weightlessness"
+  },
+  {
+    "question": "Which of the following is a non-living object found around a classroom?",
+    "options": [
+      "Teacher",
+      "Potted plant",
+      "Plastic bottle",
+      "Classroom pet"
+    ],
+    "answer": "Plastic bottle"
+  },
+  {
+    "question": "What do inner planets generally have that outer planets lack?",
+    "options": [
+      "Solid rocky surfaces",
+      "Prominent ring systems",
+      "Many moons",
+      "Gaseous compositions"
+    ],
+    "answer": "Solid rocky surfaces"
+  },
+  {
+    "question": "Which life characteristic involves producing young ones of their own kind?",
+    "options": [
+      "Nutrition",
+      "Reproduction",
+      "Excretion",
+      "Respiration"
+    ],
+    "answer": "Reproduction"
+  },
+  {
+    "question": "Which planet is the second planet from the Sun and the hottest planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "What objects besides planets move around the Sun in the Solar System?",
+    "options": [
+      "Only stars",
+      "Moons, dwarf planets, asteroids, comets, and meteors",
+      "Only artificial satellites",
+      "Clouds and dust"
+    ],
+    "answer": "Moons, dwarf planets, asteroids, comets, and meteors"
+  },
+  {
+    "question": "The upper layer of the earth in which plants grow and animals live is called ________________.",
+    "options": [
+      "Rock",
+      "Soil",
+      "Humus",
+      "Sand"
+    ],
+    "answer": "Soil"
+  },
+  {
+    "question": "Which type of soil is rich in nutrients and is the best for farming and gardening?",
+    "options": [
+      "Sandy Soil",
+      "Clay Soil",
+      "Loamy Soil",
+      "Rocky Soil"
+    ],
+    "answer": "Loamy Soil"
+  },
+  {
+    "question": "The decayed remains of plants and animals that make soil fertile is known as ________________.",
+    "options": [
+      "Rock particles",
+      "Humus",
+      "Leaching",
+      "Bedrock"
+    ],
+    "answer": "Humus"
+  },
+  {
+    "question": "The process of breaking down rocks into smaller particles by physical, chemical, and biological means is called ________________.",
+    "options": [
+      "Humification",
+      "Leaching",
+      "Weathering",
+      "Soil mixing"
+    ],
+    "answer": "Weathering"
+  },
+  {
+    "question": "The removal of soluble substances from the soil by water movement is called ________________.",
+    "options": [
+      "Weathering",
+      "Leaching",
+      "Humification",
+      "Mixing"
+    ],
+    "answer": "Leaching"
+  },
+  {
+    "question": "Which soil horizon represents the topmost layer composed of organic matter like decomposed leaves?",
+    "options": [
+      "A Horizon",
+      "B Horizon",
+      "O Horizon",
+      "R Horizon"
+    ],
+    "answer": "O Horizon"
+  },
+  {
+    "question": "The unweathered rock layer beneath the soil profile is the ________________ Horizon.",
+    "options": [
+      "R",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "R"
+  },
+  {
+    "question": "Soil that feels smooth and sticky when wet and holds water for a long time is ________________ Soil.",
+    "options": [
+      "Sandy",
+      "Clay",
+      "Loamy",
+      "Silt"
+    ],
+    "answer": "Clay"
+  },
+  {
+    "question": "The process of forming humus to improve soil fertility is called ________________.",
+    "options": [
+      "Weathering",
+      "Humification",
+      "Leaching",
+      "Erosion"
+    ],
+    "answer": "Humification"
+  },
+  {
+    "question": "A vertical section of the soil that shows its layers or horizons is called a soil ________________.",
+    "options": [
+      "Texture",
+      "Profile",
+      "Structure",
+      "Constituent"
+    ],
+    "answer": "Profile"
   }
 ]

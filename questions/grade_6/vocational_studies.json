@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What primary activities define agriculture?",
+    "options": [
+      "Tilling the land, planting crops, and keeping animals",
+      "Trading manufactured goods",
+      "Deep sea fishing only",
+      "Building houses with timber"
+    ],
+    "answer": "Tilling the land, planting crops, and keeping animals"
+  },
+  {
+    "question": "How is cleaning defined in sanitation practices?",
+    "options": [
+      "The process of painting walls",
+      "The act of removing dirt, dust, stains, germs, and waste",
+      "The accumulation of litter",
+      "The storage of food items"
+    ],
+    "answer": "The act of removing dirt, dust, stains, germs, and waste"
+  },
+  {
+    "question": "Which of the following is classified as a food crop?",
+    "options": [
+      "Rubber",
+      "Cotton",
+      "Yam",
+      "Raffia palm"
+    ],
+    "answer": "Yam"
+  },
+  {
+    "question": "Why is it important to clean the home regularly?",
+    "options": [
+      "To attract pests",
+      "To prevent diseases and infections",
+      "To create bad smells",
+      "To increase dust"
+    ],
+    "answer": "To prevent diseases and infections"
+  },
+  {
+    "question": "What percentage of the Nigerian population is engaged in agriculture?",
+    "options": [
+      "About 50%",
+      "About 70%",
+      "About 30%",
+      "About 90%"
+    ],
+    "answer": "About 70%"
+  },
+  {
+    "question": "Which tool is used alongside a bucket for washing floors?",
+    "options": [
+      "Broom",
+      "Mop",
+      "Dustpan",
+      "Cutlass"
+    ],
+    "answer": "Mop"
+  },
+  {
+    "question": "Which plant is processed to make cigarettes?",
+    "options": [
+      "Cotton",
+      "Tobacco",
+      "Cocoa",
+      "Groundnut"
+    ],
+    "answer": "Tobacco"
+  },
+  {
+    "question": "What do blocked drains and stagnant water breed in the environment?",
+    "options": [
+      "Disease-carrying insects",
+      "Useful farm crops",
+      "Ornamental plants",
+      "Domestic pets"
+    ],
+    "answer": "Disease-carrying insects"
+  },
+  {
+    "question": "What are agriculturists that study soil and help improve its fertility called?",
+    "options": [
+      "Crop farmers",
+      "Soil scientists",
+      "Veterinarians",
+      "Gardeners"
+    ],
+    "answer": "Soil scientists"
+  },
+  {
+    "question": "Which of the following is an example of a cleaning activity?",
+    "options": [
+      "Emptying waste bins",
+      "Scattering litter",
+      "Breaking furniture",
+      "Blocking drains"
+    ],
+    "answer": "Emptying waste bins"
+  },
+  {
+    "question": "Vegetable oil is processed and manufactured into which product?",
+    "options": [
+      "Margarine",
+      "Leather shoes",
+      "Timber furniture",
+      "Tobacco cigars"
+    ],
+    "answer": "Margarine"
+  },
+  {
+    "question": "What hazard can wet classroom floors or scattered objects cause?",
+    "options": [
+      "Accidents",
+      "Better learning",
+      "Good health",
+      "Fresh air"
+    ],
+    "answer": "Accidents"
+  },
+  {
+    "question": "Traditional pastoralists who rear animals are usually referred to as:",
+    "options": [
+      "Soil scientists",
+      "Horticulturalists",
+      "Fulani nomads",
+      "Agricultural superintendents"
+    ],
+    "answer": "Fulani nomads"
+  },
+  {
+    "question": "What term describes the state of keeping things clean and free from germs to protect health?",
+    "options": [
+      "Hygiene",
+      "Pollution",
+      "Untidiness",
+      "Stagnation"
+    ],
+    "answer": "Hygiene"
+  },
+  {
+    "question": "What do gardeners primarily grow and take care of?",
+    "options": [
+      "Food crops like yam",
+      "Ornamental crops",
+      "Industrial timber",
+      "Fish ponds"
+    ],
+    "answer": "Ornamental crops"
+  },
+  {
+    "question": "What outdoor nuisance should be cleared around the compound during environmental sanitation?",
+    "options": [
+      "Weeds",
+      "Flowers",
+      "Clean soil",
+      "Fresh air"
+    ],
+    "answer": "Weeds"
+  },
+  {
+    "question": "Which crop is mentioned as a major export commodity to earn foreign exchange for Nigeria?",
+    "options": [
+      "Tomato",
+      "Cocoa",
+      "Orange",
+      "Onion"
+    ],
+    "answer": "Cocoa"
+  },
+  {
+    "question": "What does environmental cleaning prevent the surroundings from becoming?",
+    "options": [
+      "Unattractive",
+      "Safe",
+      "Pleasant",
+      "Healthy"
+    ],
+    "answer": "Unattractive"
+  },
+  {
+    "question": "What do animal doctors who look after the health of farm animals also go by?",
+    "options": [
+      "Veterinary doctors",
+      "Soil scientists",
+      "Crop scientists",
+      "Horticulturalists"
+    ],
+    "answer": "Veterinary doctors"
+  },
+  {
+    "question": "Which material is traditionally used for roofing village huts?",
+    "options": [
+      "Palm fronds",
+      "Rubber",
+      "Cotton",
+      "Cocoa"
+    ],
+    "answer": "Palm fronds"
+  },
+  {
+    "question": "The practice of growing crops and keeping animals for our use is called ________________.",
+    "options": [
+      "Industry",
+      "Commerce",
+      "Agriculture",
+      "Sanitation"
+    ],
+    "answer": "Agriculture"
+  },
+  {
+    "question": "Animal doctors who take care of sick farm animals are known as ________________.",
+    "options": [
+      "Veterinarians",
+      "Horticulturists",
+      "Agronomists",
+      "Botanists"
+    ],
+    "answer": "Veterinarians"
+  },
+  {
+    "question": "A spreadable cooking fat made from vegetable oil is ________________.",
+    "options": [
+      "Margarine",
+      "Cheese",
+      "Lard",
+      "Yogurt"
+    ],
+    "answer": "Margarine"
+  },
+  {
+    "question": "The fluffy material harvested from plants to weave clothes is ________________.",
+    "options": [
+      "Silk",
+      "Cotton",
+      "Wool",
+      "Nylon"
+    ],
+    "answer": "Cotton"
+  },
+  {
+    "question": "Trees cut down from forests and processed into wood for furniture are called ________________.",
+    "options": [
+      "Pulp",
+      "Timber",
+      "Rubber",
+      "Resin"
+    ],
+    "answer": "Timber"
+  },
+  {
+    "question": "Crops like oil palm, rubber, cotton, and cocoa that are grown primarily to be sold for money are called ________________ crops.",
+    "options": [
+      "Food",
+      "Cash/Industrial",
+      "Ornamental",
+      "Medicinal"
+    ],
+    "answer": "Cash/Industrial"
+  },
+  {
+    "question": "Which group of agricultural professionals specializes in growing vegetable crops, flowers, and managing landscaping?",
+    "options": [
+      "Fishermen",
+      "Horticulturists",
+      "Soil Scientists",
+      "Veterinarians"
+    ],
+    "answer": "Horticulturists"
+  },
+  {
+    "question": "Agriculture earns income for the government to build schools and roads when exported commodities bring in ________________.",
+    "options": [
+      "Foreign exchange",
+      "Local taxes",
+      "Equipment",
+      "Subsidies"
+    ],
+    "answer": "Foreign exchange"
+  },
+  {
+    "question": "Hides and skins obtained from farm animals are processed into ________________ materials.",
+    "options": [
+      "Paper",
+      "Leather",
+      "Textile",
+      "Plastic"
+    ],
+    "answer": "Leather"
+  },
+  {
+    "question": "Fisheries scientists who are professionally trained rear fish in big fish ponds using modern ________________.",
+    "options": [
+      "Traditional traps",
+      "Techniques",
+      "Canoes",
+      "Nets"
+    ],
+    "answer": "Techniques"
+  }
+]

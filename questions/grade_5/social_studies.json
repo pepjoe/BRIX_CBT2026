@@ -1,362 +1,391 @@
 [
-  {
-    "question": "The massive outcrop of granite rocks found in Abeokuta, Ogun State is:",
-    "options": [
-      "Zuma Rock",
-      "Olumo Rock",
-      "Agbele Rock"
-    ],
-    "answer": "Olumo Rock"
-  },
-  {
-    "question": "A deliberate act that puts a child under the age of 18 at physical, emotional, or social risk is called:",
-    "options": [
-      "Discipline",
-      "Child abuse",
-      "Education"
-    ],
-    "answer": "Child abuse"
-  },
-  {
-    "question": "Nigeria’s main export to the rest of the world is:",
-    "options": [
-      "Cocoa",
-      "Crude oil",
-      "Leather goods"
-    ],
-    "answer": "Crude oil"
-  },
-  {
-    "question": "The Atlantic Ocean is the ________ largest ocean in the world.",
-    "options": [
-      "First",
-      "Second",
-      "Third"
-    ],
-    "answer": "Second"
-  },
-  {
-    "question": "What occurs when a person’s skills are not fully utilized or they work in a job that pays very little?",
-    "options": [
-      "Full employment",
-      "Under-employment",
-      "Wealth"
-    ],
-    "answer": "Under-employment"
-  },
-  {
-    "question": "The ______ is the head of the home.",
-    "options": [
-      "Child",
-      "Husband",
-      "Servant"
-    ],
-    "answer": "Husband"
-  },
-  {
-    "question": "Common examples of child labour include begging on the streets and:",
-    "options": [
-      "Doing homework",
-      "Playing football",
-      "Street hawking"
-    ],
-    "answer": "Street hawking"
-  },
-  {
-    "question": "A primary cause of group conflict is the lack of free and:",
-    "options": [
-      "Secret elections",
-      "Fair elections",
-      "Expensive elections"
-    ],
-    "answer": "Fair elections"
-  },
-  {
-    "question": "One way to live together peacefully is:",
-    "options": [
-      "Disregard for authority",
-      "Respect for individual differences",
-      "Ignoring diverse ideas"
-    ],
-    "answer": "Respect for individual differences"
-  },
-  {
-    "question": "Which of these is a major effect of child marriage on a young girl?",
-    "options": [
-      "Early graduation",
-      "High infant mortality",
-      "Better career"
-    ],
-    "answer": "High infant mortality"
-  },
-  {
-    "question": "A state whereby an adult has no job and receives no income is defined as:",
-    "options": [
-      "Employment",
-      "Unemployment",
-      "Retirement"
-    ],
-    "answer": "Unemployment"
-  },
-  {
-    "question": "One solution to gender discrimination is to ensure ________ opportunities for both men and women.",
-    "options": [
-      "Limited",
-      "Equal",
-      "Different"
-    ],
-    "answer": "Equal"
-  },
-  {
-    "question": "Which form of child abuse involves forcing children to fight in wars?",
-    "options": [
-      "Child marriage",
-      "Child labour",
-      "Child soldiers"
-    ],
-    "answer": "Child soldiers"
-  },
-  {
-    "question": "Goods and services that a country sells to other nations are called:",
-    "options": [
-      "Imports",
-      "Exports",
-      "Gifts"
-    ],
-    "answer": "Exports"
-  },
-  {
-    "question": "The water in the ocean tastes:",
-    "options": [
-      "Sweet",
-      "Sour",
-      "Salty"
-    ],
-    "answer": "Salty"
-  },
-  {
-    "question": "Conflict is natural because individuals have different views, opinions, and:",
-    "options": [
-      "Interests",
-      "Names",
-      "Heights"
-    ],
-    "answer": "Interests"
-  },
-  {
-    "question": "When farmers in Southern Nigeria sell yams to people in Northern Nigeria, they are practicing:",
-    "options": [
-      "International trade",
-      "Local trade",
-      "Exporting"
-    ],
-    "answer": "Local trade"
-  },
-  {
-    "question": "Banks and institutions can help reduce unemployment by providing ________________ to citizens.",
-    "options": [
-      "Free food",
-      "Loans to start businesses",
-      "Loud music"
-    ],
-    "answer": "Loans to start businesses"
-  },
-  {
-    "question": "The exchange of goods and services between people or countries is known as:",
-    "options": [
-      "Farming",
-      "Trade",
-      "Banking"
-    ],
-    "answer": "Trade"
-  },
-  {
-    "question": "What is the name given to trade that occurs between different countries?",
-    "options": [
-      "Local trade",
-      "International trade",
-      "Neighborhood trade"
-    ],
-    "answer": "International trade"
-  },
-  {
-    "question": "To prevent child abuse, governments must pass laws that make:",
-    "options": [
-      "Schooling illegal",
-      "Child labour and child marriage illegal",
-      "Playing illegal"
-    ],
-    "answer": "Child labour and child marriage illegal"
-  },
-  {
-    "question": "Historical monuments, zoos, and art galleries are examples of ________ attractions.",
-    "options": [
-      "Natural",
-      "Ancient",
-      "Man-made"
-    ],
-    "answer": "Man-made"
-  },
-  {
-    "question": "How many oceans are there in the world?",
-    "options": [
-      "Three",
-      "Five",
-      "Seven"
-    ],
-    "answer": "Five"
-  },
-  {
-    "question": "The central cause of the formal marriage of any person under the age of 18 is often:",
-    "options": [
-      "Wealth",
-      "Poverty and cultural beliefs",
-      "Good health"
-    ],
-    "answer": "Poverty and cultural beliefs"
-  },
-  {
-    "question": "Which of these is a common cause of unemployment?",
-    "options": [
-      "Small population",
-      "High skill levels",
-      "Economic recession and instability"
-    ],
-    "answer": "Economic recession and instability"
-  },
-  {
-    "question": "A long-term effect of joblessness is a loss of:",
-    "options": [
-      "Weight",
-      "Self-esteem",
-      "Friends"
-    ],
-    "answer": "Self-esteem"
-  },
-  {
-    "question": "One solution to unemployment is for the government to provide affordable training in:",
-    "options": [
-      "Video games",
-      "Computer literacy",
-      "Sleeping"
-    ],
-    "answer": "Computer literacy"
-  },
-  {
-    "question": "Goods bought by a country from other nations, such as electronics and refined petrol, are:",
-    "options": [
-      "Exports",
-      "Imports",
-      "Local products"
-    ],
-    "answer": "Imports"
-  },
-  {
-    "question": "Promoting and buying 'Made in Nigeria' goods helps to:",
-    "options": [
-      "Weaken the economy",
-      "Strengthen the economy",
-      "Increase imports"
-    ],
-    "answer": "Strengthen the economy"
-  },
-  {
-    "question": "The warm and cold springs that meet in a beautiful landscape are found at:",
-    "options": [
-      "Olumo Rock",
-      "Ikogosi",
-      "Yankari"
-    ],
-    "answer": "Ikogosi"
-  },
-  {
-    "question": "Illegal substances that can change our mood and make us act strangely are called ________.",
-    "options": [
-      "Prescription Medicines",
-      "Illicit Drugs",
-      "Herbal Teas"
-    ],
-    "answer": "Illicit Drugs"
-  },
-  {
-    "question": "Which of the following is an example of an illicit drug?",
-    "options": [
-      "Cocaine and marijuana",
-      "Paracetamol and vitamins",
-      "Water and juice"
-    ],
-    "answer": "Cocaine and marijuana"
-  },
-  {
-    "question": "The overuse of or unhealthy dependence on additive drugs is defined as ________.",
-    "options": [
-      "Drug Abuse",
-      "Drug Education",
-      "Drug Safety"
-    ],
-    "answer": "Drug Abuse"
-  },
-  {
-    "question": "When people are addicted to drugs, they often do desperate things to get them, such as ________.",
-    "options": [
-      "studying harder",
-      "stealing from family and friends",
-      "sleeping early"
-    ],
-    "answer": "stealing from family and friends"
-  },
-  {
-    "question": "A sudden, unusual change in ________ and behaviour is a clear sign of drug addiction.",
-    "options": [
-      "height",
-      "mood",
-      "clothing size"
-    ],
-    "answer": "mood"
-  },
-  {
-    "question": "A noticeable decline or drop in ________ is a school-related sign of drug addiction.",
-    "options": [
-      "school work and academic performance",
-      "physical height",
-      "artistic skills"
-    ],
-    "answer": "school work and academic performance"
-  },
-  {
-    "question": "An addicted individual might frequently borrow money or resort to stealing in order to ________.",
-    "options": [
-      "buy food",
-      "buy drugs",
-      "pay school fees"
-    ],
-    "answer": "buy drugs"
-  },
-  {
-    "question": "Drug addiction can cause a person to neglect their personal appearance and ________.",
-    "options": [
-      "hygiene",
-      "intelligence",
-      "vocabulary"
-    ],
-    "answer": "hygiene"
-  },
-  {
-    "question": "What should children all over the world always say to drugs?",
-    "options": [
-      "SAY YES",
-      "SAY NO",
-      "SAY MAYBE"
-    ],
-    "answer": "SAY NO"
-  },
-  {
-    "question": "By leading the way to a drug-free Nigeria, a child sets a good example to all ________.",
-    "options": [
-      "children",
-      "animals",
-      "teachers"
-    ],
-    "answer": "children"
-  }
+    {
+        "question": "The environment of a living thing is best described as",
+
+        "options": [
+            "only the animals found in a place",
+            "everything that surrounds and affects the living thing",
+            "only the roads and buildings we construct",
+            "only the weather conditions of a place"
+        ],
+
+        "answer": "everything that surrounds and affects the living thing"
+    },
+
+    {
+        "question": "The three main parts of our environment are",
+
+        "options": [
+            "land, water and air",
+            "plants, animals and man",
+            "natural, man-made (built) and social environment",
+            "school, home and market"
+        ],
+
+        "answer": "natural, man-made (built) and social environment"
+    },
+
+    {
+        "question": "Which of these is a natural part of the environment?",
+
+        "options": [
+            "A river",
+            "A tarred road",
+            "A flyover bridge",
+            "A shopping mall"
+        ],
+
+        "answer": "A river"
+    },
+
+    {
+        "question": "Which of these belongs to the man-made (built) environment?",
+
+        "options": [
+            "The ocean",
+            "The hill",
+            "The school building",
+            "The rainbow"
+        ],
+
+        "answer": "The school building"
+    },
+
+    {
+        "question": "Charles learns his language, customs, manners and religion from his family and community. This part of the environment is the",
+
+        "options": [
+            "biological environment",
+            "social environment",
+            "physical environment",
+            "atmosphere"
+        ],
+
+        "answer": "social environment"
+    },
+
+    {
+        "question": "A factory pouring waste oil into a stream is an example of",
+
+        "options": [
+            "conservation of resources",
+            "man's positive impact on nature",
+            "man's negative impact on the environment",
+            "proper waste management"
+        ],
+
+        "answer": "man's negative impact on the environment"
+    },
+
+    {
+        "question": "Substances that make the air, water or land dirty and unsafe are called",
+
+        "options": [
+            "nutrients",
+            "pollutants",
+            "resources",
+            "organisms"
+        ],
+
+        "answer": "pollutants"
+    },
+
+    {
+        "question": "Which of these is a major cause of air pollution in cities?",
+
+        "options": [
+            "Planting of trees",
+            "Smoke from vehicles and factories",
+            "Sweeping of compounds",
+            "Use of covered bins"
+        ],
+
+        "answer": "Smoke from vehicles and factories"
+    },
+
+    {
+        "question": "Emptying sewage and detergents into a stream will mainly cause",
+
+        "options": [
+            "noise pollution",
+            "soil erosion",
+            "water pollution",
+            "flood in the dry season"
+        ],
+
+        "answer": "water pollution"
+    },
+
+    {
+        "question": "A loud generator and heavy machines operating close to a school create",
+
+        "options": [
+            "air pollution",
+            "water pollution",
+            "noise pollution",
+            "land pollution"
+        ],
+
+        "answer": "noise pollution"
+    },
+
+    {
+        "question": "The best way to dispose of household waste is to",
+
+        "options": [
+            "pour it into a gutter",
+            "put it in covered bins for regular collection",
+            "burn it in the open near houses",
+            "dump it in a nearby stream"
+        ],
+
+        "answer": "put it in covered bins for regular collection"
+    },
+
+    {
+        "question": "Continuous cutting down of trees without planting new ones is known as",
+
+        "options": [
+            "afforestation",
+            "deforestation",
+            "irrigation",
+            "reclamation"
+        ],
+
+        "answer": "deforestation"
+    },
+
+    {
+        "question": "Which practice helps to prevent soil erosion on bare land?",
+
+        "options": [
+            "Bush burning",
+            "Over-grazing by cattle",
+            "Planting grass and trees to cover the soil",
+            "Cutting down ground cover"
+        ],
+
+        "answer": "Planting grass and trees to cover the soil"
+    },
+
+    {
+        "question": "Early or child marriage means",
+
+        "options": [
+            "a marriage held early in the morning",
+            "a marriage in which one of the partners, usually a girl below 18, is still a child",
+            "a marriage of two mature adults",
+            "a marriage done in a foreign country"
+        ],
+
+        "answer": "a marriage in which one of the partners, usually a girl below 18, is still a child"
+    },
+
+    {
+        "question": "The most common effect of early marriage on a girl is that she",
+
+        "options": [
+            "completes her education with distinction.",
+            "leaves school and loses her chance of a career",
+            "becomes a class monitor",
+            "travels the world with her husband"
+        ],
+
+        "answer": "leaves school and loses her chance of a career"
+    },
+
+    {
+        "question": "Early marriage is dangerous to a girl's health because",
+
+        "options": [
+            "the wedding cake is too sweet",
+            "her body is not yet fully developed for pregnancy and childbirth, so mother and child are both at risk",
+            "she will eat too much wedding food",
+            "she will sleep too long"
+        ],
+
+        "answer": "her body is not yet fully developed for pregnancy and childbirth, so mother and child are both at risk"
+    },
+
+    {
+        "question": "A marriage in which a girl is forced to marry a man she does not know and does not agree to is a",
+
+        "options": [
+            "courtship",
+            "forced marriage",
+            "betrothal by consent",
+            "naming ceremony"
+        ],
+
+        "answer": "forced marriage"
+    },
+
+    {
+        "question": "The custom by which a widow is \"collected\" as a wife by a brother or relative of her late husband is known as",
+
+        "options": [
+            "wife inheritance",
+            "bride price",
+            "introduction",
+            "honeymoon"
+        ],
+
+        "answer": "wife inheritance"
+    },
+
+    {
+        "question": "Forcing a widow to sleep on bare ground for months, shaving her head, making her drink water used to wash the corpse and robbing her children of their father's property are",
+
+        "options": [
+            "loving consolations for the bereaved",
+            "degrading widowhood rites that must be abandoned",
+            "commands of God in the Scriptures",
+            "required by the school"
+        ],
+
+        "answer": "degrading widowhood rites that must be abandoned"
+    },
+
+    {
+        "question": "The family that includes grandparents, uncles, aunties and cousins together with the father, mother and children is the",
+
+        "options": [
+            "nuclear family",
+            "extended family",
+            "single-parent family",
+            "foster family"
+        ],
+
+        "answer": "extended family"
+    },
+
+    {
+        "question": "The brother of your father or mother is your",
+
+        "options": [
+            "cousin",
+            "nephew",
+            "uncle",
+            "in-law"
+        ],
+
+        "answer": "uncle"
+    },
+
+    {
+        "question": "The children of your uncle and aunt are your",
+
+        "options": [
+            "cousins",
+            "brothers",
+            "nephews",
+            "grandparents"
+        ],
+
+        "answer": "cousins"
+    },
+
+    {
+        "question": "A woman who marries your uncle is your",
+
+        "options": [
+            "cousin",
+            "aunt by marriage",
+            "sister",
+            "grandchild"
+        ],
+
+        "answer": "aunt by marriage"
+    },
+
+    {
+        "question": "The child of your brother or sister is your",
+
+        "options": [
+            "niece or nephew",
+            "cousin",
+            "uncle",
+            "grandparent"
+        ],
+
+        "answer": "niece or nephew"
+    },
+
+    {
+        "question": "A wife's parents become ________ to her husband and his family.",
+
+        "options": [
+            "stepchildren",
+            "in-laws",
+            "cousins",
+            "guardians"
+        ],
+
+        "answer": "in-laws"
+    },
+
+    {
+        "question": "When both parents die and a child is cared for by a relative or a responsible adult appointed to look after him, that person is called a",
+
+        "options": [
+            "classmate",
+            "neighbour",
+            "guardian",
+            "stranger"
+        ],
+
+        "answer": "guardian"
+    },
+
+    {
+        "question": "Which of these people is found in an extended family but not in a nuclear family?",
+
+        "options": [
+            "Mother",
+            "Father",
+            "Grandmother",
+            "Brother"
+        ],
+
+        "answer": "Grandmother"
+    },
+
+    {
+        "question": "A family in which the father, mother and children live together with the grandparents and uncles under one roof is described as a",
+
+        "options": [
+            "compound (joint) family",
+            "childless family",
+            "family of strangers",
+            "class of pupils."
+        ],
+
+        "answer": "compound (joint) family"
+    },
+
+    {
+        "question": "Cultural diversity means",
+
+        "options": [
+            "that everybody in a country thinks the same way",
+            "the existence of many different cultures, languages and ways of life among a people",
+            "that all customs have disappeared",
+            "the worship of one god only"
+        ],
+
+        "answer": "the existence of many different cultures, languages and ways of life among a people"
+    },
+
+    {
+        "question": "\"Unity in diversity\" teaches that",
+
+        "options": [
+            "all people must belong to one ethnic group",
+            "people may remain different and still live together as one nation",
+            "the majority tribe should rule the others.",
+            "small cultures must be destroyed."
+        ],
+
+        "answer": "people may remain different and still live together as one nation"
+    }
 ]
