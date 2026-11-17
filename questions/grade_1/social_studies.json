@@ -1,92 +1,92 @@
 [
   {
-    "question": "Things that have life in them are called ________.",
+    "question": "Social Studies is the study of people and their ______.",
     "options": [
-      "Non-living things",
-      "Living things",
-      "Objects"
+      "Environment",
+      "Shoes",
+      "Toys"
     ],
-    "answer": "Living things"
+    "answer": "Environment"
   },
   {
-    "question": "Which part of the human body supports the head and helps us move it?",
+    "question": "Why do we study Social Studies?",
     "options": [
-      "Neck",
-      "Feet",
-      "Hands"
+      "To learn how to fight",
+      "To learn how to live together peacefully",
+      "To learn how to sleep"
     ],
-    "answer": "Neck"
+    "answer": "To learn how to live together peacefully"
   },
   {
-    "question": "All of the following are contained in the head EXCEPT ________.",
+    "question": "A family is a group of people who are ______ to one another.",
     "options": [
-      "Brain",
-      "Eyes",
-      "Legs"
+      "Related",
+      "Strangers",
+      "Enemies"
     ],
-    "answer": "Legs"
+    "answer": "Related"
   },
   {
-    "question": "How many sense organs do human beings have?",
+    "question": "Which of these is a member of the family?",
     "options": [
-      "Three",
+      "Table",
+      "Mother",
+      "Chair"
+    ],
+    "answer": "Mother"
+  },
+  {
+    "question": "Who provides food and shelter for the family?",
+    "options": [
+      "Parents",
+      "Friends",
+      "Neighbours"
+    ],
+    "answer": "Parents"
+  },
+  {
+    "question": "One of the duties of children in the family is to ______.",
+    "options": [
+      "Disobey their parents",
+      "Fight their siblings",
+      "Obey their parents"
+    ],
+    "answer": "Obey their parents"
+  },
+  {
+    "question": "How many major types of family do we have?",
+    "options": [
+      "Two",
       "Five",
-      "Ten"
+      "Seven"
     ],
-    "answer": "Five"
+    "answer": "Two"
   },
   {
-    "question": "The parts of the human body that help us know and understand our surroundings are called ________.",
+    "question": "The two major types of family are ______.",
     "options": [
-      "Sense organs",
-      "Non-living things",
-      "Legs and feet"
+      "Big and small family",
+      "Nuclear and extended family",
+      "Rich and poor family"
     ],
-    "answer": "Sense organs"
+    "answer": "Nuclear and extended family"
   },
   {
-    "question": "Which sense organ do we use to taste food?",
+    "question": "A nuclear family is made up of ______.",
     "options": [
-      "Nose",
-      "Tongue",
-      "Skin"
+      "Father, mother and children",
+      "Father, mother, uncle and aunt",
+      "Grandparents, cousins and neighbours"
     ],
-    "answer": "Tongue"
+    "answer": "Father, mother and children"
   },
   {
-    "question": "We use our ________ to feel hot, cold, hard, and soft objects.",
+    "question": "An extended family is made up of ______.",
     "options": [
-      "Skin",
-      "Ears",
-      "Eyes"
+      "Father and mother only",
+      "Father, mother and children only",
+      "Parents, children, grandparents, uncles, aunts and cousins"
     ],
-    "answer": "Skin"
-  },
-  {
-    "question": "Which of these is an example of something we sense with our nose?",
-    "options": [
-      "Music",
-      "Colours",
-      "Perfume"
-    ],
-    "answer": "Perfume"
-  },
-  {
-    "question": "Sweet, sour, salty, and bitter tastes are sensed by the ________.",
-    "options": [
-      "Tongue",
-      "Eyes",
-      "Ears"
-    ],
-    "answer": "Tongue"
-  },
-  {
-    "question": "How can we take care of our ears?",
-    "options": [
-      "By putting sharp objects into them",
-      "By avoiding putting objects into the ears",
-      "By never cleaning them"
-    ],
-    "answer": "By avoiding putting objects into the ears"
+    "answer": "Parents, children, grandparents, uncles, aunts and cousins"
   }
 ]
