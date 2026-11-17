@@ -1,362 +1,152 @@
 [
   {
-    "question": "Before the missionaries came, Nigerians worshipped through ______ religions.",
-    "options": [
-      "Foreign", 
-      "Traditional", 
-      "Secret"
-    ],
-    "answer": "Traditional"
+    "question": "In the beginning God created the heaven and the ______. (Genesis 1:1)",
+    "options": ["sea", "earth", "garden", "sun"],
+    "answer": "earth"
   },
   {
-    "question": "Paul commanded that anyone who does not work should not ______.",
-    "options": [
-      "Sleep", 
-      "Speak", 
-      "Eat"
-    ],
-    "answer": "Eat"
+    "question": "Before God said \"Let there be light,\" the earth was without form, void, and ______ was upon the face of the deep. (Genesis 1:2)",
+    "options": ["water", "fire", "darkness", "man"],
+    "answer": "darkness"
   },
   {
-    "question": "Who is the head of the church?",
-    "options": [
-      "The King", 
-      "Jesus Christ", 
-      "The Governor"
-    ],
-    "answer": "Jesus Christ"
+    "question": "How did God create all things?",
+    "options": ["By speaking", "By using tools", "By sleeping on them", "With the help of angels"],
+    "answer": "By speaking"
   },
   {
-    "question": "The CMS group helped people by building ______ and hospitals.",
-    "options": [
-      "Schools", 
-      "Factories", 
-      "Airports"
-    ],
-    "answer": "Schools"
+    "question": "Which of these did God create on the fourth day? (Genesis 1:14–19)",
+    "options": ["The dry land", "The lights in the firmament of heaven", "The great whales", "The beast of the earth"],
+    "answer": "The lights in the firmament of heaven"
   },
   {
-    "question": "Samuel Ajayi Crowther translated the Bible into which language?",
-    "options": [
-      "English", 
-      "Yoruba", 
-      "French"
-    ],
-    "answer": "Yoruba"
+    "question": "Match the day: light, dry land, sea creatures, man.",
+    "options": ["One, three, five, six", "One, two, four, seven", "Three, five, one, six", "Two, three, five, six"],
+    "answer": "One, three, five, six"
   },
   {
-    "question": "According to your notes, the ______ is the head of the home.",
-    "options": [
-      "Child", 
-      "Husband", 
-      "Servant"
-    ],
-    "answer": "Husband"
+    "question": "God said, \"Let us make man in our ______, after our likeness.\" (Genesis 1:26)",
+    "options": ["garden", "image", "heaven", "strength"],
+    "answer": "image"
   },
   {
-    "question": "Without goals, it is easy to become ___________ or lose motivation.",
-    "options": [
-      "Over-excited", 
-      "Distracted", 
-      "Wealthy"
-    ],
-    "answer": "Distracted"
+    "question": "To whom was man given dominion over the fish, the fowl and every creeping thing? (Genesis 1:28)",
+    "options": ["The angels", "The beasts", "Man", "Adam's sons only"],
+    "answer": "Man"
   },
   {
-    "question": "Which Bible passage can be cited regarding the importance of goal setting and planning?",
-    "options": [
-      "Luke 14:27-28", 
-      "John 3:16", 
-      "Genesis 1:1"
-    ],
-    "answer": "Luke 14:27-28"
+    "question": "Which two commands did God give man in Genesis 1:28?",
+    "options": ["Rest and wait", "Be fruitful, multiply, replenish the earth, and subdue it", "Pray and fast", "Leave the garden and build a city"],
+    "answer": "Be fruitful, multiply, replenish the earth, and subdue it"
   },
   {
-    "question": "The missionary group that helps the hungry and poor is the ________.",
-    "options": [
-      "Salvation Army", 
-      "Roman Catholic", 
-      "SIM"
-    ],
-    "answer": "Salvation Army"
+    "question": "What did the Lord God form man's body from? (Genesis 2:7)",
+    "options": ["The dust of the ground", "The river clay", "The stone of the field", "The wood of the garden"],
+    "answer": "The dust of the ground"
   },
   {
-    "question": "The CMS Grammar School was the first of its kind in ______.",
-    "options": [
-      "Kano", 
-      "Lagos", 
-      "Calabar"
-    ],
-    "answer": "Lagos"
+    "question": "After forming the body, what did the Lord God do? (Genesis 2:7)",
+    "options": ["He wrote the law on his heart", "He breathed the breath of life into his nostrils", "He gave him a garden to keep", "He set him over the angels"],
+    "answer": "He breathed the breath of life into his nostrils"
   },
   {
-    "question": "Which of these is a \"manual\" career?",
-    "options": [
-      "Carpentry", 
-      "Banking", 
-      "Law"
-    ],
-    "answer": "Carpentry"
+    "question": "\"And man became a ______ soul.\" (Genesis 2:7)",
+    "options": ["sleeping", "speaking", "living", "new"],
+    "answer": "living"
   },
   {
-    "question": "Missionaries taught that the killing of ______ was wrong.",
-    "options": [
-      "Animals", 
-      "Twins", 
-      "Insects"
-    ],
-    "answer": "Twins"
+    "question": "Because God put His breath in us, we have a ______ that can know God. (1 Corinthians 2:11)",
+    "options": ["bone", "shadow", "spirit", "voice"],
+    "answer": "spirit"
   },
   {
-    "question": "A career is an occupation one does for a ______ time.",
-    "options": [
-      "Short", 
-      "Long", 
-      "One-day"
-    ],
-    "answer": "Long"
+    "question": "\"But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.\" (Job 32:8) Which word fits what this verse is about?",
+    "options": ["strength", "understanding", "long life", "riches"],
+    "answer": "understanding"
   },
   {
-    "question": "Goal setting helps an individual to be ___________ in their actions.",
-    "options": [
-      "Purposeful", 
-      "Careless", 
-      "Random"
-    ],
-    "answer": "Purposeful"
+    "question": "Which one shows that God gave man intelligence to work with?",
+    "options": ["Man can run faster than a leopard", "Man can count, read, plan, build and invent", "Man never grows old", "Man can see in the dark"],
+    "answer": "Man can count, read, plan, build and invent"
   },
   {
-    "question": "A goal is different from a wish because it is backed by a deadline and a ______.",
-    "options": [
-      "Dream", 
-      "Plan of action", 
-      "Wishlist"
-    ],
-    "answer": "Plan of action"
+    "question": "God put man in the garden of Eden to do what? (Genesis 2:15)",
+    "options": ["sleep and rest", "watch the gate", "dress it and keep it", "hide from the animals"],
+    "answer": "dress it and keep it"
   },
   {
-    "question": "Relationships in the church should be based on ______.",
-    "options": [
-      "Fighting", 
-      "Love and Unity", 
-      "Money"
-    ],
-    "answer": "Love and Unity"
+    "question": "Adam used his God-given mind to do one special thing with the animals. What was it? (Genesis 2:19–20)",
+    "options": ["tame them", "feed them all", "give them names", "teach them to work"],
+    "answer": "give them names"
   },
   {
-    "question": "The Presbyterian missionaries focused their work in ______.",
-    "options": [
-      "Ibadan", 
-      "Calabar", 
-      "Sokoto"
-    ],
-    "answer": "Calabar"
+    "question": "God made a helpmeet for Adam from his ______. (Genesis 2:21–22)",
+    "options": ["rib", "hand", "finger", "hair"],
+    "answer": "rib"
   },
   {
-    "question": "The Baptist Mission began their main work in which town?",
-    "options": [
-      "Ogbomoso", 
-      "Uyo", 
-      "Onitsha"
-    ],
-    "answer": "Ogbomoso"
+    "question": "The fruit that was forbidden was from the tree of ______. (Genesis 2:16–17)",
+    "options": ["life only", "the knowledge of good and evil", "the garden gate", "the east of Eden"],
+    "answer": "the knowledge of good and evil"
   },
   {
-    "question": "What did missionaries give to sick people to make them well?",
-    "options": [
-      "Stones", 
-      "Modern Medicine", 
-      "Sand"
-    ],
-    "answer": "Modern Medicine"
+    "question": "On the seventh day God rested from all His work. What does this teach us?",
+    "options": ["God became very tired", "God stopped, because the work was fully finished", "God began a new creation on the eighth day", "God left the earth"],
+    "answer": "God stopped, because the work was fully finished"
   },
   {
-    "question": "A \"Major\" decision would include:",
-    "options": [
-      "What clothes to wear", 
-      "Which career to pursue", 
-      "Which book to read"
-    ],
-    "answer": "Which career to pursue"
+    "question": "Genesis 5:3 says Adam \"begat a son in his own likeness, after his image.\" What does this show?",
+    "options": ["Only Adam had God's image", "The image of God passes from parent to child, so every human life is sacred", "The animals also had God's image", "The image was lost for ever"],
+    "answer": "The image of God passes from parent to child, so every human life is sacred"
   },
   {
-    "question": "In the family, children should ______ their parents.",
-    "options": [
-      "Disobey", 
-      "Obey", 
-      "Fear"
-    ],
-    "answer": "Obey"
+    "question": "According to Genesis 1:26, God made man in His own...",
+    "options": ["Garden", "Image", "Garden of grass", "Heaven"],
+    "answer": "Image"
   },
   {
-    "question": "The SIM group took the gospel to the ______ parts of Nigeria.",
-    "options": [
-      "Southern", 
-      "Northern", 
-      "Eastern"
-    ],
-    "answer": "Northern"
+    "question": "God put man into the garden of Eden to do what, according to Genesis 2:15?",
+    "options": ["Build a city", "Dress it and keep it", "Count the animals", "Sleep and rest only"],
+    "answer": "Dress it and keep it"
   },
   {
-    "question": "Decision-making is the process of ______ and selecting a path.",
-    "options": [
-      "Ignoring options", 
-      "Thinking and discussing", 
-      "Guessing randomly"
-    ],
-    "answer": "Thinking and discussing"
+    "question": "God gave man dominion over the fish, birds and animals so that man would...",
+    "options": ["Waste them", "Care for and use them wisely", "Be afraid of them", "Leave them untouched"],
+    "answer": "Care for and use them wisely"
   },
   {
-    "question": "Who assists the Priest in leading the church?",
-    "options": [
-      "Soldiers", 
-      "Elders and Deacons", 
-      "Market women"
-    ],
-    "answer": "Elders and Deacons"
+    "question": "\"The heaven, even the heavens, are the Lord's; but the earth hath he given to...\"",
+    "options": ["The angels", "The children of men", "The stars", "The beasts only"],
+    "answer": "The children of men"
   },
   {
-    "question": "Missionaries taught freed slaves how to ______.",
-    "options": [
-      "Fight", 
-      "Work and farm", 
-      "Steal"
-    ],
-    "answer": "Work and farm"
+    "question": "Isaiah 45:18 says God formed the earth to be...",
+    "options": ["Burned", "Inhabited", "Left empty", "Covered with water only"],
+    "answer": "Inhabited"
   },
   {
-    "question": "Working with the brain is referred to as ___________ work.",
-    "options": [
-      "Manual", 
-      "Mental", 
-      "Physical"
-    ],
-    "answer": "Mental"
+    "question": "Which of these shows that God's creation is for man's interest?",
+    "options": ["God made the sun, moon and rain for man's benefit", "God made the earth for angels alone", "God made animals so man would fear them", "God made the sea so man could not use it"],
+    "answer": "God made the sun, moon and rain for man's benefit"
   },
   {
-    "question": "Paul wrote his letter regarding hard work to the _______________.",
-    "options": [
-      "Ephesians", 
-      "Thessalonians", 
-      "Romans"
-    ],
-    "answer": "Thessalonians"
+    "question": "How old was Abraham when Isaac was born?",
+    "options": ["Forty years old", "Sixty years old", "A hundred years old", "Ninety-nine years old"],
+    "answer": "A hundred years old"
   },
   {
-    "question": "Following God's rules helps a family to have ______.",
-    "options": [
-      "Peace", 
-      "Trouble", 
-      "Noise"
-    ],
-    "answer": "Peace"
+    "question": "What did Sarah say when Isaac was born?",
+    "options": ["God hath made me to laugh", "God hath taken my joy away", "God hath given me a servant", "God hath forgotten my sorrow"],
+    "answer": "God hath made me to laugh"
   },
   {
-    "question": "Which of the following is a \"Minor\" decision?",
-    "options": [
-      "Choosing a career", 
-      "Deciding who to marry", 
-      "Choosing what to eat for lunch"
-    ],
-    "answer": "Choosing what to eat for lunch"
+    "question": "On Mount Moriah, what did God provide instead of Isaac?",
+    "options": ["A dove", "A lamb without horns", "A ram caught in a thicket by his horns", "A basket of bread"],
+    "answer": "A ram caught in a thicket by his horns"
   },
   {
-    "question": "Goal setting gives ___________ and direction to one’s life.",
-    "options": [
-      "Confusion", 
-      "Meaning", 
-      "Stress"
-    ],
-    "answer": "Meaning"
-  },
-  {
-    "question": "Mary Slessor is famously remembered for stopping the killing of twins in ______.",
-    "options": [
-      "Calabar", 
-      "Lagos", 
-      "Abeokuta"
-    ],
-    "answer": "Calabar"
-  },
-  {
-    "question": "Honest labor and hard work bring ________ to an individual.",
-    "options": [
-      "Shame", 
-      "Honor", 
-      "Laziness"
-    ],
-    "answer": "Honor"
-  },
-  {
-    "question": "Christian virtues that promote peaceful coexistence include humility, patience, and ______.",
-    "options": [
-      "Arrogance", 
-      "Forgiveness", 
-      "Jealousy"
-    ],
-    "answer": "Forgiveness"
-  },
-  {
-    "question": "The primary holy book used by Christians for guidance is the ______.",
-    "options": [
-      "Hymn book", 
-      "Bible", 
-      "Textbook"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Which of these is a modern communication tool used to spread the gospel today?",
-    "options": [
-      "Town crier", 
-      "Letters on papyrus", 
-      "The Internet"
-    ],
-    "answer": "The Internet"
-  },
-  {
-    "question": "An individual who works independently and manages their own business is said to be ______.",
-    "options": [
-      "Unemployed", 
-      "Self-employed", 
-      "An apprentice"
-    ],
-    "answer": "Self-employed"
-  },
-  {
-    "question": "In the early church, believers shared their possessions out of ______.",
-    "options": [
-      "Selfishness", 
-      "Generosity", 
-      "Fear"
-    ],
-    "answer": "Generosity"
-  },
-  {
-    "question": "Short-term goals are objectives we plan to achieve within a ______ period.",
-    "options": [
-      "Brief", 
-      "Lifelong", 
-      "Ten-year"
-    ],
-    "answer": "Brief"
-  },
-  {
-    "question": "The letters written by Paul to the early churches to encourage them are called ______.",
-    "options": [
-      "Gospels", 
-      "Epistles", 
-      "Stories"
-    ],
-    "answer": "Epistles"
-  },
-  {
-    "question": "When family members cooperate and work together, it leads to ______.",
-    "options": [
-      "Progress", 
-      "Conflict", 
-      "Poverty"
-    ],
-    "answer": "Progress"
+    "question": "What name did Abraham give to that place?",
+    "options": ["Jehovah-Nissi", "Jehovah-jireh", "Jehovah-Rapha", "Jehovah-Shalom"],
+    "answer": "Jehovah-jireh"
   }
 ]

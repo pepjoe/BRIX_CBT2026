@@ -1,787 +1,557 @@
 [
-    {
-        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
-        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
-        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\nWhy is her window wide, mother,\nThe curtain flapping free,\nAnd only a circle on the dusty shelf\nWhere her money-box used to be?\nWhy do you turn your head, mother,\nAnd why do the tear-drops fall?\nAnd why do you crumple that note on the fire\nAnd say it is nothing at all?\nI woke to voices late last night,\nI heard an engine roar,\nWhy do you tell me the things I heard\nWere a dream and nothing more?\nI heard somebody cry, mother,\nIn anger or in pain,\nBut now I ask you why, mother,\nYou say it was a gust of rain.\n \nWhy do you wander about as though\nYou don’t know what to do?\nWhat has happened to Lulu, mother?\nWhat has happened to Lu?",
-        "question": "What has Lulu left behind?",
-        "options": [
-            "an old rag-doll",
-            "a sheet",
-            "a pair of red shoe",
-            "a toy"
-        ],
-        "answer": "an old rag-doll"
-    },
-    {
-        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
-        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
-        "passage":"In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\nWhy is her window wide, mother,\nThe curtain flapping free,\nAnd only a circle on the dusty shelf\nWhere her money-box used to be?\nWhy do you turn your head, mother,\nAnd why do the tear-drops fall?\nAnd why do you crumple that note on the fire\nAnd say it is nothing at all?\nI woke to voices late last night,\nI heard an engine roar,\nWhy do you tell me the things I heard\nWere a dream and nothing more?\nI heard somebody cry, mother,\nIn anger or in pain,\nBut now I ask you why, mother,\nYou say it was a gust of rain.\n \nWhy do you wander about as though\nYou don’t know what to do?\nWhat has happened to Lulu, mother?\nWhat has happened to Lu?",
-        "question": "How do you think Lulu got out of the house?",
-        "options": [
-            "through the door",
-            "through the stairs",
-            "through the window",
-            "by using an elevator"
-        ],
-        "answer": "through the window"
-    },
-    {
-        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
-        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
-        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\nWhy is her window wide, mother,\nThe curtain flapping free,\nAnd only a circle on the dusty shelf\nWhere her money-box used to be?\nWhy do you turn your head, mother,\nAnd why do the tear-drops fall?\nAnd why do you crumple that note on the fire\nAnd say it is nothing at all?\nI woke to voices late last night,\nI heard an engine roar,\nWhy do you tell me the things I heard\nWere a dream and nothing more?\nI heard somebody cry, mother,\nIn anger or in pain,\nBut now I ask you why, mother,\nYou say it was a gust of rain.\n \nWhy do you wander about as though\nYou don’t know what to do?\nWhat has happened to Lulu, mother?\nWhat has happened to Lu?",
-        "question": "What did Lulu take with her?",
-        "options": [
-            "her doll",
-            "her clothes",
-            "her toys",
-            "her money box"
-        ],
-        "answer": "her money box"
-    },
-    {
-        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
-        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
-        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\nWhy is her window wide, mother,\nThe curtain flapping free,\nAnd only a circle on the dusty shelf\nWhere her money-box used to be?\nWhy do you turn your head, mother,\nAnd why do the tear-drops fall?\nAnd why do you crumple that note on the fire\nAnd say it is nothing at all?\nI woke to voices late last night,\nI heard an engine roar,\nWhy do you tell me the things I heard\nWere a dream and nothing more?\nI heard somebody cry, mother,\nIn anger or in pain,\nBut now I ask you why, mother,\nYou say it was a gust of rain.\n \nWhy do you wander about as though\nYou don’t know what to do?\nWhat has happened to Lulu, mother?\nWhat has happened to Lu?",
-        "question": "How can you tell Lulu’s mother is sad that Lulu has gone?",
-        "options": [
-            "Lulu's mother was crying",
-            "Lulu's mother rejoiced that Lulu left",
-            "Lulu's mother was miserable",
-            "Lulu's mother was singing a lullaby"
-        ],
-        "answer": "Lulu's mother was crying"
-    },
-    {
-        "instruction": "SECTION A: COMPREHENSION \nRead the given passages and answer the questions given.",
-        "passageTitle": "PASSAGE 1: What has happened to Lulu?",
-        "passage": "In this poem a child has woken up to find another member of the family has gone away in the night.\n \nWhat has happened to Lulu, mother?\nWhat has happened to Lu?\nThere’s nothing in her bed but an old rag-doll\nAnd by its side a shoe.\nWhy is her window wide, mother,\nThe curtain flapping free,\nAnd only a circle on the dusty shelf\nWhere her money-box used to be?\nWhy do you turn your head, mother,\nAnd why do the tear-drops fall?\nAnd why do you crumple that note on the fire\nAnd say it is nothing at all?\nI woke to voices late last night,\nI heard an engine roar,\nWhy do you tell me the things I heard\nWere a dream and nothing more?\nI heard somebody cry, mother,\nIn anger or in pain,\nBut now I ask you why, mother,\nYou say it was a gust of rain.\n \nWhy do you wander about as though\nYou don’t know what to do?\nWhat has happened to Lulu, mother?\nWhat has happened to Lu?",
-        "question": "List two sounds the child heard in the night.",
-        "options": [
-            "The child heard the sounds of car engine and cry",
-            "Dog's bark and the mother's cry",
-            "Sound of the car engine and the dog's bark",
-            "Dog's bark and the owl's hooting"
-        ],
-        "answer": "The child heard the sounds of car engine and cry"
-    },
-    {
-        "instruction": "Read Passage II and answer the question.",
-        "passageTitle": "PASSAGE II: Snow in the Suburbs",
-        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
-        "question": "What nearly brings disaster to the sparrow?",
-        "options": [
-            "The wide-eyed cat",
-            "A mass of snow",
-            "A volley from a gun",
-            "None of these"
-        ],
-        "answer": "A mass of snow"
-    },
-    {
-        "instruction": "Read Passage II and answer the question.",
-        "passageTitle": "PASSAGE II: Snow in the Suburbs",
-        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
-        "question": "What do we know about the cat?",
-        "options": [
-            "It is homeless",
-            "It hunts for sparrows",
-            "It is black and thin",
-            "None of these"
-        ],
-        "answer": "It is black and thin"
-    },
-    {
-        "instruction": "Read Passage II and answer the question.",
-        "passageTitle": "PASSAGE II: Snow in the Suburbs",
-        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
-        "question": "Which word is closest in meaning to silent?",
-        "options": [
-            "mute",
-            "descend",
-            "snow-lump",
-            "twig"
-        ],
-        "answer": "mute"
-    },
-    {
-        "instruction": "Read Passage II and answer the question.",
-        "passageTitle": "PASSAGE II: Snow in the Suburbs",
-        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
-        "question": "Which word is closest in meaning to wandering?",
-        "options": [
-            "overturn",
-            "pavement",
-            "meandering",
-            "branch"
-        ],
-        "answer": "meandering"
-    },
-    {
-        "instruction": "Read Passage II and answer the question.",
-        "passageTitle": "PASSAGE II: Snow in the Suburbs",
-        "passage": "Every branch big with it,\nBent every twig with it;\nEvery fork like a white web-foot;\nEvery street and pavement mute.\nSome flakes have lost their way, and grope\nback upward, when\nMeeting those meandering down they turn and\ndescend again.\nThe palings are glued together like a wall,\nAnd there is no waft of wind with the fleecy fall.\n\nA sparrow enters the tree,\nWhereon immediately\nA snow-lump thrice his own slight size\nDescends on him and showers his head and eyes,\nAnd overturns him,\nAnd near inurns him,\nAnd lights on a nether twig, when its brush\nStarts off a volley of other lodging lumps with a rush.\n\nThe steps are a blanched slope,\nUp which, with feeble hope,\nA black cat comes, wide-eyed and thin;\nAnd we take him in.",
-        "question": "How would you best describe the snowfall?",
-        "options": [
-            "light snow/strong wind",
-            "heavy snow/light wind",
-            "heavy snow/no wind",
-            "light snow/no wind"
-        ],
-        "answer": "heavy snow/no wind"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "A reduction in the functionality of an organ caused by disease, injury or lack of use.",
-        "options": [
-            "unctuous", 
-            "mercenary", 
-            "atrophy", 
-            "excoriate"
-        ],
-        "answer": "atrophy"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "Harsh and rough-sounding.",
-        "options": [
-            "raucous", 
-            "unctuous", 
-            "atrophy", 
-            "ingenious"
-        ],
-        "answer": "raucous"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "A brief battle between small groups usually part of a longer or larger battle or war.",
-        "options": [
-            "skittish", 
-            "subterfuge", 
-            "skirmish", 
-            "dribber"
-        ],
-        "answer": "skirmish"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "A trick, deception, or dishonest strategy used to hide the truth, escape a rule or achieve a hidden goal.",
-        "options": [
-            "subterfuge", 
-            "skittish", 
-            "skirmish", 
-            "dribber"
-        ],
-        "answer": "subterfuge"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "Quick to change one's opinion or allegiance, insincere, not loyal or reliable.",
-        "options": [
-            "guile", 
-            "jitter", 
-            "fickle", 
-            "frolic"
-        ],
-        "answer": "fickle"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "Having or showing keen discernment, sound judgement and farsightedness; mentally shrewd.",
-        "options": [
-            "pusillanimous", 
-            "truculent", 
-            "astute", 
-            "sagacious"
-        ],
-        "answer": "sagacious"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "A small, exclusive group of individuals, usually according to lifestyle or social status; a cabal.",
-        "options": [
-            "feral", 
-            "ribald", 
-            "clique", 
-            "cliché"
-        ],
-        "answer": "clique"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "Coarsely, vulgarly, or lewdly amusing.",
-        "options": [
-            "prodigious", 
-            "ribald", 
-            "truculent", 
-            "astute"
-        ],
-        "answer": "ribald"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "Innate, inherent, inseparable from the thing itself.",
-        "options": [
-            "intrinsic", 
-            "extrinsic", 
-            "prodigious", 
-            "pusillanimous"
-        ],
-        "answer": "intrinsic"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correct option from A–D that matches the meaning provided.",
-        "question": "Extraordinary, amazing, wonderful, marvelous, extremely talented.",
-        "options": [
-            "prodigious", 
-            "unctuous", 
-            "feral", 
-            "ribald"
-        ],
-        "answer": "prodigious"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "PUSILLANIMOUS",
-        "options": [
-            "built-in", 
-            "gutless", 
-            "accidental", 
-            "clever"
-        ],
-        "answer": "gutless"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "RIBALD",
-        "options": [
-            "cheeky", 
-            "inherent", 
-            "undomesticated", 
-            "fatal"
-        ],
-        "answer": "cheeky"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "FERAL",
-        "options": [
-            "intense", 
-            "bold", 
-            "untamed", 
-            "sly"
-        ],
-        "answer": "untamed"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "ASTUTE",
-        "options": [
-            "adroit", 
-            "prose", 
-            "timid", 
-            "cabal"
-        ],
-        "answer": "adroit"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "TRUCULENT",
-        "options": [
-            "sagacious", 
-            "brood", 
-            "frolic", 
-            "uncompromising"
-        ],
-        "answer": "uncompromising"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "INTRINSIC",
-        "options": [
-            "elemental", 
-            "portentous", 
-            "ferocious", 
-            "careless"
-        ],
-        "answer": "elemental"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "JITTER",
-        "options": [
-            "dishonesty", 
-            "ooze", 
-            "quiver", 
-            "shyness"
-        ],
-        "answer": "quiver"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "DRIBBLE",
-        "options": [
-            "openness", 
-            "drizzle", 
-            "unsteady", 
-            "cunny"
-        ],
-        "answer": "drizzle"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "SKITTISH",
-        "options": [
-            "edgy", 
-            "combat", 
-            "sobbing", 
-            "sobber"
-        ],
-        "answer": "edgy"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the synonym of the capitalized word.",
-        "question": "ACQUAINTANCE",
-        "options": [
-            "boring", 
-            "stupid", 
-            "dexterous", 
-            "co-worker"
-        ],
-        "answer": "co-worker"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "JAMBOREE",
-        "options": [
-            "timid", 
-            "foe", 
-            "misery", 
-            "inept"
-        ],
-        "answer": "timid"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "ATROPHY",
-        "options": [
-            "usefulness", 
-            "compliment", 
-            "undervalue", 
-            "development"
-        ],
-        "answer": "development"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "CYNIC",
-        "options": [
-            "optimist", 
-            "pessimist", 
-            "doubter", 
-            "no nonsens"
-        ],
-        "answer": "optimist"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "RAUCOUS",
-        "options": [
-            "wingding", 
-            "closure", 
-            "mild", 
-            "antagonist"
-        ],
-        "answer": "mild"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "PLODDED",
-        "options": ["ensemble", "elated", "fearful", "tiptoe"],
-        "answer": "tiptoe"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "PRESUMPTUOUS",
-        "options": [
-            "push", 
-            "steadiness", 
-            "modest", 
-            "incidental"
-        ],
-        "answer": "modest"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "PROSAIC",
-        "options": [
-            "candidate", 
-            "lewd", 
-            "deadly", 
-            "unusual"
-        ],
-        "answer": "unusual"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "FROLIC",
-        "options": [
-            "brood", 
-            "artless", 
-            "cascade", 
-            "agreement"
-        ],
-        "answer": "brood"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "AUDACIOUS",
-        "options": [
-            "reckless", 
-            "careful", 
-            "pushy", 
-            "drizzle"
-        ],
-        "answer": "careful"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nAll the words are opposites of the word written in bold except.",
-        "question": "SUBTERFUGE",
-        "options": [
-            "sincerity", 
-            "stratagem", 
-            "stability", 
-            "volatile"
-        ],
-        "answer": "sincerity"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correctly spelt word from A–D.",
-        "question": "Select the correctly spelt word.",
-        "options": [
-            "documentary", 
-            "documentery", 
-            "docuumentry", 
-            "docuumentry"
-        ],
-        "answer": "documentary"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correctly spelt word from A–D.",
-        "question": "Select the correctly spelt word.",
-        "options": [
-            "hyperactive", 
-            "hyparative", 
-            "hyperactive", 
-            "hyperactive"
-        ],
-        "answer": "hyperactive"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correctly spelt word from A–D.",
-        "question": "Select the correctly spelt word.",
-        "options": [
-            "hyacinth", 
-            "hyacinth", 
-            "hyacinth", 
-            "hiacint"
-        ],
-        "answer": "hyacinth"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correctly spelt word from A–D.",
-        "question": "Select the correctly spelt word.",
-        "options": [
-            "Continous", 
-            "continuous", 
-            "Continos", 
-            "continuous"
-        ],
-        "answer": "continuous"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nChoose the correctly spelt word from A–D.",
-        "question": "Select the correctly spelt word.",
-        "options": [
-            "perennial", 
-            "perenal", 
-            "perennial", 
-            "perenia"
-        ],
-        "answer": "perennial"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nSelect the word that is closest in meaning to the capitalized word.",
-        "question": "OPULENT",
-        "options": [
-            "busy", 
-            "showy", 
-            "abundant", 
-            "enchanted"
-        ],
-        "answer": "showy"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nSelect the word that is closest in meaning to the capitalized word.",
-        "question": "ETIQUETTE",
-        "options": [
-            "manners", 
-            "dress code", 
-            "wedding", 
-            "aristocracy"
-        ],
-        "answer": "manners"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nSelect the word that is closest in meaning to the capitalized word.",
-        "question": "AVARICE",
-        "options": [
-            "gluttony", 
-            "starvation", 
-            "greed", 
-            "wealth"
-        ],
-        "answer": "greed"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nSelect the word that is closest in meaning to the capitalized word.",
-        "question": "PEER",
-        "options": [
-            "equal", 
-            "juror", 
-            "neighbour", 
-            "judge"
-        ],
-        "answer": "equal"
-    },
-    {
-        "instruction": "SECTION B: VOCABULARY\nSelect the word that is closest in meaning to the capitalized word.",
-        "question": "MUTE",
-        "options": [
-            "meandering", 
-            "homeless", 
-            "showy", 
-            "dumb"
-        ],
-        "answer": "dumb"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nChoose from alternatives A–D the word that completes the pair.",
-        "question": "A weapon that fires bullets; to rob or plunder.",
-        "options": [
-            "riddle", 
-            "ruffle", 
-            "rattle", 
-            "rifle"
-        ],
-        "answer": "rifle"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nChoose from alternatives A–D the word that completes the pair.",
-        "question": "To catch someone or something; a horse-drawn vehicle.",
-        "options": [
-            "trace", 
-            "trail", 
-            "trap", 
-            "train"
-        ],
-        "answer": "trap"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nChoose from alternatives A–D the word that completes the pair.",
-        "question": "A small pond; to share something.",
-        "options": [
-            "pool", 
-            "pull", 
-            "pair", 
-            "puddle"
-        ],
-        "answer": "pool"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nChoose from alternatives A–D the word that completes the pair.",
-        "question": "A harbour; the left-hand side at sea.",
-        "options": [
-            "anchor", 
-            "angle", 
-            "deck", 
-            "port"
-        ],
-        "answer": "port"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nChoose from alternatives A–D the word that completes the pair.",
-        "question": "Part of a book; an attendant at a wedding.",
-        "options": [
-            "page", 
-            "groom", 
-            "cover", 
-            "flip"
-        ],
-        "answer": "page"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nStudy the word patterns carefully and complete the last word.",
-        "question": "hid, him; road, roam; read ____",
-        "options": [
-            "did", 
-            "hind", 
-            "realm", 
-            "ream"
-        ],
-        "answer": "ream"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nStudy the word patterns carefully and complete the last word.",
-        "question": "brim, bream; rich, reach; grit ____",
-        "options": [
-            "great", 
-            "greet", 
-            "brind", 
-            "broad"
-        ],
-        "answer": "great"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nStudy the word patterns carefully and complete the last word.",
-        "question": "sad, sank; slid, slink; bud ____",
-        "options": [
-            "sunk", 
-            "bunk", 
-            "bind", 
-            "bank"
-        ],
-        "answer": "bunk"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nStudy the word patterns carefully and complete the last word.",
-        "question": "pour, pier; loud, lied; should ____",
-        "options": [
-            "shield", 
-            "should", 
-            "pin", 
-            "laid"
-        ],
-        "answer": "shield"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nStudy the word patterns carefully and complete the last word.",
-        "question": "road, red; boat, bet; moan ____",
-        "options": [
-            "mend", 
-            "mean", 
-            "men", 
-            "bend"
-        ],
-        "answer": "men"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nFind the four-letter word hidden at the end of one word and the beginning of the next word.",
-        "question": "Everyone at Abuja was worried.",
-        "options": [
-            "jaws", 
-            "neat", 
-            "table", 
-            "sower"
-        ],
-        "answer": "neat"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nFind the four-letter word hidden at the end of one word and the beginning of the next word.",
-        "question": "I've also noticed that he has moved.",
-        "options": [
-            "veal", 
-            "neal", 
-            "hase", 
-            "cede"
-        ],
-        "answer": "veal"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nFind the four-letter word hidden at the end of one word and the beginning of the next word.",
-        "question": "The man drank his drink and moments later, he left.",
-        "options": [
-            "kine", 
-            "dome", 
-            "slat", 
-            "heal"
-        ],
-        "answer": "slat"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nFind the four-letter word hidden at the end of one word and the beginning of the next word.",
-        "question": "They were surprised that he arrived punctually.",
-        "options": [
-            "deal", 
-            "ware", 
-            "send", 
-            "hear"
-        ],
-        "answer": "hear"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nFind the four-letter word hidden at the end of one word and the beginning of the next word.",
-        "question": "I took my TV to the engineer to adjust the volume.",
-        "options": [
-            "toad", 
-            "come", 
-            "take", 
-            "then"
-        ],
-        "answer": "toad"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nPick the word that can be formed from the rearrangement of all or some of the letters of the word in capitals.",
-        "question": "PREGNANCY",
-        "options": [
-            "Regency", 
-            "Generate", 
-            "Crazy", 
-            "Year"
-        ],
-        "answer": "Year"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nPick the word that can be formed from the rearrangement of all or some of the letters of the word in capitals.",
-        "question": "VULTURE",
-        "options": [
-            "Lure", 
-            "Tone", 
-            "Volume", 
-            "Vault"
-        ],
-        "answer": "Lure"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nPick the word that can be formed from the rearrangement of all or some of the letters of the word in capitals.",
-        "question": "APARTMENT",
-        "options": [
-            "Paternity", 
-            "Pantry", 
-            "Pattern", 
-            "Truant"
-        ],
-        "answer": "Pattern"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nPick the word that can be formed from the rearrangement of all or some of the letters of the word in capitals.",
-        "question": "PRINCIPALITY",
-        "options": [
-            "Facility", 
-            "Puppy", 
-            "Ability", 
-            "Principal"
-        ],
-        "answer": "Principal"
-    },
-    {
-        "instruction": "SECTION C: VERBAL REASONING\nPick the word that can be formed from the rearrangement of all or some of the letters of the word in capitals.",
-        "question": "EXAMINATION",
-        "options": [
-            "Terminate", 
-            "Motion", 
-            "Next", 
-            "Ammunition"
-        ],
-        "answer": "Next"
-    }
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "The descent of a person, family or group from ancestors, lineage or pedigree.",
+    "options": [
+      "pedigree",
+      "genealogy",
+      "malingerer",
+      "loquacious"
+    ],
+    "answer": "genealogy"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "Made or decorated using expensive materials.",
+    "options": [
+      "irascible",
+      "noxious",
+      "marauding",
+      "opulent"
+    ],
+    "answer": "opulent"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "Brief, yet including all important information.",
+    "options": [
+      "concise",
+      "loquacious",
+      "antidote",
+      "terse"
+    ],
+    "answer": "concise"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "A word that has no meaning or impossible to understand ______",
+    "options": [
+      "gibberish",
+      "nascent",
+      "taint",
+      "antidote"
+    ],
+    "answer": "gibberish"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "To contaminate or corrupt something with an external agent, either physically or morally",
+    "options": [
+      "noxious",
+      "juniper",
+      "irascible",
+      "taint"
+    ],
+    "answer": "taint"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "An event causing great and usually sudden damage or suffering; a disaster ______",
+    "options": [
+      "annihilate",
+      "banditry",
+      "marauding",
+      "catastrophe"
+    ],
+    "answer": "catastrophe"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "The state of being banished from one's home or country ______",
+    "options": [
+      "terse",
+      "exile",
+      "inevitable",
+      "murky"
+    ],
+    "answer": "exile"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "Raiding and pillaging ______",
+    "options": [
+      "banditry",
+      "debilitate",
+      "marauding",
+      "irascible"
+    ],
+    "answer": "marauding"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "Quickly; immediately ______",
+    "options": [
+      "antidote",
+      "murky",
+      "eerie",
+      "pronto"
+    ],
+    "answer": "pronto"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
+    "question": "Full of energy; noisy ______",
+    "options": [
+      "boisterous",
+      "ferocious",
+      "capricious",
+      "chronological"
+    ],
+    "answer": "boisterous"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "EERIE",
+    "options": [
+      "calm",
+      "migrant",
+      "weird",
+      "brilliant"
+    ],
+    "answer": "weird"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "MANIPULATE",
+    "options": [
+      "pleasant",
+      "work on",
+      "foggy",
+      "Cripple."
+    ],
+    "answer": "work on"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "CHRONOLOGICAL",
+    "options": [
+      "historical sequential",
+      "resolution",
+      "family history",
+      "talkative"
+    ],
+    "answer": "sequential"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "ANTIDOTE",
+    "options": [
+      "expulsion",
+      "imminent",
+      "corrective",
+      "vulturous."
+    ],
+    "answer": "corrective"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "JUNIPER",
+    "options": [
+      "beginning",
+      "booming",
+      "stigma",
+      "retern"
+    ],
+    "answer": "retern"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "ANNIHILATE",
+    "options": [
+      "exuberant",
+      "annihilate",
+      "ferocious",
+      "nomadic"
+    ],
+    "answer": "annihilate"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "MYRIAD",
+    "options": [
+      "uncountable",
+      "countable",
+      "crudeness",
+      "beauty."
+    ],
+    "answer": "uncountable"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "ATTITUDINAL",
+    "options": [
+      "dispositional",
+      "distaste",
+      "educated",
+      "uneducated."
+    ],
+    "answer": "dispositional"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "NASCENT",
+    "options": [
+      "cranky",
+      "luxurious",
+      "budding",
+      "poppycock"
+    ],
+    "answer": "budding"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
+    "question": "INEVITABLE",
+    "options": [
+      "thump",
+      "misty",
+      "inescapable",
+      "cure"
+    ],
+    "answer": "inescapable"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "FEROCIOUS",
+    "options": [
+      "calm",
+      "compassionate",
+      "gentle",
+      "wild"
+    ],
+    "answer": "wild"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "DEBILITATE",
+    "options": [
+      "irresistible",
+      "assist",
+      "strengthen",
+      "soothe"
+    ],
+    "answer": "irresistible"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "MURKY",
+    "options": [
+      "cheerful",
+      "sparkling",
+      "unchanging",
+      "distinct"
+    ],
+    "answer": "unchanging"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "CAPRICIOUS",
+    "options": [
+      "cautious",
+      "reliable",
+      "employ",
+      "steadfast"
+    ],
+    "answer": "employ"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "CATASTROPHE",
+    "options": [
+      "blessing",
+      "goodluck",
+      "random",
+      "win"
+    ],
+    "answer": "random"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "BOISTEROUS",
+    "options": [
+      "careless",
+      "solemn",
+      "silent",
+      "low"
+    ],
+    "answer": "careless"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "PULCHRITUDE",
+    "options": [
+      "inelegance",
+      "ugliness",
+      "scruffiness",
+      "elegance"
+    ],
+    "answer": "elegance"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "AVERSION",
+    "options": [
+      "kindness",
+      "uneducated",
+      "pleasure",
+      "delight"
+    ],
+    "answer": "uneducated"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "PUNY",
+    "options": [
+      "significant",
+      "superior",
+      "conclusion",
+      "strong"
+    ],
+    "answer": "conclusion"
+  },
+  {
+    "instruction": "SECTION A: VOCABULARY\nC. All the words are opposites of the words written in bold except one.",
+    "question": "HAUGHTY",
+    "options": [
+      "humble",
+      "shy",
+      "meek",
+      "reality"
+    ],
+    "answer": "reality"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
+    "question": "1.",
+    "options": [
+      "acheive",
+      "achieve",
+      "archieve",
+      "achive"
+    ],
+    "answer": "achieve"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
+    "question": "2.",
+    "options": [
+      "libary",
+      "liberry",
+      "library",
+      "librery"
+    ],
+    "answer": "library"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
+    "question": "3.",
+    "options": [
+      "receipt",
+      "receit",
+      "reciept",
+      "reicept"
+    ],
+    "answer": "receipt"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
+    "question": "4.",
+    "options": [
+      "professer",
+      "profesor",
+      "preferssor",
+      "professor"
+    ],
+    "answer": "professor"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
+    "question": "5.",
+    "options": [
+      "foregn",
+      "foriegn",
+      "foreign",
+      "foiregn"
+    ],
+    "answer": "foreign"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nB. Choose the word or phrase that makes each sentence true.",
+    "question": "A SANDWICH always has ____",
+    "options": [
+      "ham",
+      "lettuce",
+      "bread",
+      "tomato"
+    ],
+    "answer": "bread"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nB. Choose the word or phrase that makes each sentence true.",
+    "question": "A HORSE always has ____",
+    "options": [
+      "hoofs",
+      "hay",
+      "a stabble (stable)",
+      "a saddle"
+    ],
+    "answer": "hoofs"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nB. Choose the word or phrase that makes each sentence true.",
+    "question": "A BEACH always has ____",
+    "options": [
+      "water",
+      "umbrella",
+      "chairs",
+      "plants"
+    ],
+    "answer": "water"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nB. Choose the word or phrase that makes each sentence true.",
+    "question": "A BOOK always has ____",
+    "options": [
+      "drawings",
+      "pages",
+      "photographs",
+      "poems"
+    ],
+    "answer": "pages"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nB. Choose the word or phrase that makes each sentence true.",
+    "question": "A CAR always has ____",
+    "options": [
+      "air conditioning",
+      "a radio",
+      "doors",
+      "wheels."
+    ],
+    "answer": "wheels."
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
+    "question": "11",
+    "options": [
+      "slowly",
+      "happily",
+      "softly",
+      "friendly",
+      "normally"
+    ],
+    "answer": "softly"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
+    "question": "12",
+    "options": [
+      "glanced",
+      "misplaced",
+      "polished",
+      "showed",
+      "charged"
+    ],
+    "answer": "showed"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
+    "question": "13",
+    "options": [
+      "blacksmith",
+      "fifth",
+      "health",
+      "truth",
+      "warmth"
+    ],
+    "answer": "truth"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
+    "question": "14",
+    "options": [
+      "vitamin",
+      "javelin",
+      "entertain",
+      "satin",
+      "captain"
+    ],
+    "answer": "satin"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
+    "question": "15",
+    "options": [
+      "parent",
+      "absent",
+      "accident",
+      "confront",
+      "vacant"
+    ],
+    "answer": "confront"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nD. Choose the words that are closest in meaning to the words in capitals.",
+    "question": "EDGE",
+    "options": [
+      "centre",
+      "outside",
+      "rim",
+      "bottom"
+    ],
+    "answer": "rim"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nD. Choose the words that are closest in meaning to the words in capitals.",
+    "question": "DOZE",
+    "options": [
+      "blanket",
+      "start",
+      "nap",
+      "awake"
+    ],
+    "answer": "nap"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nD. Choose the words that are closest in meaning to the words in capitals.",
+    "question": "DIFFICULT",
+    "options": [
+      "easy",
+      "understand",
+      "answer",
+      "hard"
+    ],
+    "answer": "hard"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nD. Choose the words that are closest in meaning to the words in capitals.",
+    "question": "TALE",
+    "options": [
+      "book",
+      "story",
+      "read",
+      "paper"
+    ],
+    "answer": "story"
+  },
+  {
+    "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nD. Choose the words that are closest in meaning to the words in capitals.",
+    "question": "LITTER",
+    "options": [
+      "bins",
+      "sweep",
+      "rubbish",
+      "paper"
+    ],
+    "answer": "rubbish"
+  }
 ]

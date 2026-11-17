@@ -1,0 +1,323 @@
+[
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "passage": "It was not long before they grew to hate the forest as heartily as they had hated the tunnels of the goblins, and it seemed to offer even less hope of any ending. But they had to go on and on, long after they were sick for a sight of the sun and of the sky, and longed for the feel of the wind on their faces. There was no movement of air down under the forest-roof, and it was everlastingly still and dark and stuffy. Even the dwarves felt it, who were used to tunnelling, and lived at times for long whiles without the light of the sun; but the hobbit, who liked holes to make a house in but not to spend summer days in, felt that he was being slowly suffocated.\n\nThe nights were the worst. It then became pitch dark - not what you call pitch dark, but really pitch: so black that you really could see nothing. Bilbo tried flapping his hand in front of his nose, but he could not see it at all. Well, perhaps it is not true to say that they could see nothing: they could see eyes. They slept all closely huddled together, and took it in turns to watch; and when it was Bilbo's turn he would see gleams in the darkness round them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance, and then slowly fade and disappear and slowly shine out again in a different place. And sometimes they would gleam down from the branches just above him; and that was the most terrifying. But the eyes that he liked the least were horrible pale bulbous sort of eyes. \"Insect eyes,\" he thought, \"not animal eyes, only they are much too big.\"\n\nAlthough it was not yet very cold, they tried lighting watch-fires at night, but they soon gave that up. It seemed to bring hundreds and hundreds of eyes all round them, though the creatures, whatever they were, were careful never to let their bodies show in the flicker of the flames. Worse still it brought thousands of dark-grey and black moths, some nearly as big as your hand, flapping and whirring round their ears. They could not stand that, nor the huge bats, black as a top-hat, either; so they gave up fires and sat at night and dozed in the enormous uncanny darkness.\n\nAll this went on for what seemed to the hobbit ages upon ages; and he was always hungry, for they were extremely careful with their provisions. Even so, as days followed days, and still the forest seemed just the same, they began to get anxious. The food would not last for ever: it was in fact already beginning to get low. They tried shooting at the squirrels, and they wasted many arrows before they managed to bring one down on the path. But when they roasted it, it proved horrible to taste, and they shot no more squirrels.\n\nThey were thirsty too, for they had none too much water, and in all the time they had seen neither spring nor stream. This was their state when one day they found their path blocked by running water. It flowed fast and strong but not very wide right across the way, and it was black, or looked it in the gloom. It was well that Beorn had warned them against it, or they would have drunk from it, whatever its colour, and filled some of their emptied skins at its banks. As it was, they only thought of how to cross it without wetting themselves in the water.\n\nThere had been a bridge of wood across, but it had rotted and fallen leaving only the broken posts near the bank. Bilbo kneeling on the brink and peering forward cried: \"There is a boat against the far bank! Now why couldn't it have been on this side!\"",
+    "question": "Who is the author of the passage excerpted from The Hobbit?",
+    "options": ["Ted Hughes", "J. R. R. Tolkien", "C. S. Lewis", "Roald Dahl"],
+    "answer": "J. R. R. Tolkien"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "How did the travellers feel about the forest compared to the tunnels of the goblins?",
+    "options": ["They loved the forest much more", "They grew to hate it just as heartily", "They found the forest sunny and breezy", "They thought it was very short"],
+    "answer": "They grew to hate it just as heartily"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What did the travellers long to see and feel while walking under the forest-roof?",
+    "options": ["Rain and snow", "The sun, the sky, and the wind on their faces", "The goblins and trolls", "A warm fire"],
+    "answer": "The sun, the sky, and the wind on their faces"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "How is the air down under the forest-roof described?",
+    "options": ["Cool and breezy", "Everlastingly still, dark, and stuffy", "Fresh and windy", "Bright and airy"],
+    "answer": "Everlastingly still, dark, and stuffy"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "How did Bilbo (the hobbit) feel inside the dark forest?",
+    "options": ["Very energetic", "That he was being slowly suffocated", "Happy to spend summer days there", "Completely at home"],
+    "answer": "That he was being slowly suffocated"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What did Bilbo try flapping in front of his nose during the pitch-dark nights?",
+    "options": ["His hat", "His hand", "A torch", "His cloak"],
+    "answer": "His hand"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What was the only thing they could see in the pitch darkness at night?",
+    "options": ["The moon", "Eyes gleaming in the darkness", "Campfires", "Trees"],
+    "answer": "Eyes gleaming in the darkness"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What colours were the pairs of eyes that stared at Bilbo from a distance?",
+    "options": ["Blue or white", "Yellow, red, or green", "Purple or pink", "Orange or brown"],
+    "answer": "Yellow, red, or green"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "Which type of eyes did Bilbo like the least?",
+    "options": ["Small yellow eyes", "Horrible pale bulbous insect-like eyes", "Bright blue eyes", "Sleepy animal eyes"],
+    "answer": "Horrible pale bulbous insect-like eyes"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "Why did the travellers soon give up lighting watch-fires at night?",
+    "options": ["They ran out of wood", "It attracted hundreds of eyes, huge moths, and bats", "It became too hot", "The rain put the fire out"],
+    "answer": "It attracted hundreds of eyes, huge moths, and bats"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "How big were some of the dark-grey and black moths attracted to the fire?",
+    "options": ["As small as a coin", "Nearly as big as your hand", "As big as an eagle", "Too tiny to see"],
+    "answer": "Nearly as big as your hand"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What did the huge black bats look like in size/colour?",
+    "options": ["Black as a top-hat", "White as snow", "Small as a bee", "Grey as ash"],
+    "answer": "Black as a top-hat"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "Why were the travellers always hungry in the forest?",
+    "options": ["They had no food at all", "They were extremely careful with their provisions as food was getting low", "They did not like eating", "Animals stole all their food"],
+    "answer": "They were extremely careful with their provisions as food was getting low"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What animal did they manage to shoot down on the path for food?",
+    "options": ["A rabbit", "A squirrel", "A deer", "A wild bird"],
+    "answer": "A squirrel"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "Why did they stop shooting squirrels after roasting the first one?",
+    "options": ["They ran out of arrows", "It proved horrible to taste", "The squirrels ran away", "Beorn forbade them"],
+    "answer": "It proved horrible to taste"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What blocked their path one day as they walked through the forest?",
+    "options": ["A fallen mountain", "Fast and strong running water", "A giant wall", "A pack of wolves"],
+    "answer": "Fast and strong running water"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What colour did the running water look in the gloom?",
+    "options": ["Crystal clear", "Black", "Bright blue", "Muddy brown"],
+    "answer": "Black"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "Who had warned them against drinking from the black stream?",
+    "options": ["Gandalf", "Beorn", "Thorin", "Elrond"],
+    "answer": "Beorn"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What had happened to the wooden bridge that used to cross the water?",
+    "options": ["It was guarded by goblins", "It had rotted and fallen, leaving only broken posts", "It was brand new and strong", "It was swept away by a storm"],
+    "answer": "It had rotted and fallen, leaving only broken posts"
+  },
+  {
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: From The Hobbit by J. R. R. Tolkien",
+    "question": "What did Bilbo spot against the far bank when he knelt on the brink and peered forward?",
+    "options": ["A rope", "A boat", "A raft", "A stepping stone"],
+    "answer": "A boat"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "To obfuscate an issue means to:",
+    "options": ["Clarify it", "Deliberately make it unclear or obscure", "Speed it up", "Ignore it entirely"],
+    "answer": "Deliberately make it unclear or obscure"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "A person who is perspicacious has:",
+    "options": ["Very poor judgment", "A quick, sharp, and clear understanding of things", "A loud and boastful voice", "An overly cautious nature"],
+    "answer": "A quick, sharp, and clear understanding of things"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "If an event or feeling is ephemeral, it is:",
+    "options": ["Lasting for a very short time", "Permanent and unchanging", "Extremely painful", "Loud and chaotic"],
+    "answer": "Lasting for a very short time"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "To coerce someone into doing something means to:",
+    "options": ["Gently persuade them", "Force or compel them using threats", "Reward them handsomely", "Teach them a new skill"],
+    "answer": "Force or compel them using threats"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "A person described as garrulous is:",
+    "options": ["Extremely quiet and reserved", "Excessively talkative, especially on trivial matters", "Highly educated and scholarly", "Secretive and stealthy"],
+    "answer": "Excessively talkative, especially on trivial matters"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "If you expedite a process, you:",
+    "options": ["Delay or obstruct it", "Make it happen more quickly", "Cancel it permanently", "Write a detailed report about it"],
+    "answer": "Make it happen more quickly"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "To repudiate a statement or claim means to:",
+    "options": ["Accept and embrace it", "Refuse to accept or disown it", "Repeat it for emphasis", "Simplify it for others"],
+    "answer": "Refuse to accept or disown it"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Someone who acts surreptitiously does things:",
+    "options": ["In a secret, stealthy, or hidden manner", "Openly and publicly", "Carelessly and hastily", "Loudly and energetically"],
+    "answer": "In a secret, stealthy, or hidden manner"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "To exacerbate a problem means to:",
+    "options": ["Soothe or relieve it", "Make it worse or more severe", "Solve it completely", "Ignore it until it goes away"],
+    "answer": "Make it worse or more severe"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "A decision that is mutable is:",
+    "options": ["Fixed and unchangeable", "Liable or prone to change", "Completely silent", "Legally binding"],
+    "answer": "Liable or prone to change"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The professor gave an ________________ lecture that demonstrated his profound knowledge of ancient history.",
+    "options": ["erudite", "pedantic", "garrulous", "ephemeral"],
+    "answer": "erudite"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Instead of sticking to the main argument, the reviewer made several ________________ comments about minor punctuation errors.",
+    "options": ["pedantic", "garrulous", "erudite", "mutable"],
+    "answer": "pedantic"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "She displayed incredible business ________________, turning a tiny startup into a thriving global enterprise.",
+    "options": ["acumen", "rhetoric", "vicissitude", "ephemeral"],
+    "answer": "acumen"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The politician's speech was full of inspiring ________________, but it lacked concrete plan details.",
+    "options": ["rhetoric", "vicissitude", "acumen", "erudite"],
+    "answer": "rhetoric"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "He handled the financial ________________ of life with remarkable resilience and grace.",
+    "options": ["vicissitudes", "synonyms", "acumen", "rhetoric"],
+    "answer": "vicissitudes"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word is a synonym for 'Erudite'?",
+    "options": ["Scholarly", "Ignorant", "Short-lived", "Obscure"],
+    "answer": "Scholarly"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word is a synonym for 'Expedite'?",
+    "options": ["Accelerate", "Delay", "Reject", "Force"],
+    "answer": "Accelerate"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word is an antonym (opposite) of 'Mutable'?",
+    "options": ["Fixed", "Changeable", "Permanent", "Allow"],
+    "answer": "Fixed"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word is an antonym (opposite) of 'Obfuscate'?",
+    "options": ["Clarify", "Obscure", "Soothe", "Delay"],
+    "answer": "Clarify"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word is an antonym (opposite) of 'Repudiate'?",
+    "options": ["Accept", "Reject", "Ignorant", "Reserved"],
+    "answer": "Accept"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "What is the meaning of the adjective 'Mellifluous'?",
+    "options": ["Harsh and grating to the ear", "Sweet, harmonious, melodious, and tuneful (of a voice or words)", "Wicked and criminal", "Lacking skill or ability"],
+    "answer": "Sweet, harmonious, melodious, and tuneful (of a voice or words)"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word means 'wicked, villainous, or criminal', as in a '________________ hacking attempt'?",
+    "options": ["Laudable", "Nefarious", "Ingenious", "Mellifluous"],
+    "answer": "Nefarious"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Someone who is 'Mendacious' is known for:",
+    "options": ["Always telling the truth", "Not telling the truth; lying or being deceitful", "Showing great courage", "Being found everywhere"],
+    "answer": "Not telling the truth; lying or being deceitful"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "A person who is fanatical and uncompromising in pursuit of their religious or political ideals is a ________________.",
+    "options": ["Sycophant", "Zealot", "Enigma", "Zenith"],
+    "answer": "Zealot"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which adjective means 'clever, original, and inventive'?",
+    "options": ["Ineptitude", "Ingenious", "Sporadic", "Recalcitrant"],
+    "answer": "Ingenious"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The occurrence of events by chance in a happy or beneficial way is known as ________________.",
+    "options": ["Serendipity", "Ineptitude", "Enigma", "Pulchritude"],
+    "answer": "Serendipity"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "What is the meaning of the noun 'Pulchritude'?",
+    "options": ["Ugliness", "Beauty and loveliness", "Clumsiness", "Mystery"],
+    "answer": "Beauty and loveliness"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "A person who acts obsequiously towards someone important in order to gain advantage is a ________________.",
+    "options": ["Zealot", "Sycophant", "Rebel", "Critic"],
+    "answer": "Sycophant"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which verb means 'to increase rapidly in number; to multiply'?",
+    "options": ["Dwindle", "Proliferate", "Bolster", "Contract"],
+    "answer": "Proliferate"
+  },
+  {
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Something that is 'Ubiquitous' is:",
+    "options": ["Rare and scarce", "Present, appearing, or found everywhere", "Mysterious and puzzling", "Occurring at irregular intervals"],
+    "answer": "Present, appearing, or found everywhere"
+  }
+]

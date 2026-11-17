@@ -1,22 +1,364 @@
-[
-  {
-    "question": "Sample Question 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Sample Question 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
-  }
-]
+{
+  "questions": [
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Words or expressions used in a special, imaginative, or non-literal way to make writing interesting are called ________________.",
+      "options": ["Figures of speech", "Parts of speech", "Spelling rules", "Punctuation marks"],
+      "answer": "Figures of speech"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "A comparison between two different things using 'like' or 'as' is called a ________________.",
+      "options": ["Metaphor", "Simile", "Pun", "Irony"],
+      "answer": "Simile"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'The baby is as gentle as a lamb'?",
+      "options": ["Simile", "Metaphor", "Hyperbole", "Oxymoron"],
+      "answer": "Simile"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Identify the figure of speech: 'He runs like the wind.'",
+      "options": ["Personification", "Alliteration", "Simile", "Assonance"],
+      "answer": "Simile"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "A direct comparison between two things without using 'like' or 'as' is called a ________________.",
+      "options": ["Simile", "Metaphor", "Euphemism", "Paradox"],
+      "answer": "Metaphor"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'Time is a thief'?",
+      "options": ["Simile", "Metaphor", "Onomatopoeia", "Alliteration"],
+      "answer": "Metaphor"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Identify the figure of speech: 'My sister is the sunshine of our home.'",
+      "options": ["Metaphor", "Hyperbole", "Irony", "Pun"],
+      "answer": "Metaphor"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Giving human qualities or actions to animals, objects, or ideas is called ________________.",
+      "options": ["Personification", "Assonance", "Synecdoche", "Metonymy"],
+      "answer": "Personification"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'The wind whispered through the trees'?",
+      "options": ["Simile", "Personification", "Oxymoron", "Alliteration"],
+      "answer": "Personification"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Identify the figure of speech: 'The sun smiled at us.'",
+      "options": ["Personification", "Pun", "Paradox", "Hyperbole"],
+      "answer": "Personification"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "An extreme exaggeration used for emphasis that is not meant literally is called ________________.",
+      "options": ["Irony", "Hyperbole", "Euphemism", "Consonance"],
+      "answer": "Hyperbole"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'I have told you a million times'?",
+      "options": ["Simile", "Hyperbole", "Alliteration", "Metonymy"],
+      "answer": "Hyperbole"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Identify the figure of speech: 'This bag weighs a ton.'",
+      "options": ["Hyperbole", "Personification", "Simile", "Assonance"],
+      "answer": "Hyperbole"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Words that imitate or suggest real sounds are called ________________.",
+      "options": ["Onomatopoeia", "Oxymoron", "Apostrophe", "Paradox"],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'The clock went tick-tock'?",
+      "options": ["Metaphor", "Onomatopoeia", "Irony", "Synecdoche"],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Identify the figure of speech: 'The bees buzzed around the flowers.'",
+      "options": ["Onomatopoeia", "Simile", "Euphemism", "Pun"],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "The repetition of the same beginning consonant sound in nearby words is called ________________.",
+      "options": ["Assonance", "Alliteration", "Consonance", "Irony"],
+      "answer": "Alliteration"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'Peter picked purple plums'?",
+      "options": ["Alliteration", "Metaphor", "Hyperbole", "Oxymoron"],
+      "answer": "Alliteration"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "The repetition of similar vowel sounds in nearby words is called ________________.",
+      "options": ["Alliteration", "Assonance", "Personification", "Pun"],
+      "answer": "Assonance"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'Go slow over the road'?",
+      "options": ["Assonance", "Hyperbole", "Simile", "Apostrophe"],
+      "answer": "Assonance"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "The repetition of consonant sounds within or at the ends of nearby words is called ________________.",
+      "options": ["Assonance", "Consonance", "Metaphor", "Irony"],
+      "answer": "Consonance"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Joining two words with apparently opposite meanings together is called an ________________.",
+      "options": ["Oxymoron", "Alliteration", "Euphemism", "Apostrophe"],
+      "answer": "Oxymoron"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Which figure of speech is used in: 'Deafening silence filled the room'?",
+      "options": ["Simile", "Oxymoron", "Onomatopoeia", "Pun"],
+      "answer": "Oxymoron"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "A statement that appears contradictory at first but reveals a truth, such as 'Less is more', is called a ________________.",
+      "options": ["Paradox", "Simile", "Alliteration", "Synecdoche"],
+      "answer": "Paradox"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Saying 'What lovely weather!' during a terrible storm is an example of ________________.",
+      "options": ["Irony", "Alliteration", "Onomatopoeia", "Assonance"],
+      "answer": "Irony"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "A play on words using multiple meanings or similar sounds, such as 'The maths teacher has too many problems', is a ________________.",
+      "options": ["Pun", "Simile", "Personification", "Metaphor"],
+      "answer": "Pun"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "A mild or polite expression used instead of one that sounds harsh, such as 'He passed away', is called ________________.",
+      "options": ["Euphemism", "Hyperbole", "Alliteration", "Irony"],
+      "answer": "Euphemism"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Replacing the name of something with a closely associated thing, such as 'The pen is mightier than the sword', is called ________________.",
+      "options": ["Metonymy", "Simile", "Assonance", "Onomatopoeia"],
+      "answer": "Metonymy"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Using a part to represent the whole, such as 'All hands were needed on deck', is called ________________.",
+      "options": ["Synecdoche", "Hyperbole", "Personification", "Alliteration"],
+      "answer": "Synecdoche"
+    },
+    {
+      "instruction": "CREATIVE WRITING",
+      "question": "Addressing an absent person or a non-human thing directly, such as 'O Death, where is your sting?', is called ________________.",
+      "options": ["Apostrophe", "Simile", "Pun", "Oxymoron"],
+      "answer": "Apostrophe"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Choose the suitable prefix to form the opposite of 'Legal': ________________.",
+      "options": ["unlegal", "illegal", "dislegal", "mislegal"],
+      "answer": "illegal"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Choose the suitable prefix to form the opposite of 'Balance': ________________.",
+      "options": ["imbalance", "unbalance", "disbalance", "irbalance"],
+      "answer": "imbalance"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Choose the suitable prefix to form the opposite of 'Correct': ________________.",
+      "options": ["uncorrect", "incorrect", "discorrect", "ilcorrect"],
+      "answer": "incorrect"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Choose the suitable prefix to form the opposite of 'Agree': ________________.",
+      "options": ["unagree", "disagree", "inagree", "misagree"],
+      "answer": "disagree"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Choose the suitable prefix to form the opposite of 'Logical': ________________.",
+      "options": ["unlogical", "illogical", "inlogical", "dislogical"],
+      "answer": "illogical"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form a noun from the adjective 'Able': ________________.",
+      "options": ["Abled", "Ability", "Ably", "Enable"],
+      "answer": "Ability"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form a noun from the verb 'Arrive': ________________.",
+      "options": ["Arriving", "Arrival", "Arrived", "Arriver"],
+      "answer": "Arrival"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form a noun from the verb 'Decide': ________________.",
+      "options": ["Decisive", "Decision", "Deciding", "Decided"],
+      "answer": "Decision"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form a noun from the adjective 'Strong': ________________.",
+      "options": ["Strongly", "Strength", "Strengthen", "Stronger"],
+      "answer": "Strength"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form a noun from the verb 'Succeed': ________________.",
+      "options": ["Successful", "Success", "Successfully", "Succeeding"],
+      "answer": "Success"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form an adjective from the noun 'Beauty': ________________.",
+      "options": ["Beautify", "Beautiful", "Beautifully", "Beautician"],
+      "answer": "Beautiful"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form an adjective from the noun 'Courage': ________________.",
+      "options": ["Encourage", "Courageous", "Courageously", "Couraged"],
+      "answer": "Courageous"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form an adjective from the noun 'Danger': ________________.",
+      "options": ["Endanger", "Dangerous", "Dangerously", "Dangered"],
+      "answer": "Dangerous"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form a verb from the adjective 'Pure': ________________.",
+      "options": ["Purity", "Purify", "Purely", "Pureness"],
+      "answer": "Purify"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Form an adverb from the adjective 'Brave': ________________.",
+      "options": ["Bravery", "Bravely", "Braveness", "Braver"],
+      "answer": "Bravely"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "A group of words that contains a subject and a verb (or predicate) is called a ________________.",
+      "options": ["Phrase", "Clause", "Prefix", "Suffix"],
+      "answer": "Clause"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "What are the two main kinds of clauses?",
+      "options": ["Noun and Verb clauses", "Main (Independent) and Subordinate (Dependent) clauses", "Simple and Compound phrases", "Adjectival and Prepositional phrases"],
+      "answer": "Main (Independent) and Subordinate (Dependent) clauses"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "A clause that can stand alone by itself and make complete sense is called a ________________ clause.",
+      "options": ["Subordinate", "Main (Independent)", "Relative", "Dependent"],
+      "answer": "Main (Independent)"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "A clause that cannot stand alone to make complete sense and relies on the main clause is a ________________ clause.",
+      "options": ["Main", "Subordinate (Dependent)", "Independent", "Principal"],
+      "answer": "Subordinate (Dependent)"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Which type of subordinate clause describes a noun or pronoun in the main clause and begins with who, which, or that?",
+      "options": ["Adverbial Clause", "Adjectival Clause", "Noun Clause", "Main Clause"],
+      "answer": "Adjectival Clause"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Identify the type of subordinate clause in: 'This is the boy who stole the biro.'",
+      "options": ["Adjectival Clause", "Adverbial Clause of Time", "Noun Clause", "Adverbial Clause of Place"],
+      "answer": "Adjectival Clause"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Which type of clause performs the function of an adverb by telling how, when, where, or why an action occurred?",
+      "options": ["Noun Clause", "Adverbial Clause", "Adjectival Clause", "Independent Clause"],
+      "answer": "Adverbial Clause"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Identify the type of adverbial clause in: 'The students stopped talking when the principal entered.'",
+      "options": ["Adverbial Clause of Place", "Adverbial Clause of Time", "Adverbial Clause of Manner", "Adverbial Clause of Reason"],
+      "answer": "Adverbial Clause of Time"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Identify the type of adverbial clause in: 'He came here because he needed some help.'",
+      "options": ["Adverbial Clause of Time", "Adverbial Clause of Reason/Cause", "Adverbial Clause of Place", "Adverbial Clause of Manner"],
+      "answer": "Adverbial Clause of Reason/Cause"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Identify the type of adverbial clause in: 'Kangaroos go wherever they can get food.'",
+      "options": ["Adverbial Clause of Manner", "Adverbial Clause of Place", "Adverbial Clause of Time", "Adverbial Clause of Reason"],
+      "answer": "Adverbial Clause of Place"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Identify the type of adverbial clause in: 'He spoke to me as if he was mad.'",
+      "options": ["Adverbial Clause of Manner", "Adverbial Clause of Time", "Adverbial Clause of Place", "Adverbial Clause of Reason"],
+      "answer": "Adverbial Clause of Manner"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Which type of clause takes the place of a noun and functions as the subject or object of a verb?",
+      "options": ["Adjectival Clause", "Noun Clause", "Adverbial Clause", "Main Clause"],
+      "answer": "Noun Clause"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "A group of words that does NOT contain a finite verb and cannot form a major sentence on its own is called a ________________.",
+      "options": ["Clause", "Phrase", "Sentence", "Paragraph"],
+      "answer": "Phrase"
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Which of the following is an example of a phrase?",
+      "options": ["We saw the headteacher.", "In the room.", "She didn't go to school.", "David is the boy."],
+      "answer": "In the room."
+    },
+    {
+      "instruction": "GRAMMAR",
+      "question": "Why is 'A loaf of bread' classified as a phrase rather than a clause?",
+      "options": ["It has too many words", "It contains no subject-verb combination or finite verb", "It starts with a capital letter", "It makes complete sense alone"],
+      "answer": "It contains no subject-verb combination or finite verb"
+    }
+  ]
+}

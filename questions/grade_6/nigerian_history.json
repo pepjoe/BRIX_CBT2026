@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What system of government is defined as one in which political leaders are freely chosen by ordinary citizens through free and fair elections?",
+    "options": [
+      "Military rule",
+      "Civil rule",
+      "Monarchy",
+      "Oligarchy"
+    ],
+    "answer": "Civil rule"
+  },
+  {
+    "question": "How often are elections held in Nigeria to choose a new set of leaders?",
+    "options": [
+      "Every 2 years",
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years"
+    ],
+    "answer": "Every 4 years"
+  },
+  {
+    "question": "Which of the following is NOT one of the three levels of government in Nigeria?",
+    "options": [
+      "Federal government",
+      "State government",
+      "Regional government",
+      "Local government"
+    ],
+    "answer": "Regional government"
+  },
+  {
+    "question": "The President of Nigeria leads which branch of the federal government?",
+    "options": [
+      "Legislative branch",
+      "Executive (Administrative) branch",
+      "Judicial branch",
+      "Electoral branch"
+    ],
+    "answer": "Executive (Administrative) branch"
+  },
+  {
+    "question": "How many total members serve in the House of Representatives in Nigeria?",
+    "options": [
+      "108 members",
+      "109 members",
+      "360 members",
+      "400 members"
+    ],
+    "answer": "360 members"
+  },
+  {
+    "question": "The Senate is made up of how many total members elected from three-seat constituencies and the Federal Capital Territory?",
+    "options": [
+      "100 members",
+      "109 members",
+      "360 members",
+      "500 members"
+    ],
+    "answer": "109 members"
+  },
+  {
+    "question": "Which court is recognized as the highest court of appeal in Nigeria?",
+    "options": [
+      "Federal High Court",
+      "Court of Appeal",
+      "Supreme Court",
+      "Customary Court of Appeal"
+    ],
+    "answer": "Supreme Court"
+  },
+  {
+    "question": "Who chairs the Supreme Court of Nigeria?",
+    "options": [
+      "The President",
+      "The Senate President",
+      "The Chief Justice",
+      "The Speaker of the House"
+    ],
+    "answer": "The Chief Justice"
+  },
+  {
+    "question": "Which level of government is specifically responsible for collecting local taxes, licensing bicycles, and assigning numbers to homes?",
+    "options": [
+      "Federal government",
+      "State government",
+      "Local government",
+      "Judicial Council"
+    ],
+    "answer": "Local government"
+  },
+  {
+    "question": "What period represents the First Republic of civil rule in Nigerian history?",
+    "options": [
+      "1960\u20131966",
+      "1979\u20131983",
+      "1991\u20131993",
+      "1999\u2013date"
+    ],
+    "answer": "1960\u20131966"
+  },
+  {
+    "question": "Who served as the Prime Minister of Nigeria during the First Republic?",
+    "options": [
+      "Dr Nnamdi Azikiwe",
+      "Alhaji Abubakar Tafawa Balewa",
+      "Alhaji Aliyu Shehu Shagari",
+      "General Sani Abacha"
+    ],
+    "answer": "Alhaji Abubakar Tafawa Balewa"
+  },
+  {
+    "question": "Who was the first executive president of Nigeria during the Second Republic?",
+    "options": [
+      "Dr Nnamdi Azikiwe",
+      "Ibrahim Babangida",
+      "Alhaji Aliyu Shehu Shagari",
+      "General Sani Abacha"
+    ],
+    "answer": "Alhaji Aliyu Shehu Shagari"
+  },
+  {
+    "question": "Why was the Third Republic (1991\u20131993) referred to as \"aborted\" or short-lived?",
+    "options": [
+      "No elections were ever held",
+      "The June 12 presidential election results were cancelled",
+      "The president resigned voluntarily",
+      "It lasted over twenty years"
+    ],
+    "answer": "The June 12 presidential election results were cancelled"
+  },
+  {
+    "question": "On what exact date did the Fourth Republic begin in Nigeria?",
+    "options": [
+      "October 1, 1960",
+      "January 15, 1966",
+      "October 1, 1963",
+      "May 29, 1999"
+    ],
+    "answer": "May 29, 1999"
+  },
+  {
+    "question": "Where was Dr Nnamdi Azikiwe born?",
+    "options": [
+      "Anambra State",
+      "Zungeru, Niger State",
+      "Lagos State",
+      "Kaduna State"
+    ],
+    "answer": "Zungeru, Niger State"
+  },
+  {
+    "question": "In what year was Dr Nnamdi Azikiwe elected as the first Premier of the Eastern Region?",
+    "options": [
+      "1954",
+      "1960",
+      "1963",
+      "1979"
+    ],
+    "answer": "1954"
+  },
+  {
+    "question": "Dr Nnamdi Azikiwe became the first indigenous Governor-General of Nigeria on which date?",
+    "options": [
+      "January 15, 1966",
+      "October 1, 1960",
+      "October 1, 1963",
+      "May 1, 1996"
+    ],
+    "answer": "October 1, 1960"
+  },
+  {
+    "question": "Under which political party platform did Dr Nnamdi Azikiwe contest the presidential elections in 1979?",
+    "options": [
+      "NCNC",
+      "NPC",
+      "NPP (Nigerian People's Party)",
+      "NYM"
+    ],
+    "answer": "NPP (Nigerian People's Party)"
+  },
+  {
+    "question": "On which Nigerian currency note is the portrait of Dr Nnamdi Azikiwe featured?",
+    "options": [
+      "100 naira note",
+      "200 naira note",
+      "500 naira note",
+      "1000 naira note"
+    ],
+    "answer": "500 naira note"
+  },
+  {
+    "question": "Which national institution located in Abuja is named after Dr Nnamdi Azikiwe?",
+    "options": [
+      "Nnamdi Azikiwe Stadium",
+      "Nnamdi Azikiwe University",
+      "Nnamdi Azikiwe International Airport",
+      "Nnamdi Azikiwe Library"
+    ],
+    "answer": "Nnamdi Azikiwe International Airport"
+  },
+  {
+    "question": "The National Assembly of Nigeria consists of two chambers: the Senate and the House of ________________.",
+    "options": [
+      "Governors",
+      "Representatives",
+      "Ministers",
+      "Commissioners"
+    ],
+    "answer": "Representatives"
+  },
+  {
+    "question": "The First Republic ended on January 15, 1966, as a result of a military ________________.",
+    "options": [
+      "Election",
+      "Coup",
+      "Referendum",
+      "Census"
+    ],
+    "answer": "Coup"
+  },
+  {
+    "question": "The June 12, 1993 presidential election results were cancelled by Military President ________________.",
+    "options": [
+      "General Sani Abacha",
+      "Ibrahim Babangida",
+      "General Olusegun Obasanjo",
+      "General Yakubu Gowon"
+    ],
+    "answer": "Ibrahim Babangida"
+  },
+  {
+    "question": "Dr Nnamdi Azikiwe was fondly remembered and nicknamed the \"Zik of ________________\".",
+    "options": [
+      "Nigeria",
+      "West Africa",
+      "Africa",
+      "Lagos"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "question": "Dr Nnamdi Azikiwe became the first Ceremonial President of Nigeria when the country became a republic on October 1, ________________.",
+    "options": [
+      "1960",
+      "1963",
+      "1966",
+      "1979"
+    ],
+    "answer": "1963"
+  },
+  {
+    "question": "Sir Abubakar Tafawa Balewa is immortalized on which Nigerian currency note?",
+    "options": [
+      "5 Naira note",
+      "10 Naira note",
+      "20 Naira note",
+      "50 Naira note"
+    ],
+    "answer": "5 Naira note"
+  },
+  {
+    "question": "Which Nigerian president launched the 'Green Revolution' programme to boost agriculture and food production in the Second Republic?",
+    "options": [
+      "Chief Olusegun Obasanjo",
+      "Alhaji Shehu Shagari",
+      "Dr. Goodluck Jonathan",
+      "President Muhammadu Buhari"
+    ],
+    "answer": "Alhaji Shehu Shagari"
+  },
+  {
+    "question": "Which regulatory body was established during Chief Olusegun Obasanjo's administration to fight economic and financial crimes?",
+    "options": [
+      "EFCC",
+      "INEC",
+      "N-Power",
+      "TSA"
+    ],
+    "answer": "EFCC"
+  },
+  {
+    "question": "The Seven-Point Agenda, focusing on power, transportation, and peace, was introduced by which Nigerian president?",
+    "options": [
+      "Alhaji Umaru Musa Yar'Adua",
+      "Chief Olusegun Obasanjo",
+      "Dr. Goodluck Jonathan",
+      "President Muhammadu Buhari"
+    ],
+    "answer": "Alhaji Umaru Musa Yar'Adua"
+  },
+  {
+    "question": "Which social investment initiative was introduced under President Muhammadu Buhari to empower Nigerian youths?",
+    "options": [
+      "YOUWIN",
+      "N-Power",
+      "Green Revolution",
+      "Seven-Point Agenda"
+    ],
+    "answer": "N-Power"
+  }
+]

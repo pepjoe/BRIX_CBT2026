@@ -1,22 +1,202 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is defined as the total surrounding in which people live?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A school",
+      "An environment",
+      "A classroom",
+      "A laboratory"
     ],
-    "answer": "A"
+    "answer": "An environment"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Which mountain in Africa is mentioned in the notes?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Mount Everest",
+      "Mount Kilimanjaro",
+      "Mount Fuji",
+      "Mount Kilimanjaro is not mentioned"
     ],
-    "answer": "B"
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "question": "What is a plain described as?",
+    "options": [
+      "A high mountainous peak",
+      "A flat area of gentle rolling land",
+      "A hot and dry desert",
+      "A deep ocean trench"
+    ],
+    "answer": "A flat area of gentle rolling land"
+  },
+  {
+    "question": "Which river is noted as the longest river in Africa?",
+    "options": [
+      "River Niger",
+      "River Nile",
+      "River Congo",
+      "River Zambezi"
+    ],
+    "answer": "River Nile"
+  },
+  {
+    "question": "What type of environment is described as hot and dry, with the Sahara desert as an example?",
+    "options": [
+      "Forest",
+      "Desert",
+      "Plain",
+      "Mountain"
+    ],
+    "answer": "Desert"
+  },
+  {
+    "question": "What can dry weather conditions cause as a danger in our physical environment?",
+    "options": [
+      "Floods",
+      "Lack of water and food crops",
+      "Heavy rainfall",
+      "Landslides"
+    ],
+    "answer": "Lack of water and food crops"
+  },
+  {
+    "question": "Food can be either solid or what?",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Plasma",
+      "Vapor"
+    ],
+    "answer": "Liquid"
+  },
+  {
+    "question": "Which group of people usually takes more liquid food according to the notes?",
+    "options": [
+      "Adults",
+      "Babies and children",
+      "Teenagers only",
+      "Elderly people"
+    ],
+    "answer": "Babies and children"
+  },
+  {
+    "question": "Which of the following is an example of a solid food listed in the notes?",
+    "options": [
+      "Milk",
+      "Pap",
+      "Eba",
+      "Tea"
+    ],
+    "answer": "Eba"
+  },
+  {
+    "question": "Into how many groups can these foods be categorized?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Which food group gives us energy?",
+    "options": [
+      "Rice, corn, bread, butter, yam",
+      "Beans, milk, egg, fish",
+      "Carrot, lettuce, cabbage",
+      "Vegetables only"
+    ],
+    "answer": "Rice, corn, bread, butter, yam"
+  },
+  {
+    "question": "Which food group helps build our body?",
+    "options": [
+      "Carrot, lettuce, orange",
+      "Beans, milk, egg, fish, beef",
+      "Rice, corn, bread",
+      "Water and tea"
+    ],
+    "answer": "Beans, milk, egg, fish, beef"
+  },
+  {
+    "question": "What do foods like carrot, lettuce, and cabbage do for our body?",
+    "options": [
+      "Give us energy",
+      "Build our bones",
+      "Protect our body from illness",
+      "Cause sickness"
+    ],
+    "answer": "Protect our body from illness"
+  },
+  {
+    "question": "The Yoruba ethnic group is located in which part of Nigeria?",
+    "options": [
+      "Northern part",
+      "Western part",
+      "Eastern part",
+      "Southern part"
+    ],
+    "answer": "Western part"
+  },
+  {
+    "question": "Which of the following is a soup associated with the Yoruba culture?",
+    "options": [
+      "Afang soup",
+      "Efor riro (vegetable soup)",
+      "Nsala soup",
+      "Abak Atama soup"
+    ],
+    "answer": "Efor riro (vegetable soup)"
+  },
+  {
+    "question": "The Hausa ethnic group is located in which part of Nigeria?",
+    "options": [
+      "Northern part",
+      "Southern part",
+      "Eastern part",
+      "Western part"
+    ],
+    "answer": "Northern part"
+  },
+  {
+    "question": "Which of the following is a food eaten by the Hausa ethnic group?",
+    "options": [
+      "Eba",
+      "Tuwo Shinkafa",
+      "Afang soup",
+      "Akpu"
+    ],
+    "answer": "Tuwo Shinkafa"
+  },
+  {
+    "question": "The Ibibio ethnic group is found in which part of Nigeria?",
+    "options": [
+      "Northern part",
+      "Southern part",
+      "Western part",
+      "Central part"
+    ],
+    "answer": "Southern part"
+  },
+  {
+    "question": "Which soup is commonly associated with the Ibibio culture?",
+    "options": [
+      "Edikang Ikong soup",
+      "Gbegiri",
+      "Tuwo Massara",
+      "Amala"
+    ],
+    "answer": "Edikang Ikong soup"
+  },
+  {
+    "question": "Which of the following is listed as a reason why we eat food?",
+    "options": [
+      "To avoid sickness",
+      "To feel tired",
+      "To lose weight quickly",
+      "To get sick"
+    ],
+    "answer": "To avoid sickness"
   }
 ]

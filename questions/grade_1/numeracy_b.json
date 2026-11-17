@@ -1,22 +1,167 @@
 [
   {
-    "question": "Sample Question 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
+    "question": "7 + 5 = ______",
+    "options": ["6", "12", "8"],
+    "answer": "12"
   },
   {
-    "question": "Sample Question 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
+    "question": "15 + 10 = ______",
+    "options": ["4", "25", "3"],
+    "answer": "25"
+  },
+  {
+    "question": "What is 27 + 3?",
+    "options": ["30", "88", "12"],
+    "answer": "30"
+  },
+  {
+    "question": "10 − 10 = ______",
+    "options": ["5", "6", "0"],
+    "answer": "0"
+  },
+  {
+    "question": "3 × 5 = ______",
+    "options": ["15", "27", "18"],
+    "answer": "15"
+  },
+  {
+    "question": "3 × 7 = ______",
+    "options": ["12", "73", "21"],
+    "answer": "21"
+  },
+  {
+    "question": "20 − 10 = ______",
+    "options": ["8", "7", "10"],
+    "answer": "10"
+  },
+  {
+    "question": "There are 2 baskets with 10 oranges in each basket. How many oranges are there altogether?",
+    "options": ["5", "20", "8"],
+    "answer": "20"
+  },
+  {
+    "question": "2 × 8 = ______",
+    "options": ["16", "8", "10"],
+    "answer": "16"
+  },
+  {
+    "question": "There are 8 girls and 4 boys in a classroom. How many children are in the classroom altogether?",
+    "options": ["3", "12", "5"],
+    "answer": "12"
+  },
+  {
+    "question": "Algebra helps us to find ______.",
+    "options": ["Missing numbers", "Colours", "Animals"],
+    "answer": "Missing numbers"
+  },
+  {
+    "question": "Which of these is an example of Algebra?",
+    "options": ["2 + □ = 5", "2 + 3 = 5", "1, 2, 3, 4"],
+    "answer": "2 + □ = 5"
+  },
+  {
+    "question": "2 + □ = 5. What number is missing?",
+    "options": ["2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "4 + □ = 6. Find the missing number.",
+    "options": ["1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "question": "In Algebra, the box (□) can stand for a ______.",
+    "options": ["Missing number", "Picture", "Letter of the alphabet"],
+    "answer": "Missing number"
+  },
+  {
+    "question": "□ + 3 = 7. What number is missing?",
+    "options": ["3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "5 + □ = 8. Find the missing number.",
+    "options": ["2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Complete the sequence: 3, 6, 9, 12, 15, □.",
+    "options": ["18", "13", "10"],
+    "answer": "18"
+  },
+  {
+    "question": "Which of these is used to find a missing number?",
+    "options": ["Algebra", "Drawing", "Singing"],
+    "answer": "Algebra"
+  },
+  {
+    "question": "Which of these is an example of Algebra?",
+    "options": ["3 + □ = 6", "3 + 2 = 5", "1, 2, 3, 4"],
+    "answer": "3 + □ = 6"
+  },
+  {
+    "question": "Complete the sequence: 2, 4, 6, 8, 10, □.",
+    "options": ["11", "12", "9"],
+    "answer": "12"
+  },
+  {
+    "question": "8 - □ = 6. What number is missing?",
+    "options": ["1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "question": "8 - □ = 6. What number is missing?",
+    "options": ["1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "question": "What is statistics?",
+    "options": ["The study of numbers", "The study of singing", "The study of colours"],
+    "answer": "The study of numbers"
+  },
+  {
+    "question": "A teacher asked pupils about their favourite foods. 6 pupils chose rice, 9 chose beans, and 4 chose yam. Which food was chosen by the highest number of pupils?",
+    "options": ["Rice", "Beans", "Yam"],
+    "answer": "Beans"
+  },
+  {
+    "question": "Statistics helps us to _______ information.",
+    "options": ["Collect and arrange", "Destroy", "Hide"],
+    "answer": "Collect and arrange"
+  },
+  {
+    "question": "Which of these can we count and record in statistics?",
+    "options": ["Pupils", "Dreams", "Sleep"],
+    "answer": "Pupils"
+  },
+  {
+    "question": "Statistics helps us to arrange information in a _______.",
+    "options": ["Table", "Basket", "Cup"],
+    "answer": "Table"
+  },
+  {
+    "question": "Which of these is an example of data?",
+    "options": ["Number of boys and girls in a class", "A storybook", "A pencil case"],
+    "answer": "Number of boys and girls in a class"
+  },
+  {
+    "question": "If 1 🍦 stands for 1 ice cream, how many ice creams are 🍦 🍦 🍦🍦 🍦?",
+    "options": ["3", "4", "5"],
+    "answer": "5"
+  },
+  {
+    "question": "Sarah counted 5 butterflies on Monday and 5 butterflies on Tuesday. How many butterflies did she count altogether?",
+    "options": ["11", "10", "13"],
+    "answer": "10"
+  },
+  {
+    "question": "Look at these shapes: 🔵 🔵 🔴 🔵 🔺 🔵. Which shape is the MOST?",
+    "options": ["Red circle (🔴)", "Triangle (🔺)", "Blue circle (🔵)"],
+    "answer": "Blue circle (🔵)"
+  },
+  {
+    "question": "Tim has 2 dogs, 4 cats, and 1 bird. Which pet does Tim have the LEAST of?",
+    "options": ["Dogs", "Cats", "Bird"],
+    "answer": "Bird"
   }
 ]

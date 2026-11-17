@@ -1,0 +1,902 @@
+[
+  {
+    "question": "What is the place value of 7 in the number 3,572,404?",
+    "options": [
+      "70,000",
+      "7,000",
+      "700",
+      "70"
+    ],
+    "answer": "70,000"
+  },
+  {
+    "question": "Which of the following represents the number 4,000,000 in words?",
+    "options": [
+      "Forty million",
+      "Four million",
+      "Four hundred thousand",
+      "Four billion"
+    ],
+    "answer": "Four million"
+  },
+  {
+    "question": "What is the Roman numeral equivalent for 546?",
+    "options": [
+      "DXLVI",
+      "CDXLVI",
+      "DLXVI",
+      "MDCVI"
+    ],
+    "answer": "DXLVI"
+  },
+  {
+    "question": "Which of the following numbers is a factor of 36?",
+    "options": [
+      "8",
+      "10",
+      "9",
+      "5"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "How many groups of 100,000,000 are there in 33,000,000,000?",
+    "options": [
+      "33",
+      "330",
+      "3,300",
+      "33,000"
+    ],
+    "answer": "330"
+  },
+  {
+    "question": "What is the Arabic numeral for the Roman numeral CCXLIV?",
+    "options": [
+      "224",
+      "244",
+      "264",
+      "214"
+    ],
+    "answer": "244"
+  },
+  {
+    "question": "Find the sum of the place value of 6 in 205,645 and 821,161.",
+    "options": [
+      "606",
+      "6,600",
+      "660",
+      "6,060"
+    ],
+    "answer": "6,600"
+  },
+  {
+    "question": "What is the largest seven-digit number?",
+    "options": [
+      "9,000,000",
+      "9,999,990",
+      "9,999,999",
+      "10,000,000"
+    ],
+    "answer": "9,999,999"
+  },
+  {
+    "question": "What is the difference between two billion naira and one billion five hundred million naira?",
+    "options": [
+      "500,000,000 Naira",
+      "50,000,000 Naira",
+      "1,500,000,000 Naira",
+      "5,000,000,000 Naira"
+    ],
+    "answer": "500,000,000 Naira"
+  },
+  {
+    "question": "Which is greater between CMXCVIII (998) and 948, and by how much?",
+    "options": [
+      "948 is greater by 50",
+      "CMXCVIII is greater by 50",
+      "CMXCVIII is greater by 40",
+      "948 is greater by 60"
+    ],
+    "answer": "CMXCVIII is greater by 50"
+  },
+  {
+    "question": "Write the number 12,000,000 in words.",
+    "options": [
+      "Twelve million",
+      "One hundred and twenty million",
+      "One million, two hundred thousand",
+      "Twelve thousand"
+    ],
+    "answer": "Twelve million"
+  },
+  {
+    "question": "What is the Arabic numeral for the Roman numeral MMC?",
+    "options": [
+      "2100",
+      "2000",
+      "1200",
+      "2200"
+    ],
+    "answer": "2100"
+  },
+  {
+    "question": "List all the factors of 18.",
+    "options": [
+      "1, 2, 3, 6, 9, 18",
+      "1, 2, 9, 18",
+      "1, 3, 6, 18",
+      "2, 3, 6, 9"
+    ],
+    "answer": "1, 2, 3, 6, 9, 18"
+  },
+  {
+    "question": "Express nine hundred and forty-seven in Roman numerals.",
+    "options": [
+      "CMXLVII",
+      "CMXXXVII",
+      "DCXLVII",
+      "MCXLVII"
+    ],
+    "answer": "CMXLVII"
+  },
+  {
+    "question": "Pam wrote N43,000,000.00 instead of four hundred and three million Naira (N403,000,000.00) on a bank draft. What is the difference between the two amounts?",
+    "options": [
+      "N360,000,000.00",
+      "N300,000,000.00",
+      "N400,000,000.00",
+      "N350,000,000.00"
+    ],
+    "answer": "N360,000,000.00"
+  },
+  {
+    "question": "In a local primary school, there are 29 teaching staff, 11 non-teaching staff, and 450 pupils. How many people are there in the school altogether?",
+    "options": [
+      "490",
+      "480",
+      "500",
+      "470"
+    ],
+    "answer": "490"
+  },
+  {
+    "question": "Simplify the expression 398 + CDXLIV (444) - CLXXIII (173) and leave your final answer in Roman numerals.",
+    "options": [
+      "DCXCIX (699)",
+      "DCLXIX (669)",
+      "DCIL (649)",
+      "DCCXIX (719)"
+    ],
+    "answer": "DCXCIX (699)"
+  },
+  {
+    "question": "A factory packaging unit prepares inventory batches corresponding to the factors of 45 and 60. Find the difference between the number of factors of 45 (6 factors) and the factors of 60 (12 factors).",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Out of 680,950 vehicles imported into the country, 444,000 are cars and the rest are lorries. How many lorries were imported?",
+    "options": [
+      "236,950",
+      "246,950",
+      "226,950",
+      "235,950"
+    ],
+    "answer": "236,950"
+  },
+  {
+    "question": "What is the place value of the circled numeral in 4[8]26 (representing 800)?",
+    "options": [
+      "800",
+      "80",
+      "8,000",
+      "8"
+    ],
+    "answer": "800"
+  },
+  {
+    "question": "What is the HCF of 24 and 36?",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is the LCM of 6 and 8?",
+    "options": [
+      "24",
+      "48",
+      "12",
+      "36"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "Write 5,040,200 in words.",
+    "options": [
+      "Five million, forty thousand, two hundred",
+      "Five million, four hundred thousand, two",
+      "Fifty million, forty thousand, two hundred",
+      "Five million, four thousand, two hundred"
+    ],
+    "answer": "Five million, forty thousand, two hundred"
+  },
+  {
+    "question": "What is the Roman numeral for 99?",
+    "options": [
+      "XCIX",
+      "IC",
+      "XCVIII",
+      "VC"
+    ],
+    "answer": "XCIX"
+  },
+  {
+    "question": "Add 1,234,567 and 765,433.",
+    "options": [
+      "2,000,000",
+      "1,999,999",
+      "2,000,001",
+      "1,900,000"
+    ],
+    "answer": "2,000,000"
+  },
+  {
+    "question": "Subtract 458,210 from 1,000,000.",
+    "options": [
+      "541,790",
+      "551,790",
+      "541,890",
+      "641,790"
+    ],
+    "answer": "541,790"
+  },
+  {
+    "question": "What is the value of 5 in 8,531,204?",
+    "options": [
+      "500,000",
+      "50,000",
+      "5,000,000",
+      "5,000"
+    ],
+    "answer": "500,000"
+  },
+  {
+    "question": "Find the sum of all prime numbers between 1 and 10.",
+    "options": [
+      "17",
+      "18",
+      "15",
+      "10"
+    ],
+    "answer": "17"
+  },
+  {
+    "question": "What is the smallest six-digit number?",
+    "options": [
+      "100,000",
+      "999,999",
+      "10,000",
+      "1,000,000"
+    ],
+    "answer": "100,000"
+  },
+  {
+    "question": "Write the Arabic numeral for MDCCLXXVI.",
+    "options": [
+      "1776",
+      "1876",
+      "1676",
+      "1756"
+    ],
+    "answer": "1776"
+  },
+  {
+    "question": "How many lines of symmetry does a rectangle have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is the sum of the interior angles in a rectangle?",
+    "options": [
+      "180 degrees",
+      "270 degrees",
+      "360 degrees",
+      "540 degrees"
+    ],
+    "answer": "360 degrees"
+  },
+  {
+    "question": "How many lines of symmetry does a standard parallelogram have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "How many lines of symmetry does a square possess?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is true regarding the diagonals of a square?",
+    "options": [
+      "They do not intersect",
+      "They bisect each other at right angles",
+      "They are unequal in length",
+      "They are parallel"
+    ],
+    "answer": "They bisect each other at right angles"
+  },
+  {
+    "question": "What is transactional sum of the interior angles in a rhombus?",
+    "options": [
+      "180 degrees",
+      "270 degrees",
+      "360 degrees",
+      "720 degrees"
+    ],
+    "answer": "360 degrees"
+  },
+  {
+    "question": "How many lines of symmetry does a rhombus have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What type of angles are formed by the intersection of the diagonals of a rhombus at the centre?",
+    "options": [
+      "Acute angles",
+      "Obtuse angles",
+      "Right angles",
+      "Reflex angles"
+    ],
+    "answer": "Right angles"
+  },
+  {
+    "question": "Which property is shared by both a rectangle and a parallelogram?",
+    "options": [
+      "All four sides are equal",
+      "Opposite sides are parallel",
+      "It has four right angles",
+      "It has two lines of symmetry"
+    ],
+    "answer": "Opposite sides are parallel"
+  },
+  {
+    "question": "How many right angles does a square have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "State two properties of a rectangle regarding its sides.",
+    "options": [
+      "Opposite sides are equal and parallel",
+      "All four sides are equal",
+      "Adjacent sides are unequal and non-parallel",
+      "Sides intersect at 45 degrees"
+    ],
+    "answer": "Opposite sides are equal and parallel"
+  },
+  {
+    "question": "How many right angles are found in a rectangle?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What can you say about the lengths of the four sides of a square?",
+    "options": [
+      "All four sides are equal in length",
+      "Only opposite sides are equal",
+      "All sides are different",
+      "Two sides are long and two are short"
+    ],
+    "answer": "All four sides are equal in length"
+  },
+  {
+    "question": "Are the opposite sides of a rhombus parallel?",
+    "options": [
+      "Yes",
+      "No",
+      "Only adjacent sides",
+      "They intersect"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "A rectangular garden has a length of 12 meters and a width of 7 meters. What are the lengths of the other two sides?",
+    "options": [
+      "12 meters and 7 meters",
+      "6 meters and 3.5 meters",
+      "24 meters and 14 meters",
+      "14 meters and 12 meters"
+    ],
+    "answer": "12 meters and 7 meters"
+  },
+  {
+    "question": "A square tabletop has sides of equal length. If one side measures 9 cm, find the total distance around the square (its perimeter).",
+    "options": [
+      "36 cm",
+      "18 cm",
+      "81 cm",
+      "27 cm"
+    ],
+    "answer": "36 cm"
+  },
+  {
+    "question": "A rhombus is constructed with a side length of 6 cm. What is the total length of all its four sides combined?",
+    "options": [
+      "24 cm",
+      "12 cm",
+      "36 cm",
+      "18 cm"
+    ],
+    "answer": "24 cm"
+  },
+  {
+    "question": "A square has 4 lines of symmetry and a rhombus has 2 lines of symmetry. What is the difference between their numbers of lines of symmetry?",
+    "options": [
+      "2",
+      "1",
+      "6",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "When a square frame is pushed sideways to transform into a rhombus, what happens to its four right angles?",
+    "options": [
+      "They change from 90 degrees to acute and obtuse angles",
+      "They remain right angles",
+      "They all become 180 degrees",
+      "They disappear entirely"
+    ],
+    "answer": "They change from 90 degrees to acute and obtuse angles"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 15 cm and width 10 cm?",
+    "options": [
+      "50 cm",
+      "25 cm",
+      "150 cm",
+      "40 cm"
+    ],
+    "answer": "50 cm"
+  },
+  {
+    "question": "How many sides does a quadrilateral have?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is the area of a square with side length 8 cm?",
+    "options": [
+      "64 sq cm",
+      "32 sq cm",
+      "16 sq cm",
+      "24 sq cm"
+    ],
+    "answer": "64 sq cm"
+  },
+  {
+    "question": "Which polygon has four equal sides and four right angles?",
+    "options": [
+      "Square",
+      "Rhombus",
+      "Parallelogram",
+      "Trapezium"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "Which quadrilateral has all four sides equal but no right angles?",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Square",
+      "Trapezium"
+    ],
+    "answer": "Rhombus"
+  },
+  {
+    "question": "How many lines of symmetry does an equilateral triangle have?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the sum of angles in a triangle?",
+    "options": [
+      "180 degrees",
+      "360 degrees",
+      "90 degrees",
+      "270 degrees"
+    ],
+    "answer": "180 degrees"
+  },
+  {
+    "question": "What do you call a four-sided plane figure?",
+    "options": [
+      "Quadrilateral",
+      "Triangle",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "answer": "Quadrilateral"
+  },
+  {
+    "question": "A shape has opposite sides equal and parallel, and four right angles. What shape is it?",
+    "options": [
+      "Rectangle",
+      "Rhombus",
+      "Kite",
+      "Trapezium"
+    ],
+    "answer": "Rectangle"
+  },
+  {
+    "question": "How many diagonals does a rectangle have?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Are the diagonals of a rectangle equal in length?",
+    "options": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Cannot be determined"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Find the missing number in the sequence: 5, 10, 15, 20, ____.",
+    "options": [
+      "25",
+      "30",
+      "22",
+      "24"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Sample: (3, 4 -> 12), (5, 2 -> 10). Find: (6, 3 -> ____).",
+    "options": [
+      "18",
+      "9",
+      "3",
+      "12"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "Sample: (10, 4 -> 6), (15, 5 -> 10). Find: (20, 8 -> ____).",
+    "options": [
+      "12",
+      "28",
+      "16",
+      "10"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Find the missing number: 1, 4, 9, 16, ____.",
+    "options": [
+      "25",
+      "20",
+      "24",
+      "36"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Sample: (2 + 3 = 10), (4 + 1 = 10). Find: (3 + 4 = ____).",
+    "options": [
+      "14",
+      "7",
+      "12",
+      "10"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "Find the missing number in the pattern: 100, 90, 80, 70, ____.",
+    "options": [
+      "60",
+      "50",
+      "65",
+      "75"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "Sample: (8 / 2 = 4), (12 / 3 = 4). Find: (20 / ____ = 4).",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Find the next number: 3, 6, 12, 24, ____.",
+    "options": [
+      "48",
+      "36",
+      "30",
+      "40"
+    ],
+    "answer": "48"
+  },
+  {
+    "question": "Sample: [4, 5 -> 9], [7, 8 -> 15]. Find: [6, 9 -> ____].",
+    "options": [
+      "15",
+      "54",
+      "3",
+      "14"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Sample: [5 -> 25], [6 -> 36]. Find: [8 -> ____].",
+    "options": [
+      "64",
+      "16",
+      "48",
+      "32"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "Find the missing number: 2, 5, 8, 11, ____.",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "12"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "Sample: (12, 3 -> 4), (18, 6 -> 3). Find: (24, 4 -> ____).",
+    "options": [
+      "6",
+      "8",
+      "20",
+      "28"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "If A = 1, B = 2, C = 3, what is the value of A + B + C?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Sample: (2 * 3 + 1 = 7), (4 * 2 + 1 = 9). Find: (3 * 5 + 1 = ____).",
+    "options": [
+      "16",
+      "15",
+      "8",
+      "18"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "Find the missing number: 50, 45, 40, 35, ____.",
+    "options": [
+      "30",
+      "25",
+      "32",
+      "20"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Sample: [10, 2 -> 20], [5, 3 -> 15]. Find: [7, ____ -> 28].",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the odd number out: 2, 4, 6, 7, 8.",
+    "options": [
+      "7",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Sample: (9 -> 3), (16 -> 4), (25 -> ____).",
+    "options": [
+      "5",
+      "6",
+      "10",
+      "12"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Find the missing number: 1, 3, 5, 7, ____.",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "11"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Sample: [3, 4, 5 -> 12], [2, 6, 1 -> 9]. Find: [4, 4, 4 -> ____].",
+    "options": [
+      "12",
+      "16",
+      "8",
+      "64"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "If 1 pen costs 50 Naira, how much do 4 pens cost?",
+    "options": [
+      "200 Naira",
+      "150 Naira",
+      "250 Naira",
+      "100 Naira"
+    ],
+    "answer": "200 Naira"
+  },
+  {
+    "question": "Sample: (20 - 5 = 15), (30 - 10 = 20). Find: (40 - ____ = 25).",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "5"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Find the next number: 10, 20, 30, 40, ____.",
+    "options": [
+      "50",
+      "45",
+      "60",
+      "55"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "Sample: (2, 8 -> 10), (5, 7 -> 12). Find: (____, 6 -> 15).",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Which number is half of 48?",
+    "options": [
+      "24",
+      "22",
+      "26",
+      "14"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "Sample: (3 -> 6), (7 -> 14), (9 -> ____).",
+    "options": [
+      "18",
+      "12",
+      "27",
+      "16"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "Find the missing number: 64, 32, 16, 8, ____.",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Sample: [10, 5 -> 2], [18, 3 -> 6]. Find: [21, 7 -> ____].",
+    "options": [
+      "3",
+      "14",
+      "28",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "How many days are there in 3 weeks?",
+    "options": [
+      "21",
+      "14",
+      "28",
+      "7"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "Find the missing number: 7, 14, 21, 28, ____.",
+    "options": [
+      "35",
+      "30",
+      "42",
+      "32"
+    ],
+    "answer": "35"
+  }
+]

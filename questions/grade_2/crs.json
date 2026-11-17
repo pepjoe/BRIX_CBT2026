@@ -1,22 +1,202 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Who were the parents of Jacob?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Abraham and Sarah",
+      "Isaac and Rebekah",
+      "Amram and Jochebed",
+      "Potiphar and his wife"
     ],
-    "answer": "A"
+    "answer": "Isaac and Rebekah"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is the meaning of the name \"Jacob\"?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Drawn out of water",
+      "Father of many nations",
+      "Supplanter",
+      "Prince with God"
     ],
-    "answer": "B"
+    "answer": "Supplanter"
+  },
+  {
+    "question": "What new name did Jacob receive after wrestling with an angel?",
+    "options": [
+      "Judah",
+      "Esau",
+      "Israel",
+      "Reuben"
+    ],
+    "answer": "Israel"
+  },
+  {
+    "question": "What did Jacob exchange for his brother Esau’s birthright?",
+    "options": [
+      "A coloured coat",
+      "A bowl of porridge",
+      "Sheaves of wheat",
+      "Silver coins"
+    ],
+    "answer": "A bowl of porridge"
+  },
+  {
+    "question": "Who helped Jacob deceive his father Isaac to receive Esau's blessing?",
+    "options": [
+      "Sarah",
+      "Rachel",
+      "Rebekah",
+      "Miriam"
+    ],
+    "answer": "Rebekah"
+  },
+  {
+    "question": "How many sons did Jacob have?",
+    "options": [
+      "Ten",
+      "Eleven",
+      "Twelve",
+      "Thirteen"
+    ],
+    "answer": "Twelve"
+  },
+  {
+    "question": "Who was the firstborn son of Jacob?",
+    "options": [
+      "Joseph",
+      "Judah",
+      "Benjamin",
+      "Reuben"
+    ],
+    "answer": "Reuben"
+  },
+  {
+    "question": "Who was the twelfth (last) son of Jacob listed in the notes?",
+    "options": [
+      "Levi",
+      "Benjamin",
+      "Simeon",
+      "Joseph"
+    ],
+    "answer": "Benjamin"
+  },
+  {
+    "question": "Who was Joseph's mother?",
+    "options": [
+      "Rebekah",
+      "Sarah",
+      "Rachel",
+      "Jochebed"
+    ],
+    "answer": "Rachel"
+  },
+  {
+    "question": "What special gift did Jacob give to Joseph that made his brothers jealous?",
+    "options": [
+      "A waterproof basket",
+      "A coloured coat",
+      "A bundle of wheat",
+      "A gold ring"
+    ],
+    "answer": "A coloured coat"
+  },
+  {
+    "question": "In Joseph’s first dream, what bowed down to him?",
+    "options": [
+      "The sun, moon, and stars",
+      "His brothers' bundles of wheat",
+      "King Pharaoh and his ministers",
+      "Eleven sheep"
+    ],
+    "answer": "His brothers' bundles of wheat"
+  },
+  {
+    "question": "In Joseph's second dream, how many stars bowed down to him?",
+    "options": [
+      "Seven",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "answer": "Eleven"
+  },
+  {
+    "question": "Who was Potiphar?",
+    "options": [
+      "Joseph's older brother",
+      "One of King Pharaoh's ministers",
+      "Moses' father",
+      "A Hebrew slave"
+    ],
+    "answer": "One of King Pharaoh's ministers"
+  },
+  {
+    "question": "Why was Joseph sent to prison in Egypt?",
+    "options": [
+      "He stole food from the palace",
+      "He was lied upon by Potiphar's wife",
+      "He refused to bow to Pharaoh",
+      "He fought with his brothers"
+    ],
+    "answer": "He was lied upon by Potiphar's wife"
+  },
+  {
+    "question": "What position was Joseph promoted to after correctly interpreting King Pharaoh's dreams?",
+    "options": [
+      "Chief Guard",
+      "Prime Minister",
+      "Master of the House",
+      "High Priest"
+    ],
+    "answer": "Prime Minister"
+  },
+  {
+    "question": "Why did Joseph’s brothers travel to Egypt?",
+    "options": [
+      "To rescue Joseph from prison",
+      "To visit Potiphar",
+      "In search of food",
+      "To attend a wedding"
+    ],
+    "answer": "In search of food"
+  },
+  {
+    "question": "Who were the biological parents of Moses?",
+    "options": [
+      "Isaac and Rebekah",
+      "Jacob and Rachel",
+      "Amram and Jochebed",
+      "Pharaoh and his daughter"
+    ],
+    "answer": "Amram and Jochebed"
+  },
+  {
+    "question": "What did Jochebed use to coat the small basket to make it waterproof?",
+    "options": [
+      "Clay and mud",
+      "Tar and pitch",
+      "Oil and wax",
+      "Leaves and grass"
+    ],
+    "answer": "Tar and pitch"
+  },
+  {
+    "question": "Who stood at a distance to watch what would happen to baby Moses in the river?",
+    "options": [
+      "Jochebed",
+      "Rebekah",
+      "Miriam",
+      "Rachel"
+    ],
+    "answer": "Miriam"
+  },
+  {
+    "question": "Who named the baby \"Moses\", and what does the name mean?",
+    "options": [
+      "Jochebed; meaning \"Fine child\"",
+      "Pharaoh's daughter; meaning \"Drawn out of water\"",
+      "Miriam; meaning \"Saved from the river\"",
+      "Amram; meaning \"Levite son\""
+    ],
+    "answer": "Pharaoh's daughter; meaning \"Drawn out of water\""
   }
 ]

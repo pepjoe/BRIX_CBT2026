@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What was Paul's original name before he became an apostle of Christ?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Barnabas",
+      "Saul",
+      "Stephen",
+      "Gamaliel"
     ],
-    "answer": "A"
+    "answer": "Saul"
   },
   {
-    "question": "Sample Question 2",
+    "question": "In which city was Paul born?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Jerusalem",
+      "Antioch",
+      "Tarsus in Cilicia",
+      "Damascus"
     ],
-    "answer": "B"
+    "answer": "Tarsus in Cilicia"
+  },
+  {
+    "question": "Under which respected teacher of the Jewish Law did Paul receive his education in Jerusalem?",
+    "options": [
+      "Gamaliel",
+      "Sergius Paulus",
+      "Elymas",
+      "Barnabas"
+    ],
+    "answer": "Gamaliel"
+  },
+  {
+    "question": "To which Jewish religious group did Paul belong before his conversion?",
+    "options": [
+      "Sadducee",
+      "Pharisee",
+      "Levite",
+      "Zealot"
+    ],
+    "answer": "Pharisee"
+  },
+  {
+    "question": "Which church sent out Paul and Barnabas on their first missionary journey?",
+    "options": [
+      "Church at Jerusalem",
+      "Church at Antioch",
+      "Church at Lystra",
+      "Church at Cyprus"
+    ],
+    "answer": "Church at Antioch"
+  },
+  {
+    "question": "What was the name of the Jewish sorcerer who opposed Paul and Barnabas in Cyprus?",
+    "options": [
+      "Elymas",
+      "Gamaliel",
+      "Stephen",
+      "Sergius Paulus"
+    ],
+    "answer": "Elymas"
+  },
+  {
+    "question": "Who was the Roman proconsul in Cyprus who believed the teaching about the Lord?",
+    "options": [
+      "Pontius Pilate",
+      "Sergius Paulus",
+      "Festus",
+      "Agrippa"
+    ],
+    "answer": "Sergius Paulus"
+  },
+  {
+    "question": "In which city did Paul heal a man who had never walked?",
+    "options": [
+      "Salamis",
+      "Paphos",
+      "Lystra",
+      "Tarsus"
+    ],
+    "answer": "Lystra"
+  },
+  {
+    "question": "What did the people of Lystra mistakenly think Paul and Barnabas were after the miracle?",
+    "options": [
+      "Prophets",
+      "Angels",
+      "Gods",
+      "Kings"
+    ],
+    "answer": "Gods"
+  },
+  {
+    "question": "What form of physical opposition did Paul face from opponents at Lystra?",
+    "options": [
+      "He was imprisoned",
+      "He was stoned and dragged outside the city",
+      "He was exiled to an island",
+      "He was fined heavily"
+    ],
+    "answer": "He was stoned and dragged outside the city"
+  },
+  {
+    "question": "Which Bible chapters record the events of Paul's first missionary journey?",
+    "options": [
+      "Acts 1 & 2",
+      "Acts 7 & 8",
+      "Acts 13 & 14",
+      "Acts 27 & 28"
+    ],
+    "answer": "Acts 13 & 14"
+  },
+  {
+    "question": "Whose stoning is Saul first mentioned in connection with in Acts 7:58?",
+    "options": [
+      "Peter",
+      "Stephen",
+      "James",
+      "John"
+    ],
+    "answer": "Stephen"
+  },
+  {
+    "question": "How did Saul treat the early Church before his conversion?",
+    "options": [
+      "He protected and fed them",
+      "He ignored their gatherings",
+      "He persecuted them and took believers to prison",
+      "He funded their travels"
+    ],
+    "answer": "He persecuted them and took believers to prison"
+  },
+  {
+    "question": "To which tribe of Israel did Paul belong?",
+    "options": [
+      "Tribe of Judah",
+      "Tribe of Benjamin",
+      "Tribe of Levi",
+      "Tribe of Ephraim"
+    ],
+    "answer": "Tribe of Benjamin"
+  },
+  {
+    "question": "What did Paul and Barnabas do after facing opposition and strengthening the believers?",
+    "options": [
+      "Stopped preaching permanently",
+      "Returned to Antioch and reported what God had done",
+      "Fled to Rome",
+      "Started a business"
+    ],
+    "answer": "Returned to Antioch and reported what God had done"
+  },
+  {
+    "question": "What did the people who stoned Stephen do with their clothes according to Acts 7:58?",
+    "options": [
+      "Burned them",
+      "Laid them at Saul's feet",
+      "Gave them to the poor",
+      "Sold them"
+    ],
+    "answer": "Laid them at Saul's feet"
+  },
+  {
+    "question": "Where did Paul and Barnabas travel to preach immediately after leaving Salamis in Cyprus?",
+    "options": [
+      "Paphos",
+      "Nazareth",
+      "Galilee",
+      "Samaria"
+    ],
+    "answer": "Paphos"
+  },
+  {
+    "question": "What did Paul do after being stoned, dragged out of Lystra, and left for dead?",
+    "options": [
+      "He gave up his mission",
+      "He got up and continued his work",
+      "He complained to the Romans",
+      "He returned home forever"
+    ],
+    "answer": "He got up and continued his work"
+  },
+  {
+    "question": "Which of the following is a moral lesson from Paul's early life?",
+    "options": [
+      "We should respect the rights and dignity of others",
+      "We should support unjust treatment",
+      "We must hate people with different beliefs",
+      "We should never change our minds"
+    ],
+    "answer": "We should respect the rights and dignity of others"
+  },
+  {
+    "question": "What directed the church at Antioch to set apart Paul and Barnabas for missionary work?",
+    "options": [
+      "A Roman decree",
+      "The Holy Spirit",
+      "A financial audit",
+      "Family tradition"
+    ],
+    "answer": "The Holy Spirit"
+  },
+  {
+    "question": "Paul was born in the ancient city of ________________ in Cilicia.",
+    "options": [
+      "Jerusalem",
+      "Tarsus",
+      "Antioch",
+      "Rome"
+    ],
+    "answer": "Tarsus"
+  },
+  {
+    "question": "At Lystra, Paul healed a man who had never been able to ________________.",
+    "options": [
+      "See",
+      "Hear",
+      "Walk",
+      "Speak"
+    ],
+    "answer": "Walk"
+  },
+  {
+    "question": "Saul went from house to house dragging Christian believers off to ________________.",
+    "options": [
+      "School",
+      "Prison",
+      "Market",
+      "Synagogue"
+    ],
+    "answer": "Prison"
+  },
+  {
+    "question": "The Holy Spirit directed the church to set apart Paul and Barnabas while they were fasting and ________________.",
+    "options": [
+      "Sleeping",
+      "Praying",
+      "Working",
+      "Trading"
+    ],
+    "answer": "Praying"
+  },
+  {
+    "question": "At the end of their first mission, Paul and Barnabas returned to Antioch to report what ________________ had done.",
+    "options": [
+      "The King",
+      "God",
+      "The Romans",
+      "The Council"
+    ],
+    "answer": "God"
+  },
+  {
+    "question": "Who was Paul's main traveling companion on his first missionary journey?",
+    "options": [
+      "Peter",
+      "Barnabas",
+      "Silas",
+      "Timothy"
+    ],
+    "answer": "Barnabas"
+  },
+  {
+    "question": "Which Holy Spirit-inspired action guided Paul and Barnabas into their mission work?",
+    "options": [
+      "Fasting and praying",
+      "Dancing",
+      "Debating",
+      "Tax collection"
+    ],
+    "answer": "Fasting and praying"
+  },
+  {
+    "question": "In which island did Paul and Barnabas encounter Elymas the sorcerer?",
+    "options": [
+      "Cyprus",
+      "Malta",
+      "Crete",
+      "Patmos"
+    ],
+    "answer": "Cyprus"
+  },
+  {
+    "question": "What did Paul and Barnabas refuse to accept when the people of Lystra called them gods?",
+    "options": [
+      "Worship and sacrifice",
+      "Food and water",
+      "Shelter",
+      "Money"
+    ],
+    "answer": "Worship and sacrifice"
+  },
+  {
+    "question": "What virtue did Paul and Barnabas display when they faced difficulties during their mission?",
+    "options": [
+      "Fear",
+      "Perseverance and courage",
+      "Anger",
+      "Doubts"
+    ],
+    "answer": "Perseverance and courage"
   }
 ]
