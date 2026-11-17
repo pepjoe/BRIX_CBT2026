@@ -1,360 +1,302 @@
 [
   {
-    "question": "What is a large group of musicians playing Western instruments together called?",
+    "question": "How many categories of time signature are there?",
     "options": [
-        "A choir", 
-        "An orchestra", 
-        "A band"
+      "One",
+      "Two",
+      "Three",
+      "Four"
     ],
-    "answer": "An orchestra"
+    "answer": "Two"
   },
   {
-    "question": "Western orchestral instruments are divided into how many main families?",
+    "question": "What are the two categories of time signature?",
     "options": [
-        "Two", 
-        "Three", 
-        "Four"
+      "Major and Minor",
+      "Fast and Slow",
+      "Simple and Compound",
+      "Duple and Triple"
     ],
-    "answer": "Four"
+    "answer": "Simple and Compound"
   },
   {
-    "question": "Which family produces sound by drawing a bow across strings or plucking them?",
+    "question": "What are the usual upper figures in simple time?",
     "options": [
-        "Percussion", 
-        "Brass", 
-        "Strings"
+      "2, 3 and 4",
+      "5, 6 and 7",
+      "1, 5 and 8",
+      "3, 6 and 9"
     ],
-    "answer": "Strings"
+    "answer": "2, 3 and 4"
   },
   {
-    "question": "Which of these instruments belongs to the string family?",
+    "question": "The lower figure in simple time is usually ______.",
     "options": [
-        "Flute", 
-        "Violin", 
-        "Trumpet"
+      "1, 3 and 5",
+      "2, 4 and 8",
+      "3, 5 and 7",
+      "4, 6 and 9"
     ],
-    "answer": "Violin"
+    "answer": "2, 4 and 8"
   },
   {
-    "question": "What is the largest and lowest-pitched instrument in the string family?",
+    "question": "How many types of simple time are there?",
     "options": [
-        "Viola", 
-        "Cello", 
-        "Double Bass"
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ],
-    "answer": "Double Bass"
+    "answer": "Three"
   },
   {
-    "question": "Woodwind instruments produce sound when a musician blows air across a mouthpiece or a thin piece of wood called a ______.",
+    "question": "Which of the following is NOT a type of simple time?",
     "options": [
-        "string", 
-        "reed", 
-        "valve"
+      "Simple duple",
+      "Simple triple",
+      "Simple quadruple",
+      "Compound duple"
     ],
-    "answer": "reed"
+    "answer": "Compound duple"
   },
   {
-    "question": "Which of these instruments is a member of the woodwind family?",
+    "question": "What does the word duple mean?",
     "options": [
-        "Clarinet", 
-        "Trombone", 
-        "Harp"
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ],
-    "answer": "Clarinet"
+    "answer": "Two"
   },
   {
-    "question": "Brass family instruments are made of ______.",
+    "question": "Simple duple time is when the accent occurs once every ______ beats.",
     "options": [
-        "wood", 
-        "plastic", 
-        "shiny metal"
+      "One",
+      "Two",
+      "Three",
+      "Four"
     ],
-    "answer": "shiny metal"
+    "answer": "Two"
   },
   {
-    "question": "How do brass players produce sound on their instruments?",
+    "question": "In simple duple time, the music moves in ______.",
     "options": [
-        "By plucking", 
-        "By buzzing their lips", 
-        "By shaking them"
+      "Twos",
+      "Threes",
+      "Fours",
+      "Fives"
     ],
-    "answer": "By buzzing their lips"
+    "answer": "Twos"
   },
   {
-    "question": "Which of these is a brass instrument?",
+    "question": "What is the upper number in a simple duple time signature?",
     "options": [
-        "Oboe", 
-        "Trumpet", 
-        "Violin"
+      "3",
+      "4",
+      "2",
+      "6"
     ],
-    "answer": "Trumpet"
+    "answer": "2"
   },
   {
-    "question": "The family of instruments that you hit, shake, scrape, or rattle is called the ______ family.",
+    "question": "Which of the following is a simple duple time signature?",
     "options": [
-        "woodwind", 
-        "percussion", 
-        "string"
-    ],
-    "answer": "percussion"
-  },
-  {
-    "question": "What is the primary role of the percussion family in an orchestra?",
-    "options": [
-        "To play the highest melody", 
-        "To keep the rhythm and beat", 
-        "To substitute for strings"
-    ],
-    "answer": "To keep the rhythm and beat"
-  },
-  {
-    "question": "Which instrument belongs to the percussion family?",
-    "options": [
-        "French Horn", 
-        "Bassoon", 
-        "Xylophone"
-    ],
-    "answer": "Xylophone"
-  },
-  {
-    "question": "Which instrument uses a bow to create a sustained vibrating sound?",
-    "options": [
-        "Cello", 
-        "Flute", 
-        "Drums"
-    ],
-    "answer": "Cello"
-  },
-  {
-    "question": "The unique quality of sound that helps us identify a specific instrument is called ______.",
-    "options": [
-        "pitch", 
-        "volume", 
-        "timbre"
-    ],
-    "answer": "timbre"
-  },
-  {
-    "question": "In African music, instruments are classified based on ______.",
-    "options": [
-        "their color", 
-        "how they produce sound", 
-        "their size"
-    ],
-    "answer": "how they produce sound"
-  },
-  {
-    "question": "What are instruments that produce sound through a stretched animal skin called?",
-    "options": [
-        "Idiophones", 
-        "Chordophones", 
-        "Membranophones"
-    ],
-    "answer": "Membranophones"
-  },
-  {
-    "question": "Which of the following is an example of a membranophone?",
-    "options": [
-        "Talking drum", 
-        "Flute", 
-        "Gong"
-    ],
-    "answer": "Talking drum"
-  },
-  {
-    "question": "Instruments whose solid bodies vibrate to make a sound when hit or shaken are called ______.",
-    "options": [
-        "idiophones", 
-        "aerophones", 
-        "chordophones"
-    ],
-    "answer": "idiophones"
-  },
-  {
-    "question": "The local metal gong called \"Agogo\" belongs to which category?",
-    "options": [
-        "Membranophone", 
-        "Idiophone", 
-        "Aerophones"
-    ],
-    "answer": "Idiophone"
-  },
-  {
-    "question": "What is the local name for the beaded gourd shaker used widely in Nigeria?",
-    "options": [
-        "Oja", 
-        "Goje", 
-        "Shekere"
-    ],
-    "answer": "Shekere"
-  },
-  {
-    "question": "Instruments that use vibrating strings to make music are known as ______.",
-    "options": [
-        "aerophones", 
-        "chordophones", 
-        "idiophones"
-    ],
-    "answer": "chordophones"
-  },
-  {
-    "question": "Which of these is a traditional African stringed instrument?",
-    "options": [
-        "Goje", 
-        "Kakaki", 
-        "Djembe"
-    ],
-    "answer": "Goje"
-  },
-  {
-    "question": "The Kora is a traditional African harp that belongs to the ______ family.",
-    "options": [
-        "membranophone", 
-        "chordophone", 
-        "idiophone"
-    ],
-    "answer": "chordophone"
-  },
-  {
-    "question": "Instruments that produce sound by vibrating columns of blown air are called ______.",
-    "options": [
-        "aerophones", 
-        "membranophones", 
-        "idiophones"
-    ],
-    "answer": "aerophones"
-  },
-  {
-    "question": "What is the name of the traditional wooden flute used in southeastern Nigeria?",
-    "options": [
-        "Oja", 
-        "Gangan", 
-        "Balafon"
-    ],
-    "answer": "Oja"
-  },
-  {
-    "question": "The Kakaki is a very long metal horn used predominantly in which region of Nigeria?",
-    "options": [
-        "Eastern", 
-        "Western", 
-        "Northern"
-    ],
-    "answer": "Northern"
-  },
-  {
-    "question": "Which instrument is an African traditional wooden xylophone?",
-    "options": [
-        "Balafon", 
-        "Kalimba", 
-        "Agogo"
-    ],
-    "answer": "Balafon"
-  },
-  {
-    "question": "The hand-held thumb piano that produces clear metallic notes is called a ______.",
-    "options": [
-        "Goje", 
-        "Kalimba", 
-        "Djembe"
-    ],
-    "answer": "Kalimba"
-  },
-  {
-    "question": "Traditional African music instruments are fundamentally linked with ______ life.",
-    "options": [
-        "isolated", 
-        "community", 
-        "electronic"
-    ],
-    "answer": "community"
-  },
-  {
-    "question": "What is often called the \"heartbeat\" or pulse of music?",
-    "options": [
-        "Melody", 
-        "Lyrics", 
-        "Rhythm"
-    ],
-    "answer": "Rhythm"
-  },
-  {
-    "question": "Rhythm is a structured pattern of long and short sounds combined with ______.",
-    "options": [
-        "noise", 
-        "silences", 
-        "shouting"
-    ],
-    "answer": "silences"
-  },
-  {
-    "question": "Where are time signatures located in a piece of sheet music?",
-    "options": [
-        "At the very end", 
-        "At the beginning of the staff", 
-        "Underneath the lines"
-    ],
-    "answer": "At the beginning of the staff"
-  },
-  {
-    "question": "What does a time signature look like?",
-    "options": [
-        "Two stacked numbers", 
-        "A letter and a number", 
-        "A wavy line"
-    ],
-    "answer": "Two stacked numbers"
-  },
-  {
-    "question": "What does the top number of a time signature indicate?",
-    "options": [
-        "How loud to play", "How many beats are in each bar", 
-        "How many instruments are needed"
-    ],
-    "answer": "How many beats are in each bar"
-  },
-  {
-    "question": "What does the bottom number of a time signature indicate?",
-    "options": [
-        "The type of note that gets one beat", 
-        "The speed of the song", "The duration of the scale"
-    ],
-    "answer": "The type of note that gets one beat"
-  },
-  {
-    "question": "In a time signature, what type of note does the bottom number \"4\" stand for?",
-    "options": [
-        "Half note", 
-        "Quarter note (crotchet)", 
-        "Whole note"
-    ],
-    "answer": "Quarter note (crotchet)"
-  },
-  {
-    "question": "Which time signature is widely known as \"March Time\"?",
-    "options": [
-        "4/4", 
-        "3/4", 
-        "2/4"
+      "3/4",
+      "2/4",
+      "4/4",
+      "6/8"
     ],
     "answer": "2/4"
   },
   {
-    "question": "How do you count beats in a standard 2/4 time signature measure?",
+    "question": "What is another name for 2/2 time?",
     "options": [
-        "1-2-3", 
-        "1-2", 
-        "1-2-3-4"
+      "Common time",
+      "Cut time",
+      "Triple time",
+      "Compound time"
     ],
-    "answer": "1-2"
+    "answer": "Cut time"
   },
   {
-    "question": "What is another name for a 4/4 time signature?",
+    "question": "Simple triple time is when the accent occurs once every ______ beats.",
     "options": [
-        "Triple time", 
-        "Common time", 
-        "Binary time"
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What is the upper number in simple triple time?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is an example of simple triple time?",
+    "options": [
+      "2/4",
+      "3/4",
+      "4/4",
+      "6/8"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "question": "Which of these is NOT a simple triple time signature?",
+    "options": [
+      "3/2",
+      "3/4",
+      "3/8",
+      "4/4"
+    ],
+    "answer": "4/4"
+  },
+  {
+    "question": "Simple quadruple time is when the accent occurs every ______ beats.",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "What is the upper number in simple quadruple time?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is the most common time signature in music?",
+    "options": [
+      "2/4",
+      "3/4",
+      "4/4",
+      "6/8"
+    ],
+    "answer": "4/4"
+  },
+  {
+    "question": "What is another name for 4/4 time?",
+    "options": [
+      "Cut time",
+      "Common time",
+      "Compound time",
+      "Triple time"
     ],
     "answer": "Common time"
+  },
+  {
+    "question": "In compound time, each beat is divisible into how many parts?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "In compound time, each beat is equal to a ______ note.",
+    "options": [
+      "Whole",
+      "Half",
+      "Dotted",
+      "Quarter"
+    ],
+    "answer": "Dotted"
+  },
+  {
+    "question": "How many types of compound time are there?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Compound duple time has how many beats in a bar?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "How many pulses are in each beat of compound duple time?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Which of the following is an example of compound duple time?",
+    "options": [
+      "3/4",
+      "4/4",
+      "6/8",
+      "2/4"
+    ],
+    "answer": "6/8"
+  },
+  {
+    "question": "Compound triple time has how many beats in a bar?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Which of the following is an example of compound triple time?",
+    "options": [
+      "2/4",
+      "4/4",
+      "9/8",
+      "6/8"
+    ],
+    "answer": "9/8"
+  },
+  {
+    "question": "Compound quadruple time has how many beats in a bar?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "Which of the following is an example of compound quadruple time?",
+    "options": [
+      "3/4",
+      "6/8",
+      "9/8",
+      "12/8"
+    ],
+    "answer": "12/8"
   }
 ]

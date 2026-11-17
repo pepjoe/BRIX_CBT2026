@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are movement patterns that involve various parts of the body such as legs and hands called?",
+    "options": ["Field events", "Fundamental movement skills", "Track events", "Safety rules"],
+    "answer": "Fundamental movement skills"
+  },
+  {
+    "question": "Which fundamental movement skill means to kick or throw a ball with force towards or away from a goal post?",
+    "options": ["Heading", "Bending", "Shooting", "Skipping"],
+    "answer": "Shooting"
+  },
+  {
+    "question": "What does heading mean in fundamental movement skills?",
+    "options": ["Moving the upper body downward", "Hitting a ball with the head to where we want it to go", "Running slowly and steadily", "Making short jumping steps"],
+    "answer": "Hitting a ball with the head to where we want it to go"
+  },
+  {
+    "question": "Which movement skill involves moving fast like a horse with one foot taken forward?",
+    "options": ["Jogging", "Walking", "Galloping", "Stretching"],
+    "answer": "Galloping"
+  },
+  {
+    "question": "What is running slowly and steadily called?",
+    "options": ["Skipping", "Jogging", "Galloping", "Hopping"],
+    "answer": "Jogging"
+  },
+  {
+    "question": "Which of the following is an example of movement made by animals?",
+    "options": ["Shooting", "Heading", "Crawling", "Stretching"],
+    "answer": "Crawling"
+  },
+  {
+    "question": "What sound does a train make according to the notes?",
+    "options": ["Weeeoooeee", "Chooga chooga chooga", "Nnneeaowww", "Vroom vroom"],
+    "answer": "Chooga chooga chooga"
+  },
+  {
+    "question": "Which of the following is a danger in basic movement?",
+    "options": ["Dislocation of bones", "Eating a healthy diet", "Warming up properly", "Following instructions"],
+    "answer": "Dislocation of bones"
+  },
+  {
+    "question": "What is a safety rule to follow in movement patterns?",
+    "options": ["Run as fast as possible without looking", "Avoid dangerous play", "Ignore all instructions", "Jump without landing properly"],
+    "answer": "Avoid dangerous play"
+  },
+  {
+    "question": "Which major part of the human body holds the brain and includes the eyes, ears, nose, and mouth?",
+    "options": ["Chest", "Abdomen", "Head", "Neck"],
+    "answer": "Head"
+  },
+  {
+    "question": "What is the function of the nose?",
+    "options": ["Hearing sounds", "Smelling and breathing", "Pumping blood", "Digesting food"],
+    "answer": "Smelling and breathing"
+  },
+  {
+    "question": "Which body part houses the tongue and teeth and is used for eating and talking?",
+    "options": ["Nose", "Mouth", "Neck", "Chest"],
+    "answer": "Mouth"
+  },
+  {
+    "question": "What allows the movement of the head?",
+    "options": ["Arms", "Legs", "Neck", "Abdomen"],
+    "answer": "Neck"
+  },
+  {
+    "question": "Which part of the body houses the heart that pumps blood to other parts of the body?",
+    "options": ["Abdomen", "Chest", "Head", "Arms"],
+    "answer": "Chest"
+  },
+  {
+    "question": "What is the function of the abdomen?",
+    "options": ["It pumps blood around the body", "It stores eaten food and protects the intestines", "It allows the head to move", "It is used for seeing things"],
+    "answer": "It stores eaten food and protects the intestines"
+  },
+  {
+    "question": "What is a person who takes part in athletics called?",
+    "options": ["A referee", "An athlete", "A coach", "A spectator"],
+    "answer": "An athlete"
+  },
+  {
+    "question": "Which of the following is an example of a short distance race?",
+    "options": ["400m", "800m", "100m dash", "5000m run"],
+    "answer": "100m dash"
+  },
+  {
+    "question": "Which of these races is classified as a middle distance race?",
+    "options": ["50m dash", "75m dash", "800m", "3000m"],
+    "answer": "800m"
+  },
+  {
+    "question": "Into how many main categories are field events divided?",
+    "options": ["Two (throws and jumps)", "Three (short, middle, and long)", "Four (walking, running, hopping, and flying)", "Five"],
+    "answer": "Two (throws and jumps)"
+  },
+  {
+    "question": "Which basic skill in long jump occurs when the jumper hangs in the air with hands up as the body moves forward?",
+    "options": ["Take-off", "Flight", "Landing", "Approach"],
+    "answer": "Flight"
+  }
+]

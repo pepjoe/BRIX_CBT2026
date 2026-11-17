@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Which of the following is the correct way of writing nine thousand, four hundred and six in figures?",
+        "options": [
+            "9,460",
+            "9,406",
+            "9,046",
+            "9,604"
+        ],
+        "answer": "9,406"
+    },
+    {
+        "question": "What is the value of the digit 3 in 7,352?",
+        "options": [
+            "300",
+            "30",
+            "3",
+            "3,000"
+        ],
+        "answer": "300"
+    },
+    {
+        "question": "Which of these numbers is written in words as six thousand, two hundred and fifteen?",
+        "options": [
+            "6,251",
+            "6,215",
+            "6,125",
+            "6,512"
+        ],
+        "answer": "6,215"
+    },
+    {
+        "question": "In the fraction 5/8, which number represents the denominator?",
+        "options": [
+            "5",
+            "8",
+            "13",
+            "3"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which of the following fractions is equivalent to 1/2?",
+        "options": [
+            "2/3",
+            "3/6",
+            "2/5",
+            "4/6"
+        ],
+        "answer": "3/6"
+    },
+    {
+        "question": "What is the sum of 3/9 + 4/9?",
+        "options": [
+            "7/18",
+            "1/9",
+            "7/9",
+            "6/9"
+        ],
+        "answer": "7/9"
+    },
+    {
+        "question": "Which of the following is the correct way of writing 6/7 in words?",
+        "options": [
+            "Six over eight",
+            "Seven sixths",
+            "Six sevenths",
+            "Seven over six"
+        ],
+        "answer": "Six sevenths"
+    },
+    {
+        "question": "What is the value of 4 in the number 8,436?",
+        "options": [
+            "400",
+            "40",
+            "4",
+            "4,000"
+        ],
+        "answer": "400"
+    },
+    {
+        "question": "Which pair of fractions are like fractions?",
+        "options": [
+            "2/5 and 3/7",
+            "1/4 and 3/4",
+            "2/3 and 2/5",
+            "4/6 and 5/8"
+        ],
+        "answer": "1/4 and 3/4"
+    },
+    {
+        "question": "What is the result of subtracting 3/8 from 7/8?",
+        "options": [
+            "4/16",
+            "3/8",
+            "4/8",
+            "5/8"
+        ],
+        "answer": "4/8"
+    },
+    {
+        "question": "Which of these numbers has 6 in the hundreds place?",
+        "options": [
+            "6,045",
+            "4,605",
+            "5,460",
+            "6,504"
+        ],
+        "answer": "4,605"
+    },
+    {
+        "question": "A group has 12 objects. If the objects are shared into 3 equal groups, how many objects will be in each group?",
+        "options": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which fraction represents one part out of five equal parts?",
+        "options": [
+            "5/1",
+            "1/4",
+            "1/5",
+            "5/4"
+        ],
+        "answer": "1/5"
+    },
+    {
+        "question": "What is the sum of 2/7 + 3/7 + 1/7?",
+        "options": [
+            "5/7",
+            "6/7",
+            "6/21",
+            "4/7"
+        ],
+        "answer": "6/7"
+    },
+    {
+        "question": "Which of the following is the correct expanded form of 5,326?",
+        "options": [
+            "5,000 + 300 + 20 + 6",
+            "5,000 + 30 + 200 + 6",
+            "5,000 + 300 + 2 + 60",
+            "5,000 + 300 + 26"
+        ],
+        "answer": "5,000 + 300 + 20 + 6"
+    },
+    {
+        "question": "If 2/6 is multiplied by 2 in both its numerator and denominator, what equivalent fraction is obtained?",
+        "options": [
+            "4/6",
+            "2/12",
+            "4/12",
+            "6/12"
+        ],
+        "answer": "4/12"
+    },
+    {
+        "question": "What is the difference between 9/10 and 4/10?",
+        "options": [
+            "13/10",
+            "4/10",
+            "5/10",
+            "6/10"
+        ],
+        "answer": "5/10"
+    },
+    {
+        "question": "Which of the following numbers is written correctly in words as eight thousand and seventy-two?",
+        "options": [
+            "8,720",
+            "8,072",
+            "8,702",
+            "8,027"
+        ],
+        "answer": "8,072"
+    },
+    {
+        "question": "A fraction has 3 as its numerator and 5 as its denominator. Which fraction is it?",
+        "options": [
+            "5/3",
+            "3/8",
+            "3/5",
+            "5/8"
+        ],
+        "answer": "3/5"
+    },
+    {
+        "question": "Which of the following fractions is equal to 2/4?",
+        "options": [
+            "3/8",
+            "4/6",
+            "3/6",
+            "1/2"
+        ],
+        "answer": "1/2"
+    },
+    {
+        "question": "500 kobo is equal to ______.",
+        "options": [
+            "4 naira",
+            "5 naira",
+            "6 naira",
+            "50 naira"
+        ],
+        "answer": "5 naira"
+    },
+    {
+        "question": "How many 5-naira notes make 10 naira?",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "How many 10-naira notes make 20 naira?",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "10"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "5 naira is equal to ______ kobo.",
+        "options": [
+            "50 kobo",
+            "5,000 kobo",
+            "500 kobo",
+            "100 kobo"
+        ],
+        "answer": "500 kobo"
+    },
+    {
+        "question": "750 kobo is equal to ______.",
+        "options": [
+            "75 naira",
+            "7 naira 50 kobo",
+            "70 naira 50 kobo",
+            "5 naira 70 kobo"
+        ],
+        "answer": "7 naira 50 kobo"
+    },
+    {
+        "question": "Find the sum of 24 naira 35 kobo and 13 naira 40 kobo.",
+        "options": [
+            "36 naira 75 kobo",
+            "38 naira 25 kobo",
+            "37 naira 25 kobo",
+            "37 naira 75 kobo"
+        ],
+        "answer": "37 naira 75 kobo"
+    },
+    {
+        "question": "Subtract 22 naira 25 kobo from 45 naira 60 kobo.",
+        "options": [
+            "23 naira 35 kobo",
+            "22 naira 35 kobo",
+            "23 naira 25 kobo",
+            "24 naira 35 kobo"
+        ],
+        "answer": "23 naira 35 kobo"
+    },
+    {
+        "question": "Add 8 naira 75 kobo and 6 naira 50 kobo.",
+        "options": [
+            "14 naira 25 kobo",
+            "15 naira 15 kobo",
+            "15 naira 25 kobo",
+            "16 naira 25 kobo"
+        ],
+        "answer": "15 naira 25 kobo"
+    },
+    {
+        "question": "Find the difference between 30 naira and 12 naira 75 kobo.",
+        "options": [
+            "18 naira 25 kobo",
+            "17 naira 75 kobo",
+            "16 naira 25 kobo",
+            "17 naira 25 kobo"
+        ],
+        "answer": "17 naira 25 kobo"
+    },
+    {
+        "question": "Multiply 15 naira 25 kobo by 2.",
+        "options": [
+            "30 naira 25 kobo",
+            "31 naira 50 kobo",
+            "30 naira 75 kobo",
+            "30 naira 50 kobo"
+        ],
+        "answer": "30 naira 50 kobo"
+    },
+    {
+        "question": "What is 12 naira 50 kobo multiplied by 3?",
+        "options": [
+            "37 naira 50 kobo",
+            "36 naira 50 kobo",
+            "35 naira 50 kobo",
+            "37 naira"
+        ],
+        "answer": "37 naira 50 kobo"
+    },
+    {
+        "question": "Find the product of 7 naira 25 kobo and 4.",
+        "options": [
+            "28 naira",
+            "29 naira",
+            "29 naira 50 kobo",
+            "30 naira"
+        ],
+        "answer": "29 naira"
+    },
+    {
+        "question": "Ada bought a book for 25 naira 50 kobo and a pencil for 18 naira 25 kobo. How much did she spend altogether?",
+        "options": [
+            "42 naira 75 kobo",
+            "43 naira 75 kobo",
+            "44 naira 25 kobo",
+            "43 naira 25 kobo"
+        ],
+        "answer": "43 naira 75 kobo"
+    },
+    {
+        "question": "Chika had 40 naira. She spent 16 naira 75 kobo on food. How much money remained?",
+        "options": [
+            "24 naira 25 kobo",
+            "22 naira 25 kobo",
+            "23 naira 75 kobo",
+            "23 naira 25 kobo"
+        ],
+        "answer": "23 naira 25 kobo"
+    },
+    {
+        "question": "A pen costs 12 naira 50 kobo. How much will 3 pens cost?",
+        "options": [
+            "37 naira 50 kobo",
+            "36 naira 50 kobo",
+            "35 naira 50 kobo",
+            "38 naira 50 kobo"
+        ],
+        "answer": "37 naira 50 kobo"
+    },
+    {
+        "question": "One toy costs 18 naira 75 kobo. What is the cost of 2 toys?",
+        "options": [
+            "36 naira 50 kobo",
+            "37 naira 25 kobo",
+            "37 naira 50 kobo",
+            "38 naira 50 kobo"
+        ],
+        "answer": "37 naira 50 kobo"
+    },
+    {
+        "question": "How many 20-naira notes make 60 naira?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "How many 5-naira notes make 15 naira?",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "3"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Add 2 naira 75 kobo and 3 naira 50 kobo.",
+        "options": [
+            "6 naira 25 kobo",
+            "5 naira 25 kobo",
+            "6 naira 50 kobo",
+            "5 naira 75 kobo"
+        ],
+        "answer": "6 naira 25 kobo"
+    },
+    {
+        "question": "A woman had 50 naira and spent 28 naira 50 kobo. How much did she have left?",
+        "options": [
+            "22 naira 50 kobo",
+            "20 naira 50 kobo",
+            "21 naira 50 kobo",
+            "21 naira 25 kobo"
+        ],
+        "answer": "21 naira 50 kobo"
+    }
+]

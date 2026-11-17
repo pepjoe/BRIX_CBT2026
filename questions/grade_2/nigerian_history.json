@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Who are indigenous people defined as in the notes?",
+    "options": [
+      "People whose parents or grandparents are not from that country",
+      "People born and raised by parents whose forefathers were the original landowners",
+      "People who moved from another country recently",
+      "Foreign visitors on vacation"
+    ],
+    "answer": "People born and raised by parents whose forefathers were the original landowners"
+  },
+  {
+    "question": "Who are non-indigenous people?",
+    "options": [
+      "People whose parents or grandparents are not from that country or locality",
+      "The original landowners of a region",
+      "People who keep the ancient traditions of the region",
+      "Traditional rulers and priests"
+    ],
+    "answer": "People whose parents or grandparents are not from that country or locality"
+  },
+  {
+    "question": "Approximately how many ethnic groups does Nigeria have according to the notes?",
+    "options": [
+      "Nearly 50",
+      "Nearly 100",
+      "Nearly 250",
+      "Nearly 500"
+    ],
+    "answer": "Nearly 250"
+  },
+  {
+    "question": "What do the three big tribes in Nigeria include?",
+    "options": [
+      "Angas, Tiv, and Kanuri",
+      "Igbo, Yoruba, and Hausa",
+      "Efik, Ijaw, and Ogoni",
+      "Ibibio, Idoma, and Ikwerre"
+    ],
+    "answer": "Igbo, Yoruba, and Hausa"
+  },
+  {
+    "question": "What are the three main locations where indigenous people live?",
+    "options": [
+      "Ancestral compound, palaces of traditional rulers, compound of the traditional priest",
+      "Modern apartments, hotels, and schools",
+      "Foreign embassies, markets, and camps",
+      "Farms, riversides, and mountains"
+    ],
+    "answer": "Ancestral compound, palaces of traditional rulers, compound of the traditional priest"
+  },
+  {
+    "question": "What is found in ancestral compounds?",
+    "options": [
+      "Foreign tourists",
+      "Members who lived long before we were born",
+      "Only modern politicians",
+      "International workers"
+    ],
+    "answer": "Members who lived long before we were born"
+  },
+  {
+    "question": "Who is in control of resources in the community within the palaces of traditional rulers?",
+    "options": [
+      "Traditional rulers and their extended families",
+      "Foreign business owners",
+      "Non-indigenous merchants",
+      "Market traders only"
+    ],
+    "answer": "Traditional rulers and their extended families"
+  },
+  {
+    "question": "What is the compound of the traditional priest called?",
+    "options": [
+      "A palace",
+      "Shrines",
+      "A church",
+      "A modern house"
+    ],
+    "answer": "Shrines"
+  },
+  {
+    "question": "How many ethnic groups are listed in the numbered overview starting with 'The Angas'?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Where did the Angas minority ethnic group migrate from?",
+    "options": [
+      "Bornu",
+      "Lagos",
+      "Port Harcourt",
+      "Calabar"
+    ],
+    "answer": "Bornu"
+  },
+  {
+    "question": "What materials do the Angas use to make their walls and foundations?",
+    "options": [
+      "Wood and glass",
+      "Granite boulders",
+      "Mud bricks only",
+      "Red clay tiles"
+    ],
+    "answer": "Granite boulders"
+  },
+  {
+    "question": "Where are the Hausa people originally from?",
+    "options": [
+      "Southern part of Nigeria",
+      "Western part of Nigeria",
+      "Northern part of Nigeria",
+      "Eastern part of Nigeria"
+    ],
+    "answer": "Northern part of Nigeria"
+  },
+  {
+    "question": "What religion do the Hausa people mostly practice according to the notes?",
+    "options": [
+      "Christianity",
+      "Islam (mostly Muslims)",
+      "Traditional worship only",
+      "Buddhism"
+    ],
+    "answer": "Islam (mostly Muslims)"
+  },
+  {
+    "question": "What are the leaders of the Hausa called?",
+    "options": [
+      "Oba",
+      "Sarki",
+      "Eze",
+      "Obong"
+    ],
+    "answer": "Sarki"
+  },
+  {
+    "question": "What is the traditional men's dress of the Hausa called?",
+    "options": [
+      "Babanriga",
+      "Agbada",
+      "Wrapper",
+      "Kaftan"
+    ],
+    "answer": "Babanriga"
+  },
+  {
+    "question": "Where is the Efik ethnic group located?",
+    "options": [
+      "Northern part of Nigeria",
+      "Southern part of Nigeria",
+      "Western part of Nigeria",
+      "Central part of Nigeria"
+    ],
+    "answer": "Southern part of Nigeria"
+  },
+  {
+    "question": "Who leads the Efik people of Calabar?",
+    "options": [
+      "Sarki",
+      "Obong of Calabar",
+      "Oba",
+      "Emir"
+    ],
+    "answer": "Obong of Calabar"
+  },
+  {
+    "question": "What language do the Efik people speak?",
+    "options": [
+      "Hausa language",
+      "Efik language",
+      "Yoruba language",
+      "Igbo language"
+    ],
+    "answer": "Efik language"
+  },
+  {
+    "question": "Which of the following is an example of a common food for the Efik people?",
+    "options": [
+      "Tuwo Shinkafa",
+      "Edikang Ikong",
+      "Amala",
+      "Eba"
+    ],
+    "answer": "Edikang Ikong"
+  },
+  {
+    "question": "What do Efik women typically wear as part of their dressing culture?",
+    "options": [
+      "Babanriga with a cap",
+      "Dress or tie-wrapper with a shawl on their head",
+      "Heavy winter coats",
+      "Men's trousers"
+    ],
+    "answer": "Dress or tie-wrapper with a shawl on their head"
+  }
+]

@@ -1,362 +1,202 @@
 [
   {
-    "question": "Local musical instruments are played in our ________.",
+    "question": "Apart from treble clef and bass clef, which other clef is used in music?",
     "options": [
-      "locality and villages",
-      "sky and clouds",
-      "space stations"
+      "Drum clef",
+      "C clef",
+      "D clef",
+      "E clef"
     ],
-    "answer": "locality and villages"
+    "answer": "C clef"
   },
   {
-    "question": "Which of these materials is NOT used to make local musical instruments?",
+    "question": "The C clef or movable clef fixes the position of ______.",
     "options": [
-      "plastic wrappers",
-      "animal skin",
-      "dried gourds"
+      "Middle C",
+      "Middle D",
+      "Middle E",
+      "Middle F"
     ],
-    "answer": "plastic wrappers"
+    "answer": "Middle C"
   },
   {
-    "question": "We use local musical instruments during ________.",
+    "question": "When the C clef is placed on the third line, it is called ______.",
     "options": [
-      "sleeping hours",
-      "festivals and ceremonies",
-      "examination silence"
+      "Tenor clef",
+      "Bass clef",
+      "Alto clef",
+      "Treble clef"
     ],
-    "answer": "festivals and ceremonies"
+    "answer": "Alto clef"
   },
   {
-    "question": "The Talking Drum is also locally known as ________.",
+    "question": "The tenor clef is used for music written for the ______.",
     "options": [
-      "Ogene",
-      "Gangan or Dun-dun",
-      "Kakaki"
+      "Violin",
+      "Tenor trombone",
+      "Flute",
+      "Trumpet"
     ],
-    "answer": "Gangan or Dun-dun"
+    "answer": "Tenor trombone"
   },
   {
-    "question": "To play the Talking Drum, you hold it under your ________.",
+    "question": "The four parts of music are soprano, alto, tenor and ______.",
     "options": [
-      "foot",
-      "arm",
-      "head"
+      "Violin",
+      "Treble",
+      "Bass",
+      "Cello"
     ],
-    "answer": "arm"
+    "answer": "Bass"
   },
   {
-    "question": "What do you use to beat the Talking Drum?",
+    "question": "How many lines does a musical staff or stave have?",
     "options": [
-      "a straight iron rod",
-      "a curved stick",
-      "your teeth"
+      "Three",
+      "Four",
+      "Five",
+      "Six"
     ],
-    "answer": "a curved stick"
+    "answer": "Five"
   },
   {
-    "question": "The Shekere is made from a dried ________.",
+    "question": "How many spaces does a musical staff or stave have?",
     "options": [
-      "gourd",
-      "wood",
-      "metal piece"
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ],
-    "answer": "gourd"
+    "answer": "Four"
   },
   {
-    "question": "The Shekere is covered with a net of ________.",
+    "question": "What is the name of the first line of the treble staff?",
     "options": [
-      "leather",
-      "beads or shells",
-      "wire mesh"
+      "E",
+      "G",
+      "B",
+      "F"
     ],
-    "answer": "beads or shells"
+    "answer": "E"
   },
   {
-    "question": "What sound does the Shekere make when shaken?",
+    "question": "Which of the following letters represents the spaces of the treble staff?",
     "options": [
-      "Ding-dong",
-      "Sh-sh-sh",
-      "Puuuu!"
+      "EGBDF",
+      "FACE",
+      "ABCDE",
+      "FEDCB"
     ],
-    "answer": "Sh-sh-sh"
+    "answer": "FACE"
   },
   {
-    "question": "The Kakaki is a very long metal ________.",
+    "question": "What is the name of the fifth line of the treble staff?",
     "options": [
-      "flute",
-      "trumpet",
-      "drum"
-    ],
-    "answer": "trumpet"
-  },
-  {
-    "question": "How long can a Kakaki trumpet sometimes be?",
-    "options": [
-      "2-3 meters",
-      "50 meters",
-      "1 centimeter"
-    ],
-    "answer": "2-3 meters"
-  },
-  {
-    "question": "To play the Kakaki, you blow air into it with ________.",
-    "options": [
-      "loose cheeks",
-      "tight lips",
-      "wide teeth"
-    ],
-    "answer": "tight lips"
-  },
-  {
-    "question": "The Ogene is a flat piece of metal or a ________.",
-    "options": [
-      "bell without a clapper",
-      "drum with skin",
-      "wooden pipe"
-    ],
-    "answer": "bell without a clapper"
-  },
-  {
-    "question": "What sound does the Ogene make when hit with a stick?",
-    "options": [
-      "Sh-sh-sh",
-      "Ding dong",
-      "Puuuu!"
-    ],
-    "answer": "Ding dong"
-  },
-  {
-    "question": "The Oja is a small flute made of wood or ________.",
-    "options": [
-      "metal sheets",
-      "bamboo",
-      "iron rod"
-    ],
-    "answer": "bamboo"
-  },
-  {
-    "question": "How do you play the Oja flute to produce sound?",
-    "options": [
-      "Hit it with a stick",
-      "Blow air across the top",
-      "Shake it hard"
-    ],
-    "answer": "Blow air across the top"
-  },
-  {
-    "question": "Local musical instruments can be used for ________.",
-    "options": [
-      "communication",
-      "fighting",
-      "sleeping"
-    ],
-    "answer": "communication"
-  },
-  {
-    "question": "One of the rules when playing local instruments is to listen to the ________.",
-    "options": [
-      "noise",
-      "leader",
-      "wind"
-    ],
-    "answer": "leader"
-  },
-  {
-    "question": "You must handle all local musical instruments with ________.",
-    "options": [
-      "carelessness",
-      "care",
-      "anger"
-    ],
-    "answer": "care"
-  },
-  {
-    "question": "A musical symbol placed at the beginning of a staff is called a ________.",
-    "options": [
-      "note",
-      "clef",
-      "line"
-    ],
-    "answer": "clef"
-  },
-  {
-    "question": "A musical staff is made up of 5 lines and ________.",
-    "options": [
-      "4 spaces",
-      "2 spaces",
-      "10 spaces"
-    ],
-    "answer": "4 spaces"
-  },
-  {
-    "question": "Without a clef, the notes on a staff have no ________.",
-    "options": [
-      "color",
-      "name",
-      "size"
-    ],
-    "answer": "name"
-  },
-  {
-    "question": "The clef acts as a ________ that unlocks the pitch of each line and space.",
-    "options": [
-      "lock",
-      "key",
-      "door"
-    ],
-    "answer": "key"
-  },
-  {
-    "question": "The Bass Clef is also known as the ________.",
-    "options": [
-      "G-clef",
-      "F-clef",
-      "C-clef"
-    ],
-    "answer": "F-clef"
-  },
-  {
-    "question": "The two dots of the bass clef symbol surround the ________.",
-    "options": [
-      "first line",
-      "second line",
-      "fourth line"
-    ],
-    "answer": "fourth line"
-  },
-  {
-    "question": "The bass clef is used for ________ instruments.",
-    "options": [
-      "low-pitch",
-      "high-pitch",
-      "squeaky"
-    ],
-    "answer": "low-pitch"
-  },
-  {
-    "question": "When reading lines from bottom to top on a bass staff, the rhyme is ________.",
-    "options": [
-      "Every Good Boy Does Fine",
-      "Good Boys Deserve Favour Always",
-      "All Cows Eat Grass"
-    ],
-    "answer": "Good Boys Deserve Favour Always"
-  },
-  {
-    "question": "The four spaces of the bass staff from bottom to top stand for ________.",
-    "options": [
-      "A - C - E - G",
-      "G - B - D - F",
-      "F - A - C - E"
-    ],
-    "answer": "A - C - E - G"
-  },
-  {
-    "question": "To draw a bass clef, you start by placing a small solid dot on the ________.",
-    "options": [
-      "first line",
-      "third line",
-      "fourth line"
-    ],
-    "answer": "fourth line"
-  },
-  {
-    "question": "The curve of a bass clef looks like an inverted ________.",
-    "options": [
-      "letter S",
-      "comma",
-      "question mark"
-    ],
-    "answer": "comma"
-  },
-  {
-    "question": "The two small dots of the bass clef are placed in the ________.",
-    "options": [
-      "third and fourth spaces",
-      "first and second spaces",
-      "lines themselves"
-    ],
-    "answer": "third and fourth spaces"
-  },
-  {
-    "question": "The didactic song \"Tramp Tramp Tramp\" says \"the boys are ________.\"",
-    "options": [
-      "jumping",
-      "marching",
-      "running"
-    ],
-    "answer": "marching"
-  },
-  {
-    "question": "In the song \"Tramp Tramp Tramp,\" the key signature states \"Doh is ________.\"",
-    "options": [
-      "C",
+      "B",
+      "D",
       "G",
       "F"
     ],
     "answer": "F"
   },
   {
-    "question": "In the song \"Days of the Week,\" the key is ________.",
+    "question": "What is the name of the obedient child in the story?",
     "options": [
-      "F major",
-      "C major",
-      "G major"
+      "Isaac",
+      "John",
+      "James",
+      "Peter"
     ],
-    "answer": "C major"
+    "answer": "John"
   },
   {
-    "question": "\"Days of the Week\" is an example of a ________ song.",
+    "question": "Who loves John?",
     "options": [
-      "quiet",
-      "didactic",
-      "sad"
+      "His mother",
+      "His teacher",
+      "His father",
+      "His friend"
     ],
-    "answer": "didactic"
+    "answer": "His father"
   },
   {
-    "question": "Didactic songs help us to ________ information through music.",
+    "question": "What does John like taking with his tea?",
     "options": [
-      "forget",
-      "memorize",
-      "ignore"
+      "Bread",
+      "Biscuit",
+      "Egg",
+      "Milk"
     ],
-    "answer": "memorize"
+    "answer": "Egg"
   },
   {
-    "question": "Singing makes learning ________.",
+    "question": "Which animal lays eggs in the story?",
     "options": [
-      "boring",
-      "fun",
-      "difficult"
+      "Goat",
+      "Hen",
+      "Dog",
+      "Sheep"
     ],
-    "answer": "fun"
+    "answer": "Hen"
   },
   {
-    "question": "Simple sol-fa notes help us to develop our music ________.",
+    "question": "What did Isaac buy for John?",
     "options": [
-      "eye",
-      "ear",
-      "nose"
+      "A goat",
+      "A dog",
+      "A hen",
+      "A duck"
     ],
-    "answer": "ear"
+    "answer": "A hen"
   },
   {
-    "question": "What is the sol-fa note written under the word \"and\" in the Days of the Week song?",
+    "question": "What determines the names of musical notes?",
     "options": [
-      "d (doh)",
-      "s (soh)",
-      "m (mi)"
+      "The drum",
+      "The clef",
+      "The keyboard",
+      "The flute"
     ],
-    "answer": "d (doh)"
+    "answer": "The clef"
   },
   {
-    "question": "When playing instruments with others, you must ________ with others.",
+    "question": "The word “cle” comes from which language?",
     "options": [
-      "fight",
-      "share",
-      "argue"
+      "English",
+      "German",
+      "French",
+      "Latin"
     ],
-    "answer": "share"
+    "answer": "French"
+  },
+  {
+    "question": "What does the word clef mean?",
+    "options": [
+      "Sound",
+      "Key",
+      "Note",
+      "Staff"
+    ],
+    "answer": "Key"
+  },
+  {
+    "question": "The treble or G clef is placed on which line of the staff?",
+    "options": [
+      "First line",
+      "Second line",
+      "Third line",
+      "Fourth line"
+    ],
+    "answer": "Second line"
+  },
+  {
+    "question": "The bass or F clef is placed on which line of the staff?",
+    "options": [
+      "First line",
+      "Second line",
+      "Third line",
+      "Fourth line"
+    ],
+    "answer": "Fourth line"
   }
 ]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is a scale in music?",
+    "options": [
+      "A group of musical instruments",
+      "A melodic stepwise ordering of musical notes",
+      "A type of musical dance",
+      "A musical story"
+    ],
+    "answer": "A melodic stepwise ordering of musical notes"
+  },
+  {
+    "question": "A musical scale is like a __________.",
+    "options": [
+      "Musical ladder",
+      "Musical drum",
+      "Musical chair",
+      "Musical box"
+    ],
+    "answer": "Musical ladder"
+  },
+  {
+    "question": "A major scale has how many tones and semitones in its pattern?",
+    "options": [
+      "Two tones and two semitones",
+      "Three tones and three semitones",
+      "Five tones and two semitones",
+      "Four tones and three semitones"
+    ],
+    "answer": "Five tones and two semitones"
+  },
+  {
+    "question": "Which of the following is the correct order of a major scale pattern?",
+    "options": [
+      "Tone, tone, semitone, tone, tone, tone, semitone",
+      "Tone, semitone, tone, tone, semitone, tone, tone",
+      "Semitone, tone, tone, tone, tone, semitone, tone",
+      "Tone, tone, tone, tone, semitone, semitone, tone"
+    ],
+    "answer": "Tone, tone, semitone, tone, tone, tone, semitone"
+  },
+  {
+    "question": "A tone is also known as a _________.",
+    "options": [
+      "Half step",
+      "Whole step",
+      "Quarter step",
+      "Full note"
+    ],
+    "answer": "Whole step"
+  },
+  {
+    "question": "A semitone is also known as a ____________.",
+    "options": [
+      "Whole step",
+      "Full step",
+      "Half step",
+      "Double step"
+    ],
+    "answer": "Half step"
+  },
+  {
+    "question": "How many notes are there in an octave of a major scale, including the repeated tonic?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "answer": "Eight"
+  },
+  {
+    "question": "Which of the following represents the solfa notes of a major scale?",
+    "options": [
+      "La, ti, do, re, mi, fa, sol, la",
+      "Do, re, mi, fa, sol, la, ti, do",
+      "Mi, fa, sol, la, ti, do, re, mi",
+      "Sol, la, ti, do, re, mi, fa, sol"
+    ],
+    "answer": "Do, re, mi, fa, sol, la, ti, do"
+  },
+  {
+    "question": "The natural minor scale begins and ends with which solfa note?",
+    "options": [
+      "Do",
+      "Mi",
+      "Sol",
+      "La"
+    ],
+    "answer": "La"
+  },
+  {
+    "question": "Which of the following is the correct solfa pattern of a natural minor scale?",
+    "options": [
+      "Do, re, mi, fa, sol, la, ti, do",
+      "La, ti, do, re, mi, fa, sol, la",
+      "Re, mi, fa, sol, la, ti, do, re",
+      "Mi, fa, sol, la, ti, do, re, mi"
+    ],
+    "answer": "La, ti, do, re, mi, fa, sol, la"
+  },
+  {
+    "question": "The first degree of a scale is called __________.",
+    "options": [
+      "Dominant",
+      "Mediant",
+      "Tonic",
+      "Supertonic"
+    ],
+    "answer": "Tonic"
+  },
+  {
+    "question": "The second degree of a scale is called __________.",
+    "options": [
+      "Supertonic",
+      "Subdominant",
+      "Leading note",
+      "Tonic"
+    ],
+    "answer": "Supertonic"
+  },
+  {
+    "question": "The third degree of a scale is called __________.",
+    "options": [
+      "Dominant",
+      "Mediant",
+      "Submediant",
+      "Octave"
+    ],
+    "answer": "Mediant"
+  },
+  {
+    "question": "The fourth degree of a scale is called __________.",
+    "options": [
+      "Tonic",
+      "Leading note",
+      "Subdominant",
+      "Dominant"
+    ],
+    "answer": "Subdominant"
+  },
+  {
+    "question": "The fifth degree of a scale is called ____________.",
+    "options": [
+      "Dominant",
+      "Mediant",
+      "Supertonic",
+      "Submediant"
+    ],
+    "answer": "Dominant"
+  },
+  {
+    "question": "The sixth degree of a scale is called ___________.",
+    "options": [
+      "Tonic",
+      "Submediant",
+      "Dominant",
+      "Octave"
+    ],
+    "answer": "Submediant"
+  },
+  {
+    "question": "The seventh degree of a scale is called ___________.",
+    "options": [
+      "Leading note",
+      "Tonic",
+      "Mediant",
+      "Subdominant"
+    ],
+    "answer": "Leading note"
+  },
+  {
+    "question": "The eighth degree of a scale is called ___________.",
+    "options": [
+      "Supertonic",
+      "Dominant",
+      "Octave",
+      "Mediant"
+    ],
+    "answer": "Octave"
+  },
+  {
+    "question": "What is melody in music?",
+    "options": [
+      "The leading part in harmony music",
+      "The beating of a drum",
+      "The sound of a trumpet only",
+      "The movement of dancers"
+    ],
+    "answer": "The leading part in harmony music"
+  },
+  {
+    "question": "Why is melody easily remembered?",
+    "options": [
+      "Because it is always loud",
+      "Because it can be the tune of a song",
+      "Because it is played only with drums",
+      "Because it has no musical notes"
+    ],
+    "answer": "Because it can be the tune of a song"
+  }
+]

@@ -1,22 +1,92 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Things that have life in them are called ________.",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Non-living things",
+      "Living things",
+      "Objects"
     ],
-    "answer": "A"
+    "answer": "Living things"
   },
   {
-    "question": "Sample Question 2",
+    "question": "Which part of the human body supports the head and helps us move it?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Neck",
+      "Feet",
+      "Hands"
     ],
-    "answer": "B"
+    "answer": "Neck"
+  },
+  {
+    "question": "All of the following are contained in the head EXCEPT ________.",
+    "options": [
+      "Brain",
+      "Eyes",
+      "Legs"
+    ],
+    "answer": "Legs"
+  },
+  {
+    "question": "How many sense organs do human beings have?",
+    "options": [
+      "Three",
+      "Five",
+      "Ten"
+    ],
+    "answer": "Five"
+  },
+  {
+    "question": "The parts of the human body that help us know and understand our surroundings are called ________.",
+    "options": [
+      "Sense organs",
+      "Non-living things",
+      "Legs and feet"
+    ],
+    "answer": "Sense organs"
+  },
+  {
+    "question": "Which sense organ do we use to taste food?",
+    "options": [
+      "Nose",
+      "Tongue",
+      "Skin"
+    ],
+    "answer": "Tongue"
+  },
+  {
+    "question": "We use our ________ to feel hot, cold, hard, and soft objects.",
+    "options": [
+      "Skin",
+      "Ears",
+      "Eyes"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which of these is an example of something we sense with our nose?",
+    "options": [
+      "Music",
+      "Colours",
+      "Perfume"
+    ],
+    "answer": "Perfume"
+  },
+  {
+    "question": "Sweet, sour, salty, and bitter tastes are sensed by the ________.",
+    "options": [
+      "Tongue",
+      "Eyes",
+      "Ears"
+    ],
+    "answer": "Tongue"
+  },
+  {
+    "question": "How can we take care of our ears?",
+    "options": [
+      "By putting sharp objects into them",
+      "By avoiding putting objects into the ears",
+      "By never cleaning them"
+    ],
+    "answer": "By avoiding putting objects into the ears"
   }
 ]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Write 45,306,218 in words.",
+    "options": [
+      "Forty-five million, three hundred and six thousand, two hundred and eighteen",
+      "Forty-five million, thirty-six thousand, two hundred and eighteen",
+      "Forty-five million, three hundred and sixty thousand, two hundred and eighteen",
+      "Four hundred and five million, three hundred and six thousand, eighteen"
+    ],
+    "answer": "Forty-five million, three hundred and six thousand, two hundred and eighteen"
+  },
+  {
+    "question": "Which of the following numerals represents sixty-two million, four hundred and fifteen thousand, nine hundred and thirty?",
+    "options": [
+      "62,415,390",
+      "62,415,930",
+      "62,451,930",
+      "62,145,930"
+    ],
+    "answer": "62,415,930"
+  },
+  {
+    "question": "Express 38,604,215 in expanded form.",
+    "options": [
+      "30,000,000 + 8,000,000 + 600,000 + 4,000 + 200 + 10 + 5",
+      "30,000,000 + 8,000,000 + 60,000 + 4,000 + 200 + 10 + 5",
+      "30,000,000 + 8,000,000 + 600,000 + 40,000 + 200 + 10 + 5",
+      "30,000,000 + 800,000 + 600,000 + 4,000 + 200 + 10 + 5"
+    ],
+    "answer": "30,000,000 + 8,000,000 + 600,000 + 4,000 + 200 + 10 + 5"
+  },
+  {
+    "question": "What is the short form of 70,000,000 + 5,000,000 + 300,000 + 20,000 + 4,000 + 600 + 30 + 8?",
+    "options": [
+      "75,324,638",
+      "75,324,683",
+      "75,342,638",
+      "75,320,468"
+    ],
+    "answer": "75,324,638"
+  },
+  {
+    "question": "What is the place value of 8 in 68,425,173?",
+    "options": [
+      "800,000",
+      "8,000,000",
+      "80,000",
+      "8,000"
+    ],
+    "answer": "8,000,000"
+  },
+  {
+    "question": "Which sign makes the statement correct? 56,782,419 ____ 56,728,419.",
+    "options": [
+      "=",
+      "<",
+      ">",
+      "+"
+    ],
+    "answer": ">"
+  },
+  {
+    "question": "Arrange these numbers in ascending order: 45,678,901; 45,687,901; 45,678,109.",
+    "options": [
+      "45,678,109; 45,678,901; 45,687,901",
+      "45,687,901; 45,678,901; 45,678,109",
+      "45,678,901; 45,678,109; 45,687,901",
+      "45,678,109; 45,687,901; 45,678,901"
+    ],
+    "answer": "45,678,109; 45,678,901; 45,687,901"
+  },
+  {
+    "question": "What is the next number in the sequence 125, 130, 135, 140, ____?",
+    "options": [
+      "142",
+      "145",
+      "150",
+      "155"
+    ],
+    "answer": "145"
+  },
+  {
+    "question": "Count in sevens: 84, 91, 98, ____, 112.",
+    "options": [
+      "103",
+      "104",
+      "105",
+      "106"
+    ],
+    "answer": "105"
+  },
+  {
+    "question": "Which of these numbers is written correctly in Roman numerals?",
+    "options": [
+      "49 = IL",
+      "40 = XL",
+      "90 = IC",
+      "99 = IC"
+    ],
+    "answer": "40 = XL"
+  },
+  {
+    "question": "What is the Roman numeral for 76?",
+    "options": [
+      "LXXVI",
+      "LXVI",
+      "LXXIV",
+      "LXXXVI"
+    ],
+    "answer": "LXXVI"
+  },
+  {
+    "question": "What is the value of XCIV in ordinary numerals?",
+    "options": [
+      "84",
+      "94",
+      "96",
+      "104"
+    ],
+    "answer": "94"
+  },
+  {
+    "question": "Express 58 in Roman numerals.",
+    "options": [
+      "LVIII",
+      "LIIX",
+      "XLVIII",
+      "LXVIII"
+    ],
+    "answer": "LVIII"
+  },
+  {
+    "question": "Find the lowest common multiple (LCM) of 4 and 6.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "24"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Find the LCM of 5 and 8.",
+    "options": [
+      "20",
+      "30",
+      "35",
+      "40"
+    ],
+    "answer": "40"
+  },
+  {
+    "question": "What is the LCM of 3, 4 and 6?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "36"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Multiply 426 by 10.",
+    "options": [
+      "426",
+      "4,260",
+      "42,600",
+      "4,206"
+    ],
+    "answer": "4,260"
+  },
+  {
+    "question": "Find the product of 3,125 and 100.",
+    "options": [
+      "31,250",
+      "312,500",
+      "3,125,000",
+      "312,050"
+    ],
+    "answer": "312,500"
+  },
+  {
+    "question": "What is 2,406 × 1,000?",
+    "options": [
+      "24,060",
+      "240,600",
+      "2,406,000",
+      "24,060,000"
+    ],
+    "answer": "2,406,000"
+  },
+  {
+    "question": "A school bought 125 boxes of pencils. Each box contains 100 pencils. How many pencils did the school buy altogether?",
+    "options": [
+      "1,250",
+      "12,500",
+      "125,000",
+      "1,250,000"
+    ],
+    "answer": "12,500"
+  },
+  {
+    "question": "Calculate ₦245.75 + ₦132.50.",
+    "options": [
+      "₦377.25",
+      "₦378.25",
+      "₦377.75",
+      "₦376.25"
+    ],
+    "answer": "₦378.25"
+  },
+  {
+    "question": "Find the sum of ₦356.85 and ₦428.40.",
+    "options": [
+      "₦784.25",
+      "₦785.25",
+      "₦785.15",
+      "₦786.25"
+    ],
+    "answer": "₦785.25"
+  },
+  {
+    "question": "Subtract ₦125.65 from ₦350.00.",
+    "options": [
+      "₦224.35",
+      "₦225.35",
+      "₦224.45",
+      "₦225.45"
+    ],
+    "answer": "₦224.35"
+  },
+  {
+    "question": "What is ₦500.00 − ₦275.85?",
+    "options": [
+      "₦224.15",
+      "₦225.15",
+      "₦224.25",
+      "₦225.25"
+    ],
+    "answer": "₦224.15"
+  },
+  {
+    "question": "A woman bought a book for ₦1,250.50 and a bag for ₦2,350.25. How much did she spend altogether?",
+    "options": [
+      "₦3,500.75",
+      "₦3,600.75",
+      "₦3,610.25",
+      "₦3,601.75"
+    ],
+    "answer": "₦3,600.75"
+  },
+  {
+    "question": "Multiply ₦125.50 by 4.",
+    "options": [
+      "₦502.00",
+      "₦500.00",
+      "₦512.00",
+      "₦520.00"
+    ],
+    "answer": "₦502.00"
+  },
+  {
+    "question": "Find the product of ₦245.75 and 3.",
+    "options": [
+      "₦737.25",
+      "₦735.25",
+      "₦747.25",
+      "₦737.75"
+    ],
+    "answer": "₦737.25"
+  },
+  {
+    "question": "A trader sells 12 exercise books at ₦250 each. How much does she receive?",
+    "options": [
+      "₦2,500",
+      "₦2,750",
+      "₦3,000",
+      "₦3,250"
+    ],
+    "answer": "₦3,000"
+  },
+  {
+    "question": "Divide ₦840 equally among 7 children. How much will each child receive?",
+    "options": [
+      "₦110",
+      "₦120",
+      "₦130",
+      "₦140"
+    ],
+    "answer": "₦120"
+  },
+  {
+    "question": "Calculate ₦2,400 ÷ 8.",
+    "options": [
+      "₦200",
+      "₦250",
+      "₦300",
+      "₦350"
+    ],
+    "answer": "₦300"
+  },
+  {
+    "question": "A sum of ₦1,575 is shared equally among 5 people. What is each person's share?",
+    "options": [
+      "₦305",
+      "₦315",
+      "₦325",
+      "₦350"
+    ],
+    "answer": "₦315"
+  },
+  {
+    "question": "If ₦3,600 is divided equally among 12 pupils, how much will each pupil receive?",
+    "options": [
+      "₦250",
+      "₦280",
+      "₦300",
+      "₦320"
+    ],
+    "answer": "₦300"
+  },
+  {
+    "question": "Chika had ₦5,000. She bought a pair of shoes for ₦2,750 and a belt for ₦850. How much money remained?",
+    "options": [
+      "₦1,300",
+      "₦1,400",
+      "₦1,500",
+      "₦1,600"
+    ],
+    "answer": "₦1,400"
+  },
+  {
+    "question": "A boy bought 3 pens at ₦150 each and 2 notebooks at ₦250 each. How much did he spend altogether?",
+    "options": [
+      "₦850",
+      "₦900",
+      "₦950",
+      "₦1,000"
+    ],
+    "answer": "₦950"
+  },
+  {
+    "question": "A trader bought a bag for ₦4,500 and sold it for ₦5,200. What was the trader's profit?",
+    "options": [
+      "₦600",
+      "₦700",
+      "₦800",
+      "₦900"
+    ],
+    "answer": "₦700"
+  },
+  {
+    "question": "A woman bought a radio for ₦12,500 and sold it for ₦11,000. Determine her loss.",
+    "options": [
+      "₦1,000",
+      "₦1,250",
+      "₦1,500",
+      "₦1,750"
+    ],
+    "answer": "₦1,500"
+  },
+  {
+    "question": "A trader bought 10 cartons of soap for ₦3,500 each. If she sold all the cartons for ₦40,000, what was her profit?",
+    "options": [
+      "₦4,000",
+      "₦5,000",
+      "₦6,000",
+      "₦7,000"
+    ],
+    "answer": "₦5,000"
+  },
+  {
+    "question": "A bicycle was bought for ₦25,000 and sold at a loss of ₦3,500. What was the selling price?",
+    "options": [
+      "₦20,500",
+      "₦21,500",
+      "₦22,500",
+      "₦28,500"
+    ],
+    "answer": "₦21,500"
+  },
+  {
+    "question": "A trader sold a television for ₦35,000 and made a profit of ₦5,000. What was the cost price?",
+    "options": [
+      "₦25,000",
+      "₦30,000",
+      "₦35,000",
+      "₦40,000"
+    ],
+    "answer": "₦30,000"
+  },
+  {
+    "question": "A woman bought 5 bags of rice at ₦18,000 each. She sold them all for ₦95,000. How much profit did she make?",
+    "options": [
+      "₦3,000",
+      "₦4,000",
+      "₦5,000",
+      "₦6,000"
+    ],
+    "answer": "₦5,000"
+  }
+]

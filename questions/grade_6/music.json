@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is a key signature?",
+    "options": [
+      "A group of musical notes",
+      "A group of one or more sharps or flats placed at the beginning of a musical staff",
+      "A type of musical instrument",
+      "A musical song"
+    ],
+    "answer": "A group of one or more sharps or flats placed at the beginning of a musical staff"
+  },
+  {
+    "question": "Where is the key signature placed?",
+    "options": [
+      "At the end of the staff",
+      "After the time signature",
+      "Immediately after the clef sign",
+      "Below the staff"
+    ],
+    "answer": "Immediately after the clef sign"
+  },
+  {
+    "question": "What does a key signature indicate?",
+    "options": [
+      "The speed of the music",
+      "The key the music is in",
+      "The name of the singer",
+      "The volume of the music"
+    ],
+    "answer": "The key the music is in"
+  },
+  {
+    "question": "What is a key signature made up of?",
+    "options": [
+      "Letters and numbers",
+      "Lines and spaces",
+      "Sharps or flats",
+      "Drums and bells"
+    ],
+    "answer": "Sharps or flats"
+  },
+  {
+    "question": "A particular key signature is used for which keys?",
+    "options": [
+      "Major and minor keys",
+      "Only major keys",
+      "Only minor keys",
+      "Only sharp keys"
+    ],
+    "answer": "Major and minor keys"
+  },
+  {
+    "question": "What does the absence of a key signature indicate?",
+    "options": [
+      "C major or A minor",
+      "G major or D minor",
+      "F major or G minor",
+      "D major or B minor"
+    ],
+    "answer": "C major or A minor"
+  },
+  {
+    "question": "What is the key with one sharp?",
+    "options": [
+      "D major",
+      "G major",
+      "A major",
+      "B major"
+    ],
+    "answer": "G major"
+  },
+  {
+    "question": "What is the key with two sharps?",
+    "options": [
+      "D major",
+      "G major",
+      "E major",
+      "C major"
+    ],
+    "answer": "D major"
+  },
+  {
+    "question": "What is the key with three sharps?",
+    "options": [
+      "F major",
+      "B major",
+      "A major",
+      "G major"
+    ],
+    "answer": "A major"
+  },
+  {
+    "question": "What is the key with four sharps?",
+    "options": [
+      "E major",
+      "C major",
+      "D major",
+      "F-sharp major"
+    ],
+    "answer": "E major"
+  },
+  {
+    "question": "What is the key with five sharps?",
+    "options": [
+      "B major",
+      "A major",
+      "G major",
+      "D major"
+    ],
+    "answer": "B major"
+  },
+  {
+    "question": "What is the key with six sharps?",
+    "options": [
+      "C-sharp major",
+      "F-sharp major",
+      "E major",
+      "A major"
+    ],
+    "answer": "F-sharp major"
+  },
+  {
+    "question": "What is the key with seven sharps?",
+    "options": [
+      "F-sharp major",
+      "D major",
+      "C-sharp major",
+      "B major"
+    ],
+    "answer": "C-sharp major"
+  },
+  {
+    "question": "Unlike the time signature, where is the key signature repeated?",
+    "options": [
+      "At the end of the song only",
+      "At the beginning of each staff of the score",
+      "In the middle of the song",
+      "Below the musical notes"
+    ],
+    "answer": "At the beginning of each staff of the score"
+  },
+  {
+    "question": "What does the absence of a key signature sometimes indicate apart from C major or A minor?",
+    "options": [
+      "Atonal music",
+      "Loud music",
+      "Slow music",
+      "Traditional music"
+    ],
+    "answer": "Atonal music"
+  },
+  {
+    "question": "Complete this line: “Take my life and let it be ______.”",
+    "options": [
+      "Given to you",
+      "Consecrated, Lord, to Thee",
+      "Filled with joy",
+      "Full of praise"
+    ],
+    "answer": "Consecrated, Lord, to Thee"
+  },
+  {
+    "question": "Who is being addressed in the hymn?",
+    "options": [
+      "Father",
+      "Teacher",
+      "Lord",
+      "Friend"
+    ],
+    "answer": "Lord"
+  },
+  {
+    "question": "Complete this line: “Take my moments and my ______.”",
+    "options": [
+      "Years",
+      "Days",
+      "Nights",
+      "Time"
+    ],
+    "answer": "Days"
+  },
+  {
+    "question": "What should our moments and days flow in?",
+    "options": [
+      "Endless joy",
+      "Ceaseless praise",
+      "Great happiness",
+      "Sweet songs"
+    ],
+    "answer": "Ceaseless praise"
+  },
+  {
+    "question": "What is the main message of the hymn?",
+    "options": [
+      "To offer our lives to God",
+      "To play musical instruments",
+      "To become famous",
+      "To travel around the world"
+    ],
+    "answer": "To offer our lives to God"
+  },
+  {
+    "question": "What is the key with one flat?",
+    "options": [
+      "C major",
+      "F major",
+      "G major",
+      "D major"
+    ],
+    "answer": "F major"
+  },
+  {
+    "question": "What is the key with two flats?",
+    "options": [
+      "B-flat major",
+      "E-flat major",
+      "A-flat major",
+      "F major"
+    ],
+    "answer": "B-flat major"
+  },
+  {
+    "question": "What is the key with four flats?",
+    "options": [
+      "D-flat major",
+      "E-flat major",
+      "A-flat major",
+      "G-flat major"
+    ],
+    "answer": "A-flat major"
+  },
+  {
+    "question": "What is the key with five flats?",
+    "options": [
+      "F major",
+      "D-flat major",
+      "C-flat major",
+      "B-flat major"
+    ],
+    "answer": "D-flat major"
+  },
+  {
+    "question": "What is the key with seven flats?",
+    "options": [
+      "G-flat major",
+      "A-flat major",
+      "C-flat major",
+      "E-flat major"
+    ],
+    "answer": "C-flat major"
+  },
+  {
+    "question": "What is an interval in music?",
+    "options": [
+      "The speed of a song",
+      "The distance from one note to another",
+      "The loudness of a song",
+      "The sound of an instrument"
+    ],
+    "answer": "The distance from one note to another"
+  },
+  {
+    "question": "What is the smallest interval recognised in modern music?",
+    "options": [
+      "Third",
+      "Fifth",
+      "Semitone",
+      "Octave"
+    ],
+    "answer": "Semitone"
+  },
+  {
+    "question": "How are intervals counted in music?",
+    "options": [
+      "Downward only",
+      "Upward, inclusively",
+      "Backward",
+      "By the sound of instruments"
+    ],
+    "answer": "Upward, inclusively"
+  },
+  {
+    "question": "What is the interval from C to E called?",
+    "options": [
+      "Second",
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "answer": "Third"
+  },
+  {
+    "question": "The interval from E to B is called what?",
+    "options": [
+      "Second",
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "answer": "Fifth"
+  }
+]

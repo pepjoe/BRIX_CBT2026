@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is a rhyme?",
+    "options": [
+      "A type of dance",
+      "A word that has the same or similar ending sound as another word",
+      "A musical instrument",
+      "A type of food"
+    ],
+    "answer": "A word that has the same or similar ending sound as another word"
+  },
+  {
+    "question": "A nursery is a room for.",
+    "options": [
+      "Adults",
+      "Teachers",
+      "Children",
+      "Drivers"
+    ],
+    "answer": "Children"
+  },
+  {
+    "question": "Nursery rhymes help children to exercise their power of.",
+    "options": [
+      "Memory",
+      "Fighting",
+      "Sleeping",
+      "Running"
+    ],
+    "answer": "Memory"
+  },
+  {
+    "question": "Nursery rhymes introduce children to the idea of.",
+    "options": [
+      "Mathematics",
+      "Poetry",
+      "Farming",
+      "Science"
+    ],
+    "answer": "Poetry"
+  },
+  {
+    "question": "Which of these is an example of rhyming words?",
+    "options": [
+      "Cat and mat",
+      "Book and chair",
+      "Cup and plate",
+      "Boy and girl"
+    ],
+    "answer": "Cat and mat"
+  },
+  {
+    "question": "What is the title of the nursery rhyme that begins with \"Twinkle, Twinkle\"?",
+    "options": [
+      "Baa Baa Black Sheep",
+      "Jack and Jill",
+      "Twinkle, Twinkle, Little Star",
+      "Mary Had a Little Lamb"
+    ],
+    "answer": "Twinkle, Twinkle, Little Star"
+  },
+  {
+    "question": "The little star is found in the.",
+    "options": [
+      "River",
+      "Sky",
+      "House",
+      "Garden"
+    ],
+    "answer": "Sky"
+  },
+  {
+    "question": "The star is described as being like a ______ in the sky.",
+    "options": [
+      "Stone",
+      "Ball",
+      "Diamond",
+      "Book"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "We sing with our _________.",
+    "options": [
+      "Hands",
+      "Voices",
+      "Legs",
+      "Eyes"
+    ],
+    "answer": "Voices"
+  },
+  {
+    "question": "The human voice is basically divided into how many parts?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "Which of these is a female high voice?",
+    "options": [
+      "Bass",
+      "Tenor",
+      "Alto",
+      "Soprano"
+    ],
+    "answer": "Soprano"
+  },
+  {
+    "question": "Alto is a _______ voice.",
+    "options": [
+      "Female low voice",
+      "Male high voice",
+      "Male low voice",
+      "Female high voice"
+    ],
+    "answer": "Female low voice"
+  },
+  {
+    "question": "Tenor is a ________ voice.",
+    "options": [
+      "Female high voice",
+      "Male high voice",
+      "Female low voice",
+      "Male low voice"
+    ],
+    "answer": "Male high voice"
+  },
+  {
+    "question": "Bass is a _______ voice.",
+    "options": [
+      "Female high voice",
+      "Female low voice",
+      "Male low voice",
+      "Male high voice"
+    ],
+    "answer": "Male low voice"
+  },
+  {
+    "question": "When everybody sings the same voice part together at the same note, it is called _______.",
+    "options": [
+      "Dancing",
+      "Unison",
+      "Acting",
+      "Clapping"
+    ],
+    "answer": "Unison"
+  },
+  {
+    "question": "Which of these is a simple singing rule?",
+    "options": [
+      "Shout when singing",
+      "Do not breathe",
+      "Pronounce words well when singing",
+      "Close your mouth when singing"
+    ],
+    "answer": "Pronounce words well when singing"
+  },
+  {
+    "question": "What is the title of the nursery rhyme about a black sheep?",
+    "options": [
+      "Twinkle, Twinkle, Little Star",
+      "Baa Baa Black Sheep",
+      "Jack and Jill",
+      "Humpty Dumpty"
+    ],
+    "answer": "Baa Baa Black Sheep"
+  },
+  {
+    "question": "How many bags of wool does the black sheep have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Who lives down the lane in Baa Baa Black Sheep?",
+    "options": [
+      "The master",
+      "The dame",
+      "The little boy",
+      "The teacher"
+    ],
+    "answer": "The little boy"
+  },
+  {
+    "question": "Which of these animals gives us wool?",
+    "options": [
+      "Dog",
+      "Sheep",
+      "Hen",
+      "Fish"
+    ],
+    "answer": "Sheep"
+  }
+]

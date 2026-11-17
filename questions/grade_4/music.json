@@ -1,362 +1,302 @@
 [
   {
-    "question": "Local musical instruments are classified into how many major families?",
+    "question": "Musical sounds are explained by characters called __________.",
     "options": [
-        "Two", 
-        "Three", 
-        "Four"
+      "Numbers",
+      "Notes",
+      "Figures",
+      "Signs"
+    ],
+    "answer": "Notes"
+  },
+  {
+    "question": "Musical notes are named after the first _______letters of the alphabet.",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "question": "Which of these is the correct order of musical note names?",
+    "options": [
+      "A, B, C, D, E, F, G",
+      "A, C, D, E, F, G, H",
+      "B, C, D, E, F, G, H",
+      "A, B, D, E, F, G, H"
+    ],
+    "answer": "A, B, C, D, E, F, G"
+  },
+  {
+    "question": "The staff or stave consists of _________ lines.",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "answer": "Five"
+  },
+  {
+    "question": "How many spaces are found on a musical staff?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ],
     "answer": "Four"
   },
   {
-    "question": "Instruments that produce sound by means of a membrane or skin are called what?",
+    "question": "The first line of the treble clef is _______.",
     "options": [
-        "Membranophones", 
-        "Chordophones", 
-        "Aerophones"
+      "G",
+      "E",
+      "B",
+      "F"
     ],
-    "answer": "Membranophones"
+    "answer": "E"
   },
   {
-    "question": "Which of the following is an Efik/Ibibio name for a drum?",
+    "question": "The second line of the treble clef is _______.",
     "options": [
-        "Iba", 
-        "Ibid", 
-        "Igbin"
+      "G",
+      "A",
+      "C",
+      "D"
     ],
-    "answer": "Ibid"
+    "answer": "G"
   },
   {
-    "question": "What is the Yoruba name for a drum mentioned in the notes?",
+    "question": "The third line of the treble clef is _______.",
     "options": [
-        "Igbin", 
-        "Iba", 
-        "Ibid"
+      "A",
+      "C",
+      "B",
+      "D"
     ],
-    "answer": "Igbin"
+    "answer": "B"
   },
   {
-    "question": "The Talking drum is an example of a double-headed drum called what in Yoruba?",
+    "question": "The fifth line of the treble clef is _______.",
     "options": [
-        "Udu", 
-        "Dundun", 
-        "Asasa"
+      "E",
+      "F",
+      "G",
+      "A"
     ],
-    "answer": "Dundun"
+    "answer": "F"
   },
   {
-    "question": "What name is generally given to musical instruments that produce sound by means of strings?",
+    "question": "Which statement helps us remember the treble clef lines?",
     "options": [
-        "Chordophone", 
-        "Idiophone", 
-        "Aerophone"
+      "FACE",
+      "Every Good Boy Deserves Favour",
+      "Good Boys Sing",
+      "All Children Dance"
     ],
-    "answer": "Chordophone"
+    "answer": "Every Good Boy Deserves Favour"
   },
   {
-    "question": "Which of these is an example of a chordophone used by the Igbo people?",
+    "question": "The first space of the treble clef is ________.",
     "options": [
-        "Une", 
-        "Anana", 
-        "Dundun"
+      "E",
+      "F",
+      "G",
+      "A"
     ],
-    "answer": "Une"
+    "answer": "F"
   },
   {
-    "question": "Anana is a string instrument used by which cultural group?",
+    "question": "The second space of the treble clef is __________.",
     "options": [
-        "Yoruba", 
-        "Igbo", 
-        "Efik/Ibibio"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "Efik/Ibibio"
+    "answer": "A"
   },
   {
-    "question": "A \"one-string fiddle\" belongs to which family of musical instruments?",
+    "question": "The third space of the treble clef is __________.",
     "options": [
-        "Membranophone", 
-        "Chordophone", 
-        "Aerophone"
+      "B",
+      "C",
+      "D",
+      "E"
     ],
-    "answer": "Chordophone"
+    "answer": "C"
   },
   {
-    "question": "What family of instruments produces sound when air is blown into them?",
+    "question": "The fourth space of the treble clef is __________.",
     "options": [
-        "Aerophone", 
-        "Idiophone", 
-        "Chordophone"
+      "C",
+      "D",
+      "E",
+      "F"
     ],
-    "answer": "Aerophone"
+    "answer": "E"
   },
   {
-    "question": "Which instrument is a classic example of a double reed aerophone?",
+    "question": "Which word helps us remember the treble clef spaces?",
     "options": [
-        "Oja", 
-        "Lare", 
-        "Double Reed Reed"
+      "FACE",
+      "CAGE",
+      "BEAD",
+      "DEAF"
     ],
-    "answer": "Double Reed Reed"
+    "answer": "FACE"
   },
   {
-    "question": "The flute is known as what in the Igbo language?",
+    "question": "The first line of the bass clef is ________.",
     "options": [
-        "Lare", 
-        "Oja", 
-        "Abang"
+      "A",
+      "B",
+      "G",
+      "D"
     ],
-    "answer": "Oja"
+    "answer": "G"
   },
   {
-    "question": "The Yoruba name for a flute is what?",
+    "question": "The second line of the bass clef is ___________.",
     "options": [
-        "Lare", 
-        "Oja", 
-        "Ibit"
+      "B",
+      "C",
+      "D",
+      "F"
     ],
-    "answer": "Lare"
+    "answer": "B"
   },
   {
-    "question": "Instruments that produce sound from their own body material when struck or shaken are called what?",
+    "question": "The third line of the bass clef is _________.",
     "options": [
-        "Membranophones", 
-        "Aerophones", 
-        "Idiophones"
+      "A",
+      "C",
+      "D",
+      "F"
     ],
-    "answer": "Idiophones"
+    "answer": "D"
   },
   {
-    "question": "The Twin Gong is an example of a struck idiophone known as what in Efik/Ibibio?",
+    "question": "The fifth line of the bass clef is _________.",
     "options": [
-        "Akalcanq", 
-        "Abang", 
-        "Nsak"
+      "G",
+      "A",
+      "B",
+      "C"
     ],
-    "answer": "Akalcanq"
+    "answer": "A"
   },
   {
-    "question": "What is the Igbo name for a Pot drum?",
+    "question": "The first space of the bass clef is _________.",
     "options": [
-        "Udu", 
-        "Nsak", 
-        "Ntunq"
+      "G",
+      "A",
+      "B",
+      "C"
     ],
-    "answer": "Udu"
+    "answer": "A"
   },
   {
-    "question": "The Efik/Ibibio name for a Pot drum is what?",
+    "question": "The second space of the bass clef is ___________.",
     "options": [
-        "Abang", 
-        "Udu", 
-        "Sekere"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "Abang"
+    "answer": "C"
   },
   {
-    "question": "A Shekere is a type of shaken idiophone. What is its Efik/Ibibio name?",
+    "question": "The fourth space of the bass clef is _________.",
     "options": [
-        "Ichaka", 
-        "Nsak", 
-        "Sekere"
+      "E",
+      "F",
+      "G",
+      "A"
     ],
-    "answer": "Nsak"
+    "answer": "G"
   },
   {
-    "question": "What is the Igbo name for a Shekere or ground rattle?",
+    "question": "The great staff is formed by joining the _______and bass clefs.",
     "options": [
-        "Ichaka", 
-        "Sekere", 
-        "Nsak"
+      "Alto",
+      "Tenor",
+      "Treble",
+      "Soprano"
     ],
-    "answer": "Ichaka"
+    "answer": "Treble"
   },
   {
-    "question": "The Yoruba name for a ground rattle or shaker is what?",
+    "question": "The treble and bass clefs are joined together by a__________.",
     "options": [
-        "Nsak", 
-        "Sekere", 
-        "Ichaka"
+      "Bar",
+      "Brace",
+      "Note",
+      "Dot"
     ],
-    "answer": "Sekere"
+    "answer": "Brace"
   },
   {
-    "question": "A rattle is called \"Ntunq\" in Efik/Ibibio. What is it called in Igbo?",
+    "question": "The short line at the centre of the grand staff is called __________.",
     "options": [
-        "Ichaka", 
-        "Oyo", 
-        "Sukpili"
+      "High C",
+      "Low C",
+      "Middle C",
+      "Upper C"
     ],
-    "answer": "Sukpili"
+    "answer": "Middle C"
   },
   {
-    "question": "Music is built from a set of core building blocks known as what?",
+    "question": "The grand staff has _______ lines and _______spaces.",
     "options": [
-        "Instruments", 
-        "Elements of music", 
-        "Ingredients"
+      "5 lines and 4 spaces",
+      "10 lines and 11 spaces",
+      "11 lines and 10 spaces",
+      "7 lines and 6 spaces"
     ],
-    "answer": "Elements of music"
+    "answer": "11 lines and 10 spaces"
   },
   {
-    "question": "Which element is defined as a sequence of notes played one after another that forms a tune?",
+    "question": "The grand staff is used for writing music for ________.",
     "options": [
-        "Melody", 
-        "Harmony", 
-        "Rhythm"
+      "Drums only",
+      "Piano and organ",
+      "Flute only",
+      "Trumpet only"
     ],
-    "answer": "Melody"
+    "answer": "Piano and organ"
   },
   {
-    "question": "Which element has key aspects like contour (shape), range, and intervals?",
+    "question": "Ledger lines simply mean __________.",
     "options": [
-        "Rhythm", 
-        "Melody", 
-        "Dynamics"
+      "Short notes",
+      "Extra lines",
+      "Musical sounds",
+      "Spaces"
     ],
-    "answer": "Melody"
+    "answer": "Extra lines"
   },
   {
-    "question": "What is the element where notes are sounded together to support the melody?",
+    "question": "Ledger lines are used to enlarge the __________staff.",
     "options": [
-        "Harmony", 
-        "Melody", 
-        "Form"
+      "Treble",
+      "Drum",
+      "Vocal",
+      "Rhythm"
     ],
-    "answer": "Harmony"
+    "answer": "Treble"
   },
   {
-    "question": "Harmony is often described as the \"__________ dimension of music.\"",
+    "question": "On the treble staff, which note is found on the first ledger line below the stave?",
     "options": [
-        "Horizontal", 
-        "Vertical", 
-        "Diagonal"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "Vertical"
-  },
-  {
-    "question": "Which element of music creates tension, release, and emotional color?",
-    "options": [
-        "Rhythm", 
-        "Melody", 
-        "Harmony"
-    ],
-    "answer": "Harmony"
-  },
-  {
-    "question": "The placement of sound in time is known as what?",
-    "options": [
-        "Texture", 
-        "Rhythm", 
-        "Tempo"
-    ],
-    "answer": "Rhythm"
-  },
-  {
-    "question": "Which of the following is NOT a key aspect of rhythm?",
-    "options": [
-        "Beat", 
-        "Tempo", 
-        "Contour"
-    ],
-    "answer": "Contour"
-  },
-  {
-    "question": "What role does rhythm play in a piece of music?",
-    "options": [
-      "It drives movement and gives a groove",
-      "It supports the melody",
-      "It makes music soft"
-    ],
-    "answer": "It drives movement and gives a groove"
-  },
-  {
-    "question": "How many layers of sound you hear and how they relate is called what?",
-    "options": [
-        "Timbre", 
-        "Form", 
-        "Texture"
-    ],
-    "answer": "Texture"
-  },
-  {
-    "question": "What texture features a single melodic line with no accompaniment?",
-    "options": [
-        "Monophonic", 
-        "Homophonic", 
-        "Polyphonic"
-    ],
-    "answer": "Monophonic"
-  },
-  {
-    "question": "A singer singing alone with no instruments is an example of which texture?",
-    "options": [
-        "Polyphonic", 
-        "Homophonic", 
-        "Monophonic"
-    ],
-    "answer": "Monophonic"
-  },
-  {
-    "question": "A melody supported by chordal accompaniment (like a singer with a guitar) is called what?",
-    "options": [
-        "Monophonic", 
-        "Homophonic", 
-        "Polyphonic"
-    ],
-    "answer": "Homophonic"
-  },
-  {
-    "question": "What texture consists of two or more independent melodies playing at once?",
-    "options": [
-        "Monophonic", 
-        "Homophonic", 
-        "Polyphonic"
-    ],
-    "answer": "Polyphonic"
-  },
-  {
-    "question": "A Bach fugue is a classic example of which texture?",
-    "options": [
-        "Monophonic", 
-        "Homophonic", 
-        "Polyphonic"
-    ],
-    "answer": "Polyphonic"
-  },
-  {
-    "question": "The unique quality or \"color\" of a sound that lets you tell a trumpet from a violin is called what?",
-    "options": [
-        "Timbre", 
-        "Dynamics", 
-        "Texture"
-    ],
-    "answer": "Timbre"
-  },
-  {
-    "question": "The overall blueprint or layout of a piece of music is called its what?",
-    "options": [
-        "Form/Structure", 
-        "Harmony", 
-        "Tempo"
-    ],
-    "answer": "Form/Structure"
-  },
-  {
-    "question": "How loud or soft the music is, and how that changes, refers to what?",
-    "options": [
-        "Timbre", 
-        "Dynamics", 
-        "Pitch"
-    ],
-    "answer": "Dynamics"
-  },
-  {
-    "question": "What is the speed of the beat measured in BPM called?",
-    "options": [
-        "Rhythm", 
-        "Form", 
-        "Tempo"
-    ],
-    "answer": "Tempo"
+    "answer": "C"
   }
 ]

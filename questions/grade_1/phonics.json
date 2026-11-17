@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is this /æ/ sound for __",
+    "options": [
+      "How",
+      "Flash",
+      "Pen",
+      "Dog"
+    ],
+    "answer": "Flash"
+  },
+  {
+    "question": "What is this /b/ sound for __",
+    "options": [
+      "Hen",
+      "Egg",
+      "Bat",
+      "Sun"
+    ],
+    "answer": "Bat"
+  },
+  {
+    "question": "What sound does A make?",
+    "options": [
+      "/b/",
+      "/k/",
+      "/d/",
+      "/æ/"
+    ],
+    "answer": "/æ/"
+  },
+  {
+    "question": "What sound does B make?",
+    "options": [
+      "/b/",
+      "/a/",
+      "/m/",
+      "/o/"
+    ],
+    "answer": "/b/"
+  },
+  {
+    "question": "Which one matches RED?",
+    "options": [
+      "Blue",
+      "Apple",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Apple"
+  },
+  {
+    "question": "Which animal says MEOW?",
+    "options": [
+      "Hen",
+      "Cow",
+      "Cat",
+      "Pig"
+    ],
+    "answer": "Cat"
+  },
+  {
+    "question": "Which animal says MOO?",
+    "options": [
+      "Duck",
+      "Rat",
+      "Bat",
+      "Cow"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "question": "How many consonants are in HAT?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "How many consonants are in PIG?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which one is a vowel?",
+    "options": [
+      "d",
+      "f",
+      "a",
+      "g"
+    ],
+    "answer": "a"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is intonation?",
+    "options": [
+      "Noise",
+      "Number of pen",
+      "Rise and fall of voice",
+      "Loud sound"
+    ],
+    "answer": "Rise and fall of voice"
+  },
+  {
+    "question": "How many tones are we learning?",
+    "options": [
+      "One",
+      "Five",
+      "Ten",
+      "Two"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "Falling tone means voice goes __",
+    "options": [
+      "Down",
+      "Up",
+      "Same",
+      "No sound"
+    ],
+    "answer": "Down"
+  },
+  {
+    "question": "Rising tone means voice goes __",
+    "options": [
+      "Down",
+      "Up",
+      "Same",
+      "Silent"
+    ],
+    "answer": "Up"
+  },
+  {
+    "question": "We use falling tone for __",
+    "options": [
+      "Yes/No questions",
+      "Laughing",
+      "Statements",
+      "Crying"
+    ],
+    "answer": "Statements"
+  },
+  {
+    "question": "We use falling tone for __",
+    "options": [
+      "Yes/No questions",
+      "Jokes",
+      "Songs",
+      "Commands"
+    ],
+    "answer": "Commands"
+  },
+  {
+    "question": "We use rising tone for __",
+    "options": [
+      "Yes/No questions",
+      "Statements",
+      "Commands",
+      "Lists ending"
+    ],
+    "answer": "Yes/No questions"
+  },
+  {
+    "question": "Which is a statement?",
+    "options": [
+      "Is it hot?",
+      "The moon is bright",
+      "Are you happy?",
+      "Do you like yam?"
+    ],
+    "answer": "The moon is bright"
+  },
+  {
+    "question": "Which is a question?",
+    "options": [
+      "Stand up",
+      "Come here",
+      "Is it hot?",
+      "It is raining"
+    ],
+    "answer": "Is it hot?"
+  },
+  {
+    "question": "Which is a command?",
+    "options": [
+      "Is it hot?",
+      "Are you happy?",
+      "Do you like yam?",
+      "Stand up"
+    ],
+    "answer": "Stand up"
+  },
+  {
+    "question": "\"Are you happy?\" needs __",
+    "options": [
+      "Rising tone",
+      "Falling tone",
+      "No tone",
+      "Flat tone"
+    ],
+    "answer": "Rising tone"
+  }
+]

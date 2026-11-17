@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is the symbol used for addition?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "-",
+      "+",
+      "×",
+      "÷"
     ],
-    "answer": "A"
+    "answer": "+"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is the sum of 37 and 62?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "89",
+      "99",
+      "96",
+      "91"
     ],
-    "answer": "B"
+    "answer": "99"
+  },
+  {
+    "question": "What is 31 plus 16?",
+    "options": [
+      "47",
+      "46",
+      "57",
+      "37"
+    ],
+    "answer": "47"
+  },
+  {
+    "question": "If there are 36 oranges and 60 oranges in two baskets, how many oranges are there altogether?",
+    "options": [
+      "86",
+      "90",
+      "96",
+      "98"
+    ],
+    "answer": "96"
+  },
+  {
+    "question": "Which of the following words means to subtract or take away?",
+    "options": [
+      "Sum",
+      "Plus",
+      "Altogether",
+      "Difference"
+    ],
+    "answer": "Difference"
+  },
+  {
+    "question": "When performing addition or subtraction, which place value column should you start with first?",
+    "options": [
+      "Tens (T)",
+      "Units (U)",
+      "Hundreds (H)",
+      "It does not matter"
+    ],
+    "answer": "Units (U)"
+  },
+  {
+    "question": "What is the result of 67 - 34?",
+    "options": [
+      "33",
+      "34",
+      "23",
+      "31"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "Find the product of 52 and 3.",
+    "options": [
+      "154",
+      "155",
+      "156",
+      "166"
+    ],
+    "answer": "156"
+  },
+  {
+    "question": "What is 135 × 2?",
+    "options": [
+      "260",
+      "270",
+      "275",
+      "280"
+    ],
+    "answer": "270"
+  },
+  {
+    "question": "Calculate 124 × 3.",
+    "options": [
+      "362",
+      "372",
+      "382",
+      "374"
+    ],
+    "answer": "372"
+  },
+  {
+    "question": "What is an open sentence in mathematics?",
+    "options": [
+      "A mathematical sentence that is always left completely blank",
+      "A mathematical sentence in which one number or value is missing",
+      "A word problem written only in English without any numbers",
+      "A math problem that has no possible solution"
+    ],
+    "answer": "A mathematical sentence in which one number or value is missing"
+  },
+  {
+    "question": "Which of the following number sentences is true?",
+    "options": [
+      "8 - 7 = 2",
+      "12 + 15 = 39",
+      "7 + 3 = 10",
+      "59 - 39 = 49"
+    ],
+    "answer": "7 + 3 = 10"
+  },
+  {
+    "question": "Which of the following number sentences is false?",
+    "options": [
+      "33 + 12 = 45",
+      "98 + 2 = 100",
+      "28 + 32 = 14",
+      "7 + 3 = 10"
+    ],
+    "answer": "28 + 32 = 14"
+  },
+  {
+    "question": "What is the missing number in the open sentence: 49 + [ ] = 100?",
+    "options": [
+      "61",
+      "51",
+      "41",
+      "149"
+    ],
+    "answer": "51"
+  },
+  {
+    "question": "What is the missing number in the open sentence: 183 - [ ] = 52?",
+    "options": [
+      "235",
+      "121",
+      "141",
+      "131"
+    ],
+    "answer": "131"
+  },
+  {
+    "question": "What is an open sentence in mathematics?",
+    "options": [
+      "A mathematical sentence that is always left completely blank",
+      "A mathematical sentence in which one number or value is missing",
+      "A word problem written only in English without any numbers",
+      "A math problem that has no possible solution"
+    ],
+    "answer": "A mathematical sentence in which one number or value is missing"
+  },
+  {
+    "question": "What is the missing number in the open sentence: [ ] - 42 = 30?",
+    "options": [
+      "12",
+      "62",
+      "72",
+      "82"
+    ],
+    "answer": "72"
+  },
+  {
+    "question": "Solve for the box in the open sentence: 243 + [ ] = 289.",
+    "options": [
+      "56",
+      "532",
+      "36",
+      "46"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Find the missing number in the open sentence: [ ] - 29 = 15.",
+    "options": [
+      "44",
+      "14",
+      "34",
+      "45"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "What is the missing number in the open sentence: 140 - [ ] = 109?",
+    "options": [
+      "41",
+      "31",
+      "249",
+      "21"
+    ],
+    "answer": "31"
+  },
+  {
+    "question": "What does data mean?",
+    "options": [
+      "Pictures drawn on a wall",
+      "Basic information usually in number form",
+      "A type of heavy stone",
+      "Alphabet letters only"
+    ],
+    "answer": "Basic information usually in number form"
+  },
+  {
+    "question": "What skill do you need most before you can collect data correctly?",
+    "options": [
+      "The ability to run fast",
+      "The ability to count very well",
+      "The ability to sing",
+      "The ability to paint pictures"
+    ],
+    "answer": "The ability to count very well"
+  },
+  {
+    "question": "How many hearts are there? ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+    "options": [
+      "12",
+      "13",
+      "30",
+      "42"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "How many boys are there? 🤷🤷🤷🤷🤷🤷🤷🤷🤷🤷",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "In the classroom, how many tables can be counted?",
+    "options": [
+      "12",
+      "21",
+      "30",
+      "24"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What symbols are there? 🌺🌹🌸💮🌼🌻💐🌹🌺",
+    "options": [
+      "Stones",
+      "Eggs",
+      "Flowers",
+      "Squares"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "question": "When we use pictures or symbols to represent information, what is it called?",
+    "options": [
+      "A bar graph",
+      "A pictograph",
+      "A written essay",
+      "A number line"
+    ],
+    "answer": "A pictograph"
+  },
+  {
+    "question": "Which of the following is NOT listed as a way pictographs and information can be shown?",
+    "options": [
+      "Bar Graphs",
+      "Pie Charts",
+      "Column Graphs",
+      "Audio Recordings"
+    ],
+    "answer": "Audio Recordings"
+  },
+  {
+    "question": "What is used in a bar graph to show numerical values?",
+    "options": [
+      "Circles of different colors",
+      "Bars of different heights",
+      "Sounds and music",
+      "Random words"
+    ],
+    "answer": "Bars of different heights"
+  },
+  {
+    "question": "How are the bars separated in a standard bar graph?",
+    "options": [
+      "They touch each other completely",
+      "They do not touch each other",
+      "They overlap one another",
+      "They cross in an X shape"
+    ],
+    "answer": "They do not touch each other"
   }
 ]

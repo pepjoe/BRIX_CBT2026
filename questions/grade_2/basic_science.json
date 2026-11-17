@@ -1,22 +1,102 @@
 [
   {
-    "question": "Sample Question 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
+    "question": "How many sets of teeth do humans have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
   },
   {
-    "question": "Sample Question 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
+    "question": "What is the first set of teeth that grows in a child's mouth called?",
+    "options": ["Permanent teeth", "Wisdom teeth", "Temporary/milk teeth", "Molar teeth"],
+    "answer": "Temporary/milk teeth"
+  },
+  {
+    "question": "How many permanent teeth replace milk teeth in humans?",
+    "options": ["20", "28", "30", "32"],
+    "answer": "32"
+  },
+  {
+    "question": "Which type of teeth are flat and help to cut food into smaller pieces?",
+    "options": ["Canines", "Incisors", "Premolars", "Molars"],
+    "answer": "Incisors"
+  },
+  {
+    "question": "What is the main function of canine teeth?",
+    "options": ["To grind food", "To cut food into pieces", "To tear meat", "To crush hard objects"],
+    "answer": "To tear meat"
+  },
+  {
+    "question": "How many molars are found in the human mouth in total?",
+    "options": ["4", "8", "12", "20"],
+    "answer": "12"
+  },
+  {
+    "question": "How often should you replace your toothbrush to care for your teeth?",
+    "options": ["Every week", "Every 3 to 4 months", "Once a year", "Every 6 months"],
+    "answer": "Every 3 to 4 months"
+  },
+  {
+    "question": "Who should you report all cases of toothache to?",
+    "options": ["An optometrist", "A dentist", "An orthoptist", "A surgeon"],
+    "answer": "A dentist"
+  },
+  {
+    "question": "Which part of the eye is coloured and controls the size of the pupil?",
+    "options": ["Cornea", "Sclera", "Iris", "Conjunctiva"],
+    "answer": "Iris"
+  },
+  {
+    "question": "What is the white part of the eye that protects its outer layer called?",
+    "options": ["Sclera", "Cornea", "Iris", "Pupil"],
+    "answer": "Sclera"
+  },
+  {
+    "question": "Which part of the eye is the inner layer of the eyelid skin that helps prevent bacterial infection?",
+    "options": ["Cornea", "Conjunctiva", "Sclera", "Iris"],
+    "answer": "Conjunctiva"
+  },
+  {
+    "question": "What is the common vision condition in which close objects look clear, but far objects look blurry?",
+    "options": ["Hyperopia", "Cataract", "Myopia", "Glaucoma"],
+    "answer": "Myopia"
+  },
+  {
+    "question": "Which eye defect is characterized by the clouding of the lens?",
+    "options": ["Myopia", "Hyperopia", "Astigmatism", "Cataract"],
+    "answer": "Cataract"
+  },
+  {
+    "question": "Which eye professional performs eye surgeries and treats all eye conditions?",
+    "options": ["Optometrist", "Ophthalmologist", "Orthoptist", "Optician"],
+    "answer": "Ophthalmologist"
+  },
+  {
+    "question": "Which of the following is a proper way to care for the eye?",
+    "options": ["Rubbing the eyes frequently", "Eating a healthy diet and getting good sleep", "Looking directly at bright lights", "Avoiding water"],
+    "answer": "Eating a healthy diet and getting good sleep"
+  },
+  {
+    "question": "Into how many main parts is the human ear divided?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answer": "Three"
+  },
+  {
+    "question": "What is another name for the visible portion of the outer ear?",
+    "options": ["Ear drum", "Ear canal", "Auricle or pinna", "Anvil"],
+    "answer": "Auricle or pinna"
+  },
+  {
+    "question": "Which of the following bones are found in the middle ear?",
+    "options": ["Hammer, anvil, and stirrup", "Pinna and auricle", "Semicircular canals", "Sclera and cornea"],
+    "answer": "Hammer, anvil, and stirrup"
+  },
+  {
+    "question": "What is the inner ear made up of according to the notes?",
+    "options": ["The ear canal", "The ear drum", "Vestibular apparatus housing semicircular canals", "Cartilage and skin"],
+    "answer": "Vestibular apparatus housing semicircular canals"
+  },
+  {
+    "question": "What is the function of the pinna?",
+    "options": ["To bend light into the eye", "To gather sounds and direct them to the ear canal", "To tear meat", "To prevent bacterial infection in the eyelid"],
+    "answer": "To gather sounds and direct them to the ear canal"
   }
 ]
