@@ -1,272 +1,202 @@
 [
   {
-    "question": "What is an exhibition?",
-    "options": [
-      "The act of hiding artworks from the public",
-      "The act of displaying artworks or skills publicly for people to see or buy",
-      "The act of teaching pupils how to draw"
-    ],
-    "answer": "The act of displaying artworks or skills publicly for people to see or buy"
+    "question": "According to the notes, what is a line defined as?",
+    "options": {
+      "a": "A stroke or point marked on the surface[span_0](start_span)[span_0](end_span)",
+      "b": "A solid block of wood",
+      "c": "A collection of colours",
+      "d": "A closed circular object"
+    },
+    "answer": "a"
   },
   {
-    "question": "How does exhibition help pupils?",
-    "options": [
-      "It reduces their interest in art",
-      "It helps to promote the courage and interest of pupils towards art",
-      "It stops pupils from comparing artworks"
-    ],
-    "answer": "It helps to promote the courage and interest of pupils towards art"
+    "question": "A vertical line is a line that is drawn from...",
+    "options": {
+      "a": "left to right",
+      "b": "up to down[span_1](start_span)[span_1](end_span)",
+      "c": "corner to corner",
+      "d": "inside out"
+    },
+    "answer": "b"
   },
   {
-    "question": "What do pupils improve when they compare and contrast other pupils’ artworks?",
-    "options": [
-      "Their cooking skills",
-      "Their art skills",
-      "Their singing skills"
-    ],
-    "answer": "Their art skills"
+    "question": "What is an example given for a vertical line in the notes?",
+    "options": {
+      "a": "From north to south[span_2](start_span)[span_2](end_span)",
+      "b": "From east to west[span_3](start_span)[span_3](end_span)",
+      "c": "From morning to night",
+      "d": "From top to bottom"
+    },
+    "answer": "a"
   },
   {
-    "question": "What does exhibition show to the whole school or public?",
-    "options": [
-      "The laziness and weakness of pupils",
-      "The hard work and creativity of the pupils",
-      "The mistakes of teachers only"
-    ],
-    "answer": "The hard work and creativity of the pupils"
+    "question": "A horizontal line is a line drawn from...",
+    "options": {
+      "a": "up to down",
+      "b": "left to right[span_4](start_span)[span_4](end_span)",
+      "c": "diagonal to straight",
+      "d": "back to front"
+    },
+    "answer": "b"
   },
   {
-    "question": "What are pupils advised to display for the whole school to see, admire and appreciate?",
-    "options": [
-      "Only one artwork of the term",
-      "All their artworks of the term",
-      "Other schools’ artworks"
-    ],
-    "answer": "All their artworks of the term"
+    "question": "What example is given for a horizontal line?",
+    "options": {
+      "a": "From north to south",
+      "b": "From the east to west[span_5](start_span)[span_5](end_span)",
+      "c": "From top to bottom",
+      "d": "From corner to corner"
+    },
+    "answer": "b"
   },
   {
-    "question": "What is moulding?",
-    "options": [
-      "The art of painting pictures with water",
-      "The art of making objects with a solid material such as clay or wax",
-      "The art of cutting paper into shapes"
-    ],
-    "answer": "The art of making objects with a solid material such as clay or wax"
+    "question": "Which of the following is listed as a type of line?",
+    "options": {
+      "a": "Square line",
+      "b": "Spiral lines[span_6](start_span)[span_6](end_span)",
+      "c": "Circular box line",
+      "d": "Block line"
+    },
+    "answer": "b"
   },
   {
-    "question": "What is clay?",
-    "options": [
-      "A light soil that is hard when wet",
-      "A sticky heavy soil, that is soft and pliable when wet and hard when heated or dried",
-      "A liquid used for cooking"
-    ],
-    "answer": "A sticky heavy soil, that is soft and pliable when wet and hard when heated or dried"
+    "question": "How is a shape defined in the notes?",
+    "options": {
+      "a": "A visible appearance of something[span_7](start_span)[span_7](end_span)",
+      "b": "A random splash of paint",
+      "c": "A sound made by instruments",
+      "d": "A piece of folded cloth"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these is NOT a material for moulding?",
-    "options": [
-      "Clay",
-      "Crayon",
-      "Plasticine"
-    ],
-    "answer": "Crayon"
+    "question": "A shape is formed by joining...",
+    "options": {
+      "a": "colours",
+      "b": "lines[span_8](start_span)[span_8](end_span)",
+      "c": "dots only",
+      "d": "spaces"
+    },
+    "answer": "b"
   },
   {
-    "question": "Clay can be moulded into which of the following?",
-    "options": [
-      "Bag, shoes, fabric",
-      "Spoon, cups, pot",
-      "Cars, planes, phones"
-    ],
-    "answer": "Spoon, cups, pot"
+    "question": "Which of the following is listed as an example of a shape?",
+    "options": {
+      "a": "Triangle[span_9](start_span)[span_9](end_span)",
+      "b": "Spiral",
+      "c": "Zig-zag",
+      "d": "Dot"
+    },
+    "answer": "a"
   },
   {
-    "question": "How many methods are there for clay preparation?",
-    "options": [
-      "One method",
-      "Two methods: Dry Method and Wet Method",
-      "Four methods"
-    ],
-    "answer": "Two methods: Dry Method and Wet Method"
+    "question": "What is an importance of shapes?",
+    "options": {
+      "a": "Shapes are used to create patterns and designs[span_10](start_span)[span_10](end_span)",
+      "b": "Shapes help us to run fast",
+      "c": "Shapes make food sweet",
+      "d": "Shapes are used for singing"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is the first step in moulding with clay?",
-    "options": [
-      "To heat the clay",
-      "To collect clay from source into a container",
-      "To paint the clay"
-    ],
-    "answer": "To collect clay from source into a container"
+    "question": "Shapes are used to differentiate or...",
+    "options": {
+      "a": "identify an object[span_11](start_span)[span_11](end_span)",
+      "b": "destroy a drawing",
+      "c": "erase a line",
+      "d": "hide a picture"
+    },
+    "answer": "a"
   },
   {
-    "question": "What happens to clay when it is heated or dried?",
-    "options": [
-      "It becomes soft and pliable",
-      "It melts into water",
-      "It becomes strong"
-    ],
-    "answer": "It becomes strong"
+    "question": "Which of the following is listed as a feature of shapes?",
+    "options": {
+      "a": "Regular[span_12](start_span)[span_12](end_span)",
+      "b": "Soft",
+      "c": "Loud",
+      "d": "Sweet"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is the stage called where unwanted materials are removed from clay?",
-    "options": [
-      "Kneading the Clay",
-      "Collection of Clay",
-      "Removal of the impurities"
-    ],
-    "answer": "Removal of the impurities"
+    "question": "What is design defined as?",
+    "options": {
+      "a": "The arrangement of lines, shapes and colour to make an object beautiful[span_13](start_span)[span_13](end_span)",
+      "b": "The destruction of paper crafts",
+      "c": "The mixing of water and sand",
+      "d": "The cleaning of a classroom"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these is an example of impurity found in clay?",
-    "options": [
-      "Water",
-      "Pebbles, roots, broken glass",
-      "Plasticine"
-    ],
-    "answer": "Pebbles, roots, broken glass"
+    "question": "What is a pattern defined as?",
+    "options": {
+      "a": "The repetition of shapes, lines or colour[span_14](start_span)[span_14](end_span)",
+      "b": "A single isolated dot",
+      "c": "A completely blank page",
+      "d": "A broken line"
+    },
+    "answer": "a"
   },
   {
-    "question": "For the dry method, how are remaining impurities removed after grinding?",
-    "options": [
-      "By adding water",
-      "By sieving the powdered clay",
-      "By heating the clay"
-    ],
-    "answer": "By sieving the powdered clay"
+    "question": "What is a single unit of patterns called?",
+    "options": {
+      "a": "Motif[span_15](start_span)[span_15](end_span)",
+      "b": "Design",
+      "c": "Border",
+      "d": "Stroke"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is done during 'Kneading the Clay'?",
-    "options": [
-      "Unwanted materials are picked out",
-      "Water is added and clay is mixed until consistent texture is obtained",
-      "Clay is collected from the source"
-    ],
-    "answer": "Water is added and clay is mixed until consistent texture is obtained"
+    "question": "Which basic shapes are suggested for making patterns with shapes?",
+    "options": {
+      "a": "Circle, square, triangle[span_16](start_span)[span_16](end_span)",
+      "b": "Star, moon, sun",
+      "c": "Line, dot, spiral",
+      "d": "Cube, cone, cylinder"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is the purpose of wedging clay?",
-    "options": [
-      "To add water to the clay",
-      "To remove air from the clay through pounding, thumbing and rolling",
-      "To collect clay from the source"
-    ],
-    "answer": "To remove air from the clay through pounding, thumbing and rolling"
+    "question": "What type of pattern goes along edges?",
+    "options": {
+      "a": "Border pattern[span_17](start_span)[span_17](end_span)",
+      "b": "All over pattern[span_18](start_span)[span_18](end_span)",
+      "c": "Random pattern",
+      "d": "Spiral pattern"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these actions is used in wedging clay?",
-    "options": [
-      "Cooking the clay",
-      "Pounding, thumbing and rolling the clay in bits",
-      "Heating the clay until it melts"
-    ],
-    "answer": "Pounding, thumbing and rolling the clay in bits"
+    "question": "What type of pattern covers the whole surface?",
+    "options": {
+      "a": "Border pattern",
+      "b": "All over pattern[span_19](start_span)[span_19](end_span)",
+      "c": "Edge pattern",
+      "d": "Single-line pattern"
+    },
+    "answer": "b"
   },
   {
-    "question": "Where can clay be found?",
-    "options": [
-      "Only in deserts",
-      "Banks of rivers, valleys, base of rivers, and hill sides",
-      "Only in the classroom"
-    ],
-    "answer": "Banks of rivers, valleys, base of rivers, and hill sides"
+    "question": "According to the notes, design is also a plan for...",
+    "options": {
+      "a": "decoration[span_20](start_span)[span_20](end_span)",
+      "b": "construction",
+      "c": "building houses",
+      "d": "sewing clothes"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is Ade doing in the second picture?",
-    "options": [
-      "Collecting clay from the source",
-      "Removing impurities from clay",
-      "Moulding a flower vase with clay"
-    ],
-    "answer": "Moulding a flower vase with clay"
-  },
-  {
-    "question": "Why must air be removed from clay during wedging?",
-    "options": [
-      "To make the clay colorful",
-      "To make the clay lighter",
-      "To prevent cracks or explosion when the clay is heated/fired"
-    ],
-    "answer": "To prevent cracks or explosion when the clay is heated/fired"
-  },
-  {
-    "question": "Which of these is NOT moulded with clay?",
-    "options": [
-      "Clay cup",
-      "Clay pot",
-      "Plastic spoon"
-    ],
-    "answer": "Plastic spoon"
-  },
-  {
-    "question": "Clay bricks are used for:",
-    "options": [
-      "Cooking food",
-      "Building houses/walls",
-      "Drinking water"
-    ],
-    "answer": "Building houses/walls"
-  },
-  {
-    "question": "One quality of good and pure clay is that it should be:",
-    "options": [
-      "Hard and dry",
-      "Sticky",
-      "Smooth like glass"
-    ],
-    "answer": "Sticky"
-  },
-  {
-    "question": "Good clay should be able to:",
-    "options": [
-      "Take 1 month to dry",
-      "Dry fast",
-      "Never dry at all"
-    ],
-    "answer": "Dry fast"
-  },
-  {
-    "question": "Which statement about good clay is FALSE?",
-    "options": [
-      "It should be easily mixed with water for kneading",
-      "It is good for cooking",
-      "It comes in different colours"
-    ],
-    "answer": "It is good for cooking"
-  },
-  {
-    "question": "After heating, good clay should be:",
-    "options": [
-      "Heavier",
-      "Lighter",
-      "The same weight"
-    ],
-    "answer": "Lighter"
-  },
-  {
-    "question": "Which tool is used for grinding/pounding clay to remove impurities?",
-    "options": [
-      "Stove",
-      "Mortar and pestle",
-      "Bowl"
-    ],
-    "answer": "Mortar and pestle"
-  },
-  {
-    "question": "The wooden board is used for?",
-    "options": [
-      "Carrying clay",
-      "Kneading clay on a flat surface",
-      "Serving food"
-    ],
-    "answer": "Kneading clay on a flat surface"
-  },
-  {
-    "question": "The act of creating things using pencils, charcoal is __",
-    "options": [
-      "Pending",
-      "Drawing",
-      "Dying"
-    ],
-    "answer": "Drawing"
+    "question": "Which of these is included under the features of shapes?",
+    "options": {
+      "a": "Unique[span_21](start_span)[span_21](end_span)",
+      "b": "Bright",
+      "c": "Heavy",
+      "d": "Rough"
+    },
+    "answer": "a"
   }
 ]

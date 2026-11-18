@@ -1,402 +1,202 @@
 [
   {
-    "question": "Who gives us the gifts and fruits of the Holy Spirit?",
+    "question": "The word Passover means to ________________.",
     "options": [
-      "Teachers", 
-      "Friends", 
-      "The Holy Spirit", 
-      "Parents"
+      "Cross over",
+      "Run away",
+      "Fly high",
+      "Sleep deep"
     ],
-    "answer": "The Holy Spirit"
+    "answer": "Cross over"
   },
   {
-    "question": "Which of these is a fruit of the Holy Spirit?",
+    "question": "How many plagues did God send to Egypt before the last plague of the Passover?",
     "options": [
-      "Anger", 
-      "Love", 
-      "Fighting", 
-      "Pride"
+      "5 plagues",
+      "7 plagues",
+      "9 plagues",
+      "12 plagues"
     ],
-    "answer": "Love"
+    "answer": "9 plagues"
   },
   {
-    "question": "Which gift of the Holy Spirit helps us know what is right and wrong?",
+    "question": "During the Passover, the Israelites were instructed to put the blood of a lamb on their ________________.",
     "options": [
-      "Knowledge", 
-      "Wisdom", 
-      "Counsel", 
-      "Fortitude"
+      "Windows",
+      "Doorposts",
+      "Roofs",
+      "Floors"
     ],
-    "answer": "Wisdom"
+    "answer": "Doorposts"
   },
   {
-    "question": "Which fruit of the Holy Spirit helps us stay calm when things are difficult?",
+    "question": "What happened to the houses where no blood was found on the doorpost?",
     "options": [
-      "Patience", 
-      "Envy", 
-      "Greed", 
-      "Laziness"
+      "The house caught fire",
+      "The first born died",
+      "The house was stolen",
+      "Nothing happened"
     ],
-    "answer": "Patience"
+    "answer": "The first born died"
   },
   {
-    "question": "Which gift of the Holy Spirit helps us understand God's word?",
+    "question": "The lamb chosen for the Passover meal must be male and must not be ________________.",
     "options": [
-      "Understanding", 
-      "Fear", 
-      "Anger", 
-      "Pride"
+      "Young",
+      "Sick",
+      "Clean",
+      "White"
     ],
-    "answer": "Understanding"
+    "answer": "Sick"
   },
   {
-    "question": "Which of these is NOT a fruit of the Holy Spirit?",
+    "question": "The Passover lamb was required to be cooked by ________________.",
     "options": [
-      "Kindness", 
-      "Goodness", 
-      "Jealousy", 
-      "Peace"
+      "Boiling",
+      "Frying",
+      "Roasting",
+      "Steaming"
     ],
-    "answer": "Jealousy"
+    "answer": "Roasting"
   },
   {
-    "question": "Which fruit of the Holy Spirit helps us treat others well?",
+    "question": "Any leftover of the Passover lamb that remained till morning was to be ________________.",
     "options": [
-      "Kindness", 
-      "Hatred", 
-      "Quarrelling", 
-      "Dishonesty"
+      "Burnt",
+      "Saved",
+      "Given away",
+      "Eaten"
     ],
-    "answer": "Kindness"
+    "answer": "Burnt"
   },
   {
-    "question": "Which gift of the Holy Spirit gives us courage to do good?",
+    "question": "The Israelites were to eat the Passover meal inside the house and in a state of ________________.",
     "options": [
-      "Fortitude", 
-      "Laziness", 
-      "Envy", 
-      "Pride"
+      "Haste",
+      "Anger",
+      "Fear",
+      "Sadness"
     ],
-    "answer": "Fortitude"
+    "answer": "Haste"
   },
   {
-    "question": "Which fruit of the Holy Spirit means trusting God and doing what is right?",
+    "question": "The Passover serves as a reminder of God's ________________ over the Israelites.",
     "options": [
-      "Faithfulness", 
-      "Anger", 
-      "Fear", 
-      "Greed"
+      "Punishment",
+      "Protection",
+      "Anger",
+      "Forgetfulness"
     ],
-    "answer": "Faithfulness"
+    "answer": "Protection"
   },
   {
-    "question": "Which gift of the Holy Spirit helps us make good decisions?",
+    "question": "Who represents the Passover lamb in the New Testament?",
     "options": [
-      "Counsel", 
-      "Hatred", 
-      "Jealousy", 
-      "Laziness"
-    ],
-    "answer": "Counsel"
-  },
-  {
-    "question": "What does it mean to have a new life in Jesus?",
-    "options": [
-      "Changing schools", 
-      "Living a better Christian life", 
-      "Buying new clothes", 
-      "Moving to a new house"
-    ],
-    "answer": "Living a better Christian life"
-  },
-  {
-    "question": "Who gives us a new life?",
-    "options": [
-      "Parents", 
-      "Teachers", 
-      "Jesus Christ", 
-      "Friends"
+      "Moses",
+      "Joshua",
+      "Jesus Christ",
+      "Aaron"
     ],
     "answer": "Jesus Christ"
   },
   {
-    "question": "A person with a new life in Jesus should show:",
+    "question": "Where were the Israelites traveling after leaving Egypt?",
     "options": [
-      "Love", 
-      "Hatred", 
-      "Fighting", 
-      "Disobedience"
+      "In the wilderness",
+      "In a big city",
+      "On a boat",
+      "In the mountains"
     ],
-    "answer": "Love"
+    "answer": "In the wilderness"
   },
   {
-    "question": "Which of these is evidence of a new life in Jesus?",
+    "question": "The special food God gave to the Israelites in the wilderness is called ________________.",
     "options": [
-      "Telling lies", 
-      "Stealing", 
-      "Obedience", 
-      "Quarrelling"
+      "Bread",
+      "Manna",
+      "Meat",
+      "Honey"
     ],
-    "answer": "Obedience"
+    "answer": "Manna"
   },
   {
-    "question": "When Jesus gives us a new life, we become:",
+    "question": "Why did the Israelites begin to complain against God and Moses?",
     "options": [
-      "More sinful", 
-      "New creatures", 
-      "More stubborn", 
-      "Unfriendly"
+      "Because they had too much money",
+      "Because there was no water and they were tired of manna",
+      "Because they wanted to stay in Egypt",
+      "Because the journey was too fast"
     ],
-    "answer": "New creatures"
+    "answer": "Because there was no water and they were tired of manna"
   },
   {
-    "question": "Which behaviour shows that a child has a new life in Jesus?",
+    "question": "What did God send among the Israelites because of their complaints?",
     "options": [
-      "Respecting others", 
-      "Fighting classmates", 
-      "Cheating", 
-      "Insulting people"
+      "Wild lions",
+      "Poisonous snakes",
+      "Heavy rain",
+      "Thieves"
     ],
-    "answer": "Respecting others"
+    "answer": "Poisonous snakes"
   },
   {
-    "question": "A child with a new life in Jesus will:",
+    "question": "What happened to many Israelites who were bitten by the snakes?",
     "options": [
-      "Love to pray", 
-      "Hate prayer", 
-      "Disobey God", 
-      "Tell lies"
+      "They slept",
+      "They died",
+      "They became strong",
+      "They ran away"
     ],
-    "answer": "Love to pray"
+    "answer": "They died"
   },
   {
-    "question": "Which of these is NOT evidence of a new life in Jesus?",
+    "question": "When the people realized their sin, who did they ask to pray to God for them?",
     "options": [
-      "Kindness", 
-      "Honesty", 
-      "Stealing", 
-      "Peacefulness"
+      "Aaron",
+      "Pharaoh",
+      "Moses",
+      "Joshua"
     ],
-    "answer": "Stealing"
+    "answer": "Moses"
   },
   {
-    "question": "Jesus wants us to show our new life through:",
+    "question": "God instructed Moses to make a serpent out of which material?",
     "options": [
-      "Good behaviour", 
-      "Bad habits", 
-      "Anger", 
-      "Pride"
+      "Gold",
+      "Silver",
+      "Bronze",
+      "Iron"
     ],
-    "answer": "Good behaviour"
+    "answer": "Bronze"
   },
   {
-    "question": "One evidence of a new life in Jesus is:",
+    "question": "Where did Moses place the bronze serpent?",
     "options": [
-      "Forgiving others", 
-      "Hating others", 
-      "Being rude", 
-      "Being selfish"
+      "On a pole",
+      "In a chest",
+      "Under a rock",
+      "Inside a tent"
     ],
-    "answer": "Forgiving others"
+    "answer": "On a pole"
   },
   {
-    "question": "Which of these is a fruit of a new life in Jesus?",
+    "question": "What was anyone bitten by the snakes required to do to live?",
     "options": [
-      "Love", 
-      "Hatred", 
-      "Jealousy", 
-      "Fighting"
+      "Touch the pole",
+      "Look at the bronze serpent",
+      "Drink medicine",
+      "Offer a sacrifice"
     ],
-    "answer": "Love"
+    "answer": "Look at the bronze serpent"
   },
   {
-    "question": "A child who has a new life in Jesus should be:",
+    "question": "The story of the bronze serpent teaches us the importance of avoiding ________________ against God.",
     "options": [
-      "Disobedient", 
-      "Kind", 
-      "Rude", 
-      "Selfish"
+      "Praying",
+      "Complaining",
+      "Singing",
+      "Obeying"
     ],
-    "answer": "Kind"
-  },
-  {
-    "question": "Which character shows that Jesus is living in us?",
-    "options": [
-      "Honesty", 
-      "Stealing", 
-      "Lying", 
-      "Quarrelling"
-    ],
-    "answer": "Honesty"
-  },
-  {
-    "question": "One fruit of the Spirit is:",
-    "options": [
-      "Anger", 
-      "Peace", 
-      "Pride", 
-      "Envy"
-    ],
-    "answer": "Peace"
-  },
-  {
-    "question": "A child with a new life in Jesus will:",
-    "options": [
-      "Forgive others", 
-      "Hate others", 
-      "Fight others", 
-      "Insult others"
-    ],
-    "answer": "Forgive others"
-  },
-  {
-    "question": "Which of these is NOT a character of a new life in Jesus?",
-    "options": [
-      "Patience", 
-      "Kindness", 
-      "Dishonesty", 
-      "Faithfulness"
-    ],
-    "answer": "Dishonesty"
-  },
-  {
-    "question": "Showing respect to parents and teachers is a sign of:",
-    "options": [
-      "Bad character", 
-      "A new life in Jesus", 
-      "Pride", 
-      "Laziness"
-    ],
-    "answer": "A new life in Jesus"
-  },
-  {
-    "question": "Which fruit helps us remain calm and happy with others?",
-    "options": [
-      "Peace", 
-      "Anger", 
-      "Jealousy", 
-      "Hatred"
-    ],
-    "answer": "Peace"
-  },
-  {
-    "question": "A person with a new life in Jesus should always:",
-    "options": [
-      "Tell lies", 
-      "Be truthful", 
-      "Steal", 
-      "Fight"
-    ],
-    "answer": "Be truthful"
-  },
-  {
-    "question": "Which of these shows the character of a child who follows Jesus?",
-    "options": [
-      "Love and kindness", 
-      "Hatred and pride", 
-      "Stealing and lying", 
-      "Fighting and cheating"
-    ],
-    "answer": "Love and kindness"
-  },
-  {
-    "question": "Jesus guides us through the ______ Spirit.",
-    "options": [
-      "evil", 
-      "holy", 
-      "angry", 
-      "bad"
-    ],
-    "answer": "holy"
-  },
-  {
-    "question": "The Holy Spirit helps us to do what is ______.",
-    "options": [
-      "wrong", 
-      "bad", 
-      "right", 
-      "evil"
-    ],
-    "answer": "right"
-  },
-  {
-    "question": "When we obey our parents, it shows the guidance of the ______.",
-    "options": [
-      "king", 
-      "teacher", 
-      "Holy Spirit", 
-      "neighbour"
-    ],
-    "answer": "Holy Spirit"
-  },
-  {
-    "question": "The Holy Spirit teaches us to love and ______ others.",
-    "options": [
-      "fight", 
-      "help", 
-      "hate", 
-      "mock"
-    ],
-    "answer": "help"
-  },
-  {
-    "question": "The Holy Spirit helps Christians to tell the ______.",
-    "options": [
-      "kindness", 
-      "anger", 
-      "jealousy", 
-      "wickedness"
-    ],
-    "answer": "kindness"
-  },
-  {
-    "question": "One evidence of the Holy Spirit is showing ______ to people.",
-    "options": [
-      "lies", 
-      "stories", 
-      "truth", 
-      "secrets"
-    ],
-    "answer": "truth"
-  },
-  {
-    "question": "When we forgive others, it shows the guidance of the ______.",
-    "options": [
-      "Holy Spirit", 
-      "crowd", 
-      "stranger", 
-      "ruler"
-    ],
-    "answer": "Holy Spirit"
-  },
-  {
-    "question": "The Holy Spirit gives us peace in our ______.",
-    "options": [
-      "hearts", 
-      "farms", 
-      "bags", 
-      "houses"
-    ],
-    "answer": "hearts"
-  },
-  {
-    "question": "Which of these is a sign of the Holy Spirit’s guidance?",
-    "options": [
-      "Fighting", 
-      "Stealing", 
-      "Obedience", 
-      "Disrespect"
-    ],
-    "answer": "Obedience"
-  },
-  {
-    "question": "Jesus sent the Holy Spirit to ______ believers.",
-    "options": [
-      "confuse", 
-      "guide", 
-      "punish", 
-      "trouble"
-    ],
-    "answer": "guide"
+    "answer": "Complaining"
   }
 ]

@@ -1,5 +1,84 @@
 [
   {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "passageTitle": "The Impact of Pandemics: A Global Perspective",
+    "passage": "A pandemic is a global outbreak of a contagious disease that spreads rapidly and affects many people worldwide. Pandemics can occur when a new strain of a virus or bacteria emerges, and the population has little or no immunity to it. An example of pandemics is the COVID-19 pandemic, which began in late 2019 and affected millions of people worldwide, causing widespread illness, death, and economic disruption. Other examples of pandemics in history include the Spanish flu pandemic of 1918, the HIV/AIDS pandemic that began in the 1980s, and the H1N1 swine flu pandemic of 2009. Pandemics can affect almost every aspect of society, including social, economic, educational, political, and medical spheres.\n\nPandemics have a profound social impact, as they disrupt social norms, habits, and activities. One of the most significant social effects of pandemics is social distancing, which includes wearing masks, avoiding physical contact, and limiting gatherings. These measures can lead to feelings of isolation, loneliness, and anxiety, which can have negative mental health consequences. Moreover, pandemics can increase existing social inequalities, as weak population groups, such as low-income people, minorities, and the elderly, are more likely to suffer from the disease and its consequences.\n\nPandemics can have severe economic consequences, as they disrupt trade, production, and consumption patterns. During a pandemic, many businesses, especially small and medium-sized enterprises, face significant financial losses due to reduced demand and supply chain disruptions. This can lead to layoffs, bankruptcies, and economic recession. Globally, the pandemic can affect trade and investment flows between countries, leading to reduced economic growth and increased poverty.\n\nPandemics can disrupt education systems, as schools and universities are often closed to prevent the spread of the disease. This can have long-term educational consequences, as students may miss out on essential learning opportunities. Furthermore, online education, which can be used as an alternative during a pandemic, may not be accessible to all students, especially those from disadvantaged backgrounds who lack access to technology and the Internet. This can widen the educational gap between different socioeconomic groups.\n\nPandemics can have significant political consequences, as they can challenge the legitimacy of political institutions and leaders. During a pandemic, governments are often under pressure to respond quickly and effectively to the crisis, which can lead to controversies and criticisms. Furthermore, the pandemic can have geopolitical implications, as it can affect international relations and cooperation.\n\nThe most direct and obvious impact of a pandemic is on public health. Pandemics can strain health care systems, as they can lead to an increase in the number of patients who require medical attention. This can lead to shortages of medical equipment, supplies, and personnel, which can affect the quality of care. Furthermore, pandemics can have long-term health consequences, as they can increase the prevalence of chronic diseases and mental health disorders. Finally, pandemics can lead to the development of new medical technologies, treatments, and vaccines, which can have positive long-term effects on public health.",
+    "question": "What is a pandemic?",
+    "options": [
+      "A worldwide outbreak of a non-contagious disease",
+      "A regional outbreak of a contagious disease",
+      "An international outbreak of a contagious disease",
+      "A continental outbreak of a non-contagious disease"
+    ],
+    "answer": "An international outbreak of a contagious disease"
+  },
+  {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "question": "Which of the following pandemics is NOT mentioned in the passage?",
+    "options": [
+      "Spanish flu pandemic of 1918",
+      "HIV/AIDS pandemic that began in the 1980s",
+      "H1N1 swine flu pandemic of 2009",
+      "Zika virus pandemic of 2015-2016"
+    ],
+    "answer": "Zika virus pandemic of 2015-2016"
+  },
+  {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "question": "Which one of the following is a consequence of the educational impact of a pandemic?",
+    "options": [
+      "Students missing out on crucial learning period",
+      "Access to online education for all students",
+      "Reduced educational gap between different socioeconomic groups",
+      "Increased funding for education"
+    ],
+    "answer": "Students missing out on crucial learning period"
+  },
+  {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "question": "What is meant by the term \"chronic diseases\" in the context of pandemics?",
+    "options": [
+      "Diseases that are highly contagious and spread rapidly",
+      "Diseases that affect a large number of people worldwide",
+      "Long-lasting medical conditions that require ongoing management and treatment",
+      "The negative mental health consequences of pandemics on the population"
+    ],
+    "answer": "Long-lasting medical conditions that require ongoing management and treatment"
+  },
+  {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "question": "What is social distancing?",
+    "options": [
+      "Encouraging physical contact",
+      "Attending social events with a small group of people",
+      "Meeting new people through social media",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "question": "Which one is a potential positive outcome of a pandemic?",
+    "options": [
+      "The development of new vaccines",
+      "Increased social isolation and anxiety",
+      "Reduced economic growth and increased poverty",
+      "All of the above"
+    ],
+    "answer": "The development of new vaccines"
+  },
+  {
+    "instruction": "COMPREHENSION\nRead the passage carefully and answer the questions that follow.",
+    "question": "What does the term \"immunity\" mean in Paragraph 1?",
+    "options": [
+      "The ability of a virus or bacteria to spread rapidly",
+      "The resistance of a population to a disease due to vaccination",
+      "The likelihood of experiencing negative mental health consequences during a pandemic",
+      "The economic consequences of reduced trade and production during a pandemic"
+    ],
+    "answer": "The resistance of a population to a disease due to vaccination"
+  },
+  {
     "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
     "question": "The descent of a person, family or group from ancestors, lineage or pedigree.",
     "options": [
@@ -34,7 +113,7 @@
   },
   {
     "instruction": "SECTION A: VOCABULARY\nChoose the correct options from A–D that is the word standing for the meaning provided.",
-    "question": "A word that has no meaning or impossible to understand ______",
+    "question": "A word that has no meaning or is impossible to understand ______",
     "options": [
       "gibberish",
       "nascent",
@@ -127,7 +206,7 @@
       "pleasant",
       "work on",
       "foggy",
-      "Cripple."
+      "Cripple"
     ],
     "answer": "work on"
   },
@@ -140,7 +219,7 @@
       "family history",
       "talkative"
     ],
-    "answer": "sequential"
+    "answer": "historical sequential"
   },
   {
     "instruction": "SECTION A: VOCABULARY\nB. Choose the synonyms of the words in capitals.",
@@ -149,7 +228,7 @@
       "expulsion",
       "imminent",
       "corrective",
-      "vulturous."
+      "vulturous"
     ],
     "answer": "corrective"
   },
@@ -182,7 +261,7 @@
       "uncountable",
       "countable",
       "crudeness",
-      "beauty."
+      "beauty"
     ],
     "answer": "uncountable"
   },
@@ -193,7 +272,7 @@
       "dispositional",
       "distaste",
       "educated",
-      "uneducated."
+      "uneducated"
     ],
     "answer": "dispositional"
   },
@@ -331,7 +410,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
-    "question": "1.",
+    "question": "Which word is spelt correctly?",
     "options": [
       "acheive",
       "achieve",
@@ -342,7 +421,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
-    "question": "2.",
+    "question": "Which word is spelt correctly?",
     "options": [
       "libary",
       "liberry",
@@ -353,7 +432,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
-    "question": "3.",
+    "question": "Which word is spelt correctly?",
     "options": [
       "receipt",
       "receit",
@@ -364,7 +443,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
-    "question": "4.",
+    "question": "Which word is spelt correctly?",
     "options": [
       "professer",
       "profesor",
@@ -375,7 +454,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nA. In each group of words, underline the word that is spelt correctly.",
-    "question": "5.",
+    "question": "Which word is spelt correctly?",
     "options": [
       "foregn",
       "foriegn",
@@ -435,13 +514,13 @@
       "air conditioning",
       "a radio",
       "doors",
-      "wheels."
+      "wheels"
     ],
-    "answer": "wheels."
+    "answer": "wheels"
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
-    "question": "11",
+    "question": "If these words were written backwards and then placed in alphabetical order, which word would come last?",
     "options": [
       "slowly",
       "happily",
@@ -453,7 +532,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
-    "question": "12",
+    "question": "If these words were written backwards and then placed in alphabetical order, which word would come last?",
     "options": [
       "glanced",
       "misplaced",
@@ -465,7 +544,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
-    "question": "13",
+    "question": "If these words were written backwards and then placed in alphabetical order, which word would come last?",
     "options": [
       "blacksmith",
       "fifth",
@@ -477,7 +556,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
-    "question": "14",
+    "question": "If these words were written backwards and then placed in alphabetical order, which word would come last?",
     "options": [
       "vitamin",
       "javelin",
@@ -489,7 +568,7 @@
   },
   {
     "instruction": "SECTION B: VERBAL REASONING\nAnswer all questions.\nC. If these words were written backwards and then placed in alphabetical order, which word would come last?",
-    "question": "15",
+    "question": "If these words were written backwards and then placed in alphabetical order, which word would come last?",
     "options": [
       "parent",
       "absent",
