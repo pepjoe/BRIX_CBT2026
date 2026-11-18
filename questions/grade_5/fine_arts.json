@@ -1,272 +1,202 @@
 [
   {
-    "question": "What is colour?",
-    "options": [
-      "The sound we hear from objects",
-      "The effect of light on our eyes that helps us see and tell things apart",
-      "The shape of objects around us"
-    ],
-    "answer": "The effect of light on our eyes that helps us see and tell things apart"
+    "question": "Landscape drawing is defined as the drawing of the...",
+    "options": {
+      "a": "natural environment around us[span_0](start_span)[span_0](end_span)",
+      "b": "inside of a factory only",
+      "c": "imaginary space monsters",
+      "d": "letters of the alphabet"
+    },
+    "answer": "a"
   },
   {
-    "question": "Without light, what happens to colour?",
-    "options": [
-      "Colours become brighter",
-      "There is no colour - everything looks black",
-      "Only red colour remains"
-    ],
-    "answer": "There is no colour - everything looks black"
+    "question": "Which type of landscape shows only things created by God in nature, such as mountains, rivers, and forests?",
+    "options": {
+      "a": "Natural landscape[span_1](start_span)[span_1](end_span)",
+      "b": "Urban landscape",
+      "c": "Seascape",
+      "d": "Cloudscape"
+    },
+    "answer": "a"
   },
   {
-    "question": "How many types of colour are listed in your note?",
-    "options": [
-      "3 types - Secondary, Red, Orange",
-      "4 types - Blue, Yellow, Primary",
-      "6 types: Primary, Secondary, Complementary, Tertiary, Harmonious/Analogous, Neutral"
-    ],
-    "answer": "6 types: Primary, Secondary, Complementary, Tertiary, Harmonious/Analogous, Neutral"
+    "question": "A rural landscape (village landscape) shows village life such as village huts, farms, and...",
+    "options": {
+      "a": "village people[span_2](start_span)[span_2](end_span)",
+      "b": "tarred roads and bridges",
+      "c": "big skyscrapers",
+      "d": "factory machines"
+    },
+    "answer": "a"
   },
   {
-    "question": "Primary colours are colours that:",
-    "options": [
-      "Can be made by mixing two other colours",
-      "Cannot be made by mixing other colours",
-      "Are only found at night"
-    ],
-    "answer": "Cannot be made by mixing other colours"
+    "question": "An urban landscape (town landscape) shows a town or city, including big buildings, cars, tarred roads, and...",
+    "options": {
+      "a": "bridges, factories, electric poles[span_3](start_span)[span_3](end_span)",
+      "b": "village huts and palm trees",
+      "c": "rivers and forests only",
+      "d": "waves and beaches"
+    },
+    "answer": "a"
   },
   {
-    "question": "Secondary colours are made by:",
-    "options": [
-      "Mixing three primary colours",
-      "Mixing two primary colours in equal amount",
-      "Adding black to any colour"
-    ],
-    "answer": "Mixing two primary colours in equal amount"
+    "question": "What does a seascape focus mainly on?",
+    "options": {
+      "a": "The sea, ocean, beach, waves, boats, and the coastline[span_4](start_span)[span_4](end_span)",
+      "b": "The sky, clouds, sun, moon, and stars[span_5](start_span)[span_5](end_span)",
+      "c": "Village huts and farm lands[span_6](start_span)[span_6](end_span)",
+      "d": "Mountains and forests created by God[span_7](start_span)[span_7](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "What do you get when you mix Red + Yellow?",
-    "options": [
-      "Green",
-      "Purple",
-      "Orange"
-    ],
-    "answer": "Orange"
+    "question": "What is the first step in landscape drawing?",
+    "options": {
+      "a": "Observation and sketching[span_8](start_span)[span_8](end_span)",
+      "b": "Finishing",
+      "c": "Shading and perspective[span_9](start_span)[span_9](end_span)",
+      "d": "Adding details[span_10](start_span)[span_10](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "Complementary colours are:",
-    "options": [
-      "Three colours that sit next to each other on the colour wheel",
-      "Two colours that are opposite each other on the colour wheel",
-      "Colours made by mixing 1 primary + 1 secondary"
-    ],
-    "answer": "Two colours that are opposite each other on the colour wheel"
+    "question": "According to the introduction, art is as old as...",
+    "options": {
+      "a": "man himself[span_11](start_span)[span_11](end_span)",
+      "b": "modern technology",
+      "c": "the printing press",
+      "d": "the discovery of oil"
+    },
+    "answer": "a"
   },
   {
-    "question": "Tertiary colours are made by mixing:",
-    "options": [
-      "Two primary colours",
-      "One primary colour and one secondary colour next to it",
-      "Two secondary colours"
-    ],
-    "answer": "One primary colour and one secondary colour next to it"
+    "question": "Early man lived in caves and started art by drawing pictures of animals he hunted on cave walls using charcoal, coloured stones, and...",
+    "options": {
+      "a": "animal blood[span_12](start_span)[span_12](end_span)",
+      "b": "oil paint",
+      "c": "plastic markers",
+      "d": "ink pens"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these is a tertiary colour?",
-    "options": [
-      "Green",
-      "Magenta",
-      "Yellow"
-    ],
-    "answer": "Magenta"
+    "question": "Where is the famous cave with early paintings located, as mentioned in the notes?",
+    "options": {
+      "a": "Lascaux cave in France[span_13](start_span)[span_13](end_span)",
+      "b": "Nok village in Kaduna[span_14](start_span)[span_14](end_span)",
+      "c": "Ife in Osun state[span_15](start_span)[span_15](end_span)",
+      "d": "Benin City in Edo state[span_16](start_span)[span_16](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "Harmonious/Analogous colours are:",
-    "options": [
-      "Colours that are opposite on the colour wheel",
-      "Three colours that sit next to each other on the colour wheel and match well",
-      "Colours that cannot be mixed"
-    ],
-    "answer": "Three colours that sit next to each other on the colour wheel and match well"
+    "question": "In Nigeria, early artworks were discovered at Nok, Ife, Benin, and...",
+    "options": {
+      "a": "Igbo-Ukwu[span_17](start_span)[span_17](end_span)",
+      "b": "Abuja[span_18](start_span)[span_18](end_span)",
+      "c": "Sokoto[span_19](start_span)[span_19](end_span)",
+      "d": "Kano[span_20](start_span)[span_20](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "Neutral colours are called \"neutral\" because:",
-    "options": [
-      "They are very bright and strong",
-      "They do not appear on the colour wheel and do not show strong feelings",
-      "They can only be used for painting sky"
-    ],
-    "answer": "They do not appear on the colour wheel and do not show strong feelings"
+    "question": "Nok art culture was discovered in 1928 at Nok village in Kaduna state by...",
+    "options": {
+      "a": "Col. Dent during tin mining[span_21](start_span)[span_21](end_span)",
+      "b": "Prof. Thurstan Shaw[span_22](start_span)[span_22](end_span)",
+      "c": "British soldiers in 1897[span_23](start_span)[span_23](end_span)",
+      "d": "Local village hunters"
+    },
+    "answer": "a"
   },
   {
-    "question": "Warm colours remind us of:",
-    "options": [
-      "Water, sky, ice, and trees",
-      "Sun, fire and heat",
-      "Forest and leaves only"
-    ],
-    "answer": "Sun, fire and heat"
+    "question": "What material is Nok art primarily made of?",
+    "options": {
+      "a": "Terracotta (burnt clay)[span_24](start_span)[span_24](end_span)",
+      "b": "Pure bronze and brass[span_25](start_span)[span_25](end_span)",
+      "c": "Pure ivory and iron[span_26](start_span)[span_26](end_span)[span_27](start_span)[span_27](end_span)",
+      "d": "Wood and carved stone"
+    },
+    "answer": "a"
   },
   {
-    "question": "Cool colours are found on which side of the colour wheel?",
-    "options": [
-      "Red-Orange-Yellow side",
-      "Blue-Green side",
-      "Black-White side"
-    ],
-    "answer": "Blue-Green side"
+    "question": "Ife art culture was discovered at Ile-Ife in Osun state, with works found at Ooni's palace and...",
+    "options": {
+      "a": "Wunmonije Site[span_28](start_span)[span_28](end_span)",
+      "b": "Lascaux Cave[span_29](start_span)[span_29](end_span)",
+      "c": "Igbo-Ukwu site",
+      "d": "Kaduna tin mines"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which example is given for Harmonious/Analogous colours?",
-    "options": [
-      "Red, Orange, Yellow",
-      "Blue, Blue-Green, Green",
-      "Black, White, Grey"
-    ],
-    "answer": "Blue, Blue-Green, Green"
+    "question": "Benin art culture (discovered in Edo state) is famous for works including heads of obas and queens, animals, plaques, and...",
+    "options": {
+      "a": "very loyal art (looted by British in 1897)[span_30](start_span)[span_30](end_span)",
+      "b": "terracotta human heads with elongated eyes[span_31](start_span)[span_31](end_span)",
+      "c": "intricate bronze vessels and stags[span_32](start_span)[span_32](end_span)",
+      "d": "cave paintings with animal blood[span_33](start_span)[span_33](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "A tint colour is made by:",
-    "options": [
-      "Adding black to a colour",
-      "Adding white to a colour",
-      "Mixing two primary colours"
-    ],
-    "answer": "Adding white to a colour"
+    "question": "Igbo-Ukwu art culture was discovered in 1954 in Anambra state by...",
+    "options": {
+      "a": "Prof. Thurstan Shaw[span_34](start_span)[span_34](end_span)",
+      "b": "Col. Dent[span_35](start_span)[span_35](end_span)",
+      "c": "British explorers in 1897[span_36](start_span)[span_36](end_span)",
+      "d": "Early primitive men"
+    },
+    "answer": "a"
   },
   {
-    "question": "A shade colour is made by:",
-    "options": [
-      "Adding white to any colour",
-      "Adding black to any colour",
-      "Adding water to a colour"
-    ],
-    "answer": "Adding black to any colour"
+    "question": "Pottery as a living traditional artwork in Nigeria is found all over Nigeria, for example in...",
+    "options": {
+      "a": "Abuja[span_37](start_span)[span_37](end_span)",
+      "b": "Iseyin[span_38](start_span)[span_38](end_span)",
+      "c": "Abeokuta[span_39](start_span)[span_39](end_span)",
+      "d": "Rano[span_40](start_span)[span_40](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which use of colour helps us know Nigeria is Nigeria?",
-    "options": [
-      "Decoration",
-      "Identification",
-      "Mood"
-    ],
-    "answer": "Identification"
+    "question": "Weaving/Asoke is a traditional artwork associated with...",
+    "options": {
+      "a": "Iseyin, Oyo[span_41](start_span)[span_41](end_span)",
+      "b": "Bida, Benin[span_42](start_span)[span_42](end_span)",
+      "c": "Kano, Sokoto[span_43](start_span)[span_43](end_span)",
+      "d": "Akwa Ibom, Cross River[span_44](start_span)[span_44](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "In traffic lights, Red colour means:",
-    "options": [
-      "Go",
-      "Ready/Wait",
-      "Stop"
-    ],
-    "answer": "Stop"
+    "question": "Tie and dye / Adire is commonly associated with...",
+    "options": {
+      "a": "Abeokuta[span_45](start_span)[span_45](end_span)",
+      "b": "Abuja[span_46](start_span)[span_46](end_span)",
+      "c": "Iseyin[span_47](start_span)[span_47](end_span)",
+      "d": "Kaduna[span_48](start_span)[span_48](end_span)"
+    },
+    "answer": "a"
   },
   {
-    "question": "Red colour is used for?",
-    "options": [
-      "We use it to decorate clothes and houses",
-      "Red is used for danger/love and Blue for calm",
-      "We use it to show water"
-    ],
-    "answer": "Red is used for danger/love and Blue for calm"
+    "question": "Calabash decoration is a traditional art form practiced mostly in the...",
+    "options": {
+      "a": "north and west[span_49](start_span)[span_49](end_span)",
+      "b": "south and east",
+      "c": "delta region only",
+      "d": "riverine areas only"
+    },
+    "answer": "a"
   },
   {
-    "question": "A pattern is:",
-    "options": [
-      "One single drawing that is never repeated",
-      "A repeated design, shape, colour, or line",
-      "A type of Nigerian food"
-    ],
-    "answer": "A repeated design, shape, colour, or line"
-  },
-  {
-    "question": "A motif is:",
-    "options": [
-      "A single shape or design used in art",
-      "The name of a Nigerian tribe",
-      "A tool for painting"
-    ],
-    "answer": "A single shape or design used in art"
-  },
-  {
-    "question": "Which of these is an example of a pattern?",
-    "options": [
-      "One big circle drawn on paper",
-      "Stripes on a school shirt that repeat",
-      "A single leaf drawn once"
-    ],
-    "answer": "Stripes on a school shirt that repeat"
-  },
-  {
-    "question": "One source of Nigerian motifs is:",
-    "options": [
-      "Mathematics textbook",
-      "Nature like leaves, animals, and rivers",
-      "Mobile phone games"
-    ],
-    "answer": "Nature like leaves, animals, and rivers"
-  },
-  {
-    "question": "Nsibidi and Uli symbols are motifs from:",
-    "options": [
-      "People & Culture/Symbols",
-      "Objects/Things",
-      "Weather"
-    ],
-    "answer": "People & Culture/Symbols"
-  },
-  {
-    "question": "Geometric motifs are made with:",
-    "options": [
-      "Only animal shapes",
-      "Shapes like circle, square, triangle, zigzag",
-      "Only colours"
-    ],
-    "answer": "Shapes like circle, square, triangle, zigzag"
-  },
-  {
-    "question": "A simple natural motif is:",
-    "options": [
-      "A square",
-      "A leaf or fish drawn in simple form",
-      "The number 7"
-    ],
-    "answer": "A leaf or fish drawn in simple form"
-  },
-  {
-    "question": "When motifs are repeated again and again, they form a:",
-    "options": [
-      "Motif",
-      "Pattern",
-      "Line"
-    ],
-    "answer": "Pattern"
-  },
-  {
-    "question": "Which of these can we find motifs on at home?",
-    "options": [
-      "Plate designs and mat weaving",
-      "Only on TV",
-      "In the sky only"
-    ],
-    "answer": "Plate designs and mat weaving"
-  },
-  {
-    "question": "A symbolic motif with meaning is:",
-    "options": [
-      "Zigzag line",
-      "Star, heart, or arrow",
-      "Straight line only"
-    ],
-    "answer": "Star, heart, or arrow"
-  },
-  {
-    "question": "The act of creating skillful things with our hands is:",
-    "options": [
-      "Sweeping",
-      "Craft",
-      "Moulding"
-    ],
-    "answer": "Craft"
+    "question": "Leather work in Nigeria is famously found in...",
+    "options": {
+      "a": "Kano, Sokoto[span_50](start_span)[span_50](end_span)",
+      "b": "Akwa Ibom, Cross River[span_51](start_span)[span_51](end_span)",
+      "c": "Bida, Benin[span_52](start_span)[span_52](end_span)",
+      "d": "Iseyin, Oyo[span_53](start_span)[span_53](end_span)"
+    },
+    "answer": "a"
   }
 ]

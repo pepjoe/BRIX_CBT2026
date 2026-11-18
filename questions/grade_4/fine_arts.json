@@ -1,272 +1,202 @@
 [
   {
-    "question": "Printing in art is:",
-    "options": [
-      "The process of drawing with pencil",
-      "The process of making impression on a surface",
-      "The process of cutting paper"
-    ],
-    "answer": "The process of making impression on a surface"
+    "question": "According to the notes, art is the use of our hands to create beautiful and...",
+    "options": {
+      "a": "heavy things",
+      "b": "useful things",
+      "c": "broken things",
+      "d": "invisible things"
+    },
+    "answer": "b"
   },
   {
-    "question": "Which of these can be used as surfaces for printing?",
-    "options": [
-      "Paper, fabric, wall, glass, wood and plastic",
-      "Only air and water",
-      "Only stone"
-    ],
-    "answer": "Paper, fabric, wall, glass, wood and plastic"
+    "question": "How many main types of art are mentioned in the notes?",
+    "options": {
+      "a": "Two",
+      "b": "Three",
+      "c": "Four",
+      "d": "Five"
+    },
+    "answer": "a"
   },
   {
-    "question": "Thumb print is made by:",
-    "options": [
-      "Using the elbow to make impression",
-      "Using the thumb to make impression on a surface",
-      "Using a brush to paint"
-    ],
-    "answer": "Using the thumb to make impression on a surface"
+    "question": "Which of the following is an example of Visual Arts?",
+    "options": {
+      "a": "Music",
+      "b": "Dance",
+      "c": "Sculpture",
+      "d": "Drama/Acting"
+    },
+    "answer": "c"
   },
   {
-    "question": "The shape of the thumb will appear on:",
-    "options": [
-      "The white paper or cardboard after printing",
-      "The ink pad on the ground",
-      "Nowhere"
-    ],
-    "answer": "The white paper or cardboard after printing"
+    "question": "Non-Visual Arts or Performing Arts is art we hear and watch as...",
+    "options": {
+      "a": "a performance",
+      "b": "a painting",
+      "c": "a ceramic pot",
+      "d": "a textile design"
+    },
+    "answer": "a"
   },
   {
-    "question": "Leaf print is the process of:",
-    "options": [
-      "Eating leaves",
-      "Using leaves to make impression or mark on paper/cardboard",
-      "Drawing leaves with pencil"
-    ],
-    "answer": "Using leaves to make impression or mark on paper/cardboard"
+    "question": "Which of the following is listed as a use of art?",
+    "options": {
+      "a": "For decoration and beautification of our homes, schools, and bodies",
+      "b": "For making classrooms noisy",
+      "c": "For breaking furniture",
+      "d": "For hiding our feelings"
+    },
+    "answer": "a"
   },
   {
-    "question": "Printing is used for designing:",
-    "options": [
-      "Only numbers",
-      "Pictures and words on art work",
-      "Only music"
-    ],
-    "answer": "Pictures and words on art work"
+    "question": "Art helps us express our feelings under which use?",
+    "options": {
+      "a": "For communication",
+      "b": "For entertainment",
+      "c": "For education",
+      "d": "For decoration"
+    },
+    "answer": "a"
   },
   {
-    "question": "One material needed for thumb and leaf print is:",
-    "options": [
-      "Stone",
-      "Poster colour",
-      "Plastic spoon"
-    ],
-    "answer": "Poster colour"
+    "question": "What is natural drawing defined as?",
+    "options": {
+      "a": "Drawing both living things and non-living things provided by nature",
+      "b": "Drawing only buildings and cars",
+      "c": "Drawing machines and factories",
+      "d": "Drawing imaginary monsters"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these is NOT a material for thumb/leaf print?",
-    "options": [
-      "Cardboard paper",
-      "Leaf",
-      "Broom"
-    ],
-    "answer": "Broom"
+    "question": "Natural drawing helps us to create effects thereby helping us to...",
+    "options": {
+      "a": "appreciate nature",
+      "b": "destroy the environment",
+      "c": "pollute the air",
+      "d": "build houses"
+    },
+    "answer": "a"
   },
   {
-    "question": "The best type of leaves to use for printing are:",
-    "options": [
-      "Dry, old leaves with no veins",
-      "Fresh leaves with good veins",
-      "Burnt leaves"
-    ],
-    "answer": "Fresh leaves with good veins"
+    "question": "Which of the following is an example of a natural object for drawing?",
+    "options": {
+      "a": "Flowers",
+      "b": "Plastic spoons",
+      "c": "Televisions",
+      "d": "Cars"
+    },
+    "answer": "a"
   },
   {
-    "question": "Leaves used for printing should have:",
-    "options": [
-      "No texture at all",
-      "Good texture",
-      "Only thorns"
-    ],
-    "answer": "Good texture"
+    "question": "What does the environment consist of?",
+    "options": {
+      "a": "All physical things we can see and touch in our surroundings",
+      "b": "Only things inside a classroom",
+      "c": "Only things in outer space",
+      "d": "Only imaginary dreams"
+    },
+    "answer": "a"
   },
   {
-    "question": "What should you do last after leaf printing?",
-    "options": [
-      "Colour the leaf with brush",
-      "Flip the leaf on paper",
-      "Remove the leaf and allow the paint work to dry"
-    ],
-    "answer": "Remove the leaf and allow the paint work to dry"
+    "question": "Animals that live with us in our environment and are kept at home are called...",
+    "options": {
+      "a": "domestic or farm animals",
+      "b": "wild animals",
+      "c": "dangerous monsters",
+      "d": "invisible creatures"
+    },
+    "answer": "a"
   },
   {
-    "question": "Drawing involves using:",
-    "options": [
-      "Water and sponge",
-      "Creating objects using pencil",
-      "Only colours without lines"
-    ],
-    "answer": "Creating objects using pencil"
+    "question": "Which of these animals is reared to get things like eggs, leather, milk, and meat?",
+    "options": {
+      "a": "Goats and cows",
+      "b": "Lizards and rats",
+      "c": "Birds in the wild",
+      "d": "Wild lions"
+    },
+    "answer": "a"
   },
   {
-    "question": "Drawing is done on surfaces such as:",
-    "options": [
-      "Paper, board, wall",
-      "Air and sky only",
-      "Water"
-    ],
-    "answer": "Paper, board, wall"
+    "question": "What is landscape drawing?",
+    "options": {
+      "a": "The art of drawing a large expanse of land and scenery showing hills, villages, trees, rivers, and houses",
+      "b": "The art of drawing only a single flower close up",
+      "c": "The art of sewing clothes",
+      "d": "The art of moulding clay pots"
+    },
+    "answer": "a"
   },
   {
-    "question": "Still life drawing involves drawing of:",
-    "options": [
-      "Plants and flowers",
-      "Man-made objects like chairs, tables, jugs",
-      "Animals in the forest"
-    ],
-    "answer": "Man-made objects like chairs, tables, jugs"
+    "question": "Which type of landscape shows only natural things like hills, rivers, and forests without buildings?",
+    "options": {
+      "a": "Natural landscape",
+      "b": "Rural landscape",
+      "c": "Urban/city landscape",
+      "d": "Seascape"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these is an example of still life drawing?",
-    "options": [
-      "A flower",
-      "A cup",
-      "A butterfly"
-    ],
-    "answer": "A cup"
+    "question": "A landscape that shows town/city with storey buildings, roads, cars, and factories is called...",
+    "options": {
+      "a": "urban/city landscape",
+      "b": "natural landscape",
+      "c": "rural landscape",
+      "d": "seascape"
+    },
+    "answer": "a"
   },
   {
-    "question": "Nature drawing involves drawing of:",
-    "options": [
-      "Household materials",
-      "Natural objects such as plants, insects, flowers",
-      "Cars and phones"
-    ],
-    "answer": "Natural objects such as plants, insects, flowers"
+    "question": "What does a seascape show?",
+    "options": {
+      "a": "Sea, ocean, beach, boats",
+      "b": "Tall mountains and forests",
+      "c": "Village huts and farm lands",
+      "d": "Factory chimneys and cars"
+    },
+    "answer": "a"
   },
   {
-    "question": "A jug and a spoon are examples of:",
-    "options": [
-      "Nature drawing objects",
-      "Still life drawing objects",
-      "Printing materials"
-    ],
-    "answer": "Still life drawing objects"
+    "question": "Paper crafts is the art of making beautiful and useful objects with paper using hands and simple tools like...",
+    "options": {
+      "a": "scissors, gum and ruler",
+      "b": "hammers and nails",
+      "c": "paint and brushes",
+      "d": "clay and water"
+    },
+    "answer": "a"
   },
   {
-    "question": "Landscape drawing involves drawing things around our:",
-    "options": [
-      "House only",
-      "Surroundings such as forests, mountains, oceans, villages",
-      "Classroom"
-    ],
-    "answer": "Surroundings such as forests, mountains, oceans, villages"
+    "question": "Which of the following is listed as a type of paper craft?",
+    "options": {
+      "a": "Paper fan",
+      "b": "Clay pot",
+      "c": "Wooden stool",
+      "d": "Cloth shoe"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these is an example of landscape drawing?",
-    "options": [
-      "A cup",
-      "Mountains",
-      "A spoon"
-    ],
-    "answer": "Mountains"
+    "question": "People make and sell paper crafts to get...",
+    "options": {
+      "a": "income",
+      "b": "trouble",
+      "c": "tired",
+      "d": "punished"
+    },
+    "answer": "a"
   },
   {
-    "question": "Landscape drawing includes:",
-    "options": [
-      "Drawing of man-made objects like chairs",
-      "Drawing of forests, oceans, villages etc",
-      "Drawing of only flowers"
-    ],
-    "answer": "Drawing of forests, oceans, villages etc"
-  },
-  {
-    "question": "A pencil is used to:",
-    "options": [
-      "Cut paper",
-      "Make lines, draw and shading",
-      "Mix paint"
-    ],
-    "answer": "Make lines, draw and shading"
-  },
-  {
-    "question": "What can be used in place of a pencil for drawing?",
-    "options": [
-      "Charcoal",
-      "Stone",
-      "Water"
-    ],
-    "answer": "Charcoal"
-  },
-  {
-    "question": "Charcoal can be used to draw or write on:",
-    "options": [
-      "On water",
-      "Any hard material",
-      "Air"
-    ],
-    "answer": "Any hard material"
-  },
-  {
-    "question": "Colour is used for:",
-    "options": [
-      "Tying thread",
-      "Applying colour in painting, decorating, and designs",
-      "Making glue"
-    ],
-    "answer": "Applying colour in painting, decorating, and designs"
-  },
-  {
-    "question": "Colours can be extracted from:",
-    "options": [
-      "Leaves and roots of plants",
-      "Only plastic bottles",
-      "Metal"
-    ],
-    "answer": "Leaves and roots of plants"
-  },
-  {
-    "question": "Besides leaves and roots, colours can also be extracted from:",
-    "options": [
-      "Flowers and clay soil",
-      "Water only",
-      "Rubber"
-    ],
-    "answer": "Flowers and clay soil"
-  },
-  {
-    "question": "A palette is a material where:",
-    "options": [
-      "We cut paper",
-      "Paints are mixed for painting",
-      "We store books"
-    ],
-    "answer": "Paints are mixed for painting"
-  },
-  {
-    "question": "Crayon is an example of:",
-    "options": [
-      "Colour",
-      "Adhesive",
-      "Thread"
-    ],
-    "answer": "Colour"
-  },
-  {
-    "question": "A pencil is used to:",
-    "options": [
-      "Cut paper",
-      "Make lines, draw and shading",
-      "Mix paint"
-    ],
-    "answer": "Make lines, draw and shading"
-  },
-  {
-    "question": "Charcoal can be used to draw or write on:",
-    "options": [
-      "Only water",
-      "Any hard material",
-      "Air"
-    ],
-    "answer": "Any hard material"
+    "question": "Which paper craft is mentioned as used for cultural and festival use (e.g., during festivities)?",
+    "options": {
+      "a": "Kites",
+      "b": "Desks",
+      "c": "Stools",
+      "d": "Shoes"
+    },
+    "answer": "a"
   }
 ]

@@ -1,0 +1,353 @@
+[
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "What is the meaning of a doctor?",
+    "options": [
+      "A teacher",
+      "A medical person",
+      "A farmer",
+      "A driver"
+    ],
+    "answer": "A medical person"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "Which of the following is a synonym of Happy?",
+    "options": [
+      "Sad",
+      "Angry",
+      "Cheerful",
+      "Dull"
+    ],
+    "answer": "Cheerful"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "What is the antonym of Rich?",
+    "options": [
+      "Wealthy",
+      "Poor",
+      "Smart",
+      "Healthy"
+    ],
+    "answer": "Poor"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "A passage between rooms is called a ______.",
+    "options": [
+      "Corridor",
+      "Wealthy",
+      "Poor",
+      "Smart",
+      "Healthy"
+    ],
+    "answer": "Corridor"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "Which of the following is a synonym of Beautiful?",
+    "options": [
+      "Ugly",
+      "Pretty",
+      "Dull",
+      "Bad"
+    ],
+    "answer": "Pretty"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "What is the opposite of Increase?",
+    "options": [
+      "Enlarge",
+      "Expand",
+      "Decrease",
+      "Improve"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "A mistake is also known as ______.",
+    "options": [
+      "Error",
+      "Truth",
+      "Success",
+      "Gain"
+    ],
+    "answer": "Error"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "What is the antonym of Ancient?",
+    "options": [
+      "Old",
+      "Modern",
+      "Past",
+      "Former"
+    ],
+    "answer": "Modern"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "What is the meaning of Fortnight?",
+    "options": [
+      "Two days",
+      "Two months",
+      "Two weeks",
+      "Two years"
+    ],
+    "answer": "Two weeks"
+  },
+  {
+    "instruction": "VOCABULARY: Choose the correct answer from options A–D.",
+    "question": "Which of the following is the synonym of Enough?",
+    "options": [
+      "Sufficient",
+      "Scarce",
+      "Little",
+      "Empty"
+    ],
+    "answer": "Sufficient"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "Who was baking at the beginning of the story?",
+    "options": [
+      "A young girl",
+      "An old woman",
+      "A little boy",
+      "A teacher"
+    ],
+    "answer": "An old woman"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "What did the old woman make for tea?",
+    "options": [
+      "Bread",
+      "Cake",
+      "A gingerbread man",
+      "Biscuits"
+    ],
+    "answer": "A gingerbread man"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "What was the gingerbread man made of?",
+    "options": [
+      "Spicy gingerbread",
+      "Chocolate",
+      "Rice",
+      "Yam"
+    ],
+    "answer": "Spicy gingerbread"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "What did the old woman use for the gingerbread man's eyes and mouth?",
+    "options": [
+      "Beans",
+      "Currants",
+      "Sugar",
+      "Groundnuts"
+    ],
+    "answer": "Currants"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "Where did the old woman put the gingerbread man to bake?",
+    "options": [
+      "In a pots",
+      "On a table",
+      "In the oven",
+      "In a basket"
+    ],
+    "answer": "In the oven"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "What did the old woman hear a little while later?",
+    "options": [
+      "A knock at the door",
+      "A loud song",
+      "A telephone ringing",
+      "A dog barking"
+    ],
+    "answer": "A knock at the door"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "Which door did the old woman open?",
+    "options": [
+      "The kitchen door",
+      "The bedroom door",
+      "The oven door",
+      "The garden door"
+    ],
+    "answer": "The oven door"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "Where did the gingerbread man run after escaping?",
+    "options": [
+      "Into the bedroom",
+      "Into the garden",
+      "Into the bathroom",
+      "Into the classroom"
+    ],
+    "answer": "Into the garden"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "What did the old woman shout to the gingerbread man?",
+    "options": [
+      "Come and eat!",
+      "Stop running!",
+      "Come back! I baked you for tea!",
+      "Goodbye, my friend!"
+    ],
+    "answer": "Come back! I baked you for tea!"
+  },
+  {
+    "instruction": "COMPREHENSION: Choose the correct answer from options A–D.",
+    "passageTitle": "The Gingerbread Man",
+    "passage": "Once upon a time, there was an old woman who was baking. She made a gingerbread man for tea. She cut him out of spicy gingerbread and gave him currants for his eyes and mouth and currant buttons down his front. Then she put him in the oven to bake.\n\nA little while later, there was a knock at the door. Not the kitchen door - the oven door! A voice shouted, \"Let me out! Let me out!\" So the old woman opened the oven door and whoosh! the gingerbread man raced past her, across the kitchen floor and out into the garden. The old woman ran after him shouting, \"Come back! I baked you for tea!\"\n\nBut the gingerbread man only laughed and ran on, calling, \"Run, run, as fast as you can - you won't catch me, I'm the gingerbread man!\"",
+    "question": "What did the gingerbread man say as he ran away?",
+    "options": [
+      "Please help me!",
+      "Run, run, as fast as you can!",
+      "I want to sleep!",
+      "I am hungry!"
+    ],
+    "answer": "Run, run, as fast as you can!"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which of the following is a vowel?",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "How many vowels are there in the English alphabet?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which vowel completes the word C_mb?",
+    "options": [
+      "A",
+      "O",
+      "E",
+      "U"
+    ],
+    "answer": "O"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which of the following words contains the vowels 'oo'?",
+    "options": [
+      "Chair",
+      "Book",
+      "Table",
+      "Road"
+    ],
+    "answer": "Book"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "What are the vowels in the word CHAIR?",
+    "options": [
+      "A, I",
+      "E, I",
+      "A, O",
+      "I, U"
+    ],
+    "answer": "A, I"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which of the following words has the vowels 'a' and 'e'?",
+    "options": [
+      "Room",
+      "Table",
+      "Gum",
+      "Ink"
+    ],
+    "answer": "Table"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which vowel completes the word Sk__n to make the word 'Skin'?",
+    "options": [
+      "A",
+      "E",
+      "I",
+      "O"
+    ],
+    "answer": "I"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "What are the vowels in the word MONEY?",
+    "options": [
+      "O, E",
+      "A, E",
+      "I, O",
+      "U, E"
+    ],
+    "answer": "O, E"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which of these words contains the vowel 'u'?",
+    "options": [
+      "Jam",
+      "Kite",
+      "Nurse",
+      "Tray"
+    ],
+    "answer": "Nurse"
+  },
+  {
+    "instruction": "VERBAL REASONING: Choose the correct answer from options A–D.",
+    "question": "Which of the following is NOT a vowel?",
+    "options": [
+      "E",
+      "I",
+      "U",
+      "T"
+    ],
+    "answer": "T"
+  }
+]
