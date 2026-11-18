@@ -1,1012 +1,503 @@
 [
   {
-    "section": "vocabulary",
-    "question": "To advocate for something means to:",
-    "options": [
-      "Oppose it",
-      "Publicly recommend or support it",
-      "Forget it",
-      "Hide it"
-    ],
-    "answer": "Publicly recommend or support it"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "passage": "MY GRANDMA’S A BANK ROBBER!\nA 68-year-old grandma holding up a bank? Never? If you think it couldn’t happen – read on!\n\nIvy Hammond is everyone’s idea of a favourite grandma. She has grey hair tied up in a bun, wears a pink cardigan and carries a big, black handbag. She loves knitting and looking after her grandchildren. She wouldn’t harm a fly – or would she? Ivy is currently in jail, serving a prison sentence for robbery.\n\nTwo months ago, Ivy, who lives in Worthing in Sussex, robbed a local bank. She put a stocking mask over her head, pretended she had a gun under a folded newspaper, and walked into the bank. She threatened the cashier and demanded money. The cashier gave her £100. Ivy, always so well-mannered, smiled, said, “Thank you”, and left. The cashier called the police and they caught Ivy on the sea front buying an ice-cream!\n\nIvy told our reporter, “I got married when I was sixteen. All my life I’ve brought up children and looked after my home. I’ve had a happy life but I’ve never really done anything exciting. Now I’m famous. I’ve been on TV and in the newspapers.” When asked if she would do it again, she smiled and said sweetly, “I think once is enough, don’t you?”\n\nSuperintendent Smythe, of the Sussex police, said, “It’s an unusual case. I have some sympathy for Mrs Hammond, but a crime is a crime and must be punished.”",
+    "question": "How old is Ivy Hammond?",
+    "options": ["60 years old", "68 years old", "72 years old", "16 years old"],
+    "answer": "68 years old"
   },
   {
-    "section": "vocabulary",
-    "question": "A person who is a novice is a:",
-    "options": [
-      "Professional",
-      "Beginner or learner",
-      "Teacher",
-      "Leader"
-    ],
-    "answer": "Beginner or learner"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What crime did Ivy Hammond commit?",
+    "options": ["Shoplifting", "Pickpocketing", "Robbery", "Forgery"],
+    "answer": "Robbery"
   },
   {
-    "section": "vocabulary",
-    "question": "If a piece of software is lucid, the instructions are:",
-    "options": [
-      "Confusing",
-      "Hard to read",
-      "Easy to understand",
-      "Missing"
-    ],
-    "answer": "Easy to understand"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "Where is Ivy Hammond currently residing at the time the story was written?",
+    "options": ["At her home", "On the sea front", "In jail", "In a hotel"],
+    "answer": "In jail"
   },
   {
-    "section": "vocabulary",
-    "question": "A person who is frugal with money is:",
-    "options": [
-      "Wasteful",
-      "Thrifty and economical",
-      "Very rich",
-      "Very poor"
-    ],
-    "answer": "Thrifty and economical"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What colour is the cardigan that Ivy usually wears?",
+    "options": ["Black", "Grey", "Pink", "White"],
+    "answer": "Pink"
   },
   {
-    "section": "vocabulary",
-    "question": "To reiterate a statement means to:",
-    "options": [
-      "Say it once",
-      "Say it again for emphasis",
-      "Whisper it",
-      "Delete it"
-    ],
-    "answer": "Say it again for emphasis"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "How does Ivy style her grey hair?",
+    "options": ["Braids", "Tied up in a bun", "Short and curly", "Loose waves"],
+    "answer": "Tied up in a bun"
   },
   {
-    "section": "vocabulary",
-    "question": "If an object is frail, it is:",
-    "options": [
-      "Strong",
-      "Weak and delicate",
-      "Heavy",
-      "Colorful"
-    ],
-    "answer": "Weak and delicate"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "Which of the following is one of Ivy’s favourite hobbies mentioned in the text?",
+    "options": ["Gardening", "Knitting", "Cooking", "Reading"],
+    "answer": "Knitting"
   },
   {
-    "section": "vocabulary",
-    "question": "To loathe a particular task means to:",
-    "options": [
-      "Love it",
-      "Feel intense dislike or disgust for it",
-      "Enjoy it",
-      "Finish it"
-    ],
-    "answer": "Feel intense dislike or disgust for it"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "In which town does Ivy live?",
+    "options": ["Sussex", "London", "Worthing", "Brighton"],
+    "answer": "Worthing"
   },
   {
-    "section": "vocabulary",
-    "question": "A catalyst is something that:",
-    "options": [
-      "Stops an event",
-      "Precipitates or starts an event",
-      "Blocks progress",
-      "Breaks things"
-    ],
-    "answer": "Precipitates or starts an event"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "In which county is the town of Worthing located?",
+    "options": ["Yorkshire", "Essex", "Sussex", "Kent"],
+    "answer": "Sussex"
   },
   {
-    "section": "vocabulary",
-    "question": "If you rectify a mistake, you:",
-    "options": [
-      "Make it worse",
-      "Put it right or correct it",
-      "Ignore it",
-      "Hide it"
-    ],
-    "answer": "Put it right or correct it"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "How long ago did the bank robbery take place?",
+    "options": ["Two weeks ago", "Two months ago", "One year ago", "Six days ago"],
+    "answer": "Two months ago"
   },
   {
-    "section": "vocabulary",
-    "question": "A hierarchy is a system where members are ranked according to:",
-    "options": [
-      "Age",
-      "Status or authority",
-      "Height",
-      "Speed"
-    ],
-    "answer": "Status or authority"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What did Ivy use to hide her face during the robbery?",
+    "options": ["A woolen scarf", "A stocking mask", "A plastic mask", "A folded newspaper"],
+    "answer": "A stocking mask"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Advocate'?",
-    "options": [
-      "oppose",
-      "support",
-      "hide",
-      "forget"
-    ],
-    "answer": "support"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What did Ivy pretend to have hidden under her folded newspaper?",
+    "options": ["A gun", "A knife", "A note", "A bomb"],
+    "answer": "A gun"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Lucid'?",
-    "options": [
-      "confusing",
-      "dark",
-      "clear",
-      "heavy"
-    ],
-    "answer": "clear"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "How much money did the cashier give to Ivy?",
+    "options": ["£50", "£100", "£500", "£1000"],
+    "answer": "£100"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Reiterate'?",
-    "options": [
-      "repeat",
-      "delete",
-      "whisper",
-      "forget"
-    ],
-    "answer": "repeat"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What polite remark did Ivy make to the cashier before leaving?",
+    "options": ["“Goodbye”", "“Hands up”", "“Thank you”", "“Don’t move”"],
+    "answer": "“Thank you”"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Frail'?",
-    "options": [
-      "strong",
-      "heavy",
-      "weak",
-      "colorful"
-    ],
-    "answer": "weak"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "Where exactly did the police find and catch Ivy?",
+    "options": ["Inside her house", "At the train station", "On the sea front", "Inside a restaurant"],
+    "answer": "On the sea front"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Loathe'?",
-    "options": [
-      "love",
-      "hate",
-      "enjoy",
-      "praise"
-    ],
-    "answer": "hate"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What was Ivy doing when she was apprehended by the police?",
+    "options": ["Knitting a blanket", "Buying an ice-cream", "Counting her money", "Watching television"],
+    "answer": "Buying an ice-cream"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Rectify'?",
-    "options": [
-      "correct",
-      "worsen",
-      "ignore",
-      "fabricate"
-    ],
-    "answer": "correct"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "At what age did Ivy get married?",
+    "options": ["16", "18", "21", "25"],
+    "answer": "16"
   },
   {
-    "section": "vocabulary",
-    "question": "What is a synonym for the word 'Hierarchy'?",
-    "options": [
-      "equality",
-      "ranking",
-      "chaos",
-      "freedom"
-    ],
-    "answer": "ranking"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "According to Ivy, why did she decide to rob the bank?",
+    "options": ["She needed to pay her rent", "She had never done anything exciting", "She wanted to buy an ice-cream shop", "Her grandchildren asked her to do it"],
+    "answer": "She had never done anything exciting"
   },
   {
-    "section": "vocabulary",
-    "question": "What is the opposite of the word 'Novice'?",
-    "options": [
-      "beginner",
-      "learner",
-      "professional",
-      "amateur"
-    ],
-    "answer": "professional"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "Where has Ivy appeared since becoming famous?",
+    "options": ["In movies and radio shows", "On TV and in the newspapers", "On billboards and social media", "In magazines and books"],
+    "answer": "On TV and in the newspapers"
   },
   {
-    "section": "vocabulary",
-    "question": "What is the opposite of the word 'Frugal'?",
-    "options": [
-      "thrifty",
-      "wasteful",
-      "economical",
-      "rich"
-    ],
-    "answer": "wasteful"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What did Ivy say when asked if she would rob a bank again?",
+    "options": ["“I will do it tomorrow”", "“I think once is enough”", "“Never again under any circumstance”", "“It depends on the money”"],
+    "answer": "“I think once is enough”"
   },
   {
-    "section": "vocabulary",
-    "question": "What is the opposite of the word 'Mundane'?",
-    "options": [
-      "exciting",
-      "boring",
-      "usual",
-      "everyday"
-    ],
-    "answer": "exciting"
+    "instruction": "SECTION A: COMPREHENSION\nRead the passage and answer the questions.",
+    "passageTitle": "COMPREHENSION: MY GRANDMA’S A BANK ROBBER!",
+    "question": "What is the name of the police superintendent handling the case?",
+    "options": ["Superintendent Hammond", "Superintendent Smythe", "Officer Ivy", "Detective Sussex"],
+    "answer": "Superintendent Smythe"
   },
   {
-    "section": "vocabulary",
-    "question": "To 'Disseminate' information means to:",
-    "options": [
-      "Hide it from the public",
-      "Spread it widely",
-      "Forget it immediately",
-      "Keep it secret"
-    ],
-    "answer": "Spread it widely"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which of the following words is a synonym for alacrity?",
+    "options": ["Laziness", "Eagerness", "Fear", "Anger"],
+    "answer": "Eagerness"
   },
   {
-    "section": "vocabulary",
-    "question": "If the ending of a movie is 'Ambiguous,' it is:",
-    "options": [
-      "Very clear and easy to understand",
-      "Open to more than one interpretation or not clear",
-      "Extremely loud and exciting",
-      "Short and brief"
-    ],
-    "answer": "Open to more than one interpretation or not clear"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "What is the closest synonym for the word catastrophe?",
+    "options": ["Blessing", "Success", "Disaster", "Victory"],
+    "answer": "Disaster"
   },
   {
-    "section": "vocabulary",
-    "question": "Which word is a synonym for 'Eradicate'?",
-    "options": [
-      "Create",
-      "Eliminate",
-      "Establish",
-      "Protect"
-    ],
-    "answer": "Eliminate"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The word anarchy refers to a state of society characterized by what?",
+    "options": ["Total peace", "Lawlessness", "Strict governance", "Perfect harmony"],
+    "answer": "Lawlessness"
   },
   {
-    "section": "vocabulary",
-    "question": "A 'Disparity' between two things, such as team budgets, refers to a:",
-    "options": [
-      "Great difference or inequality",
-      "Perfect balance",
-      "Total similarity",
-      "Clear connection"
-    ],
-    "answer": "Great difference or inequality"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which of the following is the most suitable antonym for exonerate?",
+    "options": ["Forgive", "Pardon", "Blame", "Release"],
+    "answer": "Blame"
   },
   {
-    "section": "vocabulary",
-    "question": "A 'Travesty' is a false or distorted representation of something. What is an antonym for Travesty?",
-    "options": [
-      "Mockery",
-      "Distortion",
-      "Truth",
-      "Misrepresentation"
-    ],
-    "answer": "Truth"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "What is the direct antonym of the word laconic?",
+    "options": ["Wordy", "Brief", "Short", "Silent"],
+    "answer": "Wordy"
   },
   {
-    "section": "vocabulary",
-    "question": "A building that is very large and impressive is called an:",
-    "options": [
-      "Abscond",
-      "Edifice",
-      "Alleviate",
-      "Inculcate"
-    ],
-    "answer": "Edifice"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word has a meaning closest to vile?",
+    "options": ["Beautiful", "Wicked", "Pleasant", "Kind"],
+    "answer": "Wicked"
   },
   {
-    "section": "vocabulary",
-    "question": "If you act without thinking first, your behavior is:",
-    "options": [
-      "Cognizant",
-      "Impetuous",
-      "Bilingual",
-      "Indispensable"
-    ],
-    "answer": "Impetuous"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "To forcefully conquer, tame, or bring a nation under complete control is to ________ them.",
+    "options": ["Exonerate", "Boycott", "Subjugate", "Scrutinize"],
+    "answer": "Subjugate"
   },
   {
-    "section": "vocabulary",
-    "question": "'Fearless' is to 'Intrepid' as 'Weird' is to:",
-    "options": [
-      "Essential",
-      "Bizarre",
-      "Arrogance",
-      "Avoid"
-    ],
-    "answer": "Bizarre"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Because the jury members were in complete agreement, they reached a ________ decision.",
+    "options": ["Divided", "Unanimous", "Docile", "Fanatic"],
+    "answer": "Unanimous"
   },
   {
-    "section": "vocabulary",
-    "question": "Which word describes the act of giving someone the right to vote?",
-    "options": [
-      "Rescind",
-      "Enfranchise",
-      "Cajole",
-      "Adulterate"
-    ],
-    "answer": "Enfranchise"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Which word is the most appropriate antonym for adamant?",
+    "options": ["Stubborn", "Flexible", "Sturdy", "Fixed"],
+    "answer": "Flexible"
   },
   {
-    "section": "vocabulary",
-    "question": "The thief tried to 'Abscond' from the store, but the security guard made him:",
-    "options": [
-      "Stay",
-      "Flourish",
-      "Persuade",
-      "Reduce"
-    ],
-    "answer": "Stay"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "An animal or person that is gentle, easily managed, and ready to accept control is described as ________.",
+    "options": ["Docile", "Impertinent", "Nonchalant", "Zealous"],
+    "answer": "Docile"
   },
   {
-    "section": "vocabulary",
-    "question": "If a person is 'Intrepid,' they are:",
-    "options": [
-      "Very shy",
-      "Fearless and brave",
-      "Easily annoyed",
-      "Highly educated"
-    ],
-    "answer": "Fearless and brave"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The teacher's unexpected and overly complicated explanation served only to ________ the students.",
+    "options": ["Enlighten", "Bemuse", "Relieve", "Amuse"],
+    "answer": "Bemuse"
   },
   {
-    "section": "vocabulary",
-    "question": "The doctor gave the boy medicine to 'Alleviate' the pain. What is a synonym for Alleviate?",
-    "options": [
-      "Reduce",
-      "Arrogance",
-      "Conscious",
-      "Weird"
-    ],
-    "answer": "Reduce"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The student was punished for making an ________ and disrespectful remark to the principal.",
+    "options": ["Exquisite", "Docile", "Impertinent", "Sturdy"],
+    "answer": "Impertinent"
   },
   {
-    "section": "vocabulary",
-    "question": "A person who is 'Supercilious' thinks they are better than everyone else. What is a synonym for this?",
-    "options": [
-      "Fearless",
-      "Arrogance",
-      "Temporary",
-      "Essential"
-    ],
-    "answer": "Arrogance"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "What is the closest synonym for the word exquisite?",
+    "options": ["Ugly", "Beautiful", "Rough", "Cheap"],
+    "answer": "Beautiful"
   },
   {
-    "section": "vocabulary",
-    "question": "A person who shows a cruel disregard for others is:",
-    "options": [
-      "Cognizant",
-      "Callous",
-      "Bilingual",
-      "Unabashed"
-    ],
-    "answer": "Callous"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Public condemnation, disgrace, or being well-known for a bad quality or deed is called ________.",
+    "options": ["Infamy", "Respite", "Anticipation", "Alacrity"],
+    "answer": "Infamy"
   },
   {
-    "section": "vocabulary",
-    "question": "What is the opposite of 'Supercilious'?",
-    "options": [
-      "Modest",
-      "Permanent",
-      "Release",
-      "Worsen"
-    ],
-    "answer": "Modest"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "She behaved in a completely ________ manner, acting calm, relaxed, and utterly unconcerned.",
+    "options": ["Anxious", "Zealous", "Nonchalant", "Violent"],
+    "answer": "Nonchalant"
   },
   {
-    "section": "vocabulary",
-    "question": "If you are 'Cognizant' of a rule, you are:",
-    "options": [
-      "Avoiding it",
-      "Conscious (aware) of it",
-      "Afraid of it",
-      "Changing it"
-    ],
-    "answer": "Conscious (aware) of it"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "The detective had to carefully ________ every single piece of evidence left at the scene.",
+    "options": ["Ignore", "Scrutinize", "Boycott", "Destroy"],
+    "answer": "Scrutinize"
   },
   {
-    "section": "vocabulary",
-    "question": "'Burgeon' means to grow quickly. What is a synonym?",
-    "options": [
-      "Reduce",
-      "Flourish",
-      "Weird",
-      "Temporary"
-    ],
-    "answer": "Flourish"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "After weeks of hard labor, the workers enjoyed a brief period of ________ and relaxation.",
+    "options": ["Respite", "Catastrophe", "Anarchy", "Tautology"],
+    "answer": "Respite"
   },
   {
-    "section": "vocabulary",
-    "question": "If you feel 'Compunction,' you feel:",
-    "options": [
-      "Great excitement",
-      "Guilt after doing something wrong",
-      "Very hungry",
-      "Extremely tired"
-    ],
-    "answer": "Guilt after doing something wrong"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Someone who is filled with excessive, single-minded, and uncritical zeal for a cause is a ________.",
+    "options": ["Superintendent", "Fanatic", "Neutralist", "Skeptic"],
+    "answer": "Fanatic"
   },
   {
-    "section": "vocabulary",
-    "question": "What is the opposite of 'Intrepid'?",
-    "options": [
-      "Stay",
-      "Cowardice",
-      "Permanent",
-      "Modest"
-    ],
-    "answer": "Cowardice"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "What is the best antonym for the word zealous?",
+    "options": ["Passionate", "Enthusiastic", "Indifferent", "Eager"],
+    "answer": "Indifferent"
   },
   {
-    "section": "vocabulary",
-    "question": "Which word means 'absolutely necessary'?",
-    "options": [
-      "Nuisance",
-      "Indispensable",
-      "Bizarre",
-      "Evanescent"
-    ],
-    "answer": "Indispensable"
+    "instruction": "SECTION B: VOCABULARY\nAnswer all questions.",
+    "question": "Saying \"the green grass is green\" is an unnecessary repetition of words known as a ________.",
+    "options": ["Tautology", "Contrast", "Antonym", "Definition"],
+    "answer": "Tautology"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the words to make a meaningful sentence: 'Of ice cream are fond children.'",
-    "options": [
-      "Children are fond of ice cream.",
-      "Ice cream are fond of children.",
-      "Fond children are of ice cream.",
-      "Children fond are of ice cream."
-    ],
-    "answer": "Children are fond of ice cream."
+    "instruction": "SECTION C: VERBAL REASONING\nAnswer all questions.",
+    "question": "Find the two words which need to change places for the sentence to make sense: The tail wagged her dog when she saw the treat.",
+    "options": ["tail, dog", "wagged, saw", "her, she", "treat, dog"],
+    "answer": "tail, dog"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the words to make a meaningful sentence: 'Good to cook is because it helps us fire.'",
-    "options": [
-      "Fire helps us because it is good to cook.",
-      "Fire is good because it helps us to cook.",
-      "To cook is good because fire helps us.",
-      "Because it helps us, fire to cook is good."
-    ],
-    "answer": "Fire is good because it helps us to cook."
+    "instruction": "SECTION C: VERBAL REASONING\nAnswer all questions.",
+    "question": "Find the two words which need to change places for the sentence to make sense: My sister told my mother to finish her homework.",
+    "options": ["sister, told", "sister, mother", "mother, finish", "homework, sister"],
+    "answer": "sister, mother"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the words to make a meaningful sentence: 'Like another he will John where find friend?'",
-    "options": [
-      "Where John will find another friend like he?",
-      "Where will John find another friend like he?",
-      ") John will find another friend like where he?",
-      "Where friend will John find another like he?"
-    ],
-    "answer": "Where will John find another friend like he?"
+    "instruction": "SECTION C: VERBAL REASONING\nAnswer all questions.",
+    "question": "Find the two words which need to change places for the sentence to make sense: I like to read a bed before book.",
+    "options": ["read, book", "bed, book", "read, before", "like, before"],
+    "answer": "bed, book"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the words to make a meaningful sentence: 'The look wall on at the shadow'",
-    "options": [
-      "Look at the shadow on the wall.",
-      "Look on the shadow at the wall.",
-      "The shadow look at the wall on.",
-      "On the wall look at the shadow."
-    ],
-    "answer": "Look at the shadow on the wall."
+    "instruction": "SECTION C: VERBAL REASONING\nAnswer all questions.",
+    "question": "Find the two words which need to change places for the sentence to make sense: At my birthday cake we ate ice cream and party.",
+    "options": ["birthday, cake", "cake, party", "ice, cream", "ate, party"],
+    "answer": "cake, party"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the words to make a meaningful sentence: 'Socks up his told was to pull he'",
-    "options": [
-      "He was told to pull his socks up.",
-      "He told was to pull up his socks.",
-      "To pull his socks up he was told.",
-      "Socks up his he was told to pull."
-    ],
-    "answer": "He was told to pull his socks up."
+    "instruction": "SECTION C: VERBAL REASONING\nAnswer all questions.",
+    "question": "Find the two words which need to change places for the sentence to make sense: My mum takes the office to her bus.",
+    "options": ["mum, takes", "office, bus", "takes, office", "her, bus"],
+    "answer": "office, bus"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "MEAT and TIME",
-      "MEAT and TEAM",
-      "TIME and TEAM",
-      "TUNE and MUST"
-    ],
-    "answer": "MEAT and TEAM"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose one word from the first group and one from the second group that go together to form a new word.",
+    "question": "Choose one word from each group to form a new word: (wood, light, sea) (day, tree, weed).",
+    "options": ["woodday", "lighttree", "seaweed", "woodtree"],
+    "answer": "seaweed"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "NUT and TAN",
-      "TEN and NET",
-      "NET and NOT",
-      "TEN and TAN"
-    ],
-    "answer": "TEN and NET"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose one word from the first group and one from the second group that go together to form a new word.",
+    "question": "Choose one word from each group to form a new word: (earth, glass, sand) (sun, castle, rain).",
+    "options": ["earthsun", "glassrain", "sandcastle", "earthcastle"],
+    "answer": "sandcastle"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "TEST and LAST",
-      "LAST and SALT",
-      "STAB and LOST",
-      "TEST and SALT"
-    ],
-    "answer": "LAST and SALT"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose one word from the first group and one from the second group that go together to form a new word.",
+    "question": "Choose one word from each group to form a new word: (well, work, pail) (shop, cut, know).",
+    "options": ["wellshop", "workshop", "pailcut", "workknow"],
+    "answer": "workshop"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word FARM to leave a new word based on the clue. (Clue: Not near)",
-    "options": [
-      "ARM",
-      "FAR",
-      "RAM",
-      "FAM"
-    ],
-    "answer": "FAR"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose one word from the first group and one from the second group that go together to form a new word.",
+    "question": "Choose one word from each group to form a new word: (foot, glove, hand) (knee, head, shake).",
+    "options": ["foothead", "gloveknee", "handshake", "footshake"],
+    "answer": "handshake"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word HARM to leave a new word based on the clue. (Clue: A piece of meat)",
-    "options": [
-      "ARM",
-      "HAM",
-      "RAM",
-      "HAR"
-    ],
-    "answer": "HAM"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose one word from the first group and one from the second group that go together to form a new word.",
+    "question": "Choose one word from each group to form a new word: (under, over, through) (sky, place, water).",
+    "options": ["underwater", "oversky", "throughplace", "overplace"],
+    "answer": "underwater"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word GROUND to leave a new word based on the clue. (Clue: Shaped like a ball)",
-    "options": [
-      "ROUND",
-      "GRIND",
-      "ROND",
-      "GROUN"
-    ],
-    "answer": "ROUND"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose the word which is most opposite in meaning to the word in capitals.",
+    "question": "Choose the word which is most opposite in meaning to HEALTHY.",
+    "options": ["good", "doctor", "hospital", "ill"],
+    "answer": "ill"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word THAN to leave a new word based on the clue. (Clue: You get it from sunbathing)",
-    "options": [
-      "ANT",
-      "HAT",
-      "TAN",
-      "HAN"
-    ],
-    "answer": "TAN"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose the word which is most opposite in meaning to the word in capitals.",
+    "question": "Choose the word which is most opposite in meaning to TEACHER.",
+    "options": ["school", "pupil", "lesson", "term"],
+    "answer": "pupil"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word ROAD to leave a new word based on the clue. (Clue: A stick)",
-    "options": [
-      "ROD",
-      "RAD",
-      "OAD",
-      "ROA"
-    ],
-    "answer": "ROD"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose the word which is most opposite in meaning to the word in capitals.",
+    "question": "Choose the word which is most opposite in meaning to FRIEND.",
+    "options": ["pal", "mate", "foe", "ally"],
+    "answer": "foe"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word PINT to leave a new word based on the clue. (Clue: Something we use when sewing)",
-    "options": [
-      "PIN",
-      "PIT",
-      "NIT",
-      "TIN"
-    ],
-    "answer": "PIN"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose the word which is most opposite in meaning to the word in capitals.",
+    "question": "Choose the word which is most opposite in meaning to MANY.",
+    "options": ["more", "lots", "few", "crowd"],
+    "answer": "few"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Remove one letter from the word TINT to leave a new word based on the clue. (Clue: A metal)",
-    "options": [
-      "TIN",
-      "TIT",
-      "TNT",
-      "NIT"
-    ],
-    "answer": "TIN"
+    "instruction": "SECTION C: VERBAL REASONING\nChoose the word which is most opposite in meaning to the word in capitals.",
+    "question": "Choose the word which is most opposite in meaning to WHOLE.",
+    "options": ["entire", "part", "some", "complete"],
+    "answer": "part"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: Han ( _ ) oor",
-    "options": [
-      "d",
-      "t",
-      "s",
-      "k"
-    ],
-    "answer": "d"
+    "instruction": "SECTION C: VERBAL REASONING\nFind the three-letter word which can be added to the letters in capitals to make a new word that completes the sentence sensibly.",
+    "question": "Find the three-letter word that can be added to INT to complete the sentence: A baby is an INT.",
+    "options": ["FAN", "ANT", "RAT", "RAW"],
+    "answer": "FAN"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: Mat ( _ ) ver",
-    "options": [
-      "e",
-      "a",
-      "o",
-      "i"
-    ],
-    "answer": "e"
+    "instruction": "SECTION C: VERBAL REASONING\nFind the three-letter word which can be added to the letters in capitals to make a new word that completes the sentence sensibly.",
+    "question": "Find the three-letter word that can be added to P to complete the sentence: A baby goes out in a P.",
+    "options": ["RAM", "CAR", "PIN", "PAN"],
+    "answer": "RAM"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: Duc ( _ ) ite",
-    "options": [
-      "t",
-      "k",
-      "s",
-      "e"
-    ],
-    "answer": "k"
+    "instruction": "SECTION C: VERBAL REASONING\nFind the three-letter word which can be added to the letters in capitals to make a new word that completes the sentence sensibly.",
+    "question": "Find the three-letter word that can be added to CLS to complete the sentence: A baby CLS on the floor.",
+    "options": ["RAW", "OUT", "ANT", "AIR"],
+    "answer": "RAW"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: Slo ( _ ) in",
-    "options": [
-      "w",
-      "t",
-      "p",
-      "n"
-    ],
-    "answer": "w"
+    "instruction": "SECTION C: VERBAL REASONING\nFind the three-letter word which can be added to the letters in capitals to make a new word that completes the sentence sensibly.",
+    "question": "Find the three-letter word that can be added to TLE to complete the sentence: A baby plays with a TLE.",
+    "options": ["RAT", "BAT", "CAT", "FIT"],
+    "answer": "RAT"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: Sal ( _ ) ill",
-    "options": [
-      "t",
-      "p",
-      "m",
-      "e"
-    ],
+    "instruction": "SECTION C: VERBAL REASONING\nFind the three-letter word which can be added to the letters in capitals to make a new word that completes the sentence sensibly.",
+    "question": "Find the three-letter word that can be added to HIGHCH to complete the sentence: A baby sits in a HIGHCH.",
+    "options": ["AIR", "FAN", "MAN", "EAR"],
+    "answer": "AIR"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which group of lowercase letters is classified as “tall letters” because they reach up to the top line?",
+    "options": ["a, c, e", "b, d, h", "g, j, y", "m, n, o"],
+    "answer": "b, d, h"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which group of lowercase letters is called “hanging letters” or “tail letters” because they drop down past the baseline?",
+    "options": ["f, t, k", "g, j, p, q, y", "a, c, e, o, r", "b, d, h, l"],
+    "answer": "g, j, p, q, y"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which group of lowercase letters is called “small letters” or “short letters” because they stay completely between the baseline and midline?",
+    "options": ["b, d, f, h, k, l, t", "g, j, p, q, y", "a, c, e, I, m, n, o, r, s, u, v, w, x, z", "A, B, C, D, E"],
+    "answer": "a, c, e, I, m, n, o, r, s, u, v, w, x, z"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "When writing lowercase b, h, and k, where do you always start your very first pencil stroke?",
+    "options": ["At the bottom line", "At the top line", "At the middle line", "Outside the margin"],
+    "answer": "At the top line"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "When forming a lowercase e, which action do you take before looping up and around?",
+    "options": ["Draw a long vertical line", "Make a horizontal straight line out to the right", "Go straight down into a tail", "Make a diagonal cross"],
+    "answer": "Make a horizontal straight line out to the right"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "How many lowercase letters in the English alphabet have tails that go down below the baseline?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "answer": "Five"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which of the following lowercase letters is a “tall letter”?",
+    "options": ["x", "h", "g", "u"],
+    "answer": "h"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which of the following lowercase letters is a “short letter”?",
+    "options": ["r", "l", "j", "d"],
+    "answer": "r"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "When writing the lowercase letter o, which directional path should your pencil strokes follow?",
+    "options": ["Clockwise (to the right)", "Anti-clockwise (to the left)", "Zig-zag paths", "Bottom to top straight line"],
+    "answer": "Anti-clockwise (to the left)"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which letter has a tail that curves to the left below the baseline?",
+    "options": ["q", "j", "b", "d"],
+    "answer": "j"
+  },
+  {
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which lowercase letter has an ascender (tall stem) that does not go all the way to the top line, remaining slightly shorter than a ‘b’ or ‘l’?",
+    "options": ["b", "l", "t", "h"],
     "answer": "t"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the letters of the capitalized word to complete the statement: Half of six is HERET.",
-    "options": [
-      "THERE",
-      "THREE",
-      "ETHER",
-      "TREHE"
-    ],
-    "answer": "THREE"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "When writing the lowercase letter p, where does the round body or circle sit?",
+    "options": ["Below the baseline", "Between the top and middle lines", "On the baseline, between the middle and bottom lines", "Floating above the top line"],
+    "answer": "On the baseline, between the middle and bottom lines"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the letters of the capitalized word to complete the statement: Sheep have a thick OLWO coat.",
-    "options": [
-      "WOOL",
-      "LOWO",
-      "LOOW",
-      "WOLW"
-    ],
-    "answer": "WOOL"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which two lowercase letters require you to completely lift your pencil off the page to add a dot after forming the base?",
+    "options": ["t and l", "I and j", "p and q", "u and v"],
+    "answer": "I and j"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the letters of the capitalized word to complete the statement: Don’t drop TILTRE in the street.",
-    "options": [
-      "TILTER",
-      "LITTER",
-      "TITLER",
-      "RETILT"
-    ],
-    "answer": "LITTER"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "When forming the lowercase letter m, how many downward humps or bumps do you make after the initial line?",
+    "options": ["One hump", "Two humps", "Three humps", "Four humps"],
+    "answer": "Two humps"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the letters of the capitalized word to complete the statement: The fire crew used AETRW to put out the blaze.",
-    "options": [
-      "WATER",
-      "TAWER",
-      "WRATE",
-      "ARETW"
-    ],
-    "answer": "WATER"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "In correct alphabet formation, which uppercase (capital) letters are allowed to go below the baseline?",
+    "options": ["G and J", "Y and Q", "None (all sit flat on the baseline)", "All of them"],
+    "answer": "None (all sit flat on the baseline)"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Rearrange the letters of the capitalized word to complete the statement: The tower of the HRCCHU was floodlit.",
-    "options": [
-      "CHURHC",
-      "CRUNCH",
-      "CHURCH",
-      "CHRUCH"
-    ],
-    "answer": "CHURCH"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "What is the main difference in formation between a lowercase u and a lowercase n?",
+    "options": ["‘u’ is tall and ‘n’ is short", "‘u’ opens upwards and ‘n’ curves downwards", "‘u’ has a tail below the line", "There is no difference"],
+    "answer": "‘u’ opens upwards and ‘n’ curves downwards"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: LOWEST",
-    "options": [
-      "low",
-      "west",
-      "flow",
-      "sew"
-    ],
-    "answer": "flow"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "When writing the lowercase letter k, where do the loop and the slant kick start their formation?",
+    "options": ["At the top line", "Below the baseline", "Between the middle line and the baseline", "Outside the line boundaries"],
+    "answer": "Between the middle line and the baseline"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: TEACHER",
-    "options": [
-      "eaten",
-      "chat",
-      "ear",
-      "crate"
-    ],
-    "answer": "eaten"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which lowercase letter is formed by making a diagonal line down to the right, then lifting the pencil to cross it with a diagonal down to the left?",
+    "options": ["v", "w", "z", "x"],
+    "answer": "x"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: INSIDE",
-    "options": [
-      "den",
-      "snide",
-      "end",
-      "need"
-    ],
-    "answer": "need"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "Which lowercase letter looks like a short straight line with a tiny hook curving at the bottom?",
+    "options": ["r", "s", "l", "c"],
+    "answer": "r"
   },
   {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "PART and TRAP",
-      "PART and TART",
-      "TRAP and RAMP",
-      "PAST and PART"
-    ],
-    "answer": "PART and TRAP"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "LAMP and PALM",
-      "LAMP and MALE",
-      "PALM and PALE",
-      "MALE and PALE"
-    ],
-    "answer": "LAMP and PALM"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "POST and SPOT",
-      "POST and PORT",
-      "STOP and SPIT",
-      "SPOT and PORT"
-    ],
-    "answer": "POST and SPOT"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "CARE and RACE",
-      "CARE and CORE",
-      "RACE and CART",
-      "CORE and RARE"
-    ],
-    "answer": "CARE and RACE"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Underline the two words which are made from the same letters:",
-    "options": [
-      "BARE and BEAR",
-      "BARE and BARN",
-      "BEAR and BEAD",
-      "BARN and BARK"
-    ],
-    "answer": "BARE and BEAR"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: POSTER",
-    "options": [
-      "poet",
-      "rose",
-      "step",
-      "past"
-    ],
-    "answer": "past"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: BLANKET",
-    "options": [
-      "bank",
-      "tale",
-      "late",
-      "belt"
-    ],
-    "answer": "bank"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: KITCHEN",
-    "options": [
-      "chin",
-      "inch",
-      "kite",
-      "neat"
-    ],
-    "answer": "neat"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: GARDEN",
-    "options": [
-      "dear",
-      "near",
-      "read",
-      "rage"
-    ],
-    "answer": "near"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Pick the one word which CANNOT be made from the letters of the word: COOPERATE",
-    "options": [
-      "pear",
-      "coat",
-      "rope",
-      "tree"
-    ],
-    "answer": "tree"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: Car ( _ ) ver",
-    "options": [
-      "e",
-      "t",
-      "p",
-      "m"
-    ],
-    "answer": "e"
-  },
-  {
-    "section": "verbal_reasoning",
-    "question": "Find the letter which will end the first word and start the second: For ( _ ) ing",
-    "options": [
-      "k",
-      "t",
-      "p",
-      "s"
-    ],
-    "answer": "k"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "What sound does the poet say Zanzibar has in it?",
-    "options": [
-      "hiss",
-      "zizz",
-      "boom"
-    ],
-    "answer": "zizz"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "Which of these green items is mentioned in the poem?",
-    "options": [
-      "green apples",
-      "green balls of pepper",
-      "green beans"
-    ],
-    "answer": "green balls of pepper"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "What kind of rain is described in the third stanza?",
-    "options": [
-      "cold rain",
-      "steamy rain",
-      "stormy rain"
-    ],
-    "answer": "steamy rain"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "What do the children cling beneath to shelter from the rain?",
-    "options": [
-      "banana leaves",
-      "umbrellas",
-      "roofs"
-    ],
-    "answer": "banana leaves"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "How do the children feel as they splash through the mud?",
-    "options": [
-      "crying",
-      "laughing",
-      "angry"
-    ],
-    "answer": "laughing"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "Who watches the sky during the rain?",
-    "options": [
-      "the fathers",
-      "the teachers",
-      "the mothers"
-    ],
-    "answer": "the mothers"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "What will the mothers use to build their huts again?",
-    "options": [
-      "bricks and cement",
-      "scoop and daub (mud)",
-      "wood and nails"
-    ],
-    "answer": "scoop and daub (mud)"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "What colour are the skies mentioned near the end of the poem?",
-    "options": [
-      "blue",
-      "grey",
-      "red"
-    ],
-    "answer": "red"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "What colour are the fireflies that appear at night?",
-    "options": [
-      "blue",
-      "yellow",
-      "green"
-    ],
-    "answer": "blue"
-  },
-  {
-    "section": "comprehension",
-    "instruction": "Read the passage and answer the question.",
-    "passageTitle": "Zanzibar By Berlie Doherty",
-    "passage": "Zanzibar used to make me think\nOf marzipan and stripes.\nIt has the sounds of bees in it, and zizz.\n\nI didn't know it would smell of spice\nof lemon grass and strips of cinnamon\ngreen balls of pepper,\n\nbuds of cloves,\nnutmeg and vanilla pods\nand rain, and steamy rain.\n\nChildren cling beneath banana leaves\nand splash home, laughing, through the mud.\nSoon the rain will wash their homes away.\n\nTheir mothers watch the sky.\nWhen the sun dries the earth\nThey will squat and scoop and daub\nand build their huts again.\n\nZanzibar. Palm trees and red skies\nBlue fireflies in the night\nCinnamon, cloves, and lemon grass, and rain.",
-    "question": "Which tree is specifically named in the poem?",
-    "options": [
-      "mango tree",
-      "palm tree",
-      "apple tree"
-    ],
-    "answer": "palm tree"
+    "instruction": "SECTION D: HANDWRITING\nAnswer all questions.",
+    "question": "To keep capital letters neat, how should their height compare to tall lowercase letters like b and h?",
+    "options": ["They should be twice as tall", "They should be the exact same height", "They should be much shorter", "They should go below the baseline"],
+    "answer": "They should be the exact same height"
   }
 ]

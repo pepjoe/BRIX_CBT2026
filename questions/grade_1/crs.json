@@ -1,22 +1,92 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "Who is God?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Our friend",
+      "Our Creator",
+      "Our teacher"
     ],
-    "answer": "A"
+    "answer": "Our Creator"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What did God create?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Only the stars",
+      "The heaven and the earth",
+      "Only the oceans"
     ],
-    "answer": "B"
+    "answer": "The heaven and the earth"
+  },
+  {
+    "question": "God created the sun to give us _______.",
+    "options": [
+      "Food",
+      "Light",
+      "Clothes"
+    ],
+    "answer": "Light"
+  },
+  {
+    "question": "Why did God create us?",
+    "options": [
+      "Because He loves us",
+      "Because He was bored",
+      "To ignore us"
+    ],
+    "answer": "Because He loves us"
+  },
+  {
+    "question": "How should we respond to God's creation?",
+    "options": [
+      "Ignore and destroy it",
+      "Love, praise, and thank God for it",
+      "Complain about it"
+    ],
+    "answer": "Love, praise, and thank God for it"
+  },
+  {
+    "question": "The Bible tells us about God's creation in _______________.",
+    "options": [
+      "Mathematics",
+      "Genesis",
+      "English"
+    ],
+    "answer": "Genesis"
+  },
+  {
+    "question": "What does it mean when we say \"God is good\"?",
+    "options": [
+      "God is mean.",
+      "God is kind, loving, caring, and generous to us.",
+      "God is strict."
+    ],
+    "answer": "God is kind, loving, caring, and generous to us."
+  },
+  {
+    "question": "What is the first way God shows His goodness to us?",
+    "options": [
+      "He gives us life",
+      "He gives us money",
+      "He gives us cars"
+    ],
+    "answer": "He gives us life"
+  },
+  {
+    "question": "Which of the following are beautiful things in nature given by God?",
+    "options": [
+      "Flowers, trees, rivers, and mountains",
+      "Roads and bridges",
+      "Phones and computers"
+    ],
+    "answer": "Flowers, trees, rivers, and mountains"
+  },
+  {
+    "question": "Complete the statement: \"God is our...\"",
+    "options": [
+      "Destroyer",
+      "Creator",
+      "Ruler"
+    ],
+    "answer": "Creator"
   }
 ]

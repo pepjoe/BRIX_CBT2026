@@ -40,16 +40,6 @@
     "answer": "9"
   },
   {
-    "question": "How many groups of 100,000,000 are there in 33,000,000,000?",
-    "options": [
-      "33",
-      "330",
-      "3,300",
-      "33,000"
-    ],
-    "answer": "330"
-  },
-  {
     "question": "What is the Arabic numeral for the Roman numeral CCXLIV?",
     "options": [
       "224",
@@ -60,16 +50,6 @@
     "answer": "244"
   },
   {
-    "question": "Find the sum of the place value of 6 in 205,645 and 821,161.",
-    "options": [
-      "606",
-      "6,600",
-      "660",
-      "6,060"
-    ],
-    "answer": "6,600"
-  },
-  {
     "question": "What is the largest seven-digit number?",
     "options": [
       "9,000,000",
@@ -78,26 +58,6 @@
       "10,000,000"
     ],
     "answer": "9,999,999"
-  },
-  {
-    "question": "What is the difference between two billion naira and one billion five hundred million naira?",
-    "options": [
-      "500,000,000 Naira",
-      "50,000,000 Naira",
-      "1,500,000,000 Naira",
-      "5,000,000,000 Naira"
-    ],
-    "answer": "500,000,000 Naira"
-  },
-  {
-    "question": "Which is greater between CMXCVIII (998) and 948, and by how much?",
-    "options": [
-      "948 is greater by 50",
-      "CMXCVIII is greater by 50",
-      "CMXCVIII is greater by 40",
-      "948 is greater by 60"
-    ],
-    "answer": "CMXCVIII is greater by 50"
   },
   {
     "question": "Write the number 12,000,000 in words.",
@@ -138,56 +98,6 @@
       "MCXLVII"
     ],
     "answer": "CMXLVII"
-  },
-  {
-    "question": "Pam wrote N43,000,000.00 instead of four hundred and three million Naira (N403,000,000.00) on a bank draft. What is the difference between the two amounts?",
-    "options": [
-      "N360,000,000.00",
-      "N300,000,000.00",
-      "N400,000,000.00",
-      "N350,000,000.00"
-    ],
-    "answer": "N360,000,000.00"
-  },
-  {
-    "question": "In a local primary school, there are 29 teaching staff, 11 non-teaching staff, and 450 pupils. How many people are there in the school altogether?",
-    "options": [
-      "490",
-      "480",
-      "500",
-      "470"
-    ],
-    "answer": "490"
-  },
-  {
-    "question": "Simplify the expression 398 + CDXLIV (444) - CLXXIII (173) and leave your final answer in Roman numerals.",
-    "options": [
-      "DCXCIX (699)",
-      "DCLXIX (669)",
-      "DCIL (649)",
-      "DCCXIX (719)"
-    ],
-    "answer": "DCXCIX (699)"
-  },
-  {
-    "question": "A factory packaging unit prepares inventory batches corresponding to the factors of 45 and 60. Find the difference between the number of factors of 45 (6 factors) and the factors of 60 (12 factors).",
-    "options": [
-      "6",
-      "4",
-      "5",
-      "8"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "Out of 680,950 vehicles imported into the country, 444,000 are cars and the rest are lorries. How many lorries were imported?",
-    "options": [
-      "236,950",
-      "246,950",
-      "226,950",
-      "235,950"
-    ],
-    "answer": "236,950"
   },
   {
     "question": "What is the place value of the circled numeral in 4[8]26 (representing 800)?",
@@ -240,26 +150,6 @@
     "answer": "XCIX"
   },
   {
-    "question": "Add 1,234,567 and 765,433.",
-    "options": [
-      "2,000,000",
-      "1,999,999",
-      "2,000,001",
-      "1,900,000"
-    ],
-    "answer": "2,000,000"
-  },
-  {
-    "question": "Subtract 458,210 from 1,000,000.",
-    "options": [
-      "541,790",
-      "551,790",
-      "541,890",
-      "641,790"
-    ],
-    "answer": "541,790"
-  },
-  {
     "question": "What is the value of 5 in 8,531,204?",
     "options": [
       "500,000",
@@ -298,6 +188,16 @@
       "1756"
     ],
     "answer": "1776"
+  },
+  {
+    "question": "What is the Roman numeral for 500?",
+    "options": [
+      "D",
+      "C",
+      "L",
+      "M"
+    ],
+    "answer": "D"
   },
   {
     "question": "How many lines of symmetry does a rectangle have?",
@@ -350,7 +250,7 @@
     "answer": "They bisect each other at right angles"
   },
   {
-    "question": "What is transactional sum of the interior angles in a rhombus?",
+    "question": "What is the sum of the interior angles in a rhombus?",
     "options": [
       "180 degrees",
       "270 degrees",
@@ -440,66 +340,6 @@
     "answer": "Yes"
   },
   {
-    "question": "A rectangular garden has a length of 12 meters and a width of 7 meters. What are the lengths of the other two sides?",
-    "options": [
-      "12 meters and 7 meters",
-      "6 meters and 3.5 meters",
-      "24 meters and 14 meters",
-      "14 meters and 12 meters"
-    ],
-    "answer": "12 meters and 7 meters"
-  },
-  {
-    "question": "A square tabletop has sides of equal length. If one side measures 9 cm, find the total distance around the square (its perimeter).",
-    "options": [
-      "36 cm",
-      "18 cm",
-      "81 cm",
-      "27 cm"
-    ],
-    "answer": "36 cm"
-  },
-  {
-    "question": "A rhombus is constructed with a side length of 6 cm. What is the total length of all its four sides combined?",
-    "options": [
-      "24 cm",
-      "12 cm",
-      "36 cm",
-      "18 cm"
-    ],
-    "answer": "24 cm"
-  },
-  {
-    "question": "A square has 4 lines of symmetry and a rhombus has 2 lines of symmetry. What is the difference between their numbers of lines of symmetry?",
-    "options": [
-      "2",
-      "1",
-      "6",
-      "0"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "When a square frame is pushed sideways to transform into a rhombus, what happens to its four right angles?",
-    "options": [
-      "They change from 90 degrees to acute and obtuse angles",
-      "They remain right angles",
-      "They all become 180 degrees",
-      "They disappear entirely"
-    ],
-    "answer": "They change from 90 degrees to acute and obtuse angles"
-  },
-  {
-    "question": "What is the perimeter of a rectangle with length 15 cm and width 10 cm?",
-    "options": [
-      "50 cm",
-      "25 cm",
-      "150 cm",
-      "40 cm"
-    ],
-    "answer": "50 cm"
-  },
-  {
     "question": "How many sides does a quadrilateral have?",
     "options": [
       "4",
@@ -508,16 +348,6 @@
       "6"
     ],
     "answer": "4"
-  },
-  {
-    "question": "What is the area of a square with side length 8 cm?",
-    "options": [
-      "64 sq cm",
-      "32 sq cm",
-      "16 sq cm",
-      "24 sq cm"
-    ],
-    "answer": "64 sq cm"
   },
   {
     "question": "Which polygon has four equal sides and four right angles?",
@@ -560,26 +390,6 @@
     "answer": "180 degrees"
   },
   {
-    "question": "What do you call a four-sided plane figure?",
-    "options": [
-      "Quadrilateral",
-      "Triangle",
-      "Pentagon",
-      "Hexagon"
-    ],
-    "answer": "Quadrilateral"
-  },
-  {
-    "question": "A shape has opposite sides equal and parallel, and four right angles. What shape is it?",
-    "options": [
-      "Rectangle",
-      "Rhombus",
-      "Kite",
-      "Trapezium"
-    ],
-    "answer": "Rectangle"
-  },
-  {
     "question": "How many diagonals does a rectangle have?",
     "options": [
       "2",
@@ -588,16 +398,6 @@
       "0"
     ],
     "answer": "2"
-  },
-  {
-    "question": "Are the diagonals of a rectangle equal in length?",
-    "options": [
-      "Yes",
-      "No",
-      "Sometimes",
-      "Cannot be determined"
-    ],
-    "answer": "Yes"
   },
   {
     "question": "Find the missing number in the sequence: 5, 10, 15, 20, ____.",
@@ -638,16 +438,6 @@
       "36"
     ],
     "answer": "25"
-  },
-  {
-    "question": "Sample: (2 + 3 = 10), (4 + 1 = 10). Find: (3 + 4 = ____).",
-    "options": [
-      "14",
-      "7",
-      "12",
-      "10"
-    ],
-    "answer": "14"
   },
   {
     "question": "Find the missing number in the pattern: 100, 90, 80, 70, ____.",
@@ -720,26 +510,6 @@
     "answer": "6"
   },
   {
-    "question": "If A = 1, B = 2, C = 3, what is the value of A + B + C?",
-    "options": [
-      "6",
-      "5",
-      "7",
-      "4"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "Sample: (2 * 3 + 1 = 7), (4 * 2 + 1 = 9). Find: (3 * 5 + 1 = ____).",
-    "options": [
-      "16",
-      "15",
-      "8",
-      "18"
-    ],
-    "answer": "16"
-  },
-  {
     "question": "Find the missing number: 50, 45, 40, 35, ____.",
     "options": [
       "30",
@@ -790,36 +560,6 @@
     "answer": "9"
   },
   {
-    "question": "Sample: [3, 4, 5 -> 12], [2, 6, 1 -> 9]. Find: [4, 4, 4 -> ____].",
-    "options": [
-      "12",
-      "16",
-      "8",
-      "64"
-    ],
-    "answer": "12"
-  },
-  {
-    "question": "If 1 pen costs 50 Naira, how much do 4 pens cost?",
-    "options": [
-      "200 Naira",
-      "150 Naira",
-      "250 Naira",
-      "100 Naira"
-    ],
-    "answer": "200 Naira"
-  },
-  {
-    "question": "Sample: (20 - 5 = 15), (30 - 10 = 20). Find: (40 - ____ = 25).",
-    "options": [
-      "15",
-      "10",
-      "20",
-      "5"
-    ],
-    "answer": "15"
-  },
-  {
     "question": "Find the next number: 10, 20, 30, 40, ____.",
     "options": [
       "50",
@@ -828,26 +568,6 @@
       "55"
     ],
     "answer": "50"
-  },
-  {
-    "question": "Sample: (2, 8 -> 10), (5, 7 -> 12). Find: (____, 6 -> 15).",
-    "options": [
-      "9",
-      "8",
-      "7",
-      "10"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Which number is half of 48?",
-    "options": [
-      "24",
-      "22",
-      "26",
-      "14"
-    ],
-    "answer": "24"
   },
   {
     "question": "Sample: (3 -> 6), (7 -> 14), (9 -> ____).",
@@ -868,26 +588,6 @@
       "0"
     ],
     "answer": "4"
-  },
-  {
-    "question": "Sample: [10, 5 -> 2], [18, 3 -> 6]. Find: [21, 7 -> ____].",
-    "options": [
-      "3",
-      "14",
-      "28",
-      "4"
-    ],
-    "answer": "3"
-  },
-  {
-    "question": "How many days are there in 3 weeks?",
-    "options": [
-      "21",
-      "14",
-      "28",
-      "7"
-    ],
-    "answer": "21"
   },
   {
     "question": "Find the missing number: 7, 14, 21, 28, ____.",

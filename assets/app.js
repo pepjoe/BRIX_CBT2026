@@ -69,7 +69,7 @@ async function startExam(){
  document.getElementById("instructions").classList.add("hidden");
  document.getElementById("exam").classList.remove("hidden");
  renderQuestion();
- let sec=5400;
+ let sec=3600;
  const t=setInterval(()=>{
    sec--; document.getElementById("timer").textContent=`${Math.floor(sec/60)}:${String(sec%60).padStart(2,"0")}`;
    if(sec===300){alert("5 minutes remaining.");}

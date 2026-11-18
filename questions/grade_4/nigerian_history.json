@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Nigeria is located in which continent?",
+    "options": ["Europe", "Asia", "Africa", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "question": "What is the capital city of Nigeria?",
+    "options": ["Abuja", "Lagos", "Ibadan", "Kano"],
+    "answer": "Abuja"
+  },
+  {
+    "question": "Which of these is one of the major ethnic groups in Nigeria?",
+    "options": ["French", "Yoruba", "Chinese", "German"],
+    "answer": "Yoruba"
+  },
+  {
+    "question": "What do we call a place where people live together?",
+    "options": ["Market", "Forest", "Mountain", "Settlement"],
+    "answer": "Settlement"
+  },
+  {
+    "question": "Why did many early Nigerian settlements develop near rivers?",
+    "options": ["To get water for drinking and farming", "To avoid meeting other people", "To stop people from farming", "To prevent trading"],
+    "answer": "To get water for drinking and farming"
+  },
+  {
+    "question": "Which of these was an important occupation in early Nigerian communities?",
+    "options": ["Flying aeroplanes", "Operating computers", "Farming", "Driving trains"],
+    "answer": "Farming"
+  },
+  {
+    "question": "What is migration?",
+    "options": ["Building houses", "Making clothes", "Selling goods", "Moving from one place to another to live"],
+    "answer": "Moving from one place to another to live"
+  },
+  {
+    "question": "Which of these was a common means of transportation in early Nigerian settlements?",
+    "options": ["Aeroplane", "Walking", "Helicopter", "Modern train"],
+    "answer": "Walking"
+  },
+  {
+    "question": "What is a traditional settlement?",
+    "options": ["A community where people lived using their customs and traditions", "A place where only visitors lived", "A place used only for sports", "A modern shopping centre"],
+    "answer": "A community where people lived using their customs and traditions"
+  },
+  {
+    "question": "Which of these is an example of an early Nigerian settlement?",
+    "options": ["New York", "London", "Ile-Ife", "Paris"],
+    "answer": "Ile-Ife"
+  },
+  {
+    "question": "The Nok culture is famous for producing which of these?",
+    "options": ["Plastic toys", "Terracotta figures", "Glass bottles", "Paper decorations"],
+    "answer": "Terracotta figures"
+  },
+  {
+    "question": "The Nok culture is mainly associated with which part of Nigeria?",
+    "options": ["Coastal Nigeria", "Eastern Nigeria", "Western Nigeria", "Central Nigeria"],
+    "answer": "Central Nigeria"
+  },
+  {
+    "question": "What material was commonly used to make Nok terracotta figures?",
+    "options": ["Clay", "Rubber", "Plastic", "Glass"],
+    "answer": "Clay"
+  },
+  {
+    "question": "Apart from making terracotta figures, the Nok people were also known for ______.",
+    "options": ["Making aeroplanes", "Producing television sets", "Ironworking", "Building computers"],
+    "answer": "Ironworking"
+  },
+  {
+    "question": "What does the word terracotta mean?",
+    "options": ["A type of wood", "Baked clay", "A type of metal", "A kind of stone"],
+    "answer": "Baked clay"
+  },
+  {
+    "question": "Ancient Ife is associated with which ethnic group?",
+    "options": ["Igbo", "Hausa", "Yoruba", "Tiv"],
+    "answer": "Yoruba"
+  },
+  {
+    "question": "Ancient Ife is located in which present-day state?",
+    "options": ["Osun State", "Lagos State", "Kano State", "Benue State"],
+    "answer": "Osun State"
+  },
+  {
+    "question": "Which of these is Ancient Ife famous for?",
+    "options": ["Modern machines", "Plastic furniture", "Paper books", "Beautiful bronze and terracotta artworks"],
+    "answer": "Beautiful bronze and terracotta artworks"
+  },
+  {
+    "question": "The artworks of Ancient Ife show the people's skill in ______.",
+    "options": ["Fishing", "Art and sculpture", "Driving", "Weaving baskets only"],
+    "answer": "Art and sculpture"
+  },
+  {
+    "question": "Igbo-Ukwu is located in which present-day state?",
+    "options": ["Oyo State", "Enugu State", "Anambra State", "Kaduna State"],
+    "answer": "Anambra State"
+  },
+  {
+    "question": "Igbo-Ukwu is famous for its ancient ______ objects.",
+    "options": ["Bronze and copper-alloy", "Plastic", "Paper", "Rubber"],
+    "answer": "Bronze and copper-alloy"
+  },
+  {
+    "question": "Which metal was commonly used in the artworks discovered at Igbo-Ukwu?",
+    "options": ["Aluminium only", "Iron only", "Gold only", "Copper and its alloys"],
+    "answer": "Copper and its alloys"
+  },
+  {
+    "question": "What do archaeological discoveries help us to learn about?",
+    "options": ["The future of technology", "How people lived in the past", "How to operate modern machines", "How to build aeroplanes"],
+    "answer": "How people lived in the past"
+  },
+  {
+    "question": "What is a traditional political system?",
+    "options": ["A system of foreign trade", "A way of building roads", "A way people governed their communities using traditional customs", "A system of modern banking"],
+    "answer": "A way people governed their communities using traditional customs"
+  },
+  {
+    "question": "Who was usually responsible for leading a traditional community?",
+    "options": ["A visitor", "A pupil", "A trader", "A traditional ruler"],
+    "answer": "A traditional ruler"
+  },
+  {
+    "question": "What was one important duty of a traditional ruler?",
+    "options": ["Settling disputes and maintaining peace", "Encouraging fighting", "Destroying community property", "Preventing children from learning"],
+    "answer": "Settling disputes and maintaining peace"
+  },
+  {
+    "question": "In some traditional societies, elders helped rulers to ______.",
+    "options": ["Stop people from farming", "Make important decisions", "Close all markets", "Prevent people from trading"],
+    "answer": "Make important decisions"
+  },
+  {
+    "question": "What was the purpose of traditional laws and rules?",
+    "options": ["To create confusion", "To encourage fighting", "To maintain peace and order", "To stop community development"],
+    "answer": "To maintain peace and order"
+  },
+  {
+    "question": "Which of these helped people to settle disagreements in traditional communities?",
+    "options": ["Fighting", "Gossip", "Disobedience", "Discussion and mediation by elders"],
+    "answer": "Discussion and mediation by elders"
+  },
+  {
+    "question": "Why is it important to study Nigerian history?",
+    "options": ["To forget the past", "To learn about past events and understand our heritage", "To avoid learning about our culture", "To stop traditional practices"],
+    "answer": "To learn about past events and understand our heritage"
+  }
+]

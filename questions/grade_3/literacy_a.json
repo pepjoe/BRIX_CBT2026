@@ -1,402 +1,662 @@
 [
   {
-    "question": "In the sentence 'I have a toy.', which word is the determiner?",
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A group of sentences written about one topic to give information, tell a story, or describe something is called an ________________.",
     "options": [
-      "I",
-      "have",
-      "a",
-      "toy"
+      "Essay",
+      "Alphabet",
+      "Adjective",
+      "Ending"
     ],
-    "answer": "a"
+    "answer": "Essay"
   },
   {
-    "question": "In the sentence 'She ate an apple.', which word is the determiner?",
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A __________ essay describes how a person, place, animal, or thing looks.",
     "options": [
-      "She",
-      "ate",
-      "an",
-      "apple"
+      "Narrative",
+      "Descriptive",
+      "Fictional",
+      "Argumentative"
     ],
-    "answer": "an"
+    "answer": "Descriptive"
   },
   {
-    "question": "In the sentence 'The food is hot.', which word is the determiner?",
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "Which part of speech does a descriptive essay use to describe things?",
+    "options": [
+      "Verbs",
+      "Adjectives",
+      "Conjunction",
+      "Prepositions"
+    ],
+    "answer": "Adjectives"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A descriptive essay tells us the colour, size, ___, and beauty of a thing.",
+    "options": [
+      "Shape",
+      "Noise",
+      "Time",
+      "Speed"
+    ],
+    "answer": "Shape"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "What is the first step in writing a descriptive essay?",
+    "options": [
+      "Conclusion",
+      "Body",
+      "Title",
+      "Introduction"
+    ],
+    "answer": "Title"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "In a descriptive essay, the ________________ introduces who or what you want to describe.",
+    "options": [
+      "Title",
+      "Introduction",
+      "Body",
+      "Conclusion"
+    ],
+    "answer": "Introduction"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "Which part of a descriptive essay explains how the person or place looks, what it does, and why you like it?",
+    "options": [
+      "Title",
+      "Introduction",
+      "Body",
+      "Conclusion"
+    ],
+    "answer": "Body"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "Your final feeling about the person or thing you described is written in the ________________.",
+    "options": [
+      "Title",
+      "Introduction",
+      "Body",
+      "Conclusion"
+    ],
+    "answer": "Conclusion"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "In the example essay 'My Mother', what is the name of the mother?",
+    "options": [
+      "Mrs. Ada",
+      "Mrs. Grace",
+      "Mrs. Mary",
+      "Mrs. Joy"
+    ],
+    "answer": "Mrs. Grace"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "According to the example essay 'My Mother', what is her occupation?",
+    "options": [
+      "Nurse",
+      "Doctor",
+      "Teacher",
+      "Trader"
+    ],
+    "answer": "Teacher"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A ________________ essay is an essay that tells a story to entertain the reader.",
+    "options": [
+      "Descriptive",
+      "Narrative",
+      "Expository",
+      "Formal"
+    ],
+    "answer": "Narrative"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A real story in a narrative essay is called ________________.",
+    "options": [
+      "Fictional",
+      "Non-fiction",
+      "Make-up",
+      "Poetry"
+    ],
+    "answer": "Non-fiction"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A make-up story in a narrative essay is known as ________________.",
+    "options": [
+      "Non-fiction",
+      "Fictional",
+      "True life",
+      "Biography"
+    ],
+    "answer": "Fictional"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "In a story, 'Who' refers to the ________________.",
+    "options": [
+      "Setting",
+      "Characters",
+      "Problem",
+      "Solution"
+    ],
+    "answer": "Characters"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "In a narrative essay, 'Where' the story takes place is called the ________________.",
+    "options": [
+      "Characters",
+      "Setting",
+      "Problem",
+      "Solution"
+    ],
+    "answer": "Setting"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "What happens in the story that creates difficulty is known as the ________________.",
+    "options": [
+      "Setting",
+      "Solution",
+      "Problem",
+      "Title"
+    ],
+    "answer": "Problem"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "Which part of a narrative essay uses words like 'Once upon a time', 'One sunny morning', and 'Long ago'?",
+    "options": [
+      "Introduction",
+      "Body",
+      "Conclusion",
+      "Title"
+    ],
+    "answer": "Introduction"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "A narrative essay is usually written in the ________________ tense.",
+    "options": [
+      "Present",
+      "Future",
+      "Past",
+      "Continuous"
+    ],
+    "answer": "Past"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "Words like 'then', 'suddenly', 'after', and 'just then' are used in the ________________ of a narrative essay.",
+    "options": [
+      "Introduction",
+      "Body",
+      "Conclusion",
+      "Title"
+    ],
+    "answer": "Body"
+  },
+  {
+    "instruction": "CREATIVE WRITING\nAnswer all questions.",
+    "question": "In the example story 'The Girl Who Lost Her Way In The Forest', who helped Ada find her way home?",
+    "options": [
+      "A big scary wolf",
+      "A kind hunter",
+      "Her mother",
+      "A teacher"
+    ],
+    "answer": "A kind hunter"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "What is a verb?",
+    "options": [
+      "A naming word",
+      "An action or doing word",
+      "A joining word",
+      "A describing word"
+    ],
+    "answer": "An action or doing word"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Which of the following is an example of a verb you do at home?",
+    "options": [
+      "Sweep",
+      "Table",
+      "Chair",
+      "Book"
+    ],
+    "answer": "Sweep"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Which of these verbs is commonly done in school?",
+    "options": [
+      "Roar",
+      "Bark",
+      "Write",
+      "Cook"
+    ],
+    "answer": "Write"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Identify the verb in the sentence: 'Ada runs faster than her friend.'",
+    "options": [
+      "Ada",
+      "runs",
+      "faster",
+      "friend"
+    ],
+    "answer": "runs"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "What verb does a dog do?",
+    "options": [
+      "Meow",
+      "Roar",
+      "Bark",
+      "Fly"
+    ],
+    "answer": "Bark"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "What verb does a bird do?",
+    "options": [
+      "Swim",
+      "Fly",
+      "Bark",
+      "Roar"
+    ],
+    "answer": "Fly"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "What verb does a lion do?",
+    "options": [
+      "Roar",
+      "Meow",
+      "Fly",
+      "Swim"
+    ],
+    "answer": "Roar"
+  },
+  {
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Choose the verb in the sentence: 'The babies cry loudly.'",
     "options": [
       "The",
-      "food",
-      "is",
-      "hot"
+      "babies",
+      "cry",
+      "loudly"
     ],
-    "answer": "The"
+    "answer": "cry"
   },
   {
-    "question": "In the sentence 'My dress is lovely.', which word is the determiner?",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Which of the following is a verb done at the playground?",
     "options": [
-      "My",
-      "dress",
-      "is",
-      "lovely"
+      "Jump",
+      "Cook",
+      "Read",
+      "Sweep"
     ],
-    "answer": "My"
+    "answer": "Jump"
   },
   {
-    "question": "In the sentence 'We saw some birds.', which word is the determiner?",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the blank with the correct verb from the lesson note: 'John _____ the ball.'",
     "options": [
-      "We",
-      "saw",
-      "some",
-      "birds"
+      "sings",
+      "kicks",
+      "reads",
+      "cooks"
     ],
-    "answer": "some"
+    "answer": "kicks"
   },
   {
-    "question": "Choose a correct sentence with 'this'.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "What is a conjunction?",
     "options": [
-      "This is my bag.",
-      "These is my bag.",
-      "This are my bag.",
-      "Those is my bag."
+      "An action word",
+      "A naming word",
+      "A joining word that joins words, phrases, or sentences together",
+      "A describing word"
     ],
-    "answer": "This is my bag."
+    "answer": "A joining word that joins words, phrases, or sentences together"
   },
   {
-    "question": "Choose a correct sentence with 'that'.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Which of the following is an example of a conjunction?",
     "options": [
-      "That is a tree.",
-      "Those is a tree.",
-      "That are a tree.",
-      "These is a tree."
+      "Run",
+      "Because",
+      "Happy",
+      "Football"
     ],
-    "answer": "That is a tree."
+    "answer": "Because"
   },
   {
-    "question": "Choose a correct sentence with 'these'.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the gap: 'I wanted to buy the shoe _____ I had no money.'",
     "options": [
-      "These are books.",
-      "This are books.",
-      "These is books.",
-      "Those is books."
+      "or",
+      "but",
+      "when",
+      "and"
     ],
-    "answer": "These are books."
+    "answer": "but"
   },
   {
-    "question": "Choose a correct sentence with 'those'.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the gap: 'I was very sleepy _____ I went to bed.'",
     "options": [
-      "Those are birds.",
-      "That are birds.",
-      "Those is birds.",
-      "This are birds."
+      "but",
+      "or",
+      "so",
+      "if"
     ],
-    "answer": "Those are birds."
+    "answer": "so"
   },
   {
-    "question": "Choose a correct sentence with 'many'.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the gap: 'You can have biscuits _____ you finish your food.'",
     "options": [
-      "Many pupils came.",
-      "Many pupil came.",
-      "Many is pupil.",
-      "Many are pupil."
+      "if",
+      "but",
+      "or",
+      "and"
     ],
-    "answer": "Many pupils came."
+    "answer": "if"
   },
   {
-    "question": "I bought (a / an) orange.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the gap: 'We stayed at home _____ it was very hot.'",
     "options": [
-      "a",
-      "an",
-      "the",
-      "some"
+      "or",
+      "because",
+      "but",
+      "if"
     ],
-    "answer": "an"
+    "answer": "because"
   },
   {
-    "question": "(This / These) book is expensive.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the gap: 'Do you want to play football _____ basketball?'",
     "options": [
-      "This",
-      "These",
-      "Those",
-      "Many"
+      "because",
+      "so",
+      "or",
+      "when"
     ],
-    "answer": "This"
+    "answer": "or"
   },
   {
-    "question": "She lost (her / many) shoe.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Fill in the gap: 'I like apples _____ bananas.'",
     "options": [
-      "her",
-      "many",
-      "some",
-      "these"
+      "and",
+      "but",
+      "or",
+      "because"
     ],
-    "answer": "her"
+    "answer": "and"
   },
   {
-    "question": "We saw (some / this) lions.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Join the two sentences using the correct conjunction: 'I like English. I don't like Maths.'",
     "options": [
-      "some",
-      "this",
-      "that",
-      "an"
+      "I like English and I don't like Maths.",
+      "I like English but I don't like Maths.",
+      "I like English or I don't like Maths.",
+      "I like English because I don't like Maths."
     ],
-    "answer": "some"
+    "answer": "I like English but I don't like Maths."
   },
   {
-    "question": "(That / Those) shirts are new.",
+    "instruction": "GRAMMAR\nAnswer all questions.",
+    "question": "Join the two sentences using the correct conjunction: 'He fell down. He was running fast.'",
     "options": [
-      "That",
-      "Those",
-      "This",
-      "An"
+      "He fell down or he was running fast.",
+      "He fell down but he was running fast.",
+      "He fell down because he was running fast.",
+      "He fell down if he was running fast."
     ],
-    "answer": "Those"
+    "answer": "He fell down because he was running fast."
   },
   {
-    "question": "What is your name? This is a ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "A piece of writing that deliberately copies the style of somebody's order of writing to make it funny or satirical is called a __________.",
     "options": [
-      "declarative",
-      "interrogative",
-      "imperative",
-      "exclamatory"
+      "Limerick",
+      "Parody",
+      "Acrostic poem",
+      "Narrative"
     ],
-    "answer": "interrogative"
+    "answer": "Parody"
   },
   {
-    "question": "Wow! What a beautiful day! This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "Which of the following is a key feature used in writing a parody?",
     "options": [
-      "declarative",
-      "interrogative",
-      "exclamatory",
-      "imperative"
+      "Strict five-line structure",
+      "Deliberate exaggeration",
+      "Vertical capital letters",
+      "Serious tragic ending"
     ],
-    "answer": "exclamatory"
+    "answer": "Deliberate exaggeration"
   },
   {
-    "question": "Sit down. This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "To write a good parody, one needs to be familiar with the __________ work and over-stress noticeable features of a famous poem.",
     "options": [
-      "declarative",
-      "interrogative",
-      "imperative",
-      "exclamatory"
+      "original",
+      "secret",
+      "unwritten",
+      "foreign"
     ],
-    "answer": "imperative"
+    "answer": "original"
   },
   {
-    "question": "The windows were like dark squares. This is a ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "The poem 'Stinkle, Stinkle, Little Skunk' is a parody of which famous poem?",
     "options": [
-      "declarative",
-      "imperative",
-      "interrogative",
-      "exclamatory"
+      "Humpty Dumpty",
+      "Pussy Cat, Pussy Cat",
+      "Twinkle, Twinkle, Little Star",
+      "Baa, Baa, Black Sheep"
     ],
-    "answer": "declarative"
+    "answer": "Twinkle, Twinkle, Little Star"
   },
   {
-    "question": "Where are you going? This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In the parody 'Bumpty Pumpty went to the mall', what noticeable feature of 'Humpty Dumpty' is copied?",
     "options": [
-      "imperative",
-      "interrogative",
-      "declarative",
-      "exclamatory"
+      "The rhythm and structure of the original poem",
+      "The exact tragic ending of the egg",
+      "An AABBA rhyme scheme",
+      "Vertical letters spelling HUMPTY"
     ],
-    "answer": "interrogative"
+    "answer": "The rhythm and structure of the original poem"
   },
   {
-    "question": "Hurrah! We won! This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "What is the main tone or effect of a parody?",
     "options": [
-      "interrogative",
-      "imperative",
-      "exclamatory",
-      "declarative"
+      "Funny or satirical",
+      "Sad and mournful",
+      "Strictly scientific",
+      "Angry and formal"
     ],
-    "answer": "exclamatory"
+    "answer": "Funny or satirical"
   },
   {
-    "question": "Be quiet. This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "When writing a parody, what should the writer do to the noticeable features of a famous poem?",
     "options": [
-      "imperative",
-      "declarative",
-      "interrogative",
-      "exclamatory"
+      "Hide them completely",
+      "Over-stress them",
+      "Delete the rhymes",
+      "Write them vertically"
     ],
-    "answer": "imperative"
+    "answer": "Over-stress them"
   },
   {
-    "question": "How are you? This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "An __________ poem is a poem that uses the letters of a focus word to begin each line of the poem.",
     "options": [
-      "imperative",
-      "interrogative",
-      "declarative",
-      "exclamatory"
+      "acrostic",
+      "epic",
+      "elegy",
+      "ode"
     ],
-    "answer": "interrogative"
+    "answer": "acrostic"
   },
   {
-    "question": "Shut the door. This is an ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In an acrostic poem, how is the focus word written?",
     "options": [
-      "imperative",
-      "declarative",
-      "interrogative",
-      "exclamatory"
+      "In capital letters vertically down the line",
+      "In small letters at the end of each line",
+      "Backwards across the top of the page",
+      "Only in the final stanza"
     ],
-    "answer": "imperative"
+    "answer": "In capital letters vertically down the line"
   },
   {
-    "question": "I like singing. This is a ______ sentence.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In an acrostic poem, each letter of the focus word begins a complete __________ about the topic.",
     "options": [
-      "interrogative",
-      "imperative",
-      "declarative",
-      "exclamatory"
+      "thought",
+      "rhyme",
+      "stanza",
+      "question"
     ],
-    "answer": "declarative"
+    "answer": "thought"
   },
   {
-    "question": "Give the antonym of big.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "Look at the lines: 'Thoughtful / Energy / Adventure / Caring / Happy / Exciting / Reassurance'. What is the focus word of this acrostic poem?",
     "options": [
-      "small",
-      "huge",
-      "wide",
-      "tall"
+      "TEACHER",
+      "POEMS",
+      "STUDENT",
+      "SCHOOL"
     ],
-    "answer": "small"
+    "answer": "TEACHER"
   },
   {
-    "question": "Give the antonym of open.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In the acrostic poem for the focus word 'POEMS', which line corresponds to the letter 'M'?",
     "options": [
-      "close",
-      "wide",
-      "far",
-      "shut"
+      "Mental images",
+      "Making rhymes",
+      "Musical notes",
+      "Modern ideas"
     ],
-    "answer": "close"
+    "answer": "Mental images"
   },
   {
-    "question": "Give the antonym of near.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "How many lines will an acrostic poem have if the focus word is 'POEMS'?",
     "options": [
-      "beside",
-      "far",
-      "close",
-      "around"
+      "4",
+      "5",
+      "6",
+      "7"
     ],
-    "answer": "far"
+    "answer": "5"
   },
   {
-    "question": "Give the antonym of boy.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "Which of the following is true about an acrostic poem?",
     "options": [
-      "man",
-      "lady",
-      "girl",
-      "baby"
+      "The first letters of each line spell out the focus word vertically",
+      "It must always follow an AABBA rhyme pattern",
+      "It deliberately mocks another famous poem",
+      "Lines 1, 2, and 5 must be longer than lines 3 and 4"
     ],
-    "answer": "girl"
+    "answer": "The first letters of each line spell out the focus word vertically"
   },
   {
-    "question": "Give the antonym of short.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "A __________ is a funny, short poem with 5 lines.",
     "options": [
-      "tiny",
-      "long",
-      "tall",
-      "thin"
-    ],
-    "answer": "tall"
-  },
-  {
-    "question": "In a reverse poem, the same lines express ______ different ideas.",
-    "options": [
-      "ten",
-      "two",
-      "six",
-      "four"
-    ],
-    "answer": "two"
-  },
-  {
-    "question": "You can read a reverse poem from ______ to bottom.",
-    "options": [
-      "bottom",
-      "top",
-      "side",
-      "back"
-    ],
-    "answer": "top"
-  },
-  {
-    "question": "You can also read a reverse poem from ______ to top.",
-    "options": [
-      "bottom",
-      "top",
-      "side",
-      "back"
-    ],
-    "answer": "bottom"
-  },
-  {
-    "question": "A ______ can be read from top to bottom and bottom to top.",
-    "options": [
-      "cinquain",
+      "limerick",
       "parody",
-      "triplet",
-      "reverse poem"
+      "acrostic poem",
+      "sonnet"
     ],
-    "answer": "reverse poem"
+    "answer": "limerick"
   },
   {
-    "question": "A ______ tells a story.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "What is the rhyme pattern of a limerick?",
     "options": [
-      "triplet",
-      "couplet",
-      "cinquain",
-      "narrative poem"
+      "ABAB",
+      "AABB",
+      "AABBA",
+      "ABCBA"
     ],
-    "answer": "narrative poem"
+    "answer": "AABBA"
   },
   {
-    "question": "A narrative poem has a ______.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In a limerick, which lines are longer and rhyme together?",
     "options": [
-      "front",
-      "back",
-      "side",
-      "beginning"
+      "Lines 1, 2, and 5",
+      "Lines 3 and 4",
+      "Lines 1 and 3",
+      "Lines 2 and 4"
     ],
-    "answer": "beginning"
+    "answer": "Lines 1, 2, and 5"
   },
   {
-    "question": "In the narrative poem you have been taught there are ______ characters.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In a limerick, lines 3 and 4 are __________ and rhyme together.",
     "options": [
-      "three",
-      "four",
-      "six",
-      "two"
+      "shorter",
+      "longer",
+      "unrhymed",
+      "written in capitals"
     ],
-    "answer": "two"
+    "answer": "shorter"
   },
   {
-    "question": "In the narrative poem you have been taught there is an ______.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "Read the lines: 'There was a small cat in a hat (A) / It sat on a very big mat (A) / It chased a rat (B) / That was so fat (B) / That funny small cat in a hat (A)'. This is an example of a __________.",
     "options": [
-      "end",
-      "side",
-      "up",
-      "down"
+      "limerick",
+      "acrostic poem",
+      "parody",
+      "descriptive essay"
     ],
-    "answer": "end"
+    "answer": "limerick"
   },
   {
-    "question": "What happened at the end of the poem? The boy's ______ was found.",
+    "instruction": "POETRY\nAnswer all questions.",
+    "question": "In the limerick about the young boy from Enugu, which word rhymes with 'speed' in line 3?",
     "options": [
-      "ball",
-      "kite",
-      "box",
-      "shoe"
+      "agreed",
+      "Enugu",
+      "fufu",
+      "boy"
     ],
-    "answer": "kite"
-  },
-  {
-    "question": "Jake went out to fly his ______.",
-    "options": [
-      "ball",
-      "kite",
-      "box",
-      "shoe"
-    ],
-    "answer": "kite"
+    "answer": "agreed"
   }
 ]

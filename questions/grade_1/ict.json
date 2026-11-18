@@ -1,22 +1,102 @@
 [
   {
-    "question": "Sample Question 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
+    "question": "What is a computer monitor?",
+    "options": ["A screen", "A keyboard", "A mouse", "A printer"],
+    "answer": "A screen"
   },
   {
-    "question": "Sample Question 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
+    "question": "What does a computer monitor show us?",
+    "options": ["Food", "Pictures and words", "Clothes", "Shoes"],
+    "answer": "Pictures and words"
+  },
+  {
+    "question": "Which part of the computer looks like a television?",
+    "options": ["Mouse", "Monitor", "Keyboard", "Speaker"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "A computer monitor is also called a ______.",
+    "options": ["Screen", "Table", "Book", "Bag"],
+    "answer": "Screen"
+  },
+  {
+    "question": "Which of these is used to point and click on a computer?",
+    "options": ["Monitor", "Mouse", "Printer", "Speaker"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "How many buttons does a common computer mouse have?",
+    "options": ["One", "Two", "Five", "Ten"],
+    "answer": "Two"
+  },
+  {
+    "question": "What do we use a computer mouse for?",
+    "options": ["Pointing and clicking", "Washing clothes", "Cooking food", "Reading books"],
+    "answer": "Pointing and clicking"
+  },
+  {
+    "question": "What is the small wheel in the middle of a mouse called?",
+    "options": ["Screen", "Scroll wheel", "Keyboard", "Cable"],
+    "answer": "Scroll wheel"
+  },
+  {
+    "question": "Which of these is a computer?",
+    "options": ["A machine that helps us work", "A cooking pot", "A school bag", "A chair"],
+    "answer": "A machine that helps us work"
+  },
+  {
+    "question": "Which of these is a part of a computer?",
+    "options": ["Monitor", "Plate", "Spoon", "Cup"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What do we use a computer for?",
+    "options": ["Typing and learning", "Bathing", "Sleeping", "Washing plates"],
+    "answer": "Typing and learning"
+  },
+  {
+    "question": "Which part of the computer is used for typing?",
+    "options": ["Mouse", "Keyboard", "Monitor", "Speaker"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which part of the computer produces sound?",
+    "options": ["Monitor", "Mouse", "Speaker", "Keyboard"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Which part of the computer looks like a screen?",
+    "options": ["Monitor", "Mouse", "Keyboard", "Printer"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "A computer helps us to do our work ______.",
+    "options": ["Slowly", "Easily", "Badly", "Never"],
+    "answer": "Easily"
+  },
+  {
+    "question": "Which device is used to print our work on paper?",
+    "options": ["Mouse", "Printer", "Monitor", "Keyboard"],
+    "answer": "Printer"
+  },
+  {
+    "question": "Which of these is not a part of a computer?",
+    "options": ["Monitor", "Mouse", "Keyboard", "Broom"],
+    "answer": "Broom"
+  },
+  {
+    "question": "What is the name of the small arrow we move with a mouse?",
+    "options": ["Pointer", "Speaker", "Printer", "Screen"],
+    "answer": "Pointer"
+  },
+  {
+    "question": "What should we use to click an item on the computer?",
+    "options": ["Mouse", "Spoon", "Cup", "Ruler"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "A computer is an ______ machine.",
+    "options": ["Electronic", "Wooden", "Plastic", "Paper"],
+    "answer": "Electronic"
   }
 ]

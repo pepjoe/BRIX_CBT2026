@@ -1,402 +1,202 @@
 [
   {
-    "question": "One of the following is NOT a part of system hardware.",
+    "question": "What is word processing?",
     "options": [
-      "Internal Hardware",
-      "Output Device",
-      "Storage",
-      "Chasis"
+      "Typing and editing text on a computer",
+      "Playing games on a computer",
+      "Watching movies",
+      "Drawing pictures only"
     ],
-    "answer": "Internal Hardware"
+    "answer": "Typing and editing text on a computer"
   },
   {
-    "question": "The most essential part of the computer that we need for the computer to function effectively is ____________.",
+    "question": "Which of these is an example of a word processing program?",
     "options": [
-      "Computer Software",
-      "Computer Chasis",
-      "Computer Hardware",
-      "Computer Peripherals"
+      "Microsoft Word",
+      "Calculator",
+      "Paint",
+      "Camera"
     ],
-    "answer": "Computer Hardware"
+    "answer": "Microsoft Word"
   },
   {
-    "question": "A part of the computer that we can see without opening the computer is ___________.",
+    "question": "Which feature of a word processor makes letters look darker?",
     "options": [
-      "Motherboard",
-      "Memory",
-      "RAM",
-      "Mouse"
+      "Italic",
+      "Bold",
+      "Underline",
+      "Save"
     ],
-    "answer": "Mouse"
+    "answer": "Bold"
   },
   {
-    "question": "___________ is the collection of recent happenings around a geographical location.",
+    "question": "Which feature is used to draw a line under a word?",
     "options": [
-      "Encyclopedia",
-      "Internet",
-      "Books",
-      "Newspaper"
+      "Bold",
+      "Copy",
+      "Underline",
+      "Paste"
     ],
-    "answer": "Newspaper"
+    "answer": "Underline"
   },
   {
-    "question": "An interface or hole on a computer that we use to connect another device to the computer is called _______________.",
+    "question": "What is a file on a computer?",
     "options": [
-      "Ports",
-      "Pot",
-      "Parts",
-      "Pat"
+      "A collection of saved information",
+      "A computer mouse",
+      "A type of keyboard",
+      "A computer screen"
     ],
-    "answer": "Ports"
+    "answer": "A collection of saved information"
   },
   {
-    "question": "There are ________ types of computer hardware.",
+    "question": "What is a folder used for?",
     "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
+      "To organize and keep files",
+      "To type letters",
+      "To move the mouse",
+      "To switch on the computer"
     ],
-    "answer": "Two"
+    "answer": "To organize and keep files"
   },
   {
-    "question": "The main part of the system unit that houses the primary device that performs operations is called _________.",
+    "question": "Which of these can be saved as a computer file?",
     "options": [
-      "Chairs",
-      "Charis",
-      "Chases",
-      "Chasis"
+      "A document",
+      "A chair",
+      "A table",
+      "A shoe"
     ],
-    "answer": "Chasis"
+    "answer": "A document"
   },
   {
-    "question": "A Word of Mouth is a source of ________________.",
+    "question": "What can we use to open a folder on the computer?",
     "options": [
-      "Motherboard",
-      "Memory",
-      "Data",
-      "Gossiping"
+      "Double-clicking the folder",
+      "Shaking the mouse",
+      "Pressing the monitor",
+      "Switching off the computer"
     ],
-    "answer": "Memory"
+    "answer": "Double-clicking the folder"
   },
   {
-    "question": "Video card is an example of _______________ hardware.",
+    "question": "What is the computer desktop?",
     "options": [
-      "External",
-      "Extra maternal",
-      "Internal",
-      "Intra Maternal"
+      "The main screen that appears after starting the computer",
+      "A computer keyboard",
+      "A type of printer",
+      "A computer table"
     ],
-    "answer": "Internal"
+    "answer": "The main screen that appears after starting the computer"
   },
   {
-    "question": "We can use all of the following to send data into the computer except _______________.",
+    "question": "Which of these can be seen on the computer desktop?",
     "options": [
-      "Microphone",
-      "Mouse",
-      "Keyboard",
-      "Speaker"
+      "Icons",
+      "Shoes",
+      "Plates",
+      "Cooking pots"
     ],
-    "answer": "Speaker"
+    "answer": "Icons"
   },
   {
-    "question": "Information is data that has been ________________.",
+    "question": "What is an icon on the desktop?",
     "options": [
-      "Stored",
-      "Processed",
-      "Deleted",
-      "Copied"
+      "A small picture that represents a program, file or folder",
+      "A computer speaker",
+      "A type of computer cable",
+      "A computer battery"
     ],
-    "answer": "Processed"
+    "answer": "A small picture that represents a program, file or folder"
   },
   {
-    "question": "The meaning derived from data when it is interpreted is called _______________.",
+    "question": "Which icon is used to keep deleted files temporarily?",
     "options": [
-      "Data",
-      "Knowledge",
-      "Information",
-      "Input"
+      "Recycle Bin",
+      "This PC",
+      "Start",
+      "Taskbar"
     ],
-    "answer": "Information"
+    "answer": "Recycle Bin"
   },
   {
-    "question": "Oral information is information represented through _______________.",
+    "question": "What is a computer mouse?",
     "options": [
-      "Pictures",
-      "Text",
-      "Sound",
-      "Signals"
+      "A pointing device",
+      "A printing machine",
+      "A storage device",
+      "A sound device"
     ],
-    "answer": "Sound"
+    "answer": "A pointing device"
   },
   {
-    "question": "A typical example of oral information is when you _______________.",
+    "question": "Which part of the mouse is commonly used to select an item?",
     "options": [
-      "Read a book",
-      "Watch a video",
-      "Say something to another person",
-      "Check a phone"
+      "Left button",
+      "Mouse wire",
+      "Mouse pad",
+      "Right side"
     ],
-    "answer": "Say something to another person"
+    "answer": "Left button"
   },
   {
-    "question": "Written information is a piece of information that is either typed or _______________.",
+    "question": "What is the small wheel in the middle of a computer mouse used for?",
     "options": [
-      "Spoken",
-      "Appeared",
-      "Written",
-      "Recorded"
+      "Scrolling up and down",
+      "Typing letters",
+      "Printing documents",
+      "Playing music"
     ],
-    "answer": "Written"
+    "answer": "Scrolling up and down"
   },
   {
-    "question": "Data is always a combination of characters, numbers, or __________.",
+    "question": "What is a touchpad?",
     "options": [
-      "Images",
-      "Sounds",
-      "Symbols",
-      "Colours"
+      "A flat surface used to control the pointer",
+      "A type of printer",
+      "A computer speaker",
+      "A storage box"
     ],
-    "answer": "Symbols"
+    "answer": "A flat surface used to control the pointer"
   },
   {
-    "question": "An encyclopedia that provides knowledge on a wide variety of topics is called a ________ encyclopedia.",
+    "question": "What is a computer keyboard used for?",
     "options": [
-      "Subject",
-      "General",
-      "Special",
-      "Technical"
+      "Typing letters, numbers and symbols",
+      "Displaying pictures",
+      "Printing papers",
+      "Playing sounds"
     ],
-    "answer": "General"
+    "answer": "Typing letters, numbers and symbols"
   },
   {
-    "question": "Visual information is represented through _______________.",
+    "question": "Which key is used to create a space between words?",
     "options": [
-      "Sound",
-      "Pictures",
-      "Text Messages",
-      "Electronic Devices"
+      "Enter key",
+      "Spacebar",
+      "Shift key",
+      "Backspace key"
     ],
-    "answer": "Pictures"
+    "answer": "Spacebar"
   },
   {
-    "question": "Data are raw facts collected for the purpose of ____________ or reference.",
+    "question": "Which key is used to erase letters to the left of the cursor?",
     "options": [
-      "Storage",
-      "Analysis",
-      "Deletion",
-      "Transmission"
+      "Caps Lock",
+      "Enter",
+      "Backspace",
+      "Spacebar"
     ],
-    "answer": "Analysis"
+    "answer": "Backspace"
   },
   {
-    "question": "Quantitative data is divided into __________ and Continuous.",
+    "question": "Which key is used to move to a new line when typing?",
     "options": [
-      "Alphabetical",
-      "Discrete",
-      "Symbolic",
-      "Qualitative"
+      "Enter key",
+      "Shift key",
+      "Caps Lock key",
+      "Tab key"
     ],
-    "answer": "Discrete"
-  },
-  {
-    "question": "Alphabetic data is made up of the letters of the _______ alphabet including spaces.",
-    "options": [
-      "Greek",
-      "Latin",
-      "English",
-      "French"
-    ],
-    "answer": "English"
-  },
-  {
-    "question": "Numeric data is represented using the numbers 0–9 and a ____________.",
-    "options": [
-      "Comma",
-      "Decimal Point",
-      "Slash",
-      "Dash"
-    ],
-    "answer": "Decimal Point"
-  },
-  {
-    "question": "Examples of number systems used for numeric data include decimal, binary, octal, and ____________.",
-    "options": [
-      "Roman",
-      "Hexadecimal",
-      "Prime",
-      "Fractional"
-    ],
-    "answer": "Hexadecimal"
-  },
-  {
-    "question": "Television is a medium of communication with the television using _______ and sounds.",
-    "options": [
-      "Pictures",
-      "Coloured Images",
-      "Data",
-      "Text"
-    ],
-    "answer": "Pictures"
-  },
-  {
-    "question": "An example of a television station mentioned in the notes is ________.",
-    "options": [
-      "BBC",
-      "CNN",
-      "AIT",
-      "Al Jazeera"
-    ],
-    "answer": "AIT"
-  },
-  {
-    "question": "A newspaper is a collection of recent happenings around a ________ location.",
-    "options": [
-      "Political",
-      "Geographical",
-      "Economic",
-      "Cultural"
-    ],
-    "answer": "Geographical"
-  },
-  {
-    "question": "Newspapers are usually published daily or at least ________ a week.",
-    "options": [
-      "Once",
-      "Twice",
-      "Three Times",
-      "Four Times"
-    ],
-    "answer": "Twice"
-  },
-  {
-    "question": "Books are usually written to pass information about a topic and give ________ knowledge about the subject matter.",
-    "options": [
-      "Basic",
-      "Accurate",
-      "General",
-      "Limited"
-    ],
-    "answer": "Accurate"
-  },
-  {
-    "question": "The internet has become a go-to source of information because of the advent of ________.",
-    "options": [
-      "Computers",
-      "Social Media",
-      "Phones",
-      "Radio"
-    ],
-    "answer": "Social Media"
-  },
-  {
-    "question": "Other sources of information include word of mouth and ________.",
-    "options": [
-      "Television",
-      "Books",
-      "Radio",
-      "Newspapers"
-    ],
-    "answer": "Radio"
-  },
-  {
-    "question": "The hardware parts of the computer that we use to store our data on the computer is called ______________.",
-    "options": [
-      "Storage",
-      "Device",
-      "Format",
-      "Difference"
-    ],
-    "answer": "Storage"
-  },
-  {
-    "question": "Information is cost ___________________.",
-    "options": [
-      "Inflicting",
-      "Effective",
-      "Strenuous",
-      "Comparative"
-    ],
-    "answer": "Effective"
-  },
-  {
-    "question": "We can use information to make ________________.",
-    "options": [
-      "Tarred Road",
-      "Storage",
-      "Memory",
-      "Decisions"
-    ],
-    "answer": "Decisions"
-  },
-  {
-    "question": "A bank of information which contains citations of articles in magazines, journals and newspapers is often referred to as __________________.",
-    "options": [
-      "Encyclopedia",
-      "Internet",
-      "Database",
-      "Newspaper"
-    ],
-    "answer": "Database"
-  },
-  {
-    "question": "A piece of information that is gotten from electronic devices like GSM is called ______________ information.",
-    "options": [
-      "Written",
-      "Electronic",
-      "Audio",
-      "Chemical"
-    ],
-    "answer": "Electronic"
-  },
-  {
-    "question": "Today, information is now in our ____________________.",
-    "options": [
-      "Fingertips",
-      "Dream",
-      "Tongue",
-      "Chasis"
-    ],
-    "answer": "Fingertips"
-  },
-  {
-    "question": "One of the following is NOT an output device.",
-    "options": [
-      "Monitor",
-      "Mouse",
-      "Printer",
-      "Speaker"
-    ],
-    "answer": "Mouse"
-  },
-  {
-    "question": "All of the following are internal hardware of the computer except ____________.",
-    "options": [
-      "Motherboard",
-      "Video Card",
-      "Hard Disk",
-      "Mouse"
-    ],
-    "answer": "Mouse"
-  },
-  {
-    "question": "All of the following are included in the system unit except ________________.",
-    "options": [
-      "Chasis",
-      "Internet",
-      "Microprocessor",
-      "Ports"
-    ],
-    "answer": "Internet"
-  },
-  {
-    "question": "We use ports to connect _____________ to a computer.",
-    "options": [
-      "Ports",
-      "Devices",
-      "Computer",
-      "Particles"
-    ],
-    "answer": "Devices"
+    "answer": "Enter key"
   }
 ]

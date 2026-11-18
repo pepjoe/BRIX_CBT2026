@@ -1,196 +1,202 @@
 [
   {
-    "question": "Someone who adapts well can do all of the following except ___________.",
-    "options": [
-      "Demonstrate Responsibility",
-      "Regulate their emotions",
-      "Persist and Persevere",
-      "Get Infuriated"
-    ],
-    "answer": "Get Infuriated"
+    "question": "What is computer hardware?",
+    "options": ["The physical parts of a computer", "The programs inside a computer", "The internet", "Computer games"],
+    "answer": "The physical parts of a computer"
   },
   {
-    "question": "One of the following is an example of Digital Skill.",
-    "options": [
-      "Vlogging",
-      "Trying",
-      "Truancy",
-      "Weeding"
-    ],
-    "answer": "Vlogging"
+    "question": "Which of these is an example of computer hardware?",
+    "options": ["Microsoft Word", "Windows", "Keyboard", "Paint"],
+    "answer": "Keyboard"
   },
   {
-    "question": "Digital skills will save time and _______________.",
-    "options": [
-      "Food",
-      "Cost",
-      "God",
-      "Injury"
-    ],
-    "answer": "Cost"
+    "question": "What is computer software?",
+    "options": ["The physical parts of a computer", "Programs that tell a computer what to do", "The computer table", "The power cable"],
+    "answer": "Programs that tell a computer what to do"
   },
   {
-    "question": "Social Media is an example of digital skill.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True"
+    "question": "Which of these is an example of software?",
+    "options": ["Monitor", "Mouse", "Microsoft Word", "Printer"],
+    "answer": "Microsoft Word"
   },
   {
-    "question": "In order to use digital tools effectively, you need to have _______________.",
-    "options": [
-      "Tools",
-      "Effrontery",
-      "Audacity",
-      "Digital Skills"
-    ],
-    "answer": "Digital Skills"
+    "question": "What is the main difference between hardware and software?",
+    "options": ["Hardware can be touched, but software cannot", "Software is always bigger than hardware", "Hardware is used only for games", "There is no difference"],
+    "answer": "Hardware can be touched, but software cannot"
   },
   {
-    "question": "A person who created an original work has the right to ______________ it.",
-    "options": [
-      "Copy write",
-      "Plagiarism",
-      "Copy cat",
-      "Copyright"
-    ],
-    "answer": "Copyright"
+    "question": "What is the main function of an input device?",
+    "options": ["To display information", "To enter data into a computer", "To print documents", "To produce sound"],
+    "answer": "To enter data into a computer"
   },
   {
-    "question": "Posting a mean picture of another person is an act of ________________.",
-    "options": [
-      "Cyber bullying",
-      "Cyber café",
-      "Cyber Truck",
-      "Cyber Montage"
-    ],
-    "answer": "Cyber bullying"
+    "question": "Which of these is an input device?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "answer": "Keyboard"
   },
   {
-    "question": "It is important never to ______________ to a cyber bully.",
-    "options": [
-      "Pray",
-      "Sing",
-      "Cry",
-      "Respond"
-    ],
-    "answer": "Respond"
+    "question": "Which input device is used to point, click and select items?",
+    "options": ["Mouse", "Speaker", "Monitor", "Printer"],
+    "answer": "Mouse"
   },
   {
-    "question": "After reporting to a trusted adult, cyber bullies should be ________________.",
-    "options": [
-      "Insulted",
-      "Blocked",
-      "Face timed",
-      "Treated"
-    ],
-    "answer": "Blocked"
+    "question": "Which device is used to record sound into a computer?",
+    "options": ["Monitor", "Microphone", "Printer", "Projector"],
+    "answer": "Microphone"
   },
   {
-    "question": "Anyone can be bullied on social media.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True"
+    "question": "Which input device is used to copy pictures and documents into a computer?",
+    "options": ["Speaker", "Scanner", "Monitor", "Printer"],
+    "answer": "Scanner"
   },
   {
-    "question": "When you consume contents, it is very important that you also _________ contents.",
-    "options": [
-      "Create",
-      "Devour",
-      "Eat",
-      "Micturate"
-    ],
-    "answer": "Create"
+    "question": "What is the function of an output device?",
+    "options": ["To enter data into a computer", "To show or produce information from a computer", "To store files only", "To control the keyboard"],
+    "answer": "To show or produce information from a computer"
   },
   {
-    "question": "'Cyberbullying' is gotten from _____________ words.",
-    "options": [
-      "One",
-      "Three",
-      "Two",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "Which of these is an output device?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "answer": "Monitor"
   },
   {
-    "question": "A person who is able to interpret the meaning of every content is ____________ literate.",
-    "options": [
-      "School",
-      "Academically",
-      "Content",
-      "Media"
-    ],
-    "answer": "Media"
+    "question": "Which output device produces sound?",
+    "options": ["Speaker", "Keyboard", "Mouse", "Scanner"],
+    "answer": "Speaker"
   },
   {
-    "question": "The goal of content creation is to add to the _____________ of other media literates.",
-    "options": [
-      "Betterment",
-      "Long life",
-      "Betterment",
-      "Destruction"
-    ],
-    "answer": "Betterment"
+    "question": "Which device produces a hard copy of a document?",
+    "options": ["Microphone", "Printer", "Mouse", "Keyboard"],
+    "answer": "Printer"
   },
   {
-    "question": "When you are able to retrieve and process information, you are ___________ literate.",
-    "options": [
-      "Digitally",
-      "Stone Age",
-      "Somehow",
-      "Socially"
-    ],
-    "answer": "Digitally"
+    "question": "Which output device displays information on a large screen for many people to see?",
+    "options": ["Scanner", "Projector", "Mouse", "Microphone"],
+    "answer": "Projector"
   },
   {
-    "question": "Plagiarism is a punishable offence.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True"
+    "question": "What are storage devices used for?",
+    "options": ["Entering data", "Storing data and information", "Producing sound", "Displaying pictures"],
+    "answer": "Storing data and information"
   },
   {
-    "question": "HTML tags contain ______________ parts.",
-    "options": [
-      "Five",
-      "Four",
-      "Three",
-      "Two"
-    ],
-    "answer": "Two"
+    "question": "Which of these is a storage device?",
+    "options": ["Keyboard", "Flash drive", "Monitor", "Speaker"],
+    "answer": "Flash drive"
   },
   {
-    "question": "In your HTML document, how many tags can you use?",
-    "options": [
-      "10",
-      "4",
-      "Less than five",
-      "As many as you want"
-    ],
-    "answer": "As many as you want"
+    "question": "Which storage device is commonly used to save files and carry them from one computer to another?",
+    "options": ["Flash drive", "Mouse", "Monitor", "Microphone"],
+    "answer": "Flash drive"
   },
   {
-    "question": "Which of these encloses a HTML tag?",
-    "options": [
-      "( )",
-      "{ }",
-      "[ ]",
-      "< >"
-    ],
-    "answer": "< >"
+    "question": "Which storage device is commonly found inside a computer?",
+    "options": ["Hard disk drive", "Printer", "Speaker", "Keyboard"],
+    "answer": "Hard disk drive"
   },
   {
-    "question": "HTML _______________ creates a list of items in HTML.",
-    "options": [
-      "Line breaks",
-      "Bold",
-      "Lists",
-      "Italics"
-    ],
-    "answer": "Lists"
+    "question": "Which of these is an example of an optical storage device?",
+    "options": ["CD", "Mouse", "Monitor", "Microphone"],
+    "answer": "CD"
+  },
+  {
+    "question": "What is the system unit?",
+    "options": ["The main computer case that contains important components", "The computer screen", "The computer mouse", "The printer"],
+    "answer": "The main computer case that contains important components"
+  },
+  {
+    "question": "Which of these is usually found inside the system unit?",
+    "options": ["Motherboard", "Projector screen", "Mouse pad", "Printer paper"],
+    "answer": "Motherboard"
+  },
+  {
+    "question": "Which component supplies power to the parts inside the system unit?",
+    "options": ["Power supply unit", "Keyboard", "Monitor", "Speaker"],
+    "answer": "Power supply unit"
+  },
+  {
+    "question": "What is the motherboard?",
+    "options": ["The main circuit board inside the computer", "The computer screen", "A type of printer", "A storage bag"],
+    "answer": "The main circuit board inside the computer"
+  },
+  {
+    "question": "Why does a computer system unit have a fan?",
+    "options": ["To produce music", "To help keep the components cool", "To print documents", "To type letters"],
+    "answer": "To help keep the components cool"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Power Unit", "Central Printing Unit", "Control Program Utility"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "What is the main function of the CPU?",
+    "options": ["To process data and instructions", "To display pictures", "To print documents", "To produce sound"],
+    "answer": "To process data and instructions"
+  },
+  {
+    "question": "Why is the CPU called the brain of the computer?",
+    "options": ["It controls and processes computer operations", "It looks like a human brain", "It stores all books", "It produces electricity"],
+    "answer": "It controls and processes computer operations"
+  },
+  {
+    "question": "Which part of the CPU performs arithmetic and logical operations?",
+    "options": ["ALU", "Monitor", "Keyboard", "Printer"],
+    "answer": "ALU"
+  },
+  {
+    "question": "What does ALU stand for?",
+    "options": ["Arithmetic Logic Unit", "Automatic Learning Unit", "Advanced Language Utility", "Audio Listening Unit"],
+    "answer": "Arithmetic Logic Unit"
+  },
+  {
+    "question": "What is computer memory used for?",
+    "options": ["Holding data and instructions", "Printing pictures", "Producing sound", "Moving the pointer"],
+    "answer": "Holding data and instructions"
+  },
+  {
+    "question": "Which type of memory temporarily stores data while the computer is working?",
+    "options": ["RAM", "ROM", "CD", "DVD"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Read Access Machine", "Run All Memory", "Rapid Action Monitor"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which type of memory keeps its contents even when the computer is switched off?",
+    "options": ["RAM", "ROM", "Cache only", "Temporary memory"],
+    "answer": "ROM"
+  },
+  {
+    "question": "What does ROM stand for?",
+    "options": ["Read Only Memory", "Random Output Machine", "Run Only Monitor", "Read Open Memory"],
+    "answer": "Read Only Memory"
+  },
+  {
+    "question": "What is an operating system?",
+    "options": ["Software that manages computer hardware and programs", "A type of keyboard", "A storage device", "A computer table"],
+    "answer": "Software that manages computer hardware and programs"
+  },
+  {
+    "question": "Which of these is an example of an operating system?",
+    "options": ["Microsoft Word", "Windows", "Paint", "Calculator"],
+    "answer": "Windows"
+  },
+  {
+    "question": "Which of these is another example of an operating system?",
+    "options": ["Linux", "Microsoft Excel", "PowerPoint", "Notepad"],
+    "answer": "Linux"
+  },
+  {
+    "question": "What happens when a computer starts and loads its operating system?",
+    "options": ["The computer becomes ready for use", "The keyboard disappears", "The monitor stops working", "All files are deleted"],
+    "answer": "The computer becomes ready for use"
+  },
+  {
+    "question": "Which of these is an important function of an operating system?",
+    "options": ["Managing files and folders", "Washing the computer", "Printing without a printer", "Charging a mobile phone"],
+    "answer": "Managing files and folders"
   }
 ]

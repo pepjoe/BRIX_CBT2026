@@ -1,272 +1,202 @@
 [
   {
-    "question": "What is an exhibition?",
-    "options": [
-      "The act of hiding artworks from the public",
-      "The act of displaying artworks or skills publicly for people to see or buy",
-      "The act of teaching pupils how to draw"
-    ],
-    "answer": "The act of displaying artworks or skills publicly for people to see or buy"
+    "question": "Art is defined as the creation of beautiful things with our...",
+    "options": {
+      "a": "legs",
+      "b": "hands",
+      "c": "mouth",
+      "d": "ears"
+    },
+    "answer": "b"
   },
   {
-    "question": "How does exhibition help pupils?",
-    "options": [
-      "It reduces their interest in art",
-      "It helps to promote the courage and interest of pupils towards art",
-      "It stops pupils from comparing artworks"
-    ],
-    "answer": "It helps to promote the courage and interest of pupils towards art"
+    "question": "How many main types of art are there?",
+    "options": {
+      "a": "One",
+      "b": "Two",
+      "c": "Three",
+      "d": "Four"
+    },
+    "answer": "b"
   },
   {
-    "question": "What do pupils improve when they compare and contrast other pupils’ artworks?",
-    "options": [
-      "Their cooking skills",
-      "Their art skills",
-      "Their singing skills"
-    ],
-    "answer": "Their art skills"
+    "question": "Which of the following is an example of visual art?",
+    "options": {
+      "a": "Music",
+      "b": "Dance",
+      "c": "Drawing",
+      "d": "Drama"
+    },
+    "answer": "c"
   },
   {
-    "question": "What does exhibition show to the whole school or public?",
-    "options": [
-      "The laziness and weakness of pupils",
-      "The hard work and creativity of the pupils",
-      "The mistakes of teachers only"
-    ],
-    "answer": "The hard work and creativity of the pupils"
+    "question": "Performing art is art we do with our...",
+    "options": {
+      "a": "eyes only",
+      "b": "body",
+      "c": "hands only",
+      "d": "nose"
+    },
+    "answer": "b"
   },
   {
-    "question": "What are pupils advised to display for the whole school to see, admire and appreciate?",
-    "options": [
-      "Only one artwork of the term",
-      "All their artworks of the term",
-      "Other schools’ artworks"
-    ],
-    "answer": "All their artworks of the term"
+    "question": "Which of the following is an example of performing art?",
+    "options": {
+      "a": "Painting",
+      "b": "Modelling with clay",
+      "c": "Paper craft",
+      "d": "Music"
+    },
+    "answer": "d"
   },
   {
-    "question": "What is moulding?",
-    "options": [
-      "The art of painting pictures with water",
-      "The art of making objects with a solid material such as clay or wax",
-      "The art of cutting paper into shapes"
-    ],
-    "answer": "The art of making objects with a solid material such as clay or wax"
+    "question": "A shape is the form or look of an...",
+    "options": {
+      "a": "object",
+      "b": "animal only",
+      "c": "idea",
+      "d": "emotion"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is clay?",
-    "options": [
-      "A light soil that is hard when wet",
-      "A sticky heavy soil, that is soft and pliable when wet and hard when heated or dried",
-      "A liquid used for cooking"
-    ],
-    "answer": "A sticky heavy soil, that is soft and pliable when wet and hard when heated or dried"
+    "question": "Which of the following is NOT listed as a type of shape in the notes?",
+    "options": {
+      "a": "Circle",
+      "b": "Square",
+      "c": "Trapezium",
+      "d": "Star"
+    },
+    "answer": "c"
   },
   {
-    "question": "Which of these is NOT a material for moulding?",
-    "options": [
-      "Clay",
-      "Crayon",
-      "Plasticine"
-    ],
-    "answer": "Crayon"
+    "question": "A design is the arrangement of shapes, lines, and...",
+    "options": {
+      "a": "water",
+      "b": "colours",
+      "c": "stone",
+      "d": "books"
+    },
+    "answer": "b"
   },
   {
-    "question": "Clay can be moulded into which of the following?",
-    "options": [
-      "Bag, shoes, fabric",
-      "Spoon, cups, pot",
-      "Cars, planes, phones"
-    ],
-    "answer": "Spoon, cups, pot"
+    "question": "What is paper craft?",
+    "options": {
+      "a": "The art of making useful and beautiful objects with paper using hands and simple tools",
+      "b": "The art of singing songs",
+      "c": "The art of running fast",
+      "d": "The art of cooking food"
+    },
+    "answer": "a"
   },
   {
-    "question": "How many methods are there for clay preparation?",
-    "options": [
-      "One method",
-      "Two methods: Dry Method and Wet Method",
-      "Four methods"
-    ],
-    "answer": "Two methods: Dry Method and Wet Method"
+    "question": "Which of the following is an example of paper craft?",
+    "options": {
+      "a": "Paper fan",
+      "b": "Iron chair",
+      "c": "Plastic spoon",
+      "d": "Wooden table"
+    },
+    "answer": "a"
   },
   {
-    "question": "What is the first step in moulding with clay?",
-    "options": [
-      "To heat the clay",
-      "To collect clay from source into a container",
-      "To paint the clay"
-    ],
-    "answer": "To collect clay from source into a container"
+    "question": "Which of these is a material needed in paper crafts?",
+    "options": {
+      "a": "Sand",
+      "b": "Scissors",
+      "c": "Cement",
+      "d": "Broken glass"
+    },
+    "answer": "b"
   },
   {
-    "question": "What happens to clay when it is heated or dried?",
-    "options": [
-      "It becomes soft and pliable",
-      "It melts into water",
-      "It becomes strong"
-    ],
-    "answer": "It becomes strong"
+    "question": "Drawing is making pictures with a...",
+    "options": {
+      "a": "brush only",
+      "b": "pencil",
+      "c": "pen only",
+      "d": "chalk"
+    },
+    "answer": "b"
   },
   {
-    "question": "What is the stage called where unwanted materials are removed from clay?",
-    "options": [
-      "Kneading the Clay",
-      "Collection of Clay",
-      "Removal of the impurities"
-    ],
-    "answer": "Removal of the impurities"
+    "question": "Colouring is adding colour to our drawing to make it...",
+    "options": {
+      "a": "dirty",
+      "b": "beautiful",
+      "c": "heavy",
+      "d": "invisible"
+    },
+    "answer": "b"
   },
   {
-    "question": "Which of these is an example of impurity found in clay?",
-    "options": [
-      "Water",
-      "Pebbles, roots, broken glass",
-      "Plasticine"
-    ],
-    "answer": "Pebbles, roots, broken glass"
+    "question": "When colouring, we should colour in...",
+    "options": {
+      "a": "all directions randomly",
+      "b": "one direction",
+      "c": "circles only",
+      "d": "zig-zags everywhere"
+    },
+    "answer": "b"
   },
   {
-    "question": "For the dry method, how are remaining impurities removed after grinding?",
-    "options": [
-      "By adding water",
-      "By sieving the powdered clay",
-      "By heating the clay"
-    ],
-    "answer": "By sieving the powdered clay"
+    "question": "What should you avoid doing when colouring?",
+    "options": {
+      "a": "Making it neat",
+      "b": "Choosing correct colours",
+      "c": "Going outside the lines",
+      "d": "Colouring in one direction"
+    },
+    "answer": "c"
   },
   {
-    "question": "What is done during 'Kneading the Clay'?",
-    "options": [
-      "Unwanted materials are picked out",
-      "Water is added and clay is mixed until consistent texture is obtained",
-      "Clay is collected from the source"
-    ],
-    "answer": "Water is added and clay is mixed until consistent texture is obtained"
+    "question": "Art helps us to show our...",
+    "options": {
+      "a": "shoes and socks",
+      "b": "feelings and ideas",
+      "c": "homework",
+      "d": "school uniform"
+    },
+    "answer": "b"
   },
   {
-    "question": "What is the purpose of wedging clay?",
-    "options": [
-      "To add water to the clay",
-      "To remove air from the clay through pounding, thumbing and rolling",
-      "To collect clay from the source"
-    ],
-    "answer": "To remove air from the clay through pounding, thumbing and rolling"
+    "question": "Which of these is a use of art?",
+    "options": {
+      "a": "Making our home and classroom beautiful",
+      "b": "Breaking windows",
+      "c": "Making noise",
+      "d": "Fighting friends"
+    },
+    "answer": "a"
   },
   {
-    "question": "Which of these actions is used in wedging clay?",
-    "options": [
-      "Cooking the clay",
-      "Pounding, thumbing and rolling the clay in bits",
-      "Heating the clay until it melts"
-    ],
-    "answer": "Pounding, thumbing and rolling the clay in bits"
+    "question": "The first step in making a paper fan is to cut the paper into what shape?",
+    "options": {
+      "a": "Circular",
+      "b": "Triangular",
+      "c": "Rectangular shape",
+      "d": "Star shape"
+    },
+    "answer": "c"
   },
   {
-    "question": "Where can clay be found?",
-    "options": [
-      "Only in deserts",
-      "Banks of rivers, valleys, base of rivers, and hill sides",
-      "Only in the classroom"
-    ],
-    "answer": "Banks of rivers, valleys, base of rivers, and hill sides"
+    "question": "What is colour defined as in the notes?",
+    "options": {
+      "a": "What we hear with our ears",
+      "b": "What we see with our eyes when light shines on an object",
+      "c": "What we taste with our tongue",
+      "d": "What we touch with our skin"
+    },
+    "answer": "b"
   },
   {
-    "question": "What is Ade doing in the second picture?",
-    "options": [
-      "Collecting clay from the source",
-      "Removing impurities from clay",
-      "Moulding a flower vase with clay"
-    ],
-    "answer": "Moulding a flower vase with clay"
-  },
-  {
-    "question": "Why must air be removed from clay during wedging?",
-    "options": [
-      "To make the clay colorful",
-      "To make the clay lighter",
-      "To prevent cracks or explosion when the clay is heated/fired"
-    ],
-    "answer": "To prevent cracks or explosion when the clay is heated/fired"
-  },
-  {
-    "question": "Which of these is NOT moulded with clay?",
-    "options": [
-      "Clay cup",
-      "Clay pot",
-      "Plastic spoon"
-    ],
-    "answer": "Plastic spoon"
-  },
-  {
-    "question": "Clay bricks are used for:",
-    "options": [
-      "Cooking food",
-      "Building houses/walls",
-      "Drinking water"
-    ],
-    "answer": "Building houses/walls"
-  },
-  {
-    "question": "One quality of good and pure clay is that it should be:",
-    "options": [
-      "Hard and dry",
-      "Sticky",
-      "Smooth like glass"
-    ],
-    "answer": "Sticky"
-  },
-  {
-    "question": "Good clay should be able to:",
-    "options": [
-      "Take 1 month to dry",
-      "Dry fast",
-      "Never dry at all"
-    ],
-    "answer": "Dry fast"
-  },
-  {
-    "question": "Which statement about good clay is FALSE?",
-    "options": [
-      "It should be easily mixed with water for kneading",
-      "It is good for cooking",
-      "It comes in different colours"
-    ],
-    "answer": "It is good for cooking"
-  },
-  {
-    "question": "After heating, good clay should be:",
-    "options": [
-      "Heavier",
-      "Lighter",
-      "The same weight"
-    ],
-    "answer": "Lighter"
-  },
-  {
-    "question": "Which tool is used for grinding/pounding clay to remove impurities?",
-    "options": [
-      "Stove",
-      "Mortar and pestle",
-      "Bowl"
-    ],
-    "answer": "Mortar and pestle"
-  },
-  {
-    "question": "The wooden board is used for?",
-    "options": [
-      "Carrying clay",
-      "Kneading clay on a flat surface",
-      "Serving food"
-    ],
-    "answer": "Kneading clay on a flat surface"
-  },
-  {
-    "question": "The act of creating things using pencils, charcoal is __",
-    "options": [
-      "Pending",
-      "Drawing",
-      "Dying"
-    ],
-    "answer": "Drawing"
+    "question": "Which of these is an importance of shapes?",
+    "options": {
+      "a": "Shapes help us to know and name things around us",
+      "b": "Shapes make learning difficult",
+      "c": "Shapes make us sleep",
+      "d": "Shapes help us to run faster"
+    },
+    "answer": "a"
   }
 ]

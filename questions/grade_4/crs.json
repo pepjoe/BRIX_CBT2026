@@ -1,402 +1,152 @@
 [
   {
-    "question": "The word Pentecost means the coming of ______ on the apostles.",
-    "options": [
-      "sand",
-      "air",
-      "the Holy Spirit",
-      "rain"
-    ],
-    "answer": "the Holy Spirit"
-  },
-  {
-    "question": "On the Day of Pentecost, the disciples were filled with the ______ Spirit.",
-    "options": [
-      "Evil",
-      "Holy",
-      "Human",
-      "Angel"
-    ],
-    "answer": "Holy"
-  },
-  {
-    "question": "The Holy Spirit came upon the disciples as they were gathered in one ______.",
-    "options": [
-      "market",
-      "room",
-      "garden",
-      "boat"
-    ],
-    "answer": "room"
-  },
-  {
-    "question": "The Holy Spirit helps believers to live a ______ life.",
-    "options": [
-      "sinful",
-      "careless",
-      "righteous",
-      "lazy"
-    ],
-    "answer": "righteous"
-  },
-  {
-    "question": "Stephen was one of the first Christian ______.",
-    "options": [
-      "disciples",
-      "kings",
-      "prophets",
-      "farmers"
-    ],
-    "answer": "disciples"
-  },
-  {
-    "question": "Stephen was known for his strong ______ in God.",
-    "options": [
-      "faith",
-      "wealth",
-      "strength",
-      "position"
-    ],
-    "answer": "faith"
-  },
-  {
-    "question": "The Holy Spirit helps us to use our ______ properly.",
-    "options": [
-      "money",
-      "talents",
-      "toys",
-      "books"
-    ],
-    "answer": "talents"
-  },
-  {
-    "question": "In the Parable of the Talents, the master gave his servants different ______.",
-    "options": [
-      "talents",
-      "houses",
-      "animals",
-      "crowns"
-    ],
-    "answer": "talents"
-  },
-  {
-    "question": "The servant who used his talents wisely received a ______.",
-    "options": [
-      "punishment",
-      "reward",
-      "warning",
-      "gift"
-    ],
-    "answer": "reward"
-  },
-  {
-    "question": "A reward is something given in return for good ______.",
-    "options": [
-      "behaviour",
-      "food",
-      "travel",
-      "games"
-    ],
-    "answer": "behaviour"
-  },
-  {
-    "question": "Ananias and Sapphira lied about the amount of money they ______.",
-    "options": [
-      "borrowed", 
-      "spent", 
-      "gave", 
-      "stole"
-    ],
-    "answer": "gave"
-  },
-  {
-    "question": "The story of Ananias and Sapphira teaches us to be ______.",
-    "options": [
-      "dishonest", 
-      "truthful", 
-      "proud", 
-      "careless"
-    ],
-    "answer": "truthful"
-  },
-  {
-    "question": "The Holy Spirit gives believers ______ to stand for the truth.",
-    "options": [
-      "fear", 
-      "courage", 
-      "anger", 
-      "sadness"
-    ],
-    "answer": "courage"
-  },
-  {
-    "question": "The disciples spoke in different ______ after receiving the Holy Spirit.",
-    "options": [
-      "languages", 
-      "songs", 
-      "stories", 
-      "prayers"
-    ],
-    "answer": "languages"
-  },
-  {
-    "question": "The Holy Spirit helps Christians to live in ______.",
-    "options": [
-      "confusion", 
-      "unity", 
-      "competition", 
-      "argument"
-    ],
-    "answer": "unity"
-  },
-  {
-    "question": "Stephen was arrested because he preached about ______.",
-    "options": [
-      "Jesus", 
-      "Moses", 
-      "David", 
-      "Solomon"
-    ],
-    "answer": "Jesus"
-  },
-  {
-    "question": "The servant who hid his talent was called ______.",
-    "options": [
-      "faithful", 
-      "wise", 
-      "wicked", 
-      "honest"
-    ],
-    "answer": "wicked"
-  },
-  {
-    "question": "Working in the Holy Spirit brings God's ______.",
-    "options": [
-      "judgment", 
-      "reward", 
-      "trouble", 
-      "confusion"
-    ],
-    "answer": "reward"
-  },
-  {
-    "question": "The Holy Spirit guides us in making good ______.",
-    "options": [
-      "mistakes", 
-      "decisions", 
-      "arguments", 
-      "excuses"
-    ],
-    "answer": "decisions"
-  },
-  {
-    "question": "Pentecost is an important event in the history of the ______.",
-    "options": [
-      "government", 
-      "church", 
-      "school", 
-      "family"
-    ],
-    "answer": "church"
-  },
-  {
-    "question": "The Holy Spirit is the ______ person of the Trinity.",
-    "options": [
-      "first", 
-      "second", 
-      "third", 
-      "fourth"
-    ],
-    "answer": "third"
-  },
-  {
-    "question": "Before Pentecost, the disciples were gathered together in ______.",
-    "options": [
-      "fear", 
-      "unity", 
-      "anger", 
-      "confusion"
-    ],
-    "answer": "unity"
-  },
-  {
-    "question": "The sound heard on the Day of Pentecost was like a rushing mighty ______.",
-    "options": [
-      "rain", 
-      "wind", 
-      "thunder", 
-      "music"
-    ],
-    "answer": "wind"
-  },
-  {
-    "question": "Tongues of ______ appeared over the disciples on Pentecost.",
-    "options": [
-      "water", 
-      "fire", 
-      "oil", 
-      "smoke"
-    ],
-    "answer": "fire"
-  },
-  {
-    "question": "Peter preached boldly after receiving the ______ Spirit.",
-    "options": [
-      "Holy", 
-      "evil", 
-      "human", 
-      "earthly"
-    ],
-    "answer": "Holy"
-  },
-  {
-    "question": "The Holy Spirit helps believers to understand God's ______.",
-    "options": [
-      "Word", 
-      "money", 
-      "business", 
-      "history"
-    ],
-    "answer": "Word"
-  },
-  {
-    "question": "Stephen was chosen to help care for the needs of the ______.",
-    "options": [
-      "widows", 
-      "soldiers", 
-      "kings", 
-      "teachers"
-    ],
-    "answer": "widows"
-  },
-  {
-    "question": "Stephen was full of faith and the Holy ______.",
-    "options": [
-      "Angel", 
-      "Spirit", 
-      "Power", 
-      "Truth"
-    ],
-    "answer": "Spirit"
-  },
-  {
-    "question": "Those who remain faithful to God will receive a heavenly ______.",
-    "options": [
-      "crown", 
-      "house", 
-      "vehicle", 
-      "garden"
-    ],
-    "answer": "crown"
-  },
-  {
-    "question": "The Parable of the Talents teaches us not to waste our ______.",
-    "options": [
-      "food", 
-      "talents", 
-      "clothes", 
-      "books"
-    ],
-    "answer": "talents"
-  },
-  {
-    "question": "The servant who received five talents gained ______ more.",
-    "options": [
-      "two", 
-      "three", 
-      "five", 
-      "ten"
-    ],
-    "answer": "five"
-  },
-  {
-    "question": "God rewards those who are faithful and ______.",
-    "options": [
-      "lazy", 
-      "careless", 
-      "obedient", 
-      "selfish"
-    ],
-    "answer": "obedient"
-  },
-  {
-    "question": "A reward may be given for hard work and good ______.",
-    "options": [
-      "behaviour", 
-      "height", 
-      "colour", 
-      "size"
-    ],
-    "answer": "behaviour"
-  },
-  {
-    "question": "Ananias and Sapphira tried to deceive the ______.",
-    "options": [
-      "church", 
-      "government", 
-      "market", 
-      "school"
-    ],
-    "answer": "church"
-  },
-  {
-    "question": "Because of their dishonesty, Ananias and Sapphira faced God's ______.",
-    "options": [
-      "blessing", 
-      "judgment", 
-      "gift", 
-      "reward"
-    ],
-    "answer": "judgment"
-  },
-  {
-    "question": "The Holy Spirit helps Christians to tell the ______.",
-    "options": [
-      "story", 
-      "truth", 
-      "rumour", 
-      "secret"
-    ],
-    "answer": "truth"
-  },
-  {
-    "question": "The Holy Spirit gives us strength to overcome ______.",
-    "options": [
-      "temptation", 
-      "food", 
-      "games", 
-      "travel"
-    ],
-    "answer": "temptation"
-  },
-  {
-    "question": "Christians should use their talents to serve ______.",
-    "options": [
-      "themselves only", 
-      "God", 
-      "money", 
-      "fame"
-    ],
+    "question": "Who speaks to us through His word and creation?",
+    "options": ["God", "A king", "A teacher", "A farmer"],
     "answer": "God"
   },
   {
-    "question": "The early believers shared their possessions with one ______.",
-    "options": [
-      "enemy", 
-      "another", 
-      "teacher", 
-      "stranger"
-    ],
-    "answer": "another"
+    "question": "What should we do when God speaks to us?",
+    "options": ["Ignore Him", "Listen and obey Him", "Run away", "Disobey Him"],
+    "answer": "Listen and obey Him"
   },
   {
-    "question": "The Holy Spirit helps believers to live in love, peace and ______.",
-    "options": [
-      "kindness", 
-      "anger", 
-      "fear", 
-      "hatred"
-    ],
-    "answer": "kindness"
+    "question": "Which of these shows that God speaks to people?",
+    "options": ["Through His word", "Through quarrels", "Through stealing", "Through fighting"],
+    "answer": "Through His word"
+  },
+  {
+    "question": "What is the right attitude to show when God speaks to us?",
+    "options": ["Pride", "Disobedience", "Attention and obedience", "Anger"],
+    "answer": "Attention and obedience"
+  },
+  {
+    "question": "Why does God speak to His children?",
+    "options": ["To confuse them", "To guide and teach them", "To make them afraid", "To punish them always"],
+    "answer": "To guide and teach them"
+  },
+  {
+    "question": "What does God want us to do when He gives us instructions?",
+    "options": ["Disobey Him", "Forget His instructions", "Obey Him", "Argue with Him"],
+    "answer": "Obey Him"
+  },
+  {
+    "question": "Who are the children of God?",
+    "options": ["Only rich people", "All people created by God", "Only adults", "Only teachers"],
+    "answer": "All people created by God"
+  },
+  {
+    "question": "Why are we called children of one Father?",
+    "options": ["Because we have the same school", "Because God is the Father of all", "Because we live in one house", "Because we speak one language"],
+    "answer": "Because God is the Father of all"
+  },
+  {
+    "question": "How should we treat other people as children of one Father?",
+    "options": ["With hatred", "With jealousy", "With love and respect", "With wickedness"],
+    "answer": "With love and respect"
+  },
+  {
+    "question": "Which of these actions shows that we love one another?",
+    "options": ["Helping someone in need", "Fighting with others", "Insulting our neighbours", "Taking what belongs to others"],
+    "answer": "Helping someone in need"
+  },
+  {
+    "question": "What is forgiveness?",
+    "options": ["Keeping anger forever", "Punishing everyone", "Letting go of anger against someone who has wronged us", "Refusing to speak to others"],
+    "answer": "Letting go of anger against someone who has wronged us"
+  },
+  {
+    "question": "Why should we forgive people who offend us?",
+    "options": ["To encourage fighting", "To promote peace and love", "To make people afraid", "To create more problems"],
+    "answer": "To promote peace and love"
+  },
+  {
+    "question": "What did Jesus teach us about loving one another?",
+    "options": ["We should love only our friends", "We should love everyone", "We should hate our enemies", "We should avoid helping others"],
+    "answer": "We should love everyone"
+  },
+  {
+    "question": "Who told the story of the Good Samaritan?",
+    "options": ["Jesus", "Moses", "Abraham", "David"],
+    "answer": "Jesus"
+  },
+  {
+    "question": "What happened to the man travelling on the road in the story of the Good Samaritan?",
+    "options": ["He became a king", "He was attacked by robbers", "He won a competition", "He built a house"],
+    "answer": "He was attacked by robbers"
+  },
+  {
+    "question": "Who stopped to help the injured man in the story of the Good Samaritan?",
+    "options": ["A robber", "A priest", "A Samaritan", "A soldier"],
+    "answer": "A Samaritan"
+  },
+  {
+    "question": "What lesson do we learn from the Good Samaritan?",
+    "options": ["We should help people in need", "We should avoid strangers", "We should hate people", "We should ignore injured people"],
+    "answer": "We should help people in need"
+  },
+  {
+    "question": "How can pupils show love to others in school?",
+    "options": ["By bullying their classmates", "By sharing and helping one another", "By fighting during break", "By hiding other pupils' books"],
+    "answer": "By sharing and helping one another"
+  },
+  {
+    "question": "What does it mean to help others?",
+    "options": ["Making life difficult for them", "Supporting people when they need assistance", "Laughing at their problems", "Refusing to share with them"],
+    "answer": "Supporting people when they need assistance"
+  },
+  {
+    "question": "What does it mean when God calls someone for a purpose?",
+    "options": ["God gives the person a special task to do", "God wants the person to become proud", "God wants the person to hurt others", "God wants the person to avoid work"],
+    "answer": "God gives the person a special task to do"
+  },
+  {
+    "question": "Which of these people did God call for a special purpose?",
+    "options": ["Moses", "Goliath", "Pharaoh", "Herod"],
+    "answer": "Moses"
+  },
+  {
+    "question": "Why does God call people to serve Him?",
+    "options": ["To do wrong things", "To carry out His work", "To cause trouble", "To disobey others"],
+    "answer": "To carry out His work"
+  },
+  {
+    "question": "What should we do when God calls us to serve Him?",
+    "options": ["Refuse to listen", "Ignore His call", "Be willing and obedient", "Laugh at His instructions"],
+    "answer": "Be willing and obedient"
+  },
+  {
+    "question": "Why did God give His laws to His people?",
+    "options": ["To guide them to live good lives", "To make them fight", "To encourage stealing", "To cause confusion"],
+    "answer": "To guide them to live good lives"
+  },
+  {
+    "question": "What is another name for God's laws?",
+    "options": ["Games", "Commandments", "Stories", "Songs"],
+    "answer": "Commandments"
+  },
+  {
+    "question": "How many commandments did God give to Moses?",
+    "options": ["Five", "Seven", "Ten", "Twelve"],
+    "answer": "Ten"
+  },
+  {
+    "question": "Which of these is one of God's commandments?",
+    "options": ["Steal from others", "Honour your father and mother", "Tell lies", "Hate your neighbours"],
+    "answer": "Honour your father and mother"
+  },
+  {
+    "question": "What should we do to show that we obey God's commandments?",
+    "options": ["Respect others and tell the truth", "Steal from our friends", "Disrespect our parents", "Fight with our neighbours"],
+    "answer": "Respect others and tell the truth"
+  },
+  {
+    "question": "Which of these is a way of showing God's love to others?",
+    "options": ["Being selfish", "Forgiving people", "Bullying the weak", "Cheating others"],
+    "answer": "Forgiving people"
+  },
+  {
+    "question": "What did Jesus teach us to do when we see someone who needs help?",
+    "options": ["Walk away", "Laugh at the person", "Offer help", "Pretend not to see the person"],
+    "answer": "Offer help"
   }
 ]

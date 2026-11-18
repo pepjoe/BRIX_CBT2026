@@ -1,22 +1,102 @@
 [
   {
-    "question": "Sample Question 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
+    "question": "What is a computer keyboard used for?",
+    "options": ["Typing letters and numbers", "Printing documents", "Playing music", "Showing pictures"],
+    "answer": "Typing letters and numbers"
   },
   {
-    "question": "Sample Question 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
+    "question": "Which part of the keyboard is used to create space between words?",
+    "options": ["Enter key", "Spacebar", "Shift key", "Backspace key"],
+    "answer": "Spacebar"
+  },
+  {
+    "question": "Which key is used to move to a new line when typing?",
+    "options": ["Caps Lock", "Enter key", "Spacebar", "Delete key"],
+    "answer": "Enter key"
+  },
+  {
+    "question": "Which key is used to erase letters to the left of the cursor?",
+    "options": ["Backspace key", "Shift key", "Enter key", "Tab key"],
+    "answer": "Backspace key"
+  },
+  {
+    "question": "Which key is used to type capital letters continuously?",
+    "options": ["Spacebar", "Caps Lock", "Backspace", "Enter"],
+    "answer": "Caps Lock"
+  },
+  {
+    "question": "What is a computer mouse used for?",
+    "options": ["Pointing and clicking", "Typing stories", "Printing papers", "Playing sounds"],
+    "answer": "Pointing and clicking"
+  },
+  {
+    "question": "What is the small arrow seen on the computer screen called?",
+    "options": ["Keyboard", "Pointer", "Speaker", "Printer"],
+    "answer": "Pointer"
+  },
+  {
+    "question": "How many main buttons does a standard computer mouse have?",
+    "options": ["One", "Two", "Four", "Five"],
+    "answer": "Two"
+  },
+  {
+    "question": "What is used to move the pointer on the screen?",
+    "options": ["Mouse", "Monitor", "Printer", "Speaker"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "What happens when we press the left mouse button once?",
+    "options": ["We select an item", "We print a paper", "We switch off the computer", "We type a letter"],
+    "answer": "We select an item"
+  },
+  {
+    "question": "Which part of the computer displays information?",
+    "options": ["Monitor", "Mouse", "Keyboard", "Speaker"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "Which part of the computer is used for typing?",
+    "options": ["Printer", "Keyboard", "Monitor", "Speaker"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which part of the computer produces sound?",
+    "options": ["Mouse", "Monitor", "Speaker", "Keyboard"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Which part of the computer is used to print documents?",
+    "options": ["Printer", "Mouse", "Keyboard", "Monitor"],
+    "answer": "Printer"
+  },
+  {
+    "question": "Which part of the computer is used to point and click?",
+    "options": ["Monitor", "Mouse", "Speaker", "Printer"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "What is an input device?",
+    "options": ["A device used to enter data into a computer", "A device used to display results", "A device used to produce sound", "A device used to print pictures"],
+    "answer": "A device used to enter data into a computer"
+  },
+  {
+    "question": "Which of these is an input device?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "What is an output device?",
+    "options": ["A device that receives information from the computer", "A device used to type letters", "A device used to enter data", "A device used to move the pointer"],
+    "answer": "A device that receives information from the computer"
+  },
+  {
+    "question": "Which of these is an output device?",
+    "options": ["Mouse", "Keyboard", "Scanner", "Monitor"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "Which of these is used to enter pictures and documents into a computer?",
+    "options": ["Speaker", "Scanner", "Monitor", "Printer"],
+    "answer": "Scanner"
   }
 ]
