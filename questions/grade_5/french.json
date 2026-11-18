@@ -1,157 +1,302 @@
 [
   {
-    "question": "L'enfant",
+    "question": "Le livre est _________ la table.",
     "options": [
-      "Plate", 
-      "The Child", 
-      "Toothbrush", 
-      "Toothache"
+      "sur",
+      "dans",
+      "sous",
+      "entre"
     ],
-    "answer": "The Child"
+    "answer": "sur"
   },
   {
-    "question": "Le bébé",
-    "options": ["Chain", "Chair", "Baby", "Teacup"],
-    "answer": "Baby"
+    "question": "Le stylo est _______ le sac.",
+    "options": [
+      "devant",
+      "dans",
+      "pour",
+      "entre"
+    ],
+    "answer": "dans"
   },
   {
-    "question": "Le Enseignant",
-    "options": ["Professor", "Profession", "Career", "Lecturer"],
-    "answer": "Lecturer"
+    "question": "Le chat est _______ la chaise.",
+    "options": [
+      "sous",
+      "avec",
+      "pour",
+      "chez"
+    ],
+    "answer": "sous"
   },
   {
-    "question": "L'hiver",
-    "options": ["Winter", "Travel", "Fault", "Doctor"],
-    "answer": "Winter"
+    "question": "L'école est ________ l'église.",
+    "options": [
+      "entre",
+      "près",
+      "dans",
+      "avec"
+    ],
+    "answer": "près"
   },
   {
-    "question": "La fille",
-    "options": ["My Friend", "Pen", "Girl", "Boat"],
-    "answer": "Girl"
+    "question": "Le tableau est ______ les élèves.",
+    "options": [
+      "derrière",
+      "devant",
+      "sous",
+      "avec"
+    ],
+    "answer": "devant"
   },
   {
-    "question": "Mon Ami",
-    "options": ["My Friend", "Friend", "Fishing", "Skimming"],
-    "answer": "My Friend"
+    "question": "Marie est _____ son amie.",
+    "options": [
+      "avec",
+      "sous",
+      "sur",
+      "entre"
+    ],
+    "answer": "avec"
   },
   {
-    "question": "La famille",
-    "options": ["Destroy", "The Family", "Movie", "Dolphin"],
-    "answer": "The Family"
+    "question": "Le sac est _______ la chaise.",
+    "options": [
+      "dans",
+      "sur",
+      "pour",
+      "chez"
+    ],
+    "answer": "dans"
   },
   {
-    "question": "L'époux",
-    "options": ["Parrot", "Professional", "Table", "Husband"],
-    "answer": "Husband"
+    "question": "Le ballon est _____ deux chaises.",
+    "options": [
+      "entre",
+      "avec",
+      "dans",
+      "sur"
+    ],
+    "answer": "entre"
   },
   {
-    "question": "Contre",
-    "options": ["Against", "Waste Bin", "Market", "Blackout"],
-    "answer": "Against"
+    "question": "Quel objet utilise-t-on pour écrire ?",
+    "options": [
+      "Une chaise",
+      "Un stylo",
+      "Une porte",
+      "Un sac"
+    ],
+    "answer": "Un stylo"
   },
   {
-    "question": "Une Poubelle",
-    "options": ["Shopping", "Waste Bin", "Machine", "Social"],
-    "answer": "Waste Bin"
+    "question": "Le professeur écrit au tableau avec __________.",
+    "options": [
+      "Une craie",
+      "Une règle",
+      "Une gomme",
+      "Un sac"
+    ],
+    "answer": "Une craie"
   },
   {
-    "question": "Après",
-    "options": ["After", "Faster", "Sleepy", "Pressing Iron"],
-    "answer": "After"
+    "question": "Où les élèves s'assoient-ils ?",
+    "options": [
+      "Sur la table",
+      "Sur la chaise",
+      "Au tableau",
+      "À la porte"
+    ],
+    "answer": "Sur la chaise"
   },
   {
-    "question": "Sans",
-    "options": ["A Broom", "Video", "Picture", "Without"],
-    "answer": "Without"
+    "question": "Quel objet utilise-t-on pour effacer ?",
+    "options": [
+      "Un livre",
+      "Un crayon",
+      "Une gomme",
+      "Une règle"
+    ],
+    "answer": "Une gomme"
   },
   {
-    "question": "Pour",
-    "options": ["For", "Soft", "Hard", "Soap"],
-    "answer": "For"
+    "question": "On utilise _________ pour mesurer.",
+    "options": [
+      "Une règle",
+      "Une chaise",
+      "Un cahier",
+      "Une porte"
+    ],
+    "answer": "Une règle"
   },
   {
-    "question": "Un Savon",
-    "options": ["Soap", "Lawyer", "Operator", "Teacher"],
-    "answer": "Soap"
+    "question": "Les élèves écrivent dans __________ ?",
+    "options": [
+      "Une fenêtre",
+      "Un cahier",
+      "Une table",
+      "Un tableau"
+    ],
+    "answer": "Un cahier"
   },
   {
-    "question": "Avant",
-    "options": ["Typing", "Before", "Office", "Privacy"],
-    "answer": "Before"
+    "question": "Quel objet porte-t-on sur le dos pour aller à l'école ?",
+    "options": [
+      "Une armoire",
+      "Un sac",
+      "Une craie",
+      "Une table"
+    ],
+    "answer": "Un sac"
   },
   {
-    "question": "Le Seau",
-    "options": ["Bucket", "Refrigerating", "Museum", "Refining"],
-    "answer": "Bucket"
+    "question": "Le professeur enseigne dans _______.",
+    "options": [
+      "La cuisine",
+      "La classe",
+      "Le jardin",
+      "La salle de bain"
+    ],
+    "answer": "La classe"
   },
   {
-    "question": "Le musée",
-    "options": ["Yes", "No", "Swimming Pool", "Museum"],
-    "answer": "Museum"
+    "question": "La couleur du ciel est généralement _______.",
+    "options": [
+      "Rouge",
+      "Bleu",
+      "Noir",
+      "Marron"
+    ],
+    "answer": "Bleu"
   },
   {
-    "question": "La Piscine",
-    "options": ["Swimming Pool", "Social Network", "Blogging", "Shopping"],
-    "answer": "Swimming Pool"
+    "question": "La couleur de l'herbe est ________.",
+    "options": [
+      "Verte",
+      "Blanche",
+      "Jaune",
+      "Rose"
+    ],
+    "answer": "Verte"
   },
   {
-    "question": "L'eau de javel",
-    "options": ["Rainbow", "Spring", "Bleach", "Winter"],
-    "answer": "Bleach"
+    "question": "La couleur du lait est ________.",
+    "options": [
+      "Rouge",
+      "Blanc",
+      "Noir",
+      "Violet"
+    ],
+    "answer": "Blanc"
   },
   {
-    "question": "La brosse",
-    "options": ["Warm", "Happiness", "Peace", "Brush"],
-    "answer": "Brush"
+    "question": "La couleur du sang est ___________.",
+    "options": [
+      "Bleu",
+      "Rouge",
+      "Vert",
+      "Violet"
+    ],
+    "answer": "Rouge"
   },
   {
-    "question": "La Pelle",
-    "options": ["Packer", "Igbo Woman", "Japanese Woman", "Japanese Man"],
-    "answer": "Packer"
+    "question": "Le citron est généralement __________.",
+    "options": [
+      "Jaune",
+      "Noir",
+      "Violet",
+      "Bleu"
+    ],
+    "answer": "Jaune"
   },
   {
-    "question": "Une japonaise",
-    "options": ["Transportation", "Relaxation", "A Japanese Woman", "The House is Small"],
-    "answer": "A Japanese Woman"
+    "question": "Le charbon est __________.",
+    "options": [
+      "Blanc",
+      "Rose",
+      "Noir",
+      "Vert"
+    ],
+    "answer": "Noir"
   },
   {
-    "question": "L'éponge est jeune",
-    "options": ["The Sponge is Yellow", "Homework", "Stop", "The Cat is Small"],
-    "answer": "The Sponge is Yellow"
+    "question": "La couleur obtenue en mélangeant le rouge et le blanc est __________.",
+    "options": [
+      "Rose",
+      "Vert",
+      "Noir",
+      "Vert"
+    ],
+    "answer": "Rose"
   },
   {
-    "question": "Je ramasse avec la pelle",
-    "options": ["Diary", "Trip", "She is Chinese", "I Pack with a Packer"],
-    "answer": "I Pack with a Packer"
+    "question": "Pour présenter quelqu'un, on dit _______.",
+    "options": [
+      "Je m'appelle",
+      "Voici mon ami",
+      "Au revoir",
+      "Merci beaucoup"
+    ],
+    "answer": "Voici mon ami"
   },
   {
-    "question": "Il fait chaud",
-    "options": ["It's Hot", "Study", "Teacher", "The Ball is Red"],
-    "answer": "It's Hot"
+    "question": "Comment dit-on « This is my sister » en français ?",
+    "options": [
+      "Voici ma sœur",
+      "Voici mon frère",
+      "Voici mon père",
+      "Voici ma mère"
+    ],
+    "answer": "Voici ma sœur"
   },
   {
-    "question": "La Saison Séché",
-    "options": ["Dry Season", "Keep Records", "I am a Pupil", "Pray for the Nation"],
-    "answer": "Dry Season"
+    "question": "Pour présenter son professeur, on dit ________ ?",
+    "options": [
+      "Voici mon professeur",
+      "Voici mon cahier",
+      "Voici ma maison",
+      "Voici mon stylo"
+    ],
+    "answer": "Voici mon professeur"
   },
   {
-    "question": "Il fait très froid",
-    "options": ["How Old are You?", "It's Very Cold", "I Don't Know", "Please"],
-    "answer": "It's Very Cold"
+    "question": "« Il s'appelle Jean » signifie ________.",
+    "options": [
+      "Her name is Jean",
+      "His name is Jean",
+      "My name is Jean",
+      "Your name is Jean"
+    ],
+    "answer": "His name is Jean"
   },
   {
-    "question": "S'il Vous plaît",
-    "options": ["Please", "How Old are You?", "Church", "Market"],
-    "answer": "Please"
+    "question": "Pour demander le nom d'une personne, on dit _____.",
+    "options": [
+      "Quel âge as-tu ?",
+      "Comment tu t'appelles ?",
+      "Où habites-tu ?",
+      "Comment ça va ?"
+    ],
+    "answer": "Comment tu t'appelles ?"
   },
   {
-    "question": "Où est ton sac ?",
-    "options": ["Where is Your Bag?", "Fights", "Happy Birthday", "Instructs"],
-    "answer": "Where is Your Bag?"
+    "question": "« Elle a dix ans » signifie ____.",
+    "options": [
+      "He is ten years old",
+      "She is ten years old",
+      "She is twelve years old",
+      "He is twelve years old"
+    ],
+    "answer": "She is ten years old"
   },
   {
-    "question": "J'ai un frère et une sœur",
-    "options": ["Come Home", "I Have a Brother and a Sister", "We are Pupils of Brixtonn School", "Hello"],
-    "answer": "I Have a Brother and a Sister"
+    "question": "Pour présenter deux amis, on dit __________.",
+    "options": [
+      "Voici mes amis",
+      "Voici mes deux livres",
+      "Voici mes deux stylos",
+      "Voici mes deux tables"
+    ],
+    "answer": "Voici mes amis"
   }
 ]

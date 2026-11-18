@@ -1,22 +1,332 @@
 [
   {
-    "question": "Sample Question 1",
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Conjunctions are words that join sentences together and are also called:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Linking words",
+      "Action words",
+      "Describing words",
+      "Naming words"
     ],
-    "answer": "A"
+    "answer": "Linking words"
   },
   {
-    "question": "Sample Question 2",
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Which of the following is listed as an example of a conjunction?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Quickly",
+      "Yesterday",
+      "Because",
+      "Table"
     ],
-    "answer": "B"
+    "answer": "Because"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "A sentence is a group of words which make a complete sense and always begins with a",
+    "options": [
+      "Small letter",
+      "Capital letter",
+      "Conjunction",
+      "Question mark"
+    ],
+    "answer": "Capital letter"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Which of the following is given as an example of a Statement?",
+    "options": [
+      "Turn on the television set.",
+      "How great is the mercy of God!",
+      "Who is your best friend?",
+      "He is going to school."
+    ],
+    "answer": "He is going to school."
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Which word is used to ask questions?",
+    "options": [
+      "And",
+      "What",
+      "Been",
+      "Example"
+    ],
+    "answer": "What"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Which of the following sentences is a Command?",
+    "options": [
+      "Sit down immediately",
+      "The story book is interesting",
+      "Are you a male or a female?",
+      "Oh my God!"
+    ],
+    "answer": "The story book is interesting"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "An exclamation is a sentence that expresses:",
+    "options": [
+      "Strong feeling, emotion or surprise",
+      "Ask questions",
+      "That order someone",
+      "Gives information"
+    ],
+    "answer": "Strong feeling, emotion or surprise"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Complete the sentence: \"Purity wanted ice-cream ______ she didn't have any money.\"",
+    "options": [
+      "A sentence",
+      "Because",
+      "But",
+      "Did"
+    ],
+    "answer": "But"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Complete the sentence: \"Mmekabasi dried his hair ______ it got wet in the rain.\"",
+    "options": [
+      "Well",
+      "Unless",
+      "Good",
+      "Because"
+    ],
+    "answer": "Because"
+  },
+  {
+    "instruction": "CONJUNCTIONS: Choose the correct answer from options A–D.",
+    "question": "Which category does the sentence \"Eat fast and get to work immediately\" fall under?",
+    "options": [
+      "Command",
+      "Exclamation",
+      "Questions",
+      "Statement"
+    ],
+    "answer": "Command"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "Acrostic poem be written in word or in ______.",
+    "options": [
+      "Sentence",
+      "First",
+      "Second",
+      "Form"
+    ],
+    "answer": "Sentence"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "An acrostic poem can be defined as",
+    "options": [
+      "A poem with a strict AABB rhyme scheme",
+      "A composition where the first letters or words are related to the poem's topic",
+      "A type of poem written to visually form the shape of its subject",
+      "A unit of verse composed of two lines"
+    ],
+    "answer": "A composition where the first letters or words are related to the poem's topic"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "In Example 2 of the acrostic poems, what topic is used?",
+    "options": [
+      "Rain",
+      "Children",
+      "Friend",
+      "Peacock"
+    ],
+    "answer": "Friend"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "E in friend stands for ____.",
+    "options": [
+      "Funny",
+      "Nice",
+      "Real",
+      "Enjoying"
+    ],
+    "answer": "Enjoying"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What is the title of Example 3 under the acrostic section?",
+    "options": [
+      "Children",
+      "Rain",
+      "Friend",
+      "Peacock"
+    ],
+    "answer": "Friend"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "Couplet is a poem of two lines while a Tercet is a poem of",
+    "options": [
+      "Four lines",
+      "Six lines",
+      "Three lines",
+      "Seven lines"
+    ],
+    "answer": "Three lines"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "How is a couplet defined in the notes?",
+    "options": [
+      "A poem composed of three lines",
+      "A poem that forms the shape of its subject",
+      "A unit of verse composed of two lines with a singular thought or idea",
+      "A composition with letters spelling a word vertically"
+    ],
+    "answer": "A unit of verse composed of two lines with a singular thought or idea"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "According to the notes on a tercet, what is a tercet composed of?",
+    "options": [
+      "Two lines",
+      "Three lines",
+      "Four lines",
+      "Five lines"
+    ],
+    "answer": "Three lines"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "How is a shape poem defined?",
+    "options": [
+      "A type of poem written to visually form the shape of its subject",
+      "A poem that uses two rhyming lines",
+      "A poem where every line starts with a specific letter",
+      "A stanza containing exactly three lines"
+    ],
+    "answer": "A type of poem written to visually form the shape of its subject"
+  },
+  {
+    "instruction": "POETRY YEAR 2: Choose the correct answer from options A–D.",
+    "question": "According to the features of a shape poem, what example is used to illustrate a shape poem about a flower?",
+    "options": [
+      "It would be arranged in a diamond shape",
+      "It would be arranged in a square shape",
+      "It would be arranged in the flower shape",
+      "It would be arranged in a circular shape"
+    ],
+    "answer": "It would be arranged in the flower shape"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "On the essay \"All about myself\", what is the name of the writer?",
+    "options": [
+      "Mary",
+      "Kella",
+      "Clara",
+      "Kelly"
+    ],
+    "answer": "Kella"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "How old is the writer?",
+    "options": [
+      "Six years old",
+      "Seven years old",
+      "Eight years old",
+      "Nine years old"
+    ],
+    "answer": "Seven years old"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What class is the writer in?",
+    "options": [
+      "Primary 1",
+      "Primary 2",
+      "Primary 3",
+      "Nursery 2"
+    ],
+    "answer": "Primary 2"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What is the name of the writer's school?",
+    "options": [
+      "Brixtonn Schools",
+      "Brighton Academy",
+      "Brixton Standard School",
+      "Brittania Schools"
+    ],
+    "answer": "Brixtonn Schools"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What is the writer's favorite subject?",
+    "options": [
+      "English Studies",
+      "Basic Science",
+      "Mathematics",
+      "Creative Arts"
+    ],
+    "answer": "Mathematics"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What is the writer's best food?",
+    "options": [
+      "Jollof rice and plantain",
+      "Rice and chicken's stew",
+      "Beans and plantain",
+      "Yam and egg sauce"
+    ],
+    "answer": "Rice and chicken's stew"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What is the writer's favorite colour?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What does the writer want to become in the future?",
+    "options": [
+      "A teacher",
+      "A nurse",
+      "A doctor",
+      "A pharmacist"
+    ],
+    "answer": "A doctor"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "Why does the writer want to pursue that future profession?",
+    "options": [
+      "To build houses for people",
+      "To take care of sick people and make them feel better",
+      "To teach children in school",
+      "To fly airplanes"
+    ],
+    "answer": "To take care of sick people and make them feel better"
+  },
+  {
+    "instruction": "CREATIVE WRITING YEAR 2: Choose the correct answer from options A–D.",
+    "question": "What does the writer love doing when not studying?",
+    "options": [
+      "Sleeping and watching television",
+      "Playing games and reading",
+      "Drawing and painting",
+      "Singing and dancing"
+    ],
+    "answer": "Playing games and reading"
   }
 ]

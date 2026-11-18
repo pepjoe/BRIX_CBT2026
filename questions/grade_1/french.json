@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is the French word for hand?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "la main",
+      "la tête",
+      "le pied",
+      "le nez"
     ],
-    "answer": "A"
+    "answer": "la main"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is the French word for eyes?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "les yeux",
+      "les oreilles",
+      "la main",
+      "la jambe"
     ],
-    "answer": "B"
+    "answer": "les yeux"
+  },
+  {
+    "question": "Which of these means nose in French?",
+    "options": [
+      "la bouche",
+      "le bras",
+      "le nez",
+      "la jambe"
+    ],
+    "answer": "le nez"
+  },
+  {
+    "question": "What is the French word for mouth?",
+    "options": [
+      "la tête",
+      "la bouche",
+      "le dos",
+      "le pied"
+    ],
+    "answer": "la bouche"
+  },
+  {
+    "question": "What is the French word for hand?",
+    "options": [
+      "le nez",
+      "la main",
+      "l'œil",
+      "la jambe"
+    ],
+    "answer": "la main"
+  },
+  {
+    "question": "Which of these means leg in French?",
+    "options": [
+      "la jambe",
+      "la tête",
+      "le bras",
+      "le doigt"
+    ],
+    "answer": "la jambe"
+  },
+  {
+    "question": "What is the French word for shirt?",
+    "options": [
+      "les chaussures",
+      "la chemise",
+      "le chapeau",
+      "la jupe"
+    ],
+    "answer": "la chemise"
+  },
+  {
+    "question": "What is the French word for shoes?",
+    "options": [
+      "les chaussures",
+      "les lunettes",
+      "les chaussettes",
+      "la robe"
+    ],
+    "answer": "les chaussures"
+  },
+  {
+    "question": "Which of these means trousers?",
+    "options": [
+      "la robe",
+      "le pantalon",
+      "la jupe",
+      "le chapeau"
+    ],
+    "answer": "le pantalon"
+  },
+  {
+    "question": "What is the French word for dress?",
+    "options": [
+      "la chemise",
+      "le pantalon",
+      "la robe",
+      "des chaussures"
+    ],
+    "answer": "la robe"
+  },
+  {
+    "question": "What is the French word for hat?",
+    "options": [
+      "le chapeau",
+      "la jupe",
+      "la robe",
+      "la montre"
+    ],
+    "answer": "le chapeau"
+  },
+  {
+    "question": "Which of these means skirt in French?",
+    "options": [
+      "la chemise",
+      "la jupe",
+      "le chapeau",
+      "des chaussures"
+    ],
+    "answer": "la jupe"
+  },
+  {
+    "question": "What is the French word for book?",
+    "options": [
+      "la table",
+      "le livre",
+      "la chaise",
+      "la porte"
+    ],
+    "answer": "le livre"
+  },
+  {
+    "question": "What is the French word for pen?",
+    "options": [
+      "le stylo",
+      "la gomme",
+      "le sac",
+      "la règle"
+    ],
+    "answer": "le stylo"
+  },
+  {
+    "question": "Which of these means chair in French?",
+    "options": [
+      "le tableau",
+      "la fenêtre",
+      "la chaise",
+      "le livre"
+    ],
+    "answer": "la chaise"
+  },
+  {
+    "question": "What is the French word for table?",
+    "options": [
+      "la table",
+      "la fenêtre",
+      "la chaise",
+      "le livre"
+    ],
+    "answer": "la table"
+  },
+  {
+    "question": "What is the French word for eraser?",
+    "options": [
+      "le crayon",
+      "la gomme",
+      "le sac",
+      "le livre"
+    ],
+    "answer": "la gomme"
+  },
+  {
+    "question": "Which of these means school bag?",
+    "options": [
+      "le tableau",
+      "la porte",
+      "le sac",
+      "la chaise"
+    ],
+    "answer": "le sac"
+  },
+  {
+    "question": "What is the French word for January?",
+    "options": [
+      "mars",
+      "janvier",
+      "juin",
+      "avril"
+    ],
+    "answer": "janvier"
+  },
+  {
+    "question": "What is the French word for February?",
+    "options": [
+      "février",
+      "mai",
+      "juin",
+      "mars"
+    ],
+    "answer": "février"
+  },
+  {
+    "question": "Which of these means March in French?",
+    "options": [
+      "juin",
+      "mai",
+      "mars",
+      "août"
+    ],
+    "answer": "mars"
+  },
+  {
+    "question": "What is the French word for April?",
+    "options": [
+      "septembre",
+      "avril",
+      "octobre",
+      "novembre"
+    ],
+    "answer": "avril"
+  },
+  {
+    "question": "What is the French word for December?",
+    "options": [
+      "janvier",
+      "juin",
+      "décembre",
+      "mars"
+    ],
+    "answer": "décembre"
+  },
+  {
+    "question": "Which month comes after juin?",
+    "options": [
+      "mai",
+      "juillet",
+      "avril",
+      "mars"
+    ],
+    "answer": "juillet"
+  },
+  {
+    "question": "What is the French word for Monday?",
+    "options": [
+      "mardi",
+      "lundi",
+      "vendredi",
+      "dimanche"
+    ],
+    "answer": "lundi"
+  },
+  {
+    "question": "What is the French word for Tuesday?",
+    "options": [
+      "jeudi",
+      "samedi",
+      "mardi",
+      "lundi"
+    ],
+    "answer": "mardi"
+  },
+  {
+    "question": "Which of these means Wednesday in French?",
+    "options": [
+      "mercredi",
+      "vendredi",
+      "dimanche",
+      "jeudi"
+    ],
+    "answer": "mercredi"
+  },
+  {
+    "question": "What is the French word for Thursday?",
+    "options": [
+      "mercredi",
+      "vendredi",
+      "dimanche",
+      "jeudi"
+    ],
+    "answer": "jeudi"
+  },
+  {
+    "question": "What is the French word for Friday?",
+    "options": [
+      "dimanche",
+      "vendredi",
+      "mercredi",
+      "samedi"
+    ],
+    "answer": "vendredi"
+  },
+  {
+    "question": "Which day comes after Sunday?",
+    "options": [
+      "lundi",
+      "vendredi",
+      "dimanche",
+      "mardi"
+    ],
+    "answer": "lundi"
   }
 ]

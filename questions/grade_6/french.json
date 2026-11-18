@@ -1,22 +1,302 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What part of the body is used for walking?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "les pieds",
+      "les yeux",
+      "les oreilles",
+      "la bouche"
     ],
-    "answer": "A"
+    "answer": "les pieds"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is the French word for hand?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "la jambe",
+      "le dos",
+      "la main",
+      "le ventre"
     ],
-    "answer": "B"
+    "answer": "la main"
+  },
+  {
+    "question": "Which part of the body is called les oreilles?",
+    "options": [
+      "Eyes",
+      "Ears",
+      "Feet",
+      "Finger"
+    ],
+    "answer": "Ears"
+  },
+  {
+    "question": "What is the French word for nose?",
+    "options": [
+      "la bouche",
+      "le nez",
+      "le cou",
+      "le bras"
+    ],
+    "answer": "le nez"
+  },
+  {
+    "question": "Which part of the body is called les yeux?",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Hands",
+      "Legs"
+    ],
+    "answer": "Eyes"
+  },
+  {
+    "question": "What is the French word for head?",
+    "options": [
+      "la main",
+      "la tête",
+      "le pied",
+      "le nez"
+    ],
+    "answer": "la tête"
+  },
+  {
+    "question": "Which French expression means see you tomorrow?",
+    "options": [
+      "à bientôt",
+      "à demain",
+      "bonne nuit",
+      "merci beaucoup"
+    ],
+    "answer": "à demain"
+  },
+  {
+    "question": "What is the meaning of bienvenue?",
+    "options": [
+      "Welcome",
+      "Goodbye",
+      "Sorry",
+      "Goodnight"
+    ],
+    "answer": "Welcome"
+  },
+  {
+    "question": "What is the correct response to comment allez-vous?",
+    "options": [
+      "Je m'appelle Paul",
+      "J'ai dix ans",
+      "Je vais bien, merci",
+      "Bonne nuit"
+    ],
+    "answer": "Je vais bien, merci"
+  },
+  {
+    "question": "How do you say thank you in French?",
+    "options": [
+      "Pardon",
+      "Merci",
+      "Bonjour",
+      "Salut"
+    ],
+    "answer": "Merci"
+  },
+  {
+    "question": "What is the meaning of bonsoir?",
+    "options": [
+      "Good morning",
+      "Good evening",
+      "Goodbye",
+      "Thank you"
+    ],
+    "answer": "Good evening"
+  },
+  {
+    "question": "What is the French word for teacher?",
+    "options": [
+      "le médecin",
+      "le professeur",
+      "le policier",
+      "le boulanger"
+    ],
+    "answer": "le professeur"
+  },
+  {
+    "question": "What is the French word for a nurse?",
+    "options": [
+      "l'infirmier",
+      "le médecin",
+      "le policier",
+      "le mécanicien"
+    ],
+    "answer": "l'infirmier"
+  },
+  {
+    "question": "What is the French word for a person who catches a criminal?",
+    "options": [
+      "le policier",
+      "le médecin",
+      "le chauffeur",
+      "le professeur"
+    ],
+    "answer": "le policier"
+  },
+  {
+    "question": "What do you say when you greet someone in the morning?",
+    "options": [
+      "Bonne nuit",
+      "Good morning",
+      "Au revoir",
+      "Merci"
+    ],
+    "answer": "Good morning"
+  },
+  {
+    "question": "Who makes bread in French?",
+    "options": [
+      "Menuisier",
+      "Pilote",
+      "Boulanger",
+      "Le médecin"
+    ],
+    "answer": "Boulanger"
+  },
+  {
+    "question": "What is the French word for driver?",
+    "options": [
+      "le chauffeur",
+      "le juge",
+      "le professeur",
+      "l'infirmier"
+    ],
+    "answer": "le chauffeur"
+  },
+  {
+    "question": "Who repairs cars in French?",
+    "options": [
+      "le dentiste",
+      "le mécanicien",
+      "le coiffeur",
+      "le professeur"
+    ],
+    "answer": "le mécanicien"
+  },
+  {
+    "question": "What is the French word for farmer?",
+    "options": [
+      "le fermier",
+      "le coiffeur",
+      "le policier",
+      "le professeur"
+    ],
+    "answer": "le fermier"
+  },
+  {
+    "question": "What is the French word for teacher?",
+    "options": [
+      "le médecin",
+      "le coiffeur",
+      "le mécanicien",
+      "le fermier"
+    ],
+    "answer": "le professeur"
+  },
+  {
+    "question": "Where do people go to keep or withdraw money?",
+    "options": [
+      "la banque",
+      "l'usine",
+      "l'école",
+      "l'hôpital"
+    ],
+    "answer": "la banque"
+  },
+  {
+    "question": "What is the French word for school?",
+    "options": [
+      "le marché",
+      "l'école",
+      "la poste",
+      "le restaurant"
+    ],
+    "answer": "l'école"
+  },
+  {
+    "question": "Where do people go to watch films?",
+    "options": [
+      "le cinéma",
+      "l'hôpital",
+      "la gare",
+      "le boulevard"
+    ],
+    "answer": "le cinéma"
+  },
+  {
+    "question": "What is the French word for church?",
+    "options": [
+      "l'église",
+      "l'école",
+      "la porte",
+      "l'hôpital"
+    ],
+    "answer": "l'église"
+  },
+  {
+    "question": "Where do people go to read and borrow books?",
+    "options": [
+      "la banque",
+      "la bibliothèque",
+      "la pharmacie",
+      "le restaurant"
+    ],
+    "answer": "la bibliothèque"
+  },
+  {
+    "question": "What is the French word for market?",
+    "options": [
+      "la gare",
+      "le stade",
+      "le marché",
+      "l'usine"
+    ],
+    "answer": "le marché"
+  },
+  {
+    "question": "Where do people go to buy medicine?",
+    "options": [
+      "la pharmacie",
+      "l'école",
+      "le restaurant",
+      "la banque"
+    ],
+    "answer": "la pharmacie"
+  },
+  {
+    "question": "What is the French word for hospital?",
+    "options": [
+      "la banque",
+      "l'hôpital",
+      "la poste",
+      "l'école"
+    ],
+    "answer": "l'hôpital"
+  },
+  {
+    "question": "How do you say thank you in French?",
+    "options": [
+      "Au revoir",
+      "Bonne nuit",
+      "À demain",
+      "Merci beaucoup"
+    ],
+    "answer": "Merci beaucoup"
+  },
+  {
+    "question": "Where do we go to watch football matches in French?",
+    "options": [
+      "Le stade",
+      "Le marché",
+      "Le cinéma",
+      "La piscine"
+    ],
+    "answer": "Le stade"
   }
 ]

@@ -1,22 +1,301 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "What is the French word for dog?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "le chat",
+      "le chien",
+      "le lion",
+      "le tigre"
     ],
-    "answer": "A"
+    "answer": "le chien"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What is the French word for cat?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "le chat",
+      "le lion",
+      "le tigre",
+      "crocodile"
     ],
-    "answer": "B"
+    "answer": "le chat"
+  },
+  {
+    "question": "Which of these is a goat?",
+    "options": [
+      "dindon",
+      "chèvre",
+      "chien",
+      "chat"
+    ],
+    "answer": "chèvre"
+  },
+  {
+    "question": "What is the French word for a cow?",
+    "options": [
+      "la vache",
+      "l'âne",
+      "l'aigle",
+      "singe"
+    ],
+    "answer": "la vache"
+  },
+  {
+    "question": "Which animal is called le cheval?",
+    "options": [
+      "Horse",
+      "Donkey",
+      "Eagle",
+      "Hen"
+    ],
+    "answer": "Horse"
+  },
+  {
+    "question": "What is the French word for head?",
+    "options": [
+      "la main",
+      "les dents",
+      "le doigt",
+      "la tête"
+    ],
+    "answer": "la tête"
+  },
+  {
+    "question": "What is the French word for eyes?",
+    "options": [
+      "les yeux",
+      "la tête",
+      "les doigts",
+      "le pied"
+    ],
+    "answer": "les yeux"
+  },
+  {
+    "question": "Which of these means nose in French?",
+    "options": [
+      "le pied",
+      "le bras",
+      "le genou",
+      "le nez"
+    ],
+    "answer": "le nez"
+  },
+  {
+    "question": "What is the French word for hand?",
+    "options": [
+      "le doigt",
+      "la tête",
+      "la main",
+      "le pied"
+    ],
+    "answer": "la main"
+  },
+  {
+    "question": "Which of these means mouth?",
+    "options": [
+      "la bouche",
+      "la tête",
+      "le pied",
+      "les dents"
+    ],
+    "answer": "la bouche"
+  },
+  {
+    "question": "What is the French word for apple?",
+    "options": [
+      "une banane",
+      "une mangue",
+      "une pomme",
+      "une pastèque"
+    ],
+    "answer": "une pomme"
+  },
+  {
+    "question": "What is the French word for banana?",
+    "options": [
+      "le concombre",
+      "la banane",
+      "une pomme",
+      "une fraise"
+    ],
+    "answer": "la banane"
+  },
+  {
+    "question": "What is the French word for mango?",
+    "options": [
+      "une mangue",
+      "une pastèque",
+      "une banane",
+      "des fraises"
+    ],
+    "answer": "une mangue"
+  },
+  {
+    "question": "Which is the French word for orange?",
+    "options": [
+      "l'orange",
+      "la pastèque",
+      "la mangue"
+    ],
+    "answer": "l'orange"
+  },
+  {
+    "question": "Which of these means pineapple?",
+    "options": [
+      "ananas",
+      "pastèque",
+      "orange",
+      "concombre"
+    ],
+    "answer": "ananas"
+  },
+  {
+    "question": "What is the French word for house?",
+    "options": [
+      "maison",
+      "toilette",
+      "chambre",
+      "cuisine"
+    ],
+    "answer": "maison"
+  },
+  {
+    "question": "What is the French word for bedroom?",
+    "options": [
+      "chambre",
+      "placard",
+      "table",
+      "toilette"
+    ],
+    "answer": "chambre"
+  },
+  {
+    "question": "Which of these means kitchen in French?",
+    "options": [
+      "la chambre à coucher",
+      "la cuisine",
+      "le salon",
+      "le balcon"
+    ],
+    "answer": "la cuisine"
+  },
+  {
+    "question": "Which is the French word for door?",
+    "options": [
+      "la porte",
+      "la fenêtre",
+      "chaise",
+      "une table"
+    ],
+    "answer": "la porte"
+  },
+  {
+    "question": "What does window mean in French?",
+    "options": [
+      "la chambre",
+      "la porte",
+      "le placard",
+      "la fenêtre"
+    ],
+    "answer": "la fenêtre"
+  },
+  {
+    "question": "What is the French word for school?",
+    "options": [
+      "le marché",
+      "l'hôpital",
+      "l'école",
+      "le stade"
+    ],
+    "answer": "l'école"
+  },
+  {
+    "question": "Which is the French word for hospital?",
+    "options": [
+      "le stade",
+      "le marché",
+      "la banque",
+      "l'hôpital"
+    ],
+    "answer": "l'hôpital"
+  },
+  {
+    "question": "Which of these means market in French?",
+    "options": [
+      "le marché",
+      "le stade",
+      "la banque",
+      "l'église"
+    ],
+    "answer": "le marché"
+  },
+  {
+    "question": "What is the French word for church?",
+    "options": [
+      "l'église",
+      "la mosquée",
+      "le supermarché",
+      "la brique"
+    ],
+    "answer": "l'église"
+  },
+  {
+    "question": "What does au revoir mean in French?",
+    "options": [
+      "Welcome",
+      "Good night",
+      "Goodbye",
+      "Thank you"
+    ],
+    "answer": "Goodbye"
+  },
+  {
+    "question": "How do you say thank you in French?",
+    "options": [
+      "merci",
+      "à demain",
+      "au revoir",
+      "reviens"
+    ],
+    "answer": "merci"
+  },
+  {
+    "question": "How do you say good evening in French?",
+    "options": [
+      "bonsoir",
+      "bonjour",
+      "au revoir",
+      "merci"
+    ],
+    "answer": "bonsoir"
+  },
+  {
+    "question": "How do you say good morning in French?",
+    "options": [
+      "bonjour",
+      "bonsoir",
+      "bienvenue",
+      "merci"
+    ],
+    "answer": "bonjour"
+  },
+  {
+    "question": "Which public place do you call la banque?",
+    "options": [
+      "Post office",
+      "Church",
+      "Bank",
+      "Mosque"
+    ],
+    "answer": "Bank"
+  },
+  {
+    "question": "What do you call father in French?",
+    "options": [
+      "le père",
+      "la mère",
+      "le frère",
+      "la sœur"
+    ],
+    "answer": "le père"
   }
 ]

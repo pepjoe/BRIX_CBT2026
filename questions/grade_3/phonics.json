@@ -1,272 +1,202 @@
 [
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "What is intonation?",
     "options": [
-      "boil",
-      "pot",
-      "front"
+      "Colour of book",
+      "Number of pen",
+      "A loud cry",
+      "Rise and fall of voice in speech"
     ],
-    "answer": "boil"
+    "answer": "Rise and fall of voice in speech"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "Intonation shows __",
     "options": [
-      "Quaint",
-      "toil",
-      "buoy"
+      "Feeling and meaning",
+      "Colour and size",
+      "Number and weight",
+      "Height and length"
     ],
-    "answer": "toil"
+    "answer": "Feeling and meaning"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "How many types of intonation are there in English?",
     "options": [
-      "toy",
-      "roy",
-      "oil"
+      "One",
+      "Two",
+      "Five",
+      "Ten"
     ],
-    "answer": "oil"
+    "answer": "Two"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "The two types of intonation are __",
     "options": [
-      "toil",
-      "employ",
-      "boy"
+      "Loud and Low",
+      "Fast and Slow",
+      "Rising and Falling",
+      "Short and Long"
     ],
-    "answer": "toil"
+    "answer": "Rising and Falling"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "Falling intonation is used for __",
     "options": [
-      "toy",
-      "boil",
-      "cloy"
+      "Yes/No questions",
+      "Laughing",
+      "Crying",
+      "Statements"
     ],
-    "answer": "boil"
+    "answer": "Statements"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "Falling intonation is used for __",
     "options": [
-      "loyal",
-      "buoyant",
-      "poise"
+      "WH questions",
+      "Yes/No questions",
+      "Both",
+      "None"
     ],
-    "answer": "poise"
+    "answer": "WH questions"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "Rising intonation is used for __",
     "options": [
-      "loise",
-      "joyful",
-      "employer"
+      "Statements",
+      "Yes/No questions",
+      "Commands",
+      "Facts"
     ],
-    "answer": "loise"
+    "answer": "Yes/No questions"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "What is a statement?",
     "options": [
-      "hey",
-      "soil",
-      "boyish"
+      "Ask",
+      "Shout",
+      "Fact",
+      "Go up"
     ],
-    "answer": "soil"
+    "answer": "Fact"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "What is rising?",
     "options": [
-      "coy",
-      "royal",
-      "recoil"
+      "Going down",
+      "Shouting",
+      "Fact",
+      "Going up"
     ],
-    "answer": "recoil"
+    "answer": "Going up"
   },
   {
-    "question": "Choose only the one with “oi” for /ɔɪ/.",
+    "question": "What is falling?",
     "options": [
-      "alloy",
-      "destroy",
-      "ointment"
+      "Going down",
+      "Going up",
+      "Shouting",
+      "Asking"
     ],
-    "answer": "ointment"
+    "answer": "Going down"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "What is a question?",
     "options": [
-      "boy",
-      "foil",
-      "oil"
+      "Facts",
+      "Asking",
+      "Sound",
+      "Go down"
     ],
-    "answer": "oil"
+    "answer": "Asking"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "What is tone?",
     "options": [
-      "hoist",
-      "soy",
-      "foil"
+      "Loud noise",
+      "Small facts",
+      "How a question is asked",
+      "Shout"
     ],
-    "answer": "soy"
+    "answer": "How a question is asked"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "What is pitch?",
     "options": [
-      "roit",
-      "coil",
-      "ahoy"
+      "Quiet sound",
+      "Asking",
+      "Humming",
+      "Height of voice"
     ],
-    "answer": "ahoy"
+    "answer": "Height of voice"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "What is an exclamation?",
     "options": [
-      "decoy",
-      "toil",
-      "source"
+      "Shout",
+      "Ask",
+      "Fact",
+      "Go up"
     ],
-    "answer": "decoy"
+    "answer": "Shout"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "What is a command?",
     "options": [
-      "avoid",
-      "voyage",
-      "poise"
+      "Ask",
+      "Order",
+      "Fact",
+      "Sound"
     ],
-    "answer": "voyage"
+    "answer": "Order"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "\"I am GOING HOME.\" - Which intonation is used?",
     "options": [
-      "dote",
-      "recoil",
-      "loyal"
+      "Rising",
+      "No tone",
+      "Falling",
+      "Flat"
     ],
-    "answer": "loyal"
+    "answer": "Falling"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "\"Are you coming BACK?\" - Which intonation is used?",
     "options": [
-      "Roy",
-      "moist",
-      "want"
+      "Falling",
+      "No tone",
+      "Flat",
+      "Rising"
     ],
-    "answer": "Roy"
+    "answer": "Rising"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "\"WHAT is your AGE?\" - Which intonation is used?",
     "options": [
-      "boil",
-      "alloy",
-      "fry"
+      "Falling - WH question",
+      "Rising",
+      "No tone",
+      "Flat"
     ],
-    "answer": "alloy"
+    "answer": "Falling - WH question"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "\"OPEN the WINDOW please.\" - Which intonation is used?",
     "options": [
-      "lustre",
-      "style",
-      "envoy"
+      "Rising",
+      "Falling - Command",
+      "No tone",
+      "Question"
     ],
-    "answer": "envoy"
+    "answer": "Falling - Command"
   },
   {
-    "question": "Choose ONLY the one with “oy” for /ɔɪ/.",
+    "question": "\"How LOVELY the dress is.\" - Which intonation is used?",
     "options": [
-      "ploy",
-      "lead",
-      "enthrone"
+      "Rising",
+      "No tone",
+      "Falling - Exclamation",
+      "Question"
     ],
-    "answer": "ploy"
-  },
-  {
-    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
-    "options": [
-      "high",
-      "die",
-      "piece"
-    ],
-    "answer": "die"
-  },
-  {
-    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
-    "options": [
-      "dye",
-      "ply",
-      "fie"
-    ],
-    "answer": "fie"
-  },
-  {
-    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
-    "options": [
-      "hie",
-      "sigh",
-      "by"
-    ],
-    "answer": "hie"
-  },
-  {
-    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
-    "options": [
-      "fry",
-      "quiet",
-      "stew"
-    ],
-    "answer": "quiet"
-  },
-  {
-    "question": "Choose ONLY the one with the letters 'ie' for /aɪ/.",
-    "options": [
-      "buy",
-      "oil",
-      "tie"
-    ],
-    "answer": "tie"
-  },
-  {
-    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
-    "options": [
-      "this",
-      "thighs",
-      "bit"
-    ],
-    "answer": "thighs"
-  },
-  {
-    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
-    "options": [
-      "gist",
-      "piss",
-      "ice"
-    ],
-    "answer": "ice"
-  },
-  {
-    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
-    "options": [
-      "him",
-      "sign",
-      "zip"
-    ],
-    "answer": "sign"
-  },
-  {
-    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
-    "options": [
-      "might",
-      "first",
-      "what"
-    ],
-    "answer": "might"
-  },
-  {
-    "question": "Choose ONLY the one with the letter 'i' for /aɪ/.",
-    "options": [
-      "kill",
-      "tight",
-      "Twitter"
-    ],
-    "answer": "tight"
+    "answer": "Falling - Exclamation"
   }
 ]

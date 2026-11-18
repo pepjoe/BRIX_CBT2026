@@ -1,302 +1,302 @@
 [
   {
-    "question": "Brosse à dent",
+    "question": "What is the French word for soap?",
     "options": [
-      "Plate",
-      "Computer",
-      "Toothbrush",
-      "Toothache"
+      "le savon",
+      "la gomme",
+      "la table",
+      "le tableau"
     ],
-    "answer": "Toothbrush"
+    "answer": "le savon"
   },
   {
-    "question": "Tasse",
+    "question": "What is the French word for broom?",
     "options": [
-      "Chain",
-      "Chair",
-      "Bank",
-      "Teacup"
+      "la voiture",
+      "le vélo",
+      "le balai",
+      "la boîte"
     ],
-    "answer": "Teacup"
+    "answer": "le balai"
   },
   {
-    "question": "Le Professeur",
+    "question": "Which of these means detergent in French?",
     "options": [
-      "Teacher",
-      "Profession",
-      "Career",
-      "Duty"
+      "le marché",
+      "le détergent",
+      "le stylo",
+      "la banque"
     ],
-    "answer": "Teacher"
+    "answer": "le détergent"
   },
   {
-    "question": "L'hiver",
+    "question": "What is the French word for bucket?",
     "options": [
-      "Appreciate",
-      "Travel",
-      "Fault",
-      "Winter"
+      "le seau",
+      "le camion",
+      "le balai",
+      "l'ail"
     ],
-    "answer": "Winter"
+    "answer": "le seau"
   },
   {
-    "question": "Le Médecin",
+    "question": "What is used for washing clothes?",
     "options": [
-      "My Friend",
-      "Pen",
-      "Notebook",
-      "Doctor"
+      "le détergent",
+      "la chemise",
+      "la casserole",
+      "la moto"
     ],
-    "answer": "Doctor"
+    "answer": "le détergent"
   },
   {
-    "question": "Mon Ami",
+    "question": "What is the French word for sponge?",
     "options": [
-      "Monkey",
-      "My Friend",
-      "Fishing",
-      "Skimming"
+      "l'éponge",
+      "les toilettes",
+      "la chambre",
+      "le lit"
     ],
-    "answer": "My Friend"
+    "answer": "l'éponge"
   },
   {
-    "question": "Le Singe",
+    "question": "What is the French word for father?",
     "options": [
-      "Destroy",
-      "Interfere",
-      "Movie",
-      "Monkey"
+      "le père",
+      "la mère",
+      "la sœur",
+      "le fils"
     ],
-    "answer": "Monkey"
+    "answer": "le père"
   },
   {
-    "question": "Le dauphin",
+    "question": "What is the French word for brother?",
     "options": [
-      "Parrot",
-      "Professional",
-      "Table",
-      "Dolphin"
+      "la sœur",
+      "le frère",
+      "le père",
+      "merci"
     ],
-    "answer": "Dolphin"
+    "answer": "le frère"
   },
   {
-    "question": "Le Perroquet",
+    "question": "What is the French word for mother?",
     "options": [
-      "Parrot",
-      "Waste Bin",
-      "Market",
-      "Blackout"
+      "la mère",
+      "le père",
+      "le frère",
+      "le fils"
     ],
-    "answer": "Parrot"
+    "answer": "la mère"
   },
   {
-    "question": "Une Poubelle",
+    "question": "What is the French word for sister?",
     "options": [
-      "Shopping",
-      "Discussion",
-      "Washing Machine",
-      "Waste Bin"
+      "le frère",
+      "la sœur",
+      "le mécanicien",
+      "le petit frère"
     ],
-    "answer": "Waste Bin"
+    "answer": "la sœur"
   },
   {
-    "question": "Une machine à laver",
+    "question": "What is the French word for grandfather?",
     "options": [
-      "Tiring",
-      "Faster",
-      "Sleepy",
-      "Washing Machine"
+      "le petit-fils",
+      "grand-père",
+      "grand-mère",
+      "grand-fils"
     ],
-    "answer": "Washing Machine"
+    "answer": "grand-père"
   },
   {
-    "question": "Un fer à repasser",
+    "question": "What is the French word for grandmother?",
     "options": [
-      "Broom",
-      "Video",
-      "Picture",
-      "Pressing Iron"
+      "grand-mère",
+      "grandfather",
+      "grand-fils",
+      "petit-fils"
     ],
-    "answer": "Pressing Iron"
+    "answer": "grand-mère"
   },
   {
-    "question": "Un balai",
+    "question": "How do you say summer in French?",
     "options": [
-      "Broom",
-      "Soft",
-      "Hard",
-      "Soap"
+      "l'été",
+      "l'automne",
+      "le printemps",
+      "l'hiver"
     ],
-    "answer": "Broom"
+    "answer": "l'été"
   },
   {
-    "question": "Un Savon",
+    "question": "What is the meaning of spring in French?",
     "options": [
-      "Soap",
-      "Lawyer",
-      "Operator",
-      "Teacher"
+      "printemps",
+      "l'hiver",
+      "l'été",
+      "l'automne"
     ],
-    "answer": "Soap"
+    "answer": "printemps"
   },
   {
-    "question": "Le Avocat",
+    "question": "What is the French word for autumn?",
     "options": [
-      "Typing",
-      "Lawyer",
-      "Office",
-      "Privacy"
+      "l'automne",
+      "l'hiver",
+      "printemps",
+      "l'été"
     ],
-    "answer": "Lawyer"
+    "answer": "l'automne"
   },
   {
-    "question": "Le bureau",
+    "question": "What season is usually the coolest?",
     "options": [
-      "Office",
-      "Refrigerating",
-      "Museum",
-      "Refining"
+      "l'hiver",
+      "l'automne",
+      "printemps",
+      "l'été"
     ],
-    "answer": "Office"
+    "answer": "l'hiver"
   },
   {
-    "question": "Le musée",
+    "question": "Which season is usually the hottest?",
     "options": [
-      "Yes",
-      "No",
-      "Swimming Pool",
-      "Museum"
+      "l'été",
+      "printemps",
+      "l'hiver",
+      "l'harmattan"
     ],
-    "answer": "Museum"
+    "answer": "l'été"
   },
   {
-    "question": "La Piscine",
+    "question": "What is the French word for red?",
     "options": [
-      "Swimming Pool",
-      "Social Network",
-      "Blogging",
-      "Shopping"
+      "rouge",
+      "bleu",
+      "capitaine",
+      "noir"
     ],
-    "answer": "Swimming Pool"
+    "answer": "rouge"
   },
   {
-    "question": "Le Foret",
+    "question": "Which word stands for green?",
     "options": [
-      "Forest",
-      "Spring",
-      "Aided",
-      "Winter"
+      "vert",
+      "rose",
+      "le livre",
+      "noir"
     ],
-    "answer": "Forest"
+    "answer": "vert"
   },
   {
-    "question": "Le Printemps",
+    "question": "Which colour means black in French?",
     "options": [
-      "Warm",
-      "Spring",
-      "Peace",
-      "It is Hot"
+      "orange",
+      "jaune",
+      "noir",
+      "rouge"
     ],
-    "answer": "Spring"
+    "answer": "noir"
   },
   {
-    "question": "Il fait chaud",
+    "question": "What colour is called jaune?",
     "options": [
-      "It is Hot",
-      "Igbo Woman",
-      "Japanese Woman",
-      "Japanese Man"
+      "Black",
+      "Orange",
+      "Yellow",
+      "Green"
     ],
-    "answer": "It is Hot"
+    "answer": "Yellow"
   },
   {
-    "question": "Une japonaise",
+    "question": "What does arc-en-ciel mean?",
     "options": [
-      "Transportation",
-      "Relaxation",
-      "Japanese Woman",
-      "The House is Small"
+      "Brown",
+      "Rainbow",
+      "Pink",
+      "Silver"
     ],
-    "answer": "Japanese Woman"
+    "answer": "Rainbow"
   },
   {
-    "question": "La maison est grande",
+    "question": "What colour is called rose in French?",
     "options": [
-      "The House is Big",
-      "Homework",
-      "Stop",
-      "The Cat is Small"
+      "Pink",
+      "Purple",
+      "Brown",
+      "Black"
     ],
-    "answer": "The House is Big"
+    "answer": "Pink"
   },
   {
-    "question": "Le Chat est Petit",
+    "question": "When I say il pleut, what do I mean?",
     "options": [
-      "Diary",
-      "Trip",
-      "The Cat is Small",
-      "Social Media"
+      "It is hot",
+      "It is cold",
+      "It is raining",
+      "It is dry"
     ],
-    "answer": "The Cat is Small"
+    "answer": "It is raining"
   },
   {
-    "question": "Elle est Chinoise",
+    "question": "What colour in French is called blanc?",
     "options": [
-      "She is Chinese",
-      "Study",
-      "Teacher",
-      "The Ball is Red"
+      "White",
+      "Black",
+      "Green",
+      "Yellow"
     ],
-    "answer": "She is Chinese"
+    "answer": "White"
   },
   {
-    "question": "La Ballon est rouge",
+    "question": "What is the French word for giraffe?",
     "options": [
-      "The Ball is Red",
-      "Keep Records",
-      "I am a Pupil",
-      "Pray for the Nation"
+      "Turkey",
+      "girafe",
+      "singe",
+      "gorille"
     ],
-    "answer": "The Ball is Red"
+    "answer": "girafe"
   },
   {
-    "question": "Je suis un élève",
+    "question": "Which animal is called tigre in French?",
     "options": [
-      "How Old Are You?",
-      "Picking",
-      "I am a Pupil",
-      "Please"
+      "Cat",
+      "Dog",
+      "Rat",
+      "Tiger"
     ],
-    "answer": "I am a Pupil"
+    "answer": "Tiger"
   },
   {
-    "question": "Quel âge as-tu ?",
+    "question": "What is snake called in French?",
     "options": [
-      "House",
-      "How Old Are You?",
-      "Church",
-      "Market"
+      "serpent",
+      "spirit",
+      "l'esprit",
+      "crocodile"
     ],
-    "answer": "How Old Are You?"
+    "answer": "serpent"
   },
   {
-    "question": "Joyeux Anniversaire",
+    "question": "What is the French word for monkey?",
     "options": [
-      "Interfaces",
-      "Fights",
-      "Happy Birthday",
-      "Instructs"
+      "le singe",
+      "le gorille",
+      "la fenêtre",
+      "la porte"
     ],
-    "answer": "Happy Birthday"
+    "answer": "le singe"
   },
   {
-    "question": "Nous sommes les élèves de Brixtonn",
+    "question": "What is the French word for elephant?",
     "options": [
-      "Come Home",
-      "Communication",
-      "We are Pupils of Brixtonn School",
-      "Hello"
+      "l'éléphant",
+      "le gorille",
+      "la girafe",
+      "l'hippopotame"
     ],
-    "answer": "We are Pupils of Brixtonn School"
+    "answer": "l'éléphant"
   }
 ]

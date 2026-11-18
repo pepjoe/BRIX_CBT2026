@@ -1,152 +1,302 @@
 [
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["chain", "chief", "chair", "Chevron"],
-    "answer": "Chevron"
+    "question": "What do we learn in presentation?",
+    "options": [
+      "To colour books",
+      "To write a short news report and present like a TV/radio anchor",
+      "To count numbers",
+      "To draw maps"
+    ],
+    "answer": "To write a short news report and present like a TV/radio anchor"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["chef", "click", "cheap", "children"],
-    "answer": "chef"
+    "question": "What should a news voice be like?",
+    "options": [
+      "Low and silent",
+      "Fast and unclear",
+      "Clear voice, correct stress, proper rising and falling tones",
+      "Shouting"
+    ],
+    "answer": "Clear voice, correct stress, proper rising and falling tones"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["cheque", "cheat", "cliché", "preach"],
-    "answer": "cliché"
+    "question": "How many sentences should the news report be?",
+    "options": [
+      "Long",
+      "One sentence",
+      "100 sentences",
+      "Moderate"
+    ],
+    "answer": "Moderate"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["batch", "clinch", "chips", "chassis"],
-    "answer": "chassis"
+    "question": "How should you present news orally?",
+    "options": [
+      "With confidence and clear articulation",
+      "Fast and running",
+      "With fear and low voice",
+      "Silently"
+    ],
+    "answer": "With confidence and clear articulation"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["chase", "breach", "lunch", "chalet"],
-    "answer": "chalet"
+    "question": "How should you start a news report?",
+    "options": [
+      "With a number",
+      "With the most important fact",
+      "With the last fact",
+      "With a colour"
+    ],
+    "answer": "With the most important fact"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["chip", "chevrolet", "speech", "child"],
-    "answer": "chevrolet"
+    "question": "What kind of sentences should you use in news headlines?",
+    "options": [
+      "Very long sentences",
+      "No sentences",
+      "Very short sentences",
+      "Silent sentences"
+    ],
+    "answer": "Very short sentences"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["cheap", "chalk", "cheese", "champagne"],
-    "answer": "champagne"
+    "question": "What tense should you use in news?",
+    "options": [
+      "Past tense only",
+      "Future tense only",
+      "No tense",
+      "Present tense"
+    ],
+    "answer": "Present tense"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["patch", "bleach", "bunch", "Charlotte"],
-    "answer": "Charlotte"
+    "question": "Why do we use short sentences in news?",
+    "options": [
+      "To make it clear and easy to understand",
+      "To make it long to understand",
+      "To hide information",
+      "To confuse the listeners"
+    ],
+    "answer": "To make it clear and easy to understand"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["punch", "chaperone", "French", "wrench"],
-    "answer": "chaperone"
+    "question": "In a presentation, the voice should be __",
+    "options": [
+      "Whisper",
+      "Loud, clear, not too fast",
+      "Fast",
+      "Silent"
+    ],
+    "answer": "Loud, clear, not too fast"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["which", "chivalry", "catch", "munch"],
-    "answer": "chivalry"
+    "question": "Anchor means __",
+    "options": [
+      "Place where news is made",
+      "Short news programme",
+      "Main news presenter",
+      "Detailed account"
+    ],
+    "answer": "Main news presenter"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["fracture", "punctuation", "tention", "section"],
-    "answer": "fracture"
+    "question": "Bulletin means __",
+    "options": [
+      "Main news presenter",
+      "Boldness",
+      "Place where news is made",
+      "Regular news programme"
+    ],
+    "answer": "Regular news programme"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["mission", "picture", "mansion", "attention"],
-    "answer": "picture"
+    "question": "Intonation means __",
+    "options": [
+      "Rise and fall of tone",
+      "Clear tone",
+      "Boldness of the voice",
+      "Happening now"
+    ],
+    "answer": "Rise and fall of tone"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["attraction", "passion", "mixture", "session"],
-    "answer": "mixture"
+    "question": "Articulation means __",
+    "options": [
+      "Rise and fall of tone",
+      "Clear speaking",
+      "Main presenter",
+      "Choice of words"
+    ],
+    "answer": "Clear speaking"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["emission", "division", "condition", "mission"],
-    "answer": "division"
+    "question": "Confidence means __",
+    "options": [
+      "Fear",
+      "Timidity",
+      "Boldness / courage",
+      "Low voice"
+    ],
+    "answer": "Boldness / courage"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["sedition", "solution", "capture", "ejection"],
-    "answer": "capture"
+    "question": "Current means __",
+    "options": [
+      "Never happens",
+      "Happened long ago",
+      "Will happen next year",
+      "Happening now"
+    ],
+    "answer": "Happening now"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["creature", "production", "affection", "defection"],
-    "answer": "creature"
+    "question": "Report means __",
+    "options": [
+      "Detailed account",
+      "Title only",
+      "Colour",
+      "Number"
+    ],
+    "answer": "Detailed account"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["sponsor", "leisure", "sensor", "saint"],
-    "answer": "leisure"
+    "question": "Studio means __",
+    "options": [
+      "Main news presenter",
+      "Place where news is made",
+      "Listeners",
+      "Boldness"
+    ],
+    "answer": "Place where news is made"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["simple", "erosion", "same", "serve"],
-    "answer": "erosion"
+    "question": "A good anchor needs confidence because __",
+    "options": [
+      "He must hide",
+      "He must whisper",
+      "He must speak boldly before an audience",
+      "He must sleep"
+    ],
+    "answer": "He must speak boldly before an audience"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["revision", "permission", "emission", "compulsion"],
-    "answer": "revision"
+    "question": "\"Good MORNING and WELCOME to the NEWS.\" - What tone is used at the end?",
+    "options": [
+      "Rising - Yes/No question",
+      "No tone",
+      "Silent",
+      "Falling - Statement"
+    ],
+    "answer": "Falling - Statement"
   },
   {
-    "question": "Choose from the words labelled A–D the odd item from amongst all.",
-    "options": ["scene", "sink", "research", "envision"],
-    "answer": "sink"
+    "question": "\"First, The HEADLINE - Today is SCHOOL CLEAN-UP DAY.\" - The HEADLINE is __",
+    "options": [
+      "Title of news",
+      "Conclusion",
+      "Body",
+      "News details"
+    ],
+    "answer": "Title of news"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["vase", "clerk", "bass", "brash"],
-    "answer": "brash"
+    "question": "\"The EVENT will HOLD on SATURDAY at NINE O'CLOCK.\" - This is giving what?",
+    "options": [
+      "Colour",
+      "Telling time",
+      "Number only",
+      "Giving details"
+    ],
+    "answer": "Telling time"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["card", "made", "cash", "damn"],
-    "answer": "cash"
+    "question": "\"There will be SINGING, dancing, and GAMES.\" - The list shows __",
+    "options": [
+      "Who will come",
+      "No event",
+      "What will happen",
+      "Only headline"
+    ],
+    "answer": "What will happen"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["space", "spat", "part", "baby"],
-    "answer": "space"
+    "question": "\"Parents are WARMLY INVITED to ATTEND.\" - Who is invited?",
+    "options": [
+      "Children only",
+      "Friends and family",
+      "Teachers only",
+      "Parents"
+    ],
+    "answer": "Parents"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["car", "flat", "aah!", "tarred"],
-    "answer": "flat"
+    "question": "\"THANK you for LISTENING.\" - This is the __",
+    "options": [
+      "Conclusion / final remark",
+      "Headline",
+      "Body",
+      "Introductory sentence"
+    ],
+    "answer": "Conclusion / final remark"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["blush", "bar", "bat", "star"],
-    "answer": "bat"
+    "question": "Why do we stress MORNING, WELCOME, and NEWS in \"Good MORNING and WELCOME to the NEWS\"?",
+    "options": [
+      "They are function words",
+      "They are content words",
+      "They are small words",
+      "They are irrelevant words"
+    ],
+    "answer": "They are content words"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["past", "can", "squints", "scared"],
-    "answer": "can"
+    "question": "In \"The EVENT will HOLD on SATURDAY at NINE O'CLOCK\", EVENT, SATURDAY, NINE, and CLOCK are stressed because __",
+    "options": [
+      "They are headlines",
+      "They are not important",
+      "They are content words carrying news facts",
+      "They are weak"
+    ],
+    "answer": "They are content words carrying news facts"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["splash", "cast", "charge", "make"],
-    "answer": "splash"
+    "question": "Which sentence uses correct intonation for a statement?",
+    "options": [
+      "Good Morning and Welcome to the News (rising tone)",
+      "Are you coming? (rising tone)",
+      "Do you like it? (rising tone)",
+      "Good Morning and Welcome to the News (falling tone)"
+    ],
+    "answer": "Good Morning and Welcome to the News (falling tone)"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["shame", "spa", "farther", "spat"],
-    "answer": "spat"
+    "question": "If you say the news too fast and unclearly, the audience will __",
+    "options": [
+      "Not understand",
+      "Understand better",
+      "Clap more",
+      "Sleep well"
+    ],
+    "answer": "Not understand"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["harsh", "hat", "half", "palm"],
-    "answer": "hat"
+    "question": "A news report needs a headline, body, and conclusion. Which is the body?",
+    "options": [
+      "Good Morning",
+      "The event will hold on Saturday at nine o'clock; there will be singing",
+      "Thank you for listening",
+      "First, the headline"
+    ],
+    "answer": "The event will hold on Saturday at nine o'clock; there will be singing"
   },
   {
-    "question": "Choose ONLY the one with the short /æ/ from the following options.",
-    "options": ["rash", "bark", "bath", "path"],
-    "answer": "rash"
+    "question": "Which is the best news-writing order?",
+    "options": [
+      "Thank you - Headline - Details",
+      "Invitation - Thank you - Headline",
+      "Headline - Most important fact - Details - Invitation - Thank you",
+      "No order - just write anything"
+    ],
+    "answer": "Headline - Most important fact - Details - Invitation - Thank you"
   }
 ]

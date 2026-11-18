@@ -1,152 +1,202 @@
 [
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["cell", "cave", "can"],
-    "answer": "cell"
+    "question": "What is intonation?",
+    "options": [
+      "The rise and fall of voice in speech",
+      "The colour of a book",
+      "The number of words",
+      "The size of a pen"
+    ],
+    "answer": "The rise and fall of voice in speech"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["captain", "ceiling", "cream"],
-    "answer": "ceiling"
+    "question": "How many main types of intonation are there?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["create", "celebrate", "cause"],
-    "answer": "celebrate"
+    "question": "And the two main types are __",
+    "options": [
+      "Loud and Low",
+      "Fast and Slow",
+      "Rising and Falling",
+      "Short and Long"
+    ],
+    "answer": "Rising and Falling"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["crap", "card", "Celsius"],
-    "answer": "Celsius"
+    "question": "Rising tone means the voice goes __",
+    "options": [
+      "Down at the end",
+      "Flat at the end",
+      "Silent at the end",
+      "Up at the end"
+    ],
+    "answer": "Up at the end"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["centre", "cradle", "came"],
-    "answer": "centre"
+    "question": "Falling tone means the voice goes __",
+    "options": [
+      "Down at the end",
+      "Up at the end",
+      "Flat at the end",
+      "Silent at the end"
+    ],
+    "answer": "Down at the end"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["camp", "cellophane", "called"],
-    "answer": "cellophane"
+    "question": "Which sentence uses rising tone?",
+    "options": [
+      "I am going home.",
+      "Are you hungry?",
+      "Open the door.",
+      "I love mango."
+    ],
+    "answer": "Are you hungry?"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["check", "cat", "century"],
-    "answer": "century"
+    "question": "Which sentence uses rising tone?",
+    "options": [
+      "Sit down please.",
+      "The moon is bright.",
+      "Do you like yam?",
+      "What is your name?"
+    ],
+    "answer": "Do you like yam?"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["Certificate", "cancel", "ocean"],
-    "answer": "Certificate"
+    "question": "Which sentence uses falling tone?",
+    "options": [
+      "Is it hot?",
+      "Are you ready?",
+      "Can you help me?",
+      "I am happy."
+    ],
+    "answer": "I am happy."
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["cake", "cephalic", "credit"],
-    "answer": "cephalic"
+    "question": "Which sentence uses falling tone?",
+    "options": [
+      "What is your age?",
+      "Is this your pen?",
+      "Are you coming home?",
+      "Do you like music?"
+    ],
+    "answer": "What is your age?"
   },
   {
-    "question": "Choose ONLY the word where the letter “c” has the /s/ sound.",
-    "options": ["candy", "could", "center"],
-    "answer": "center"
+    "question": "Wh-questions like What, Where, and When use __",
+    "options": [
+      "Rising tone",
+      "Falling tone",
+      "No tone",
+      "Flat tone"
+    ],
+    "answer": "Falling tone"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["sample", "fracas", "sir"],
-    "answer": "fracas"
+    "question": "In a sentence, some words are stressed and some are __",
+    "options": [
+      "Omitted",
+      "All stressed",
+      "Unstressed",
+      "Silent"
+    ],
+    "answer": "Unstressed"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["sure", "sip", "islet"],
-    "answer": "islet"
+    "question": "Which words do we stress in a sentence?",
+    "options": [
+      "Function words",
+      "Small words",
+      "Weak words",
+      "Content words"
+    ],
+    "answer": "Content words"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["debris", "sister", "since"],
-    "answer": "debris"
+    "question": "Which words do we NOT stress in a sentence?",
+    "options": [
+      "Function words",
+      "Content words",
+      "Nouns",
+      "Main verbs"
+    ],
+    "answer": "Function words"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["friends", "chassis", "helps"],
-    "answer": "chassis"
+    "question": "Content words are __",
+    "options": [
+      "a, an, the, is, to, of",
+      "Nouns, verbs, adjectives, adverbs",
+      "in, on, at",
+      "and, but, or"
+    ],
+    "answer": "Nouns, verbs, adjectives, adverbs"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["chamois", "chairs", "deeds"],
-    "answer": "chamois"
+    "question": "Function words are __",
+    "options": [
+      "Dog, Run, Big, Quickly",
+      "Eat, Book, Garden",
+      "a, an, the, is, am, are",
+      "Fast, Happy"
+    ],
+    "answer": "a, an, the, is, am, are"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["Send", "side", "Isle"],
-    "answer": "Isle"
+    "question": "Which is a content word?",
+    "options": [
+      "Me",
+      "The",
+      "Is",
+      "Mango"
+    ],
+    "answer": "Mango"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["reps", "corps", "safe"],
-    "answer": "corps"
+    "question": "Which is a function word?",
+    "options": [
+      "An",
+      "Teacher",
+      "Quickly",
+      "Beautiful"
+    ],
+    "answer": "An"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["see", "sweet", "rendezvous"],
-    "answer": "rendezvous"
+    "question": "\"The cat is in the house.\" The stressed words are __",
+    "options": [
+      "The, Is, In, The",
+      "Cat, House",
+      "Is, In",
+      "The only"
+    ],
+    "answer": "Cat, House"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["visit", "viscount", "vesper"],
-    "answer": "viscount"
+    "question": "\"She is writing a letter.\" The stressed words are __",
+    "options": [
+      "She, Is, A",
+      "She, Is",
+      "Writing, Letter",
+      "Is, A"
+    ],
+    "answer": "Writing, Letter"
   },
   {
-    "question": "Choose ONLY the one with a silent 's' among the following words.",
-    "options": ["Illinois", "traces", "switch"],
-    "answer": "Illinois"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["check", "cedar", "cancer"],
-    "answer": "cancer"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["preach", "class", "cement"],
-    "answer": "class"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["custom", "city", "cheap"],
-    "answer": "custom"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["cheese", "crazy", "Cena"],
-    "answer": "crazy"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["census", "sense", "cramps"],
-    "answer": "cramps"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["century", "keep", "candle"],
-    "answer": "candle"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["carpet", "deep", "cede"],
-    "answer": "carpet"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["centre", "sustain", "crepe"],
-    "answer": "crepe"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["chairs", "censer", "cross"],
-    "answer": "cross"
-  },
-  {
-    "question": "Choose ONLY the one where 'c' is realized as the sound /k/.",
-    "options": ["certain", "crate", "seems"],
-    "answer": "crate"
+    "question": "Stressed words are said __",
+    "options": [
+      "Quieter and shorter",
+      "Silently",
+      "Very soft",
+      "Louder, longer and higher"
+    ],
+    "answer": "Louder, longer and higher"
   }
 ]

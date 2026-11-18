@@ -1,0 +1,312 @@
+[
+  {
+    "question": "How many vowel letters are there in the alphabet?",
+    "options": [
+      "10",
+      "2",
+      "5",
+      "26"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "/iː/ as in SEE is a __",
+    "options": [
+      "Short vowel",
+      "Consonant",
+      "Diphthong",
+      "Long vowel"
+    ],
+    "answer": "Long vowel"
+  },
+  {
+    "question": "/ɪ/ as in SIT is a __",
+    "options": [
+      "Short vowel",
+      "Long vowel",
+      "Consonant",
+      "Diphthong"
+    ],
+    "answer": "Short vowel"
+  },
+  {
+    "question": "Which word has the /iː/ sound?",
+    "options": [
+      "Sit",
+      "Tree",
+      "Cat",
+      "Dog /dɒɡ/"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "question": "Which word has the /ɪ/ sound?",
+    "options": [
+      "See",
+      "Car",
+      "Pin",
+      "Boy"
+    ],
+    "answer": "Pin"
+  },
+  {
+    "question": "/e/ as in BED and /æ/ as in CAT - The difference is __",
+    "options": [
+      "Both are vowels",
+      "Both are consonants",
+      "No difference",
+      "/e/ is in BED, while /æ/ is more open in CAT"
+    ],
+    "answer": "/e/ is in BED, while /æ/ is more open in CAT"
+  },
+  {
+    "question": "Which word has the /e/ sound?",
+    "options": [
+      "Pen",
+      "Bad",
+      "Beat",
+      "Bird"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which word has the /æ/ sound?",
+    "options": [
+      "Bag",
+      "Can",
+      "Bed",
+      "Cup"
+    ],
+    "answer": "Can"
+  },
+  {
+    "question": "/ɑː/ as in CAR is __",
+    "options": [
+      "Short vowel",
+      "Consonant",
+      "Long vowel",
+      "A diphthong"
+    ],
+    "answer": "Long vowel"
+  },
+  {
+    "question": "/ɒ/ as in DOG and /ɔː/ as in DOOR - The difference is __",
+    "options": [
+      "Both are the same",
+      "Both are consonants",
+      "Both are diphthongs",
+      "/ɒ/ is short, while /ɔː/ is long"
+    ],
+    "answer": "/ɒ/ is short, while /ɔː/ is long"
+  },
+  {
+    "question": "Which word has the /ɒ/ sound?",
+    "options": [
+      "Long",
+      "Shut",
+      "Hut",
+      "Sports"
+    ],
+    "answer": "Long"
+  },
+  {
+    "question": "Which word has the /ɔː/ sound?",
+    "options": [
+      "Hot",
+      "Ball",
+      "Dog",
+      "Above"
+    ],
+    "answer": "Ball"
+  },
+  {
+    "question": "/ʌ/ as in CUP and /ɜː/ as in BIRD - /ɜː/ is __",
+    "options": [
+      "Short vowel",
+      "Consonant",
+      "Long vowel",
+      "Silent"
+    ],
+    "answer": "Long vowel"
+  },
+  {
+    "question": "Which word has the /ʌ/ sound?",
+    "options": [
+      "Cop",
+      "Crop",
+      "Slow",
+      "Sun"
+    ],
+    "answer": "Sun"
+  },
+  {
+    "question": "The /ə/ sound, called schwa, is found in __",
+    "options": [
+      "Unstressed syllables in teacher",
+      "Only stressed syllables",
+      "Words containing th",
+      "Only consonants"
+    ],
+    "answer": "Unstressed syllables in teacher"
+  },
+  {
+    "question": "The /ʒ/ sound is a __",
+    "options": [
+      "Vowel",
+      "Consonant",
+      "Diphthong",
+      "Silent sound"
+    ],
+    "answer": "Consonant"
+  },
+  {
+    "question": "/ʒ/ is __",
+    "options": [
+      "Voiceless",
+      "No voice",
+      "Voiced",
+      "A vowel"
+    ],
+    "answer": "Voiced"
+  },
+  {
+    "question": "Which sound is voiceless and opposite to /ʒ/?",
+    "options": [
+      "/θ/",
+      "/ð/",
+      "/æ/",
+      "/ʃ/"
+    ],
+    "answer": "/ʃ/"
+  },
+  {
+    "question": "Where do we mostly find /ʒ/ in words?",
+    "options": [
+      "Middle of words",
+      "Always at the start",
+      "Never in the middle",
+      "Only at the start"
+    ],
+    "answer": "Middle of words"
+  },
+  {
+    "question": "Which word contains the /ʒ/ sound?",
+    "options": [
+      "Ship",
+      "Measure",
+      "Think",
+      "Usual"
+    ],
+    "answer": "Measure"
+  },
+  {
+    "question": "Which word contains the /ʒ/ sound?",
+    "options": [
+      "Cat",
+      "Cup",
+      "Casual",
+      "Garage"
+    ],
+    "answer": "Casual"
+  },
+  {
+    "question": "The spelling patterns that often represent /ʒ/ are __",
+    "options": [
+      "-tion always represents /ʒ/",
+      "-sh always represents /ʒ/",
+      "-th",
+      "-sion, -sure"
+    ],
+    "answer": "-sion, -sure"
+  },
+  {
+    "question": "/ʃ/ in SHIP is voiceless, while its opposite in VISION is __",
+    "options": [
+      "Voiced",
+      "Voiceless also",
+      "Vowel",
+      "No sound"
+    ],
+    "answer": "Voiced"
+  },
+  {
+    "question": "Today is what day?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "answer": "Monday"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word USUAL.",
+    "options": [
+      "/ˈjuːʒəl/",
+      "/ˈjuːzuəl/",
+      "/ˈjuːʒuəl/",
+      "/ˈjuːʃuəl/"
+    ],
+    "answer": "/ˈjuːʒuəl/"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word GARAGE.",
+    "options": [
+      "/ˈɡærɑːdʒ/",
+      "/ˈɡærɪdʒ/",
+      "/ˈɡɑːrɑːʒ/",
+      "/ˈɡærɑːʒ/"
+    ],
+    "answer": "/ˈɡærɑːʒ/"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word DECISION.",
+    "options": [
+      "/dɪˈsɪʒn/",
+      "/dɪˈsɪʃn/",
+      "/dəˈsɪʒn/",
+      "/dɪˈsiːʒn/"
+    ],
+    "answer": "/dɪˈsɪʒn/"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word EXPLOSION.",
+    "options": [
+      "/ekˈspləʊʒn/",
+      "/ɪkˈspləʊʒn/",
+      "/ɪkˈspləʊʃn/",
+      "/ɪkˈsplɔːʒn/"
+    ],
+    "answer": "/ɪkˈspləʊʒn/"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word TELEVISION.",
+    "options": [
+      "/ˈtelɪvɪʃn/",
+      "/ˈteləvɪʒn/",
+      "/ˈtelɪvɪʒn/",
+      "/ˈteliːvɪʒn/"
+    ],
+    "answer": "/ˈtelɪvɪʒn/"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word CONCLUSION.",
+    "options": [
+      "/kənˈkluːʃn/",
+      "/kɔnˈkluːʒn/",
+      "/kənˈkluːʒən/",
+      "/kənˈkluːʒn/"
+    ],
+    "answer": "/kənˈkluːʒn/"
+  },
+  {
+    "question": "Choose the option that has the correct transcription of the word CONFUSION.",
+    "options": [
+      "/kənˈfjuːʒn/",
+      "/kənˈfjuːʃn/",
+      "/kɔnˈfjuːʒn/",
+      "/kənˈfjuːʒən/"
+    ],
+    "answer": "/kənˈfjuːʒn/"
+  }
+]
