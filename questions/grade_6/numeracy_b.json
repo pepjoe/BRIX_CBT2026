@@ -1,15 +1,5 @@
 [
   {
-    "question": "What is the grand total when you combine 237,685 and 68,437?",
-    "options": [
-      "306,122",
-      "305,112",
-      "306,022",
-      "316,122"
-    ],
-    "answer": "306,122"
-  },
-  {
     "question": "What remains if you subtract 27,983 from 43,571?",
     "options": [
       "15,588",
@@ -18,36 +8,6 @@
       "16,488"
     ],
     "answer": "15,588"
-  },
-  {
-    "question": "What is the final value of the expression 123,004 - 78,475 + 17,298?",
-    "options": [
-      "61,827",
-      "61,727",
-      "62,827",
-      "60,827"
-    ],
-    "answer": "61,827"
-  },
-  {
-    "question": "If two numbers added together yield 2,716,935 and one of them is 1,529,837, what is the hidden second number?",
-    "options": [
-      "1,187,098",
-      "1,187,108",
-      "1,287,098",
-      "1,197,098"
-    ],
-    "answer": "1,187,098"
-  },
-  {
-    "question": "What is the product when you multiply 396 by 258?",
-    "options": [
-      "102,168",
-      "101,168",
-      "102,068",
-      "103,168"
-    ],
-    "answer": "102,168"
   },
   {
     "question": "What is the product when 453 is multiplied by 290?",
@@ -70,16 +30,6 @@
     "answer": "22,060"
   },
   {
-    "question": "What number must be added to the difference between 570,864 and 496,758 to reach exactly 81,000?",
-    "options": [
-      "6,894",
-      "6,884",
-      "7,894",
-      "5,894"
-    ],
-    "answer": "6,894"
-  },
-  {
     "question": "What is the product when you multiply 241 by 625?",
     "options": [
       "150,625",
@@ -90,36 +40,6 @@
     "answer": "150,625"
   },
   {
-    "question": "What is the product of 63,002 and 112?",
-    "options": [
-      "7,056,224",
-      "7,056,324",
-      "7,046,224",
-      "7,156,224"
-    ],
-    "answer": "7,056,224"
-  },
-  {
-    "question": "Taking away 21,486,758 from 30,418,697 leaves a balance of what?",
-    "options": [
-      "8,931,939",
-      "8,932,939",
-      "8,831,939",
-      "9,031,939"
-    ],
-    "answer": "8,931,939"
-  },
-  {
-    "question": "The total product obtained when you multiply 222,573 by 395 is:",
-    "options": [
-      "87,916,335",
-      "87,906,335",
-      "88,916,335",
-      "86,916,335"
-    ],
-    "answer": "87,916,335"
-  },
-  {
     "question": "Think of a mystery number and add 37,845 to it. If the resulting sum is 65,431, the original number is:",
     "options": [
       "27,586",
@@ -128,76 +48,6 @@
       "26,586"
     ],
     "answer": "27,586"
-  },
-  {
-    "question": "If a certain secret number when divided by 168 gives a quotient of 1,305, the original number is:",
-    "options": [
-      "219,240",
-      "218,240",
-      "219,340",
-      "220,240"
-    ],
-    "answer": "219,240"
-  },
-  {
-    "question": "Multiplying 48,271 by 135 yields a total product of:",
-    "options": [
-      "6,516,585",
-      "6,515,585",
-      "6,416,585",
-      "6,616,585"
-    ],
-    "answer": "6,516,585"
-  },
-  {
-    "question": "Total population is 2,453,160. If 1,058,345 are men and 879,346 are women, how many children live in the city?",
-    "options": [
-      "515,469",
-      "514,469",
-      "525,469",
-      "515,369"
-    ],
-    "answer": "515,469"
-  },
-  {
-    "question": "A new motorcycle costs 125,450 Naira. If a man currently has 87,960 Naira saved, how much more money does he need?",
-    "options": [
-      "37,490 Naira",
-      "37,590 Naira",
-      "36,490 Naira",
-      "38,490 Naira"
-    ],
-    "answer": "37,490 Naira"
-  },
-  {
-    "question": "A wholesale dealer sells one bag of maize for 245 Naira. How much will a community farm pay to purchase 3,675 similar bags?",
-    "options": [
-      "900,375 Naira",
-      "900,275 Naira",
-      "890,375 Naira",
-      "910,375 Naira"
-    ],
-    "answer": "900,375 Naira"
-  },
-  {
-    "question": "A bakery owner buys flour at 769 Naira per bag. Find the total cost of buying 645 similar bags.",
-    "options": [
-      "496,005 Naira",
-      "495,005 Naira",
-      "496,105 Naira",
-      "486,005 Naira"
-    ],
-    "answer": "496,005 Naira"
-  },
-  {
-    "question": "A publisher prints a textbook containing 125 pages. If each page contains 132 lines of text, find the total number of lines.",
-    "options": [
-      "16,500",
-      "16,400",
-      "17,500",
-      "15,500"
-    ],
-    "answer": "16,500"
   },
   {
     "question": "What is 45,000 + 23,500 - 12,000?",
@@ -290,14 +140,64 @@
     "answer": "62,220"
   },
   {
-    "question": "If a farmer harvests 4,500 oranges and packs them in boxes of 50, how many boxes does he use?",
+    "question": "What is 450 + 320 + 130?",
     "options": [
-      "90",
-      "95",
-      "85",
-      "100"
+      "900",
+      "800",
+      "950",
+      "850"
     ],
-    "answer": "90"
+    "answer": "900"
+  },
+  {
+    "question": "Subtract 4,250 from 10,000.",
+    "options": [
+      "5,750",
+      "5,850",
+      "6,750",
+      "5,250"
+    ],
+    "answer": "5,750"
+  },
+  {
+    "question": "Multiply 125 by 8.",
+    "options": [
+      "1,000",
+      "900",
+      "1,200",
+      "800"
+    ],
+    "answer": "1,000"
+  },
+  {
+    "question": "Divide 3,600 by 12.",
+    "options": [
+      "300",
+      "30",
+      "3,000",
+      "360"
+    ],
+    "answer": "300"
+  },
+  {
+    "question": "What is the sum of 25,000 and 15,500?",
+    "options": [
+      "40,500",
+      "40,000",
+      "39,500",
+      "41,500"
+    ],
+    "answer": "40,500"
+  },
+  {
+    "question": "Find the product of 150 and 20.",
+    "options": [
+      "3,000",
+      "300",
+      "30,000",
+      "1,500"
+    ],
+    "answer": "3,000"
   },
   {
     "question": "What name is given to algebraic terms that have identical variable letters?",
@@ -390,16 +290,6 @@
     "answer": "8ab"
   },
   {
-    "question": "Which of the following shows all the correct factors of 11ab?",
-    "options": [
-      "1, 11, a, b, 11a, 11b, ab, 11ab",
-      "1, 11, a, b",
-      "11, a, b",
-      "1, 11ab"
-    ],
-    "answer": "1, 11, a, b, 11a, 11b, ab, 11ab"
-  },
-  {
     "question": "Unlike terms are algebraic terms that contain different variable letters and cannot be added or subtracted directly.",
     "options": [
       "True",
@@ -460,46 +350,6 @@
     "answer": "5a + 4y"
   },
   {
-    "question": "Rearrange and simplify 8p + 71q - 7q + 2p:",
-    "options": [
-      "10p + 64q",
-      "10p + 78q",
-      "6p + 64q",
-      "8p + 64q"
-    ],
-    "answer": "10p + 64q"
-  },
-  {
-    "question": "Find the product of 4b x 7bd x 6bd:",
-    "options": [
-      "168 b squared d squared",
-      "24bd",
-      "168bd",
-      "28 b squared d"
-    ],
-    "answer": "168 b squared d squared"
-  },
-  {
-    "question": "Find the product of 8q x 4p x 3pq:",
-    "options": [
-      "96 p q squared",
-      "96pq",
-      "32 p squared q",
-      "24pq"
-    ],
-    "answer": "96 p q squared"
-  },
-  {
-    "question": "Simplify the algebraic fraction (27a squared b + 54ab squared) / 18ab:",
-    "options": [
-      "(3a + 6b) / 2",
-      "3a + 3b",
-      "a + 2b",
-      "(a + b) / 2"
-    ],
-    "answer": "(3a + 6b) / 2"
-  },
-  {
     "question": "Simplify 24a / 6:",
     "options": [
       "4a",
@@ -510,16 +360,6 @@
     "answer": "4a"
   },
   {
-    "question": "Determine the HCF of 12c and 18y:",
-    "options": [
-      "6",
-      "36cy",
-      "2c",
-      "3y"
-    ],
-    "answer": "6"
-  },
-  {
     "question": "Determine the HCF of 4m and 8mn:",
     "options": [
       "4m",
@@ -528,26 +368,6 @@
       "m"
     ],
     "answer": "4m"
-  },
-  {
-    "question": "List all possible factors for 42bm:",
-    "options": [
-      "1, 2, 3, 6, 7, 14, 21, 42, b, m, bm, and combinations",
-      "1, 42, b, m",
-      "42, b, m",
-      "1, 2, 3, 42"
-    ],
-    "answer": "1, 2, 3, 6, 7, 14, 21, 42, b, m, bm, and combinations"
-  },
-  {
-    "question": "List all possible factors for 3sy:",
-    "options": [
-      "1, 3, s, y, sy, 3s, 3y, 3sy",
-      "1, 3, s, y",
-      "3, s, y",
-      "1, 3sy"
-    ],
-    "answer": "1, 3, s, y, sy, 3s, 3y, 3sy"
   },
   {
     "question": "Simplify: 7x + 3x - 2x =",
@@ -578,26 +398,6 @@
       "7x+y"
     ],
     "answer": "12xy"
-  },
-  {
-    "question": "Simplify: 5m + 3n - 2m + 4n =",
-    "options": [
-      "3m + 7n",
-      "3m + n",
-      "7m + 7n",
-      "3m - n"
-    ],
-    "answer": "3m + 7n"
-  },
-  {
-    "question": "What is the HCF of 6x squared and 9x?",
-    "options": [
-      "3x",
-      "3",
-      "3x squared",
-      "6x"
-    ],
-    "answer": "3x"
   },
   {
     "question": "The total angle around the centre of a pie chart is:",
@@ -660,16 +460,6 @@
     "answer": "Frequency"
   },
   {
-    "question": "If a pie chart sector for Apples is 48 degrees out of 360 degrees, what fraction of the total pie chart does Apples represent?",
-    "options": [
-      "2/15",
-      "1/6",
-      "1/8",
-      "3/10"
-    ],
-    "answer": "2/15"
-  },
-  {
     "question": "In a pictogram, if a symbol represents 20 ice cream buckets, how many buckets are represented by 3 full symbols?",
     "options": [
       "60",
@@ -678,16 +468,6 @@
       "80"
     ],
     "answer": "60"
-  },
-  {
-    "question": "How many strokes does the tally mark representing two groups of five crossed lines and two vertical strokes (12) represent?",
-    "options": [
-      "12",
-      "10",
-      "14",
-      "15"
-    ],
-    "answer": "12"
   },
   {
     "question": "To calculate the sector angle for an item in a pie chart, which formula is correct?",
@@ -740,46 +520,6 @@
     "answer": "20"
   },
   {
-    "question": "The number of times an item occurs in a group of data is called its:",
-    "options": [
-      "Frequency",
-      "Average",
-      "Range",
-      "Total"
-    ],
-    "answer": "Frequency"
-  },
-  {
-    "question": "A farmer rears animals: Cattle: 40, Goats: 25, Pigs: 10, Sheep: 30, Fowls: 15. What is the total number of animals?",
-    "options": [
-      "120",
-      "110",
-      "100",
-      "130"
-    ],
-    "answer": "120"
-  },
-  {
-    "question": "Using the farm data above (Total = 120 animals, Cattle = 40), what is the sector angle for Cattle on a pie chart?",
-    "options": [
-      "120 degrees",
-      "90 degrees",
-      "60 degrees",
-      "45 degrees"
-    ],
-    "answer": "120 degrees"
-  },
-  {
-    "question": "Using the farm data above (Total = 120, Goats = 25), what fraction of the total animals do Goats represent?",
-    "options": [
-      "5/24",
-      "1/4",
-      "5/12",
-      "1/6"
-    ],
-    "answer": "5/24"
-  },
-  {
     "question": "If 1 symbol in a pictogram stands for 10 cars, how many symbols are needed to represent 70 cars?",
     "options": [
       "7",
@@ -808,16 +548,6 @@
       "Tally"
     ],
     "answer": "Scale"
-  },
-  {
-    "question": "If the sector angle for Fowls is 45 degrees out of 360 degrees, what percentage of the pie chart is that?",
-    "options": [
-      "12.5%",
-      "25%",
-      "10%",
-      "20%"
-    ],
-    "answer": "12.5%"
   },
   {
     "question": "Find the mode of the dataset: 5, 2, 5, 8, 5, 10.",
@@ -868,35 +598,5 @@
       "270 degrees"
     ],
     "answer": "180 degrees"
-  },
-  {
-    "question": "If total frequency is 50 and item frequency is 10, what percentage is it?",
-    "options": [
-      "20%",
-      "10%",
-      "25%",
-      "50%"
-    ],
-    "answer": "20%"
-  },
-  {
-    "question": "Which statistical tool uses bars of equal width to show frequency?",
-    "options": [
-      "Bar chart",
-      "Pie chart",
-      "Pictogram",
-      "Tally table"
-    ],
-    "answer": "Bar chart"
-  },
-  {
-    "question": "What is the median of the scores: 10, 15, 20, 25, 30?",
-    "options": [
-      "20",
-      "15",
-      "25",
-      "22.5"
-    ],
-    "answer": "20"
   }
 ]

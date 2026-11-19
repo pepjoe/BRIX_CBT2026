@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is History?",
+    "options": [
+      "The study of past events",
+      "The study of numbers",
+      "The study of animals"
+    ],
+    "answer": "The study of past events"
+  },
+  {
+    "question": "History helps us to learn about ______.",
+    "options": [
+      "Only food",
+      "Things that happened in the past",
+      "Only games"
+    ],
+    "answer": "Things that happened in the past"
+  },
+  {
+    "question": "Nigeria is located in ______ Africa.",
+    "options": [
+      "East",
+      "South",
+      "West"
+    ],
+    "answer": "West"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Enugu"
+    ],
+    "answer": "Abuja"
+  },
+  {
+    "question": "How many colours are on the Nigerian flag?",
+    "options": [
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "What are the colours of the Nigerian flag?",
+    "options": [
+      "Red and white",
+      "Green and yellow",
+      "Green and white"
+    ],
+    "answer": "Green and white"
+  },
+  {
+    "question": "How many main ethnic groups do we have in Nigeria?",
+    "options": [
+      "Two",
+      "Three",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Which one of these is an ethnic group in Nigeria?",
+    "options": [
+      "Yoruba",
+      "French",
+      "Chinese"
+    ],
+    "answer": "Yoruba"
+  },
+  {
+    "question": "Which of these can we learn from our family history?",
+    "options": [
+      "Our family background",
+      "How to drive",
+      "How to play"
+    ],
+    "answer": "Our family background"
+  },
+  {
+    "question": "What is one importance of family history?",
+    "options": [
+      "It helps us know our family roots",
+      "It makes us forget our family",
+      "It stops us from learning"
+    ],
+    "answer": "It helps us know our family roots"
+  }
+]

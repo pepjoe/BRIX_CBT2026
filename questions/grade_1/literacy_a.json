@@ -1,22 +1,389 @@
 [
   {
-    "question": "Sample Question 1",
+    "question": "When writing a composition titled “All About Me”, what should you write first?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Your name and how old you are",
+      "The name of your favorite television show",
+      "The weather outside today"
     ],
-    "answer": "A"
+    "answer": "Your name and how old you are"
   },
   {
-    "question": "Sample Question 2",
+    "question": "What can you share about your likes when writing “All About Me”?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Your favorite food, color, or game",
+      "The price of groceries at the market",
+      "How to fix a broken bicycle"
     ],
-    "answer": "B"
+    "answer": "Your favorite food, color, or game"
+  },
+  {
+    "question": "What is a good ending sentence for “All About Me”?",
+    "options": [
+      "I am happy to be me!",
+      "Once upon a time, there was a king.",
+      "Please pass me the salt."
+    ],
+    "answer": "I am happy to be me!"
+  },
+  {
+    "question": "When writing about “A Special Friend”, what should you tell the reader first?",
+    "options": [
+      "Your friend’s name",
+      "What you ate for dinner last night",
+      "How many rooms are in your school"
+    ],
+    "answer": "Your friend’s name"
+  },
+  {
+    "question": "Which word describes a good and special friend?",
+    "options": [
+      "Kind",
+      "Mean",
+      "Selfish"
+    ],
+    "answer": "Kind"
+  },
+  {
+    "question": "What can you write about what you do with your special friend?",
+    "options": [
+      "Games you play together and how you help each other",
+      "How to bake a chocolate cake from scratch",
+      "The names of all the planets in space"
+    ],
+    "answer": "Games you play together and how you help each other"
+  },
+  {
+    "question": "Why do we call someone a “special friend”?",
+    "options": [
+      "Because they care about us and make us happy",
+      "Because we never talk to them at school",
+      "Because they always take our pencils without asking"
+    ],
+    "answer": "Because they care about us and make us happy"
+  },
+  {
+    "question": "What is the composition “My Summer Holiday” mainly about?",
+    "options": [
+      "Fun places you visited and things you did during the school break",
+      "What you do every morning before assembly",
+      "How plants grow from tiny seeds"
+    ],
+    "answer": "Fun places you visited and things you did during the school break"
+  },
+  {
+    "question": "Which sentence belongs in a story about “My Summer Holiday”?",
+    "options": [
+      "During the holiday, I visited my grandparents and swam in the pool.",
+      "Every Monday, we wear our clean school uniforms.",
+      "A triangle has three straight sides."
+    ],
+    "answer": "During the holiday, I visited my grandparents and swam in the pool."
+  },
+  {
+    "question": "When writing about “My Summer Holiday”, how should you write about things that already happened?",
+    "options": [
+      "In the past tense, like “I went” and “I played”",
+      "In the future tense, like “I will go tomorrow”",
+      "As a list of spelling words"
+    ],
+    "answer": "In the past tense, like “I went” and “I played”"
+  },
+  {
+    "question": "Which of these is a fun holiday activity you can write about?",
+    "options": [
+      "Going to the beach, park, or zoo with family",
+      "Doing a long math exam in the classroom",
+      "Waiting at the bus stop in the rain"
+    ],
+    "answer": "Going to the beach, park, or zoo with family"
+  },
+  {
+    "question": "What is a good ending sentence for “My Summer Holiday”?",
+    "options": [
+      "It was the best holiday ever and I had so much fun!",
+      "Next week we will learn about farm animals.",
+      "My pencil is sharp and ready to write."
+    ],
+    "answer": "It was the best holiday ever and I had so much fun!"
+  },
+  {
+    "question": "Which of the following is the correct small letter for the capital letter “P”?",
+    "options": [
+      "q",
+      "g",
+      "p"
+    ],
+    "answer": "p"
+  },
+  {
+    "question": "Which letter is the capital form of the small letter “r”?",
+    "options": [
+      "R",
+      "B",
+      "P"
+    ],
+    "answer": "R"
+  },
+  {
+    "question": "Identify the group that contains only capital letters.",
+    "options": [
+      "H, I, j",
+      "M, N, O",
+      "P, Q, r"
+    ],
+    "answer": "M, N, O"
+  },
+  {
+    "question": "Which of these is an exclamation mark?",
+    "options": [
+      "(.)",
+      "(!)",
+      "(,)"
+    ],
+    "answer": "(!)"
+  },
+  {
+    "question": "Which of these words comes first in alphabetical order?",
+    "options": [
+      "Table",
+      "Chair",
+      "Bench"
+    ],
+    "answer": "Bench"
+  },
+  {
+    "question": "An exclamation mark is used to show ______.",
+    "options": [
+      "Excitement",
+      "A question",
+      "A full stop"
+    ],
+    "answer": "Excitement"
+  },
+  {
+    "question": "Which letter comes right before “P” in the English alphabet?",
+    "options": [
+      "Q",
+      "N",
+      "O"
+    ],
+    "answer": "O"
+  },
+  {
+    "question": "Which sentence uses an exclamation mark correctly?",
+    "options": [
+      "What a beautiful flower!",
+      "I have a pen.",
+      "She is my sister?"
+    ],
+    "answer": "What a beautiful flower!"
+  },
+  {
+    "question": "Arrange these words in correct alphabetical order: Goat, Ant, Fish, Egg.",
+    "options": [
+      "Ant, Egg, Fish, Goat",
+      "Goat, Fish, Egg, Ant",
+      "Egg, Ant, Goat, Fish"
+    ],
+    "answer": "Ant, Egg, Fish, Goat"
+  },
+  {
+    "question": "Every new sentence must begin with a ________.",
+    "options": [
+      "Full stop",
+      "Question mark",
+      "Capital letter"
+    ],
+    "answer": "Capital letter"
+  },
+  {
+    "question": "Which sentence is written with a correct capital letter and full stop?",
+    "options": [
+      "My mother is cooking.",
+      "my mother is cooking.",
+      "My mother is cooking"
+    ],
+    "answer": "My mother is cooking."
+  },
+  {
+    "question": "What punctuation mark is placed at the end of a statement like “The boy is tall”?",
+    "options": [
+      "Question mark (?)",
+      "Full stop (.)",
+      "Comma (,)"
+    ],
+    "answer": "Full stop (.)"
+  },
+  {
+    "question": "Which of these sentences should end with a question mark (?)?",
+    "options": [
+      "Where do you live",
+      "I live in Uyo",
+      "She is my friend"
+    ],
+    "answer": "Where do you live"
+  },
+  {
+    "question": "When do we use a question mark?",
+    "options": [
+      "At the end of a telling sentence",
+      "When we are asking a question",
+      "To separate items in a list"
+    ],
+    "answer": "When we are asking a question"
+  },
+  {
+    "question": "Choose the correctly punctuated question.",
+    "options": [
+      "Who is at the door?",
+      "Who is at the door.",
+      "Who is at the door,"
+    ],
+    "answer": "Who is at the door?"
+  },
+  {
+    "question": "What is the plural form of the word “book”?",
+    "options": [
+      "Book",
+      "Books",
+      "Bookies"
+    ],
+    "answer": "Books"
+  },
+  {
+    "question": "Which of the following words is a singular noun?",
+    "options": [
+      "Cup",
+      "Bags",
+      "Shoes"
+    ],
+    "answer": "Cup"
+  },
+  {
+    "question": "What is the plural form of the word “bus”?",
+    "options": [
+      "Buss",
+      "Buses",
+      "Bus"
+    ],
+    "answer": "Buses"
+  },
+  {
+    "question": "What is a poem?",
+    "options": [
+      "A piece of writing that uses rhythm and rhymes to share feelings or ideas",
+      "A list of numbers used for counting",
+      "A long book with no pictures"
+    ],
+    "answer": "A piece of writing that uses rhythm and rhymes to share feelings or ideas"
+  },
+  {
+    "question": "Who is a person that writes a poem?",
+    "options": [
+      "A poet",
+      "A baker",
+      "A driver"
+    ],
+    "answer": "A poet"
+  },
+  {
+    "question": "How does a poem often sound when you read it aloud?",
+    "options": [
+      "Like a song with a nice beat",
+      "Like a loud car horn",
+      "Like a barking dog"
+    ],
+    "answer": "Like a song with a nice beat"
+  },
+  {
+    "question": "Which of these is a main feature of many poems?",
+    "options": [
+      "Rhyming words",
+      "Math problems",
+      "Maps of the world"
+    ],
+    "answer": "Rhyming words"
+  },
+  {
+    "question": "What do we call words that have the same ending sound, like “cat” and “hat”?",
+    "options": [
+      "Rhyming words",
+      "Opposite words",
+      "Action words"
+    ],
+    "answer": "Rhyming words"
+  },
+  {
+    "question": "Which word rhymes with “star”?",
+    "options": [
+      "Car",
+      "Tree",
+      "Sun"
+    ],
+    "answer": "Car"
+  },
+  {
+    "question": "What do we call the beat or musical sound in a poem?",
+    "options": [
+      "Rhythm",
+      "Title",
+      "Author"
+    ],
+    "answer": "Rhythm"
+  },
+  {
+    "question": "How are poems usually written on a page?",
+    "options": [
+      "In short lines and stanzas",
+      "In one giant circle",
+      "In tiny numbers"
+    ],
+    "answer": "In short lines and stanzas"
+  },
+  {
+    "question": "What is a group of lines in a poem called?",
+    "options": [
+      "A stanza",
+      "A chapter",
+      "A cover"
+    ],
+    "answer": "A stanza"
+  },
+  {
+    "question": "What is a couplet?",
+    "options": [
+      "Two lines of a poem that usually rhyme",
+      "A poem with ten pages",
+      "A story about animals"
+    ],
+    "answer": "Two lines of a poem that usually rhyme"
+  },
+  {
+    "question": "How many lines make a couplet?",
+    "options": [
+      "Two",
+      "Five",
+      "Ten"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "Which of these is an example of a couplet?",
+    "options": [
+      "I see a little fat cat, / Sitting right on my mat.",
+      "The sun is very bright today. / I like to go to school.",
+      "Apples are red and sweet. / Bananas are yellow."
+    ],
+    "answer": "I see a little fat cat, / Sitting right on my mat."
+  },
+  {
+    "question": "Why do poets use couplets in poems?",
+    "options": [
+      "To make the poem fun and easy to remember",
+      "To make the poem very hard to read",
+      "To hide the words on the page"
+    ],
+    "answer": "To make the poem fun and easy to remember"
   }
 ]
