@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the capital city of Akwa Ibom State?",
+    "options": [
+      "Calabar",
+      "Uyo",
+      "Eket",
+      "Ikot Ekpene"
+    ],
+    "answer": "Uyo"
+  },
+  {
+    "question": "Akwa Ibom State was created on 23rd September ________________.",
+    "options": [
+      "1960",
+      "1976",
+      "1987",
+      "1999"
+    ],
+    "answer": "1987"
+  },
+  {
+    "question": "The main occupations of the Ibibio people in the past were farming, fishing, and ________________.",
+    "options": [
+      "Trading",
+      "Hunting",
+      "Mining",
+      "Weaving"
+    ],
+    "answer": "Hunting"
+  },
+  {
+    "question": "In traditional Ibibio society, the village head is called ________________.",
+    "options": [
+      "Obong Ikpa Isong",
+      "Obong Idung",
+      "Mbong Ekpuk",
+      "Esop Idung"
+    ],
+    "answer": "Obong Idung"
+  },
+  {
+    "question": "Who is the oldest man in the family who leads the family?",
+    "options": [
+      "Obong Idung",
+      "Obong Ikpa Isong",
+      "Mbong Ekpuk",
+      "Ekpo"
+    ],
+    "answer": "Mbong Ekpuk"
+  },
+  {
+    "question": "A fattening room where girls are trained to become good wives and mothers is called ________________.",
+    "options": [
+      "Ekpo society",
+      "Mbopo Institution",
+      "Esop Idung",
+      "Ekpe society"
+    ],
+    "answer": "Mbopo Institution"
+  },
+  {
+    "question": "The Council of Elders (Esop Idung) consists of old and wise men who ________________ the village head.",
+    "options": [
+      "Punish",
+      "Advise",
+      "Replace",
+      "Fight"
+    ],
+    "answer": "Advise"
+  },
+  {
+    "question": "The Nigerian national flag was designed in 1959 by ________________.",
+    "options": [
+      "Nnamdi Azikiwe",
+      "Taiwo Akinkunmi",
+      "Obafemi Awolowo",
+      "Ahmadu Bello"
+    ],
+    "answer": "Taiwo Akinkunmi"
+  },
+  {
+    "question": "On the Nigerian national flag, the green colour stands for ________________.",
+    "options": [
+      "Peace and unity",
+      "Agriculture and wealth",
+      "Strength and pride",
+      "Fertile soil"
+    ],
+    "answer": "Agriculture and wealth"
+  },
+  {
+    "question": "On the Nigerian Coat of Arms, the two white horses represent ________________.",
+    "options": [
+      "Strength",
+      "Fertile soil",
+      "Dignity and pride",
+      "Peace and unity"
+    ],
+    "answer": "Dignity and pride"
+  },
+  {
+    "question": "What does the eagle on the Nigerian Coat of Arms stand for?",
+    "options": [
+      "Fertile soil",
+      "Strength of Nigeria",
+      "Agriculture",
+      "Dignity"
+    ],
+    "answer": "Strength of Nigeria"
+  },
+  {
+    "question": "What is the motto on the Nigerian Coat of Arms?",
+    "options": [
+      "Peace, Love and Unity",
+      "Unity and Faith, Peace and Progress",
+      "One Nation Bound in Freedom",
+      "Justice and Peace"
+    ],
+    "answer": "Unity and Faith, Peace and Progress"
+  },
+  {
+    "question": "When the National Anthem is being sung, citizens must ________________.",
+    "options": [
+      "Sit down",
+      "Walk around",
+      "Stand at attention",
+      "Clap their hands"
+    ],
+    "answer": "Stand at attention"
+  },
+  {
+    "question": "A promise to be loyal and faithful to Nigeria is known as the ________________.",
+    "options": [
+      "National Anthem",
+      "National Pledge",
+      "Constitution",
+      "Coat of Arms"
+    ],
+    "answer": "National Pledge"
+  },
+  {
+    "question": "Who was the first President of Nigeria who fought for independence from Britain?",
+    "options": [
+      "Chief Obafemi Awolowo",
+      "Dr. Nnamdi Azikiwe",
+      "Sir Ahmadu Bello",
+      "Taiwo Akinkunmi"
+    ],
+    "answer": "Dr. Nnamdi Azikiwe"
+  },
+  {
+    "question": "Which Nigerian hero introduced free primary education and built the first TV station in Africa?",
+    "options": [
+      "Sir Ahmadu Bello",
+      "Dr. Nnamdi Azikiwe",
+      "Chief Obafemi Awolowo",
+      "Obong Idung"
+    ],
+    "answer": "Chief Obafemi Awolowo"
+  },
+  {
+    "question": "Who worked to unite Northern Nigeria and fought for Nigeria's independence?",
+    "options": [
+      "Sir Ahmadu Bello",
+      "Chief Obafemi Awolowo",
+      "Dr. Nnamdi Azikiwe",
+      "Taiwo Akinkunmi"
+    ],
+    "answer": "Sir Ahmadu Bello"
+  },
+  {
+    "question": "Which heroine was a great woman leader who fought for women's right to vote?",
+    "options": [
+      "Queen Amina",
+      "Alhaja Funmilayo Ransome-Kuti",
+      "Margaret Ekpo",
+      "Moremi"
+    ],
+    "answer": "Alhaja Funmilayo Ransome-Kuti"
+  },
+  {
+    "question": "Who was the brave warrior queen who expanded the Zaria kingdom?",
+    "options": [
+      "Margaret Ekpo",
+      "Queen Amina of Zazzau",
+      "Funmilayo Ransome-Kuti",
+      "Queen Idia"
+    ],
+    "answer": "Queen Amina of Zazzau"
+  },
+  {
+    "question": "Which heroine from Akwa Ibom/Calabar fought for women's rights and helped women participate in politics?",
+    "options": [
+      "Queen Amina",
+      "Margaret Ekpo",
+      "Alhaja Funmilayo Ransome-Kuti",
+      "Ngozi Okonjo-Iweala"
+    ],
+    "answer": "Margaret Ekpo"
+  }
+]

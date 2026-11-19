@@ -1,202 +1,202 @@
 [
   {
-    "question": "According to the notes, art is making beautiful things[span_0](start_span)[span_0](end_span). What else is art described as?",
-    "options": {
-      "a": "Running, jumping and singing songs",
-      "b": "Drawing, colouring and making things with our hands[span_1](start_span)[span_1](end_span)",
-      "c": "Reading, writing and spelling words",
-      "d": "Sleeping, resting and eating food"
-    },
-    "answer": "b"
+    "question": "According to the notes, art is making beautiful things. What else is art described as?",
+    "options": [
+      "Running, jumping and singing songs",
+      "Drawing, colouring and making things with our hands",
+      "Reading, writing and spelling words",
+      "Sleeping, resting and eating food"
+    ],
+    "answer": "Drawing, colouring and making things with our hands"
   },
   {
     "question": "What tool do we use for drawing according to the Year 1 art notes?",
-    "options": {
-      "a": "Pencil[span_2](start_span)[span_2](end_span)",
-      "b": "Paintbrush only",
-      "c": "Crayon only",
-      "d": "Scissors"
-    },
-    "answer": "a"
+    "options": [
+      "Pencil",
+      "Paintbrush only",
+      "Crayon only",
+      "Scissors"
+    ],
+    "answer": "Pencil"
   },
   {
     "question": "Which of the following are examples of things we draw?",
-    "options": {
-      "a": "A house and a car",
-      "b": "A ball and a cup[span_3](start_span)[span_3](end_span)",
-      "c": "A shoe and a bag",
-      "d": "A table and a chair"
-    },
-    "answer": "b"
+    "options": [
+      "A house and a car",
+      "A ball and a cup",
+      "A shoe and a bag",
+      "A table and a chair"
+    ],
+    "answer": "A ball and a cup"
   },
   {
     "question": "What do we do during painting/colouring?",
-    "options": {
-      "a": "We add colour to our drawing[span_4](start_span)[span_4](end_span)",
-      "b": "We cut paper into pieces",
-      "c": "We mould clay with our hands",
-      "d": "We clean the classroom"
-    },
-    "answer": "a"
+    "options": [
+      "We add colour to our drawing",
+      "We cut paper into pieces",
+      "We mould clay with our hands",
+      "We clean the classroom"
+    ],
+    "answer": "We add colour to our drawing"
   },
   {
     "question": "In modelling, what material do we use to make things like a pot?",
-    "options": {
-      "a": "Paper",
-      "b": "Cloth",
-      "c": "Clay[span_5](start_span)[span_5](end_span)",
-      "d": "Wood"
-    },
-    "answer": "c"
+    "options": [
+      "Paper",
+      "Cloth",
+      "Clay",
+      "Wood"
+    ],
+    "answer": "Clay"
   },
   {
     "question": "Which of the following is listed as a use of art?",
-    "options": {
-      "a": "Art makes things beautiful[span_6](start_span)[span_6](end_span)",
-      "b": "Art makes us tired",
-      "c": "Art makes us cry",
-      "d": "Art makes things dirty"
-    },
-    "answer": "a"
+    "options": [
+      "Art makes things beautiful",
+      "Art makes us tired",
+      "Art makes us cry",
+      "Art makes things dirty"
+    ],
+    "answer": "Art makes things beautiful"
   },
   {
     "question": "How does art affect our mood according to the notes?",
-    "options": {
-      "a": "Art makes us to happy[span_7](start_span)[span_7](end_span)",
-      "b": "Art makes us angry",
-      "c": "Art makes us sad",
-      "d": "Art makes us sleep"
-    },
-    "answer": "a"
+    "options": [
+      "Art makes us happy",
+      "Art makes us angry",
+      "Art makes us sad",
+      "Art makes us sleep"
+    ],
+    "answer": "Art makes us happy"
   },
   {
     "question": "What does art help us to do regarding education?",
-    "options": {
-      "a": "It helps us to learn[span_8](start_span)[span_8](end_span)",
-      "b": "It helps us to run fast",
-      "c": "It helps us to swim",
-      "d": "It helps us to fly"
-    },
-    "answer": "a"
+    "options": [
+      "It helps us to learn",
+      "It helps us to run fast",
+      "It helps us to swim",
+      "It helps us to fly"
+    ],
+    "answer": "It helps us to learn"
   },
   {
     "question": "Art helps us to make...",
-    "options": {
-      "a": "useful things[span_9](start_span)[span_9](end_span)",
-      "b": "broken toys",
-      "c": "trash",
-      "d": "heavy stones"
-    },
-    "answer": "a"
+    "options": [
+      "Useful things",
+      "Broken toys",
+      "Trash",
+      "Heavy stones"
+    ],
+    "answer": "Useful things"
   },
   {
     "question": "What are crafts defined as?",
-    "options": {
-      "a": "Things we make with our hands[span_10](start_span)[span_10](end_span)",
-      "b": "Things we buy from the market",
-      "c": "Things we find in the sky",
-      "d": "Things we eat for lunch"
-    },
-    "answer": "a"
+    "options": [
+      "Things we make with our hands",
+      "Things we buy from the market",
+      "Things we find in the sky",
+      "Things we eat for lunch"
+    ],
+    "answer": "Things we make with our hands"
   },
   {
     "question": "Which of the following is an example of paper craft?",
-    "options": {
-      "a": "Paper kite and paper hat[span_11](start_span)[span_11](end_span)",
-      "b": "Small stool and desk",
-      "c": "Pot and cup",
-      "d": "Hand fan and shoes"
-    },
-    "answer": "a"
+    "options": [
+      "Paper kite and paper hat",
+      "Small stool and desk",
+      "Pot and cup",
+      "Hand fan and shoes"
+    ],
+    "answer": "Paper kite and paper hat"
   },
   {
     "question": "What is an example of clay craft mentioned in the notes?",
-    "options": {
-      "a": "Pot, cup, orange[span_12](start_span)[span_12](end_span)",
-      "b": "Wooden spoon and pencil",
-      "c": "Paper kite",
-      "d": "Cloth hat"
-    },
-    "answer": "a"
+    "options": [
+      "Pot, cup, orange",
+      "Wooden spoon and pencil",
+      "Paper kite",
+      "Cloth hat"
+    ],
+    "answer": "Pot, cup, orange"
   },
   {
     "question": "Which of these is made using cloth craft?",
-    "options": {
-      "a": "Hand fan, bag, hat, shoes[span_13](start_span)[span_13](end_span)",
-      "b": "Wooden desk",
-      "c": "Clay pot",
-      "d": "Paper aeroplane"
-    },
-    "answer": "a"
+    "options": [
+      "Hand fan, bag, hat, shoes",
+      "Wooden desk",
+      "Clay pot",
+      "Paper aeroplane"
+    ],
+    "answer": "Hand fan, bag, hat, shoes"
   },
   {
     "question": "Which of these materials is used in wood/stick craft?",
-    "options": {
-      "a": "Small stool, wooden spoon, desk, pencil[span_14](start_span)[span_14](end_span)",
-      "b": "Clay and water",
-      "c": "Paper and gum",
-      "d": "Cloth and thread"
-    },
-    "answer": "a"
+    "options": [
+      "Small stool, wooden spoon, desk, pencil",
+      "Clay and water",
+      "Paper and gum",
+      "Cloth and thread"
+    ],
+    "answer": "Small stool, wooden spoon, desk, pencil"
   },
   {
     "question": "Why do people sell crafts?",
-    "options": {
-      "a": "To make money[span_15](start_span)[span_15](end_span)",
-      "b": "To throw them away",
-      "c": "To break them",
-      "d": "To hide them"
-    },
-    "answer": "a"
+    "options": [
+      "To make money",
+      "To throw them away",
+      "To break them",
+      "To hide them"
+    ],
+    "answer": "To make money"
   },
   {
     "question": "What is colour defined as in the notes?",
-    "options": {
-      "a": "What we see with our eyes when light shines[span_16](start_span)[span_16](end_span)",
-      "b": "What we hear with our ears",
-      "c": "What we taste with our mouth",
-      "d": "What we smell with our nose"
-    },
-    "answer": "a"
+    "options": [
+      "What we see with our eyes when light shines",
+      "What we hear with our ears",
+      "What we taste with our mouth",
+      "What we smell with our nose"
+    ],
+    "answer": "What we see with our eyes when light shines"
   },
   {
     "question": "What are primary colours?",
-    "options": {
-      "a": "The main colours (Red, Blue and Yellow)[span_17](start_span)[span_17](end_span)",
-      "b": "Colours made from mixing water",
-      "c": "Colours that are dark and black",
-      "d": "Colours used only for painting houses"
-    },
-    "answer": "a"
+    "options": [
+      "The main colours (Red, Blue and Yellow)",
+      "Colours made from mixing water",
+      "Colours that are dark and black",
+      "Colours used only for painting houses"
+    ],
+    "answer": "The main colours (Red, Blue and Yellow)"
   },
   {
     "question": "Secondary colours are formed by the mixture of two...",
-    "options": {
-      "a": "Primary colours[span_18](start_span)[span_18](end_span)",
-      "b": "Secondary colours",
-      "c": "Black and white colours",
-      "d": "Wooden sticks"
-    },
-    "answer": "a"
+    "options": [
+      "Primary colours",
+      "Secondary colours",
+      "Black and white colours",
+      "Wooden sticks"
+    ],
+    "answer": "Primary colours"
   },
   {
     "question": "When you mix Red and Blue, what secondary colour do you get?",
-    "options": {
-      "a": "Purple[span_19](start_span)[span_19](end_span)[span_20](start_span)[span_20](end_span)",
-      "b": "Green",
-      "c": "Orange",
-      "d": "Yellow"
-    },
-    "answer": "a"
+    "options": [
+      "Purple",
+      "Green",
+      "Orange",
+      "Yellow"
+    ],
+    "answer": "Purple"
   },
   {
     "question": "Mixing Yellow and Blue gives you which colour?",
-    "options": {
-      "a": "Green[span_21](start_span)[span_21](end_span)[span_22](start_span)[span_22](end_span)",
-      "b": "Orange",
-      "c": "Purple",
-      "d": "Red"
-    },
-    "answer": "a"
+    "options": [
+      "Green",
+      "Orange",
+      "Purple",
+      "Red"
+    ],
+    "answer": "Green"
   }
 ]

@@ -1,202 +1,202 @@
 [
   {
     "question": "Landscape drawing is defined as the drawing of the...",
-    "options": {
-      "a": "natural environment around us[span_0](start_span)[span_0](end_span)",
-      "b": "inside of a factory only",
-      "c": "imaginary space monsters",
-      "d": "letters of the alphabet"
-    },
-    "answer": "a"
+    "options": [
+      "Natural environment around us",
+      "Inside of a factory only",
+      "Imaginary space monsters",
+      "Letters of the alphabet"
+    ],
+    "answer": "Natural environment around us"
   },
   {
     "question": "Which type of landscape shows only things created by God in nature, such as mountains, rivers, and forests?",
-    "options": {
-      "a": "Natural landscape[span_1](start_span)[span_1](end_span)",
-      "b": "Urban landscape",
-      "c": "Seascape",
-      "d": "Cloudscape"
-    },
-    "answer": "a"
+    "options": [
+      "Natural landscape",
+      "Urban landscape",
+      "Seascape",
+      "Cloudscape"
+    ],
+    "answer": "Natural landscape"
   },
   {
     "question": "A rural landscape (village landscape) shows village life such as village huts, farms, and...",
-    "options": {
-      "a": "village people[span_2](start_span)[span_2](end_span)",
-      "b": "tarred roads and bridges",
-      "c": "big skyscrapers",
-      "d": "factory machines"
-    },
-    "answer": "a"
+    "options": [
+      "Village people",
+      "Tarred roads and bridges",
+      "Big skyscrapers",
+      "Factory machines"
+    ],
+    "answer": "Village people"
   },
   {
     "question": "An urban landscape (town landscape) shows a town or city, including big buildings, cars, tarred roads, and...",
-    "options": {
-      "a": "bridges, factories, electric poles[span_3](start_span)[span_3](end_span)",
-      "b": "village huts and palm trees",
-      "c": "rivers and forests only",
-      "d": "waves and beaches"
-    },
-    "answer": "a"
+    "options": [
+      "Bridges, factories, electric poles",
+      "Village huts and palm trees",
+      "Rivers and forests only",
+      "Waves and beaches"
+    ],
+    "answer": "Bridges, factories, electric poles"
   },
   {
     "question": "What does a seascape focus mainly on?",
-    "options": {
-      "a": "The sea, ocean, beach, waves, boats, and the coastline[span_4](start_span)[span_4](end_span)",
-      "b": "The sky, clouds, sun, moon, and stars[span_5](start_span)[span_5](end_span)",
-      "c": "Village huts and farm lands[span_6](start_span)[span_6](end_span)",
-      "d": "Mountains and forests created by God[span_7](start_span)[span_7](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "The sea, ocean, beach, waves, boats, and the coastline",
+      "The sky, clouds, sun, moon, and stars",
+      "Village huts and farmlands",
+      "Mountains and forests created by God"
+    ],
+    "answer": "The sea, ocean, beach, waves, boats, and the coastline"
   },
   {
     "question": "What is the first step in landscape drawing?",
-    "options": {
-      "a": "Observation and sketching[span_8](start_span)[span_8](end_span)",
-      "b": "Finishing",
-      "c": "Shading and perspective[span_9](start_span)[span_9](end_span)",
-      "d": "Adding details[span_10](start_span)[span_10](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Observation and sketching",
+      "Finishing",
+      "Shading and perspective",
+      "Adding details"
+    ],
+    "answer": "Observation and sketching"
   },
   {
     "question": "According to the introduction, art is as old as...",
-    "options": {
-      "a": "man himself[span_11](start_span)[span_11](end_span)",
-      "b": "modern technology",
-      "c": "the printing press",
-      "d": "the discovery of oil"
-    },
-    "answer": "a"
+    "options": [
+      "Man himself",
+      "Modern technology",
+      "The printing press",
+      "The discovery of oil"
+    ],
+    "answer": "Man himself"
   },
   {
     "question": "Early man lived in caves and started art by drawing pictures of animals he hunted on cave walls using charcoal, coloured stones, and...",
-    "options": {
-      "a": "animal blood[span_12](start_span)[span_12](end_span)",
-      "b": "oil paint",
-      "c": "plastic markers",
-      "d": "ink pens"
-    },
-    "answer": "a"
+    "options": [
+      "Animal blood",
+      "Oil paint",
+      "Plastic markers",
+      "Ink pens"
+    ],
+    "answer": "Animal blood"
   },
   {
     "question": "Where is the famous cave with early paintings located, as mentioned in the notes?",
-    "options": {
-      "a": "Lascaux cave in France[span_13](start_span)[span_13](end_span)",
-      "b": "Nok village in Kaduna[span_14](start_span)[span_14](end_span)",
-      "c": "Ife in Osun state[span_15](start_span)[span_15](end_span)",
-      "d": "Benin City in Edo state[span_16](start_span)[span_16](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Lascaux Cave in France",
+      "Nok village in Kaduna",
+      "Ife in Osun State",
+      "Benin City in Edo State"
+    ],
+    "answer": "Lascaux Cave in France"
   },
   {
     "question": "In Nigeria, early artworks were discovered at Nok, Ife, Benin, and...",
-    "options": {
-      "a": "Igbo-Ukwu[span_17](start_span)[span_17](end_span)",
-      "b": "Abuja[span_18](start_span)[span_18](end_span)",
-      "c": "Sokoto[span_19](start_span)[span_19](end_span)",
-      "d": "Kano[span_20](start_span)[span_20](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Igbo-Ukwu",
+      "Abuja",
+      "Sokoto",
+      "Kano"
+    ],
+    "answer": "Igbo-Ukwu"
   },
   {
-    "question": "Nok art culture was discovered in 1928 at Nok village in Kaduna state by...",
-    "options": {
-      "a": "Col. Dent during tin mining[span_21](start_span)[span_21](end_span)",
-      "b": "Prof. Thurstan Shaw[span_22](start_span)[span_22](end_span)",
-      "c": "British soldiers in 1897[span_23](start_span)[span_23](end_span)",
-      "d": "Local village hunters"
-    },
-    "answer": "a"
+    "question": "Nok art culture was discovered in 1928 at Nok village in Kaduna State by...",
+    "options": [
+      "Col. Dent during tin mining",
+      "Prof. Thurstan Shaw",
+      "British soldiers in 1897",
+      "Local village hunters"
+    ],
+    "answer": "Col. Dent during tin mining"
   },
   {
     "question": "What material is Nok art primarily made of?",
-    "options": {
-      "a": "Terracotta (burnt clay)[span_24](start_span)[span_24](end_span)",
-      "b": "Pure bronze and brass[span_25](start_span)[span_25](end_span)",
-      "c": "Pure ivory and iron[span_26](start_span)[span_26](end_span)[span_27](start_span)[span_27](end_span)",
-      "d": "Wood and carved stone"
-    },
-    "answer": "a"
+    "options": [
+      "Terracotta (burnt clay)",
+      "Pure bronze and brass",
+      "Pure ivory and iron",
+      "Wood and carved stone"
+    ],
+    "answer": "Terracotta (burnt clay)"
   },
   {
-    "question": "Ife art culture was discovered at Ile-Ife in Osun state, with works found at Ooni's palace and...",
-    "options": {
-      "a": "Wunmonije Site[span_28](start_span)[span_28](end_span)",
-      "b": "Lascaux Cave[span_29](start_span)[span_29](end_span)",
-      "c": "Igbo-Ukwu site",
-      "d": "Kaduna tin mines"
-    },
-    "answer": "a"
+    "question": "Ife art culture was discovered at Ile-Ife in Osun State, with works found at Ooni's palace and...",
+    "options": [
+      "Wunmonije Site",
+      "Lascaux Cave",
+      "Igbo-Ukwu site",
+      "Kaduna tin mines"
+    ],
+    "answer": "Wunmonije Site"
   },
   {
-    "question": "Benin art culture (discovered in Edo state) is famous for works including heads of obas and queens, animals, plaques, and...",
-    "options": {
-      "a": "very loyal art (looted by British in 1897)[span_30](start_span)[span_30](end_span)",
-      "b": "terracotta human heads with elongated eyes[span_31](start_span)[span_31](end_span)",
-      "c": "intricate bronze vessels and stags[span_32](start_span)[span_32](end_span)",
-      "d": "cave paintings with animal blood[span_33](start_span)[span_33](end_span)"
-    },
-    "answer": "a"
+    "question": "Benin art culture (discovered in Edo State) is famous for works including heads of obas and queens, animals, plaques, and...",
+    "options": [
+      "Very loyal art (looted by the British in 1897)",
+      "Terracotta human heads with elongated eyes",
+      "Intricate bronze vessels and stags",
+      "Cave paintings with animal blood"
+    ],
+    "answer": "Very loyal art (looted by the British in 1897)"
   },
   {
-    "question": "Igbo-Ukwu art culture was discovered in 1954 in Anambra state by...",
-    "options": {
-      "a": "Prof. Thurstan Shaw[span_34](start_span)[span_34](end_span)",
-      "b": "Col. Dent[span_35](start_span)[span_35](end_span)",
-      "c": "British explorers in 1897[span_36](start_span)[span_36](end_span)",
-      "d": "Early primitive men"
-    },
-    "answer": "a"
+    "question": "Igbo-Ukwu art culture was discovered in 1954 in Anambra State by...",
+    "options": [
+      "Prof. Thurstan Shaw",
+      "Col. Dent",
+      "British explorers in 1897",
+      "Early primitive men"
+    ],
+    "answer": "Prof. Thurstan Shaw"
   },
   {
     "question": "Pottery as a living traditional artwork in Nigeria is found all over Nigeria, for example in...",
-    "options": {
-      "a": "Abuja[span_37](start_span)[span_37](end_span)",
-      "b": "Iseyin[span_38](start_span)[span_38](end_span)",
-      "c": "Abeokuta[span_39](start_span)[span_39](end_span)",
-      "d": "Rano[span_40](start_span)[span_40](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Abuja",
+      "Iseyin",
+      "Abeokuta",
+      "Rano"
+    ],
+    "answer": "Abuja"
   },
   {
     "question": "Weaving/Asoke is a traditional artwork associated with...",
-    "options": {
-      "a": "Iseyin, Oyo[span_41](start_span)[span_41](end_span)",
-      "b": "Bida, Benin[span_42](start_span)[span_42](end_span)",
-      "c": "Kano, Sokoto[span_43](start_span)[span_43](end_span)",
-      "d": "Akwa Ibom, Cross River[span_44](start_span)[span_44](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Iseyin, Oyo",
+      "Bida, Benin",
+      "Kano, Sokoto",
+      "Akwa Ibom, Cross River"
+    ],
+    "answer": "Iseyin, Oyo"
   },
   {
     "question": "Tie and dye / Adire is commonly associated with...",
-    "options": {
-      "a": "Abeokuta[span_45](start_span)[span_45](end_span)",
-      "b": "Abuja[span_46](start_span)[span_46](end_span)",
-      "c": "Iseyin[span_47](start_span)[span_47](end_span)",
-      "d": "Kaduna[span_48](start_span)[span_48](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Abeokuta",
+      "Abuja",
+      "Iseyin",
+      "Kaduna"
+    ],
+    "answer": "Abeokuta"
   },
   {
     "question": "Calabash decoration is a traditional art form practiced mostly in the...",
-    "options": {
-      "a": "north and west[span_49](start_span)[span_49](end_span)",
-      "b": "south and east",
-      "c": "delta region only",
-      "d": "riverine areas only"
-    },
-    "answer": "a"
+    "options": [
+      "North and West",
+      "South and East",
+      "Delta region only",
+      "Riverine areas only"
+    ],
+    "answer": "North and West"
   },
   {
     "question": "Leather work in Nigeria is famously found in...",
-    "options": {
-      "a": "Kano, Sokoto[span_50](start_span)[span_50](end_span)",
-      "b": "Akwa Ibom, Cross River[span_51](start_span)[span_51](end_span)",
-      "c": "Bida, Benin[span_52](start_span)[span_52](end_span)",
-      "d": "Iseyin, Oyo[span_53](start_span)[span_53](end_span)"
-    },
-    "answer": "a"
+    "options": [
+      "Kano, Sokoto",
+      "Akwa Ibom, Cross River",
+      "Bida, Benin",
+      "Iseyin, Oyo"
+    ],
+    "answer": "Kano, Sokoto"
   }
 ]

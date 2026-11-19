@@ -1,202 +1,202 @@
 [
   {
     "question": "According to the notes, what is a line defined as?",
-    "options": {
-      "a": "A stroke or point marked on the surface[span_0](start_span)[span_0](end_span)",
-      "b": "A solid block of wood",
-      "c": "A collection of colours",
-      "d": "A closed circular object"
-    },
-    "answer": "a"
+    "options": [
+      "A stroke or point marked on the surface",
+      "A solid block of wood",
+      "A collection of colours",
+      "A closed circular object"
+    ],
+    "answer": "A stroke or point marked on the surface"
   },
   {
     "question": "A vertical line is a line that is drawn from...",
-    "options": {
-      "a": "left to right",
-      "b": "up to down[span_1](start_span)[span_1](end_span)",
-      "c": "corner to corner",
-      "d": "inside out"
-    },
-    "answer": "b"
+    "options": [
+      "left to right",
+      "up to down",
+      "corner to corner",
+      "inside out"
+    ],
+    "answer": "up to down"
   },
   {
     "question": "What is an example given for a vertical line in the notes?",
-    "options": {
-      "a": "From north to south[span_2](start_span)[span_2](end_span)",
-      "b": "From east to west[span_3](start_span)[span_3](end_span)",
-      "c": "From morning to night",
-      "d": "From top to bottom"
-    },
-    "answer": "a"
+    "options": [
+      "From north to south",
+      "From east to west",
+      "From morning to night",
+      "From top to bottom"
+    ],
+    "answer": "From north to south"
   },
   {
     "question": "A horizontal line is a line drawn from...",
-    "options": {
-      "a": "up to down",
-      "b": "left to right[span_4](start_span)[span_4](end_span)",
-      "c": "diagonal to straight",
-      "d": "back to front"
-    },
-    "answer": "b"
+    "options": [
+      "up to down",
+      "left to right",
+      "diagonal to straight",
+      "back to front"
+    ],
+    "answer": "left to right"
   },
   {
     "question": "What example is given for a horizontal line?",
-    "options": {
-      "a": "From north to south",
-      "b": "From the east to west[span_5](start_span)[span_5](end_span)",
-      "c": "From top to bottom",
-      "d": "From corner to corner"
-    },
-    "answer": "b"
+    "options": [
+      "From north to south",
+      "From the east to west",
+      "From top to bottom",
+      "From corner to corner"
+    ],
+    "answer": "From the east to west"
   },
   {
     "question": "Which of the following is listed as a type of line?",
-    "options": {
-      "a": "Square line",
-      "b": "Spiral lines[span_6](start_span)[span_6](end_span)",
-      "c": "Circular box line",
-      "d": "Block line"
-    },
-    "answer": "b"
+    "options": [
+      "Square line",
+      "Spiral lines",
+      "Circular box line",
+      "Block line"
+    ],
+    "answer": "Spiral lines"
   },
   {
     "question": "How is a shape defined in the notes?",
-    "options": {
-      "a": "A visible appearance of something[span_7](start_span)[span_7](end_span)",
-      "b": "A random splash of paint",
-      "c": "A sound made by instruments",
-      "d": "A piece of folded cloth"
-    },
-    "answer": "a"
+    "options": [
+      "A visible appearance of something",
+      "A random splash of paint",
+      "A sound made by instruments",
+      "A piece of folded cloth"
+    ],
+    "answer": "A visible appearance of something"
   },
   {
     "question": "A shape is formed by joining...",
-    "options": {
-      "a": "colours",
-      "b": "lines[span_8](start_span)[span_8](end_span)",
-      "c": "dots only",
-      "d": "spaces"
-    },
-    "answer": "b"
+    "options": [
+      "colours",
+      "lines",
+      "dots only",
+      "spaces"
+    ],
+    "answer": "lines"
   },
   {
     "question": "Which of the following is listed as an example of a shape?",
-    "options": {
-      "a": "Triangle[span_9](start_span)[span_9](end_span)",
-      "b": "Spiral",
-      "c": "Zig-zag",
-      "d": "Dot"
-    },
-    "answer": "a"
+    "options": [
+      "Triangle",
+      "Spiral",
+      "Zig-zag",
+      "Dot"
+    ],
+    "answer": "Triangle"
   },
   {
     "question": "What is an importance of shapes?",
-    "options": {
-      "a": "Shapes are used to create patterns and designs[span_10](start_span)[span_10](end_span)",
-      "b": "Shapes help us to run fast",
-      "c": "Shapes make food sweet",
-      "d": "Shapes are used for singing"
-    },
-    "answer": "a"
+    "options": [
+      "Shapes are used to create patterns and designs",
+      "Shapes help us to run fast",
+      "Shapes make food sweet",
+      "Shapes are used for singing"
+    ],
+    "answer": "Shapes are used to create patterns and designs"
   },
   {
     "question": "Shapes are used to differentiate or...",
-    "options": {
-      "a": "identify an object[span_11](start_span)[span_11](end_span)",
-      "b": "destroy a drawing",
-      "c": "erase a line",
-      "d": "hide a picture"
-    },
-    "answer": "a"
+    "options": [
+      "identify an object",
+      "destroy a drawing",
+      "erase a line",
+      "hide a picture"
+    ],
+    "answer": "identify an object"
   },
   {
     "question": "Which of the following is listed as a feature of shapes?",
-    "options": {
-      "a": "Regular[span_12](start_span)[span_12](end_span)",
-      "b": "Soft",
-      "c": "Loud",
-      "d": "Sweet"
-    },
-    "answer": "a"
+    "options": [
+      "Regular",
+      "Soft",
+      "Loud",
+      "Sweet"
+    ],
+    "answer": "Regular"
   },
   {
     "question": "What is design defined as?",
-    "options": {
-      "a": "The arrangement of lines, shapes and colour to make an object beautiful[span_13](start_span)[span_13](end_span)",
-      "b": "The destruction of paper crafts",
-      "c": "The mixing of water and sand",
-      "d": "The cleaning of a classroom"
-    },
-    "answer": "a"
+    "options": [
+      "The arrangement of lines, shapes and colour to make an object beautiful",
+      "The destruction of paper crafts",
+      "The mixing of water and sand",
+      "The cleaning of a classroom"
+    ],
+    "answer": "The arrangement of lines, shapes and colour to make an object beautiful"
   },
   {
     "question": "What is a pattern defined as?",
-    "options": {
-      "a": "The repetition of shapes, lines or colour[span_14](start_span)[span_14](end_span)",
-      "b": "A single isolated dot",
-      "c": "A completely blank page",
-      "d": "A broken line"
-    },
-    "answer": "a"
+    "options": [
+      "The repetition of shapes, lines or colour",
+      "A single isolated dot",
+      "A completely blank page",
+      "A broken line"
+    ],
+    "answer": "The repetition of shapes, lines or colour"
   },
   {
     "question": "What is a single unit of patterns called?",
-    "options": {
-      "a": "Motif[span_15](start_span)[span_15](end_span)",
-      "b": "Design",
-      "c": "Border",
-      "d": "Stroke"
-    },
-    "answer": "a"
+    "options": [
+      "Motif",
+      "Design",
+      "Border",
+      "Stroke"
+    ],
+    "answer": "Motif"
   },
   {
     "question": "Which basic shapes are suggested for making patterns with shapes?",
-    "options": {
-      "a": "Circle, square, triangle[span_16](start_span)[span_16](end_span)",
-      "b": "Star, moon, sun",
-      "c": "Line, dot, spiral",
-      "d": "Cube, cone, cylinder"
-    },
-    "answer": "a"
+    "options": [
+      "Circle, square, triangle",
+      "Star, moon, sun",
+      "Line, dot, spiral",
+      "Cube, cone, cylinder"
+    ],
+    "answer": "Circle, square, triangle"
   },
   {
     "question": "What type of pattern goes along edges?",
-    "options": {
-      "a": "Border pattern[span_17](start_span)[span_17](end_span)",
-      "b": "All over pattern[span_18](start_span)[span_18](end_span)",
-      "c": "Random pattern",
-      "d": "Spiral pattern"
-    },
-    "answer": "a"
+    "options": [
+      "Border pattern",
+      "All over pattern",
+      "Random pattern",
+      "Spiral pattern"
+    ],
+    "answer": "Border pattern"
   },
   {
     "question": "What type of pattern covers the whole surface?",
-    "options": {
-      "a": "Border pattern",
-      "b": "All over pattern[span_19](start_span)[span_19](end_span)",
-      "c": "Edge pattern",
-      "d": "Single-line pattern"
-    },
-    "answer": "b"
+    "options": [
+      "Border pattern",
+      "All over pattern",
+      "Edge pattern",
+      "Single-line pattern"
+    ],
+    "answer": "All over pattern"
   },
   {
     "question": "According to the notes, design is also a plan for...",
-    "options": {
-      "a": "decoration[span_20](start_span)[span_20](end_span)",
-      "b": "construction",
-      "c": "building houses",
-      "d": "sewing clothes"
-    },
-    "answer": "a"
+    "options": [
+      "decoration",
+      "construction",
+      "building houses",
+      "sewing clothes"
+    ],
+    "answer": "decoration"
   },
   {
     "question": "Which of these is included under the features of shapes?",
-    "options": {
-      "a": "Unique[span_21](start_span)[span_21](end_span)",
-      "b": "Bright",
-      "c": "Heavy",
-      "d": "Rough"
-    },
-    "answer": "a"
+    "options": [
+      "Unique",
+      "Bright",
+      "Heavy",
+      "Rough"
+    ],
+    "answer": "Unique"
   }
 ]

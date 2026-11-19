@@ -1,202 +1,202 @@
 [
   {
     "question": "According to the notes, art is a creative expression of ideas, feelings, and imagination through the creation of...",
-    "options": {
-      "a": "beautiful and meaningful works",
-      "b": "heavy stone blocks",
-      "c": "noisy machine sounds",
-      "d": "blank paper sheets"
-    },
-    "answer": "a"
+    "options": [
+      "Beautiful and meaningful works",
+      "Heavy stone blocks",
+      "Noisy machine sounds",
+      "Blank paper sheets"
+    ],
+    "answer": "Beautiful and meaningful works"
   },
   {
     "question": "Art is also described as the creation of our innermost mind of...",
-    "options": {
-      "a": "creativity",
-      "b": "confusion",
-      "c": "silence",
-      "d": "darkness"
-    },
-    "answer": "a"
+    "options": [
+      "Creativity",
+      "Confusion",
+      "Silence",
+      "Darkness"
+    ],
+    "answer": "Creativity"
   },
   {
     "question": "Which of the following is listed as a branch of art?",
-    "options": {
-      "a": "Literacy Arts",
-      "b": "Mathematical Arts",
-      "c": "Scientific Arts",
-      "d": "Historical Arts"
-    },
-    "answer": "a"
+    "options": [
+      "Literacy Arts",
+      "Mathematical Arts",
+      "Scientific Arts",
+      "Historical Arts"
+    ],
+    "answer": "Literacy Arts"
   },
   {
     "question": "Which of the following is an example under Visual Arts?",
-    "options": {
-      "a": "Mosaic",
-      "b": "Poetry",
-      "c": "Folktales",
-      "d": "Music"
-    },
-    "answer": "a"
+    "options": [
+      "Mosaic",
+      "Poetry",
+      "Folktales",
+      "Music"
+    ],
+    "answer": "Mosaic"
   },
   {
     "question": "Which of the following is an example under Performing Arts?",
-    "options": {
-      "a": "Drama",
-      "b": "Drawing",
-      "c": "Ceramics",
-      "d": "Textile"
-    },
-    "answer": "a"
+    "options": [
+      "Drama",
+      "Drawing",
+      "Ceramics",
+      "Textile"
+    ],
+    "answer": "Drama"
   },
   {
     "question": "Poetry, folktales, and proverbs fall under which branch of art?",
-    "options": {
-      "a": "Literacy Arts",
-      "b": "Visual Arts",
-      "c": "Performing Arts",
-      "d": "Industrial Arts"
-    },
-    "answer": "a"
+    "options": [
+      "Literacy Arts",
+      "Visual Arts",
+      "Performing Arts",
+      "Industrial Arts"
+    ],
+    "answer": "Literacy Arts"
   },
   {
     "question": "When mixing colours, Red + Yellow gives you...",
-    "options": {
-      "a": "Orange",
-      "b": "Green",
-      "c": "Purple",
-      "d": "Blue"
-    },
-    "answer": "a"
+    "options": [
+      "Orange",
+      "Green",
+      "Purple",
+      "Blue"
+    ],
+    "answer": "Orange"
   },
   {
     "question": "When mixing Red + Blue, what colour do you get?",
-    "options": {
-      "a": "Purple",
-      "b": "Orange",
-      "c": "Yellow",
-      "d": "Green"
-    },
-    "answer": "a"
+    "options": [
+      "Purple",
+      "Orange",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Purple"
   },
   {
     "question": "How is a shape defined in the notes?",
-    "options": {
-      "a": "A flat area with two dimensions (length and width)",
-      "b": "An object with three dimensions including height",
-      "c": "The empty area around an object",
-      "d": "How a surface feels when touched"
-    },
-    "answer": "a"
+    "options": [
+      "A flat area with two dimensions (length and width)",
+      "An object with three dimensions including height",
+      "The empty area around an object",
+      "How a surface feels when touched"
+    ],
+    "answer": "A flat area with two dimensions (length and width)"
   },
   {
     "question": "Which of the following is an example of a shape?",
-    "options": {
-      "a": "Circle",
-      "b": "Ball",
-      "c": "Box",
-      "d": "Pot"
-    },
-    "answer": "a"
+    "options": [
+      "Circle",
+      "Ball",
+      "Box",
+      "Pot"
+    ],
+    "answer": "Circle"
   },
   {
     "question": "How is form defined in the notes?",
-    "options": {
-      "a": "A shape that has three dimensions (length, width, and height)",
-      "b": "A flat surface with only length",
-      "c": "A completely invisible line",
-      "d": "A mix of primary colours"
-    },
-    "answer": "a"
+    "options": [
+      "A shape that has three dimensions (length, width, and height)",
+      "A flat surface with only length",
+      "A completely invisible line",
+      "A mix of primary colours"
+    ],
+    "answer": "A shape that has three dimensions (length, width, and height)"
   },
   {
     "question": "Which of the following is an example of form?",
-    "options": {
-      "a": "Pot",
-      "b": "Square",
-      "c": "Triangle",
-      "d": "Rectangle"
-    },
-    "answer": "a"
+    "options": [
+      "Pot",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "answer": "Pot"
   },
   {
     "question": "What does texture refer to?",
-    "options": {
-      "a": "How a surface feels",
-      "b": "How light or dark a colour is",
-      "c": "The empty area around an object",
-      "d": "The height of a 3D object"
-    },
-    "answer": "a"
+    "options": [
+      "How a surface feels",
+      "How light or dark a colour is",
+      "The empty area around an object",
+      "The height of a 3D object"
+    ],
+    "answer": "How a surface feels"
   },
   {
     "question": "Textures can be rough, smooth, soft, or...",
-    "options": {
-      "a": "hard",
-      "b": "bright",
-      "c": "loud",
-      "d": "sweet"
-    },
-    "answer": "a"
+    "options": [
+      "Hard",
+      "Bright",
+      "Loud",
+      "Sweet"
+    ],
+    "answer": "Hard"
   },
   {
     "question": "What is space defined as in a drawing?",
-    "options": {
-      "a": "The empty area around an object",
-      "b": "The weight of the paper",
-      "c": "The brightness of the paint",
-      "d": "The shape of a container"
-    },
-    "answer": "a"
+    "options": [
+      "The empty area around an object",
+      "The weight of the paper",
+      "The brightness of the paint",
+      "The shape of a container"
+    ],
+    "answer": "The empty area around an object"
   },
   {
     "question": "What does space help us know in a drawing?",
-    "options": {
-      "a": "What is near and what is far",
-      "b": "What colour is primary or secondary",
-      "c": "What is rough or smooth",
-      "d": "What is 2D or 3D"
-    },
-    "answer": "a"
+    "options": [
+      "What is near and what is far",
+      "What colour is primary or secondary",
+      "What is rough or smooth",
+      "What is 2D or 3D"
+    ],
+    "answer": "What is near and what is far"
   },
   {
     "question": "What does value refer to?",
-    "options": {
-      "a": "How light or dark a colour is",
-      "b": "How heavy an object is",
-      "c": "How loud a performance is",
-      "d": "How wide a shape is"
-    },
-    "answer": "a"
+    "options": [
+      "How light or dark a colour is",
+      "How heavy an object is",
+      "How loud a performance is",
+      "How wide a shape is"
+    ],
+    "answer": "How light or dark a colour is"
   },
   {
     "question": "Adding white to a colour makes the colour...",
-    "options": {
-      "a": "lighter",
-      "b": "darker",
-      "c": "heavier",
-      "d": "rougher"
-    },
-    "answer": "a"
+    "options": [
+      "Lighter",
+      "Darker",
+      "Heavier",
+      "Rougher"
+    ],
+    "answer": "Lighter"
   },
   {
     "question": "Adding black to a colour makes it...",
-    "options": {
-      "a": "darker",
-      "b": "lighter",
-      "c": "brighter",
-      "d": "softer"
-    },
-    "answer": "a"
+    "options": [
+      "Darker",
+      "Lighter",
+      "Brighter",
+      "Softer"
+    ],
+    "answer": "Darker"
   },
   {
     "question": "Which of these is listed as an example of Visual Arts alongside painting, sculpture, textile, drawing, and ceramics?",
-    "options": {
-      "a": "Mosaic",
-      "b": "Poetry",
-      "c": "Folktales",
-      "d": "Proverbs"
-    },
-    "answer": "a"
+    "options": [
+      "Mosaic",
+      "Poetry",
+      "Folktales",
+      "Proverbs"
+    ],
+    "answer": "Mosaic"
   }
 ]

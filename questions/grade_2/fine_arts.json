@@ -1,202 +1,202 @@
 [
   {
     "question": "Art is defined as the creation of beautiful things with our...",
-    "options": {
-      "a": "legs",
-      "b": "hands",
-      "c": "mouth",
-      "d": "ears"
-    },
-    "answer": "b"
+    "options": [
+      "legs",
+      "hands",
+      "mouth",
+      "ears"
+    ],
+    "answer": "hands"
   },
   {
     "question": "How many main types of art are there?",
-    "options": {
-      "a": "One",
-      "b": "Two",
-      "c": "Three",
-      "d": "Four"
-    },
-    "answer": "b"
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
   },
   {
     "question": "Which of the following is an example of visual art?",
-    "options": {
-      "a": "Music",
-      "b": "Dance",
-      "c": "Drawing",
-      "d": "Drama"
-    },
-    "answer": "c"
+    "options": [
+      "Music",
+      "Dance",
+      "Drawing",
+      "Drama"
+    ],
+    "answer": "Drawing"
   },
   {
     "question": "Performing art is art we do with our...",
-    "options": {
-      "a": "eyes only",
-      "b": "body",
-      "c": "hands only",
-      "d": "nose"
-    },
-    "answer": "b"
+    "options": [
+      "eyes only",
+      "body",
+      "hands only",
+      "nose"
+    ],
+    "answer": "body"
   },
   {
     "question": "Which of the following is an example of performing art?",
-    "options": {
-      "a": "Painting",
-      "b": "Modelling with clay",
-      "c": "Paper craft",
-      "d": "Music"
-    },
-    "answer": "d"
+    "options": [
+      "Painting",
+      "Modelling with clay",
+      "Paper craft",
+      "Music"
+    ],
+    "answer": "Music"
   },
   {
     "question": "A shape is the form or look of an...",
-    "options": {
-      "a": "object",
-      "b": "animal only",
-      "c": "idea",
-      "d": "emotion"
-    },
-    "answer": "a"
+    "options": [
+      "object",
+      "animal only",
+      "idea",
+      "emotion"
+    ],
+    "answer": "object"
   },
   {
     "question": "Which of the following is NOT listed as a type of shape in the notes?",
-    "options": {
-      "a": "Circle",
-      "b": "Square",
-      "c": "Trapezium",
-      "d": "Star"
-    },
-    "answer": "c"
+    "options": [
+      "Circle",
+      "Square",
+      "Trapezium",
+      "Star"
+    ],
+    "answer": "Trapezium"
   },
   {
     "question": "A design is the arrangement of shapes, lines, and...",
-    "options": {
-      "a": "water",
-      "b": "colours",
-      "c": "stone",
-      "d": "books"
-    },
-    "answer": "b"
+    "options": [
+      "water",
+      "colours",
+      "stone",
+      "books"
+    ],
+    "answer": "colours"
   },
   {
     "question": "What is paper craft?",
-    "options": {
-      "a": "The art of making useful and beautiful objects with paper using hands and simple tools",
-      "b": "The art of singing songs",
-      "c": "The art of running fast",
-      "d": "The art of cooking food"
-    },
-    "answer": "a"
+    "options": [
+      "The art of making useful and beautiful objects with paper using hands and simple tools",
+      "The art of singing songs",
+      "The art of running fast",
+      "The art of cooking food"
+    ],
+    "answer": "The art of making useful and beautiful objects with paper using hands and simple tools"
   },
   {
     "question": "Which of the following is an example of paper craft?",
-    "options": {
-      "a": "Paper fan",
-      "b": "Iron chair",
-      "c": "Plastic spoon",
-      "d": "Wooden table"
-    },
-    "answer": "a"
+    "options": [
+      "Paper fan",
+      "Iron chair",
+      "Plastic spoon",
+      "Wooden table"
+    ],
+    "answer": "Paper fan"
   },
   {
     "question": "Which of these is a material needed in paper crafts?",
-    "options": {
-      "a": "Sand",
-      "b": "Scissors",
-      "c": "Cement",
-      "d": "Broken glass"
-    },
-    "answer": "b"
+    "options": [
+      "Sand",
+      "Scissors",
+      "Cement",
+      "Broken glass"
+    ],
+    "answer": "Scissors"
   },
   {
     "question": "Drawing is making pictures with a...",
-    "options": {
-      "a": "brush only",
-      "b": "pencil",
-      "c": "pen only",
-      "d": "chalk"
-    },
-    "answer": "b"
+    "options": [
+      "brush only",
+      "pencil",
+      "pen only",
+      "chalk"
+    ],
+    "answer": "pencil"
   },
   {
     "question": "Colouring is adding colour to our drawing to make it...",
-    "options": {
-      "a": "dirty",
-      "b": "beautiful",
-      "c": "heavy",
-      "d": "invisible"
-    },
-    "answer": "b"
+    "options": [
+      "dirty",
+      "beautiful",
+      "heavy",
+      "invisible"
+    ],
+    "answer": "beautiful"
   },
   {
     "question": "When colouring, we should colour in...",
-    "options": {
-      "a": "all directions randomly",
-      "b": "one direction",
-      "c": "circles only",
-      "d": "zig-zags everywhere"
-    },
-    "answer": "b"
+    "options": [
+      "all directions randomly",
+      "one direction",
+      "circles only",
+      "zig-zags everywhere"
+    ],
+    "answer": "one direction"
   },
   {
     "question": "What should you avoid doing when colouring?",
-    "options": {
-      "a": "Making it neat",
-      "b": "Choosing correct colours",
-      "c": "Going outside the lines",
-      "d": "Colouring in one direction"
-    },
-    "answer": "c"
+    "options": [
+      "Making it neat",
+      "Choosing correct colours",
+      "Going outside the lines",
+      "Colouring in one direction"
+    ],
+    "answer": "Going outside the lines"
   },
   {
     "question": "Art helps us to show our...",
-    "options": {
-      "a": "shoes and socks",
-      "b": "feelings and ideas",
-      "c": "homework",
-      "d": "school uniform"
-    },
-    "answer": "b"
+    "options": [
+      "shoes and socks",
+      "feelings and ideas",
+      "homework",
+      "school uniform"
+    ],
+    "answer": "feelings and ideas"
   },
   {
     "question": "Which of these is a use of art?",
-    "options": {
-      "a": "Making our home and classroom beautiful",
-      "b": "Breaking windows",
-      "c": "Making noise",
-      "d": "Fighting friends"
-    },
-    "answer": "a"
+    "options": [
+      "Making our home and classroom beautiful",
+      "Breaking windows",
+      "Making noise",
+      "Fighting friends"
+    ],
+    "answer": "Making our home and classroom beautiful"
   },
   {
     "question": "The first step in making a paper fan is to cut the paper into what shape?",
-    "options": {
-      "a": "Circular",
-      "b": "Triangular",
-      "c": "Rectangular shape",
-      "d": "Star shape"
-    },
-    "answer": "c"
+    "options": [
+      "Circular",
+      "Triangular",
+      "Rectangular shape",
+      "Star shape"
+    ],
+    "answer": "Rectangular shape"
   },
   {
     "question": "What is colour defined as in the notes?",
-    "options": {
-      "a": "What we hear with our ears",
-      "b": "What we see with our eyes when light shines on an object",
-      "c": "What we taste with our tongue",
-      "d": "What we touch with our skin"
-    },
-    "answer": "b"
+    "options": [
+      "What we hear with our ears",
+      "What we see with our eyes when light shines on an object",
+      "What we taste with our tongue",
+      "What we touch with our skin"
+    ],
+    "answer": "What we see with our eyes when light shines on an object"
   },
   {
     "question": "Which of these is an importance of shapes?",
-    "options": {
-      "a": "Shapes help us to know and name things around us",
-      "b": "Shapes make learning difficult",
-      "c": "Shapes make us sleep",
-      "d": "Shapes help us to run faster"
-    },
-    "answer": "a"
+    "options": [
+      "Shapes help us to know and name things around us",
+      "Shapes make learning difficult",
+      "Shapes make us sleep",
+      "Shapes help us to run faster"
+    ],
+    "answer": "Shapes help us to know and name things around us"
   }
 ]

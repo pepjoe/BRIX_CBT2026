@@ -1,202 +1,202 @@
 [
   {
     "question": "According to the notes, art is the use of our hands to create beautiful and...",
-    "options": {
-      "a": "heavy things",
-      "b": "useful things",
-      "c": "broken things",
-      "d": "invisible things"
-    },
-    "answer": "b"
+    "options": [
+      "Heavy things",
+      "Useful things",
+      "Broken things",
+      "Invisible things"
+    ],
+    "answer": "Useful things"
   },
   {
     "question": "How many main types of art are mentioned in the notes?",
-    "options": {
-      "a": "Two",
-      "b": "Three",
-      "c": "Four",
-      "d": "Five"
-    },
-    "answer": "a"
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Two"
   },
   {
     "question": "Which of the following is an example of Visual Arts?",
-    "options": {
-      "a": "Music",
-      "b": "Dance",
-      "c": "Sculpture",
-      "d": "Drama/Acting"
-    },
-    "answer": "c"
+    "options": [
+      "Music",
+      "Dance",
+      "Sculpture",
+      "Drama/Acting"
+    ],
+    "answer": "Sculpture"
   },
   {
     "question": "Non-Visual Arts or Performing Arts is art we hear and watch as...",
-    "options": {
-      "a": "a performance",
-      "b": "a painting",
-      "c": "a ceramic pot",
-      "d": "a textile design"
-    },
-    "answer": "a"
+    "options": [
+      "A performance",
+      "A painting",
+      "A ceramic pot",
+      "A textile design"
+    ],
+    "answer": "A performance"
   },
   {
     "question": "Which of the following is listed as a use of art?",
-    "options": {
-      "a": "For decoration and beautification of our homes, schools, and bodies",
-      "b": "For making classrooms noisy",
-      "c": "For breaking furniture",
-      "d": "For hiding our feelings"
-    },
-    "answer": "a"
+    "options": [
+      "For decoration and beautification of our homes, schools, and bodies",
+      "For making classrooms noisy",
+      "For breaking furniture",
+      "For hiding our feelings"
+    ],
+    "answer": "For decoration and beautification of our homes, schools, and bodies"
   },
   {
     "question": "Art helps us express our feelings under which use?",
-    "options": {
-      "a": "For communication",
-      "b": "For entertainment",
-      "c": "For education",
-      "d": "For decoration"
-    },
-    "answer": "a"
+    "options": [
+      "For communication",
+      "For entertainment",
+      "For education",
+      "For decoration"
+    ],
+    "answer": "For communication"
   },
   {
     "question": "What is natural drawing defined as?",
-    "options": {
-      "a": "Drawing both living things and non-living things provided by nature",
-      "b": "Drawing only buildings and cars",
-      "c": "Drawing machines and factories",
-      "d": "Drawing imaginary monsters"
-    },
-    "answer": "a"
+    "options": [
+      "Drawing both living things and non-living things provided by nature",
+      "Drawing only buildings and cars",
+      "Drawing machines and factories",
+      "Drawing imaginary monsters"
+    ],
+    "answer": "Drawing both living things and non-living things provided by nature"
   },
   {
     "question": "Natural drawing helps us to create effects thereby helping us to...",
-    "options": {
-      "a": "appreciate nature",
-      "b": "destroy the environment",
-      "c": "pollute the air",
-      "d": "build houses"
-    },
-    "answer": "a"
+    "options": [
+      "Appreciate nature",
+      "Destroy the environment",
+      "Pollute the air",
+      "Build houses"
+    ],
+    "answer": "Appreciate nature"
   },
   {
     "question": "Which of the following is an example of a natural object for drawing?",
-    "options": {
-      "a": "Flowers",
-      "b": "Plastic spoons",
-      "c": "Televisions",
-      "d": "Cars"
-    },
-    "answer": "a"
+    "options": [
+      "Flowers",
+      "Plastic spoons",
+      "Televisions",
+      "Cars"
+    ],
+    "answer": "Flowers"
   },
   {
     "question": "What does the environment consist of?",
-    "options": {
-      "a": "All physical things we can see and touch in our surroundings",
-      "b": "Only things inside a classroom",
-      "c": "Only things in outer space",
-      "d": "Only imaginary dreams"
-    },
-    "answer": "a"
+    "options": [
+      "All physical things we can see and touch in our surroundings",
+      "Only things inside a classroom",
+      "Only things in outer space",
+      "Only imaginary dreams"
+    ],
+    "answer": "All physical things we can see and touch in our surroundings"
   },
   {
     "question": "Animals that live with us in our environment and are kept at home are called...",
-    "options": {
-      "a": "domestic or farm animals",
-      "b": "wild animals",
-      "c": "dangerous monsters",
-      "d": "invisible creatures"
-    },
-    "answer": "a"
+    "options": [
+      "Domestic or farm animals",
+      "Wild animals",
+      "Dangerous monsters",
+      "Invisible creatures"
+    ],
+    "answer": "Domestic or farm animals"
   },
   {
     "question": "Which of these animals is reared to get things like eggs, leather, milk, and meat?",
-    "options": {
-      "a": "Goats and cows",
-      "b": "Lizards and rats",
-      "c": "Birds in the wild",
-      "d": "Wild lions"
-    },
-    "answer": "a"
+    "options": [
+      "Goats and cows",
+      "Lizards and rats",
+      "Birds in the wild",
+      "Wild lions"
+    ],
+    "answer": "Goats and cows"
   },
   {
     "question": "What is landscape drawing?",
-    "options": {
-      "a": "The art of drawing a large expanse of land and scenery showing hills, villages, trees, rivers, and houses",
-      "b": "The art of drawing only a single flower close up",
-      "c": "The art of sewing clothes",
-      "d": "The art of moulding clay pots"
-    },
-    "answer": "a"
+    "options": [
+      "The art of drawing a large expanse of land and scenery showing hills, villages, trees, rivers, and houses",
+      "The art of drawing only a single flower close up",
+      "The art of sewing clothes",
+      "The art of moulding clay pots"
+    ],
+    "answer": "The art of drawing a large expanse of land and scenery showing hills, villages, trees, rivers, and houses"
   },
   {
     "question": "Which type of landscape shows only natural things like hills, rivers, and forests without buildings?",
-    "options": {
-      "a": "Natural landscape",
-      "b": "Rural landscape",
-      "c": "Urban/city landscape",
-      "d": "Seascape"
-    },
-    "answer": "a"
+    "options": [
+      "Natural landscape",
+      "Rural landscape",
+      "Urban/city landscape",
+      "Seascape"
+    ],
+    "answer": "Natural landscape"
   },
   {
     "question": "A landscape that shows town/city with storey buildings, roads, cars, and factories is called...",
-    "options": {
-      "a": "urban/city landscape",
-      "b": "natural landscape",
-      "c": "rural landscape",
-      "d": "seascape"
-    },
-    "answer": "a"
+    "options": [
+      "Urban/city landscape",
+      "Natural landscape",
+      "Rural landscape",
+      "Seascape"
+    ],
+    "answer": "Urban/city landscape"
   },
   {
     "question": "What does a seascape show?",
-    "options": {
-      "a": "Sea, ocean, beach, boats",
-      "b": "Tall mountains and forests",
-      "c": "Village huts and farm lands",
-      "d": "Factory chimneys and cars"
-    },
-    "answer": "a"
+    "options": [
+      "Sea, ocean, beach, boats",
+      "Tall mountains and forests",
+      "Village huts and farmlands",
+      "Factory chimneys and cars"
+    ],
+    "answer": "Sea, ocean, beach, boats"
   },
   {
     "question": "Paper crafts is the art of making beautiful and useful objects with paper using hands and simple tools like...",
-    "options": {
-      "a": "scissors, gum and ruler",
-      "b": "hammers and nails",
-      "c": "paint and brushes",
-      "d": "clay and water"
-    },
-    "answer": "a"
+    "options": [
+      "Scissors, gum and ruler",
+      "Hammers and nails",
+      "Paint and brushes",
+      "Clay and water"
+    ],
+    "answer": "Scissors, gum and ruler"
   },
   {
     "question": "Which of the following is listed as a type of paper craft?",
-    "options": {
-      "a": "Paper fan",
-      "b": "Clay pot",
-      "c": "Wooden stool",
-      "d": "Cloth shoe"
-    },
-    "answer": "a"
+    "options": [
+      "Paper fan",
+      "Clay pot",
+      "Wooden stool",
+      "Cloth shoe"
+    ],
+    "answer": "Paper fan"
   },
   {
     "question": "People make and sell paper crafts to get...",
-    "options": {
-      "a": "income",
-      "b": "trouble",
-      "c": "tired",
-      "d": "punished"
-    },
-    "answer": "a"
+    "options": [
+      "Income",
+      "Trouble",
+      "Tired",
+      "Punished"
+    ],
+    "answer": "Income"
   },
   {
     "question": "Which paper craft is mentioned as used for cultural and festival use (e.g., during festivities)?",
-    "options": {
-      "a": "Kites",
-      "b": "Desks",
-      "c": "Stools",
-      "d": "Shoes"
-    },
-    "answer": "a"
+    "options": [
+      "Kites",
+      "Desks",
+      "Stools",
+      "Shoes"
+    ],
+    "answer": "Kites"
   }
 ]
